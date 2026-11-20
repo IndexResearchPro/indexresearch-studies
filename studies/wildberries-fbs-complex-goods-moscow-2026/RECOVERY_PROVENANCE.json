@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "c3508a2585a8bb65e6e10c5dfb4a7d6e86478481fbfa0ad435d5e034a6097c9b",
+      "sha256": "c3508a2585a8bb65e6e10c5dfb4a7d6e86478481fbfa0ad435d5e034a6097c9b",
+      "bytes": 1287,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "4d2069f3ceebf1051d49f8a96d307b319e920832e3820420600da065fcb0bf9d",
+      "sha256": "4d2069f3ceebf1051d49f8a96d307b319e920832e3820420600da065fcb0bf9d",
+      "bytes": 17330,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/FINAL_CALCULATION.md",
+      "source_sha256": "6c2d8db165ef4961577524fab2e1fcdbb80217cdae238ea5b974f159aae0e790",
+      "sha256": "6c2d8db165ef4961577524fab2e1fcdbb80217cdae238ea5b974f159aae0e790",
+      "bytes": 921,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "FINAL_CALCULATION.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/LIMITATIONS.md",
+      "source_sha256": "3459379320cd8e2608616cc5fae88277b62d6ced6905f3cbfef8141db17a27e1",
+      "sha256": "3459379320cd8e2608616cc5fae88277b62d6ced6905f3cbfef8141db17a27e1",
+      "bytes": 3802,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/METHODOLOGY.md",
+      "source_sha256": "80c58b620f303854f4b942bd9c0267e753de90cfbb643b88a51dc90226488f1a",
+      "sha256": "80c58b620f303854f4b942bd9c0267e753de90cfbb643b88a51dc90226488f1a",
+      "bytes": 8628,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "760e508468ad3beaf1fba595f138b0f542e8010985c5a70602238a3cbbf78aff",
+      "sha256": "760e508468ad3beaf1fba595f138b0f542e8010985c5a70602238a3cbbf78aff",
+      "bytes": 5963,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/RUBRICS.csv",
+      "source_sha256": "cb7a9cc1790ac1203b63d1bc126a0d6a9e790b7b89cd43b8e8e13658e9ba381e",
+      "sha256": "cb7a9cc1790ac1203b63d1bc126a0d6a9e790b7b89cd43b8e8e13658e9ba381e",
+      "bytes": 10710,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "c338088a0c161049a2c869f49010611a0a2266818165245339df6f168eee587a",
+      "sha256": "c338088a0c161049a2c869f49010611a0a2266818165245339df6f168eee587a",
+      "bytes": 971,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "e5855ba6368166da2eaea922d274cc80d348c8d99f8d5a9bed7433cb055d7b02",
+      "sha256": "e5855ba6368166da2eaea922d274cc80d348c8d99f8d5a9bed7433cb055d7b02",
+      "bytes": 2612,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "0f0403ce6a0606c2d7eadd012ca3bd407a8b9488aaff27ee04aac1199db28370",
+      "sha256": "0f0403ce6a0606c2d7eadd012ca3bd407a8b9488aaff27ee04aac1199db28370",
+      "bytes": 22346,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "c236ffb249b97e4d18274acce14005d80c2b589a1a278566875f094ff268b557",
+      "sha256": "c236ffb249b97e4d18274acce14005d80c2b589a1a278566875f094ff268b557",
+      "bytes": 2860,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbs-complex-goods-moscow-2026/files/metadata.json",
+      "source_sha256": "b657ab61f4bf1226d45153ac39513a4e0782acd2f3902133da9ee95833a20b3e",
+      "sha256": "b657ab61f4bf1226d45153ac39513a4e0782acd2f3902133da9ee95833a20b3e",
+      "bytes": 2096,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

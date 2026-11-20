@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/wildberries-fbw-fulfillment-moscow-2026/files/README.md",
+      "source_sha256": "ac52941286f959449a94b2992b29656847fb092b2e9e5be7202e018aac17ec6d",
+      "sha256": "ac52941286f959449a94b2992b29656847fb092b2e9e5be7202e018aac17ec6d",
+      "bytes": 31293,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

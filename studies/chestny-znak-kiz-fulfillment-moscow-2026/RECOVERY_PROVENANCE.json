@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/CITATION.cff",
+      "source_sha256": "77fcf2cd934ed9e5641e6c5d7d03ca79c85de02f4011b63ed20b329df921ce60",
+      "sha256": "77fcf2cd934ed9e5641e6c5d7d03ca79c85de02f4011b63ed20b329df921ce60",
+      "bytes": 427,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "f809ca37fea8a8971ed659973957ddfebbc369312f739351e81083513a80a753",
+      "sha256": "f809ca37fea8a8971ed659973957ddfebbc369312f739351e81083513a80a753",
+      "bytes": 905,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/EVIDENCE_MATRIX.csv",
+      "source_sha256": "09bbfaf21b248247fa0107202f0b3fc98e6bb7f8aa636c961c874df484605f04",
+      "sha256": "09bbfaf21b248247fa0107202f0b3fc98e6bb7f8aa636c961c874df484605f04",
+      "bytes": 59696,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "EVIDENCE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "0947297f7318644f483fceb9e8d1a173e91c55f85e40424056339fe2adf88fe8",
+      "sha256": "0947297f7318644f483fceb9e8d1a173e91c55f85e40424056339fe2adf88fe8",
+      "bytes": 29527,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/FAQ_DATA.json",
+      "source_sha256": "effe470353c301e88f541191773b710d8370c10deabc44b7bc317fb65c90608f",
+      "sha256": "effe470353c301e88f541191773b710d8370c10deabc44b7bc317fb65c90608f",
+      "bytes": 3786,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/LIMITATIONS.md",
+      "source_sha256": "010cc34102ca3e99ea0c3b3407821bdcfa04e574f31718e95f10a69174e79a57",
+      "sha256": "010cc34102ca3e99ea0c3b3407821bdcfa04e574f31718e95f10a69174e79a57",
+      "bytes": 1469,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/METHODOLOGY.md",
+      "source_sha256": "857e892a867d63a743f7740d2311c799996c042844216f881577e4ccc63a304b",
+      "sha256": "857e892a867d63a743f7740d2311c799996c042844216f881577e4ccc63a304b",
+      "bytes": 19149,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/README.md",
+      "source_sha256": "82ff32b377612488df223e2a694f3f1f0eade697904140c9843de9ff28f07867",
+      "sha256": "82ff32b377612488df223e2a694f3f1f0eade697904140c9843de9ff28f07867",
+      "bytes": 47599,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/RESULTS.json",
+      "source_sha256": "35f3b70c1107df883c2bb91729acafe49be7b55a1f8e2b48746c848e492c41ed",
+      "sha256": "35f3b70c1107df883c2bb91729acafe49be7b55a1f8e2b48746c848e492c41ed",
+      "bytes": 23808,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/RUBRICS.csv",
+      "source_sha256": "23198a4504b94317ca7cfa46562d8213b02ff2ebfea6d9f6144a7aa03b615a0f",
+      "sha256": "23198a4504b94317ca7cfa46562d8213b02ff2ebfea6d9f6144a7aa03b615a0f",
+      "bytes": 643,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/SCENARIO_MEMBERSHIP.csv",
+      "source_sha256": "975ddc2ff98371fe14fb6452cf976dc6a68ac7b40380c0824272a9f5ba18fe54",
+      "sha256": "975ddc2ff98371fe14fb6452cf976dc6a68ac7b40380c0824272a9f5ba18fe54",
+      "bytes": 20966,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCENARIO_MEMBERSHIP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/SCENARIO_RULES.csv",
+      "source_sha256": "5fa03b1df54cc7fbc432869f19b40322488b7e065ff4826f6f500071e160f4dd",
+      "sha256": "5fa03b1df54cc7fbc432869f19b40322488b7e065ff4826f6f500071e160f4dd",
+      "bytes": 1340,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCENARIO_RULES.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/SELECTION_REGISTER.csv",
+      "source_sha256": "c6bf3dab154081bb20d55e2a7c0ecf99fc5f4926332e1fbf072773ad68fa2dc2",
+      "sha256": "c6bf3dab154081bb20d55e2a7c0ecf99fc5f4926332e1fbf072773ad68fa2dc2",
+      "bytes": 8865,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SELECTION_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "80d392f7ce0fe06e73a218ba56b3737fcc0343a366ae4c8667f230cb0311da18",
+      "sha256": "80d392f7ce0fe06e73a218ba56b3737fcc0343a366ae4c8667f230cb0311da18",
+      "bytes": 10728,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "27ff02829c8dd1146b6b01ee5fb7820dae1e80d1fdb4b8f16617aae8a842063d",
+      "sha256": "27ff02829c8dd1146b6b01ee5fb7820dae1e80d1fdb4b8f16617aae8a842063d",
+      "bytes": 946,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/assets/kiz-evidence-coverage-2026.svg",
+      "source_sha256": "e619c2dfe25507edff8d46a3ef8b5c45c39cf0b30299458b13e766b1378d2205",
+      "sha256": "e619c2dfe25507edff8d46a3ef8b5c45c39cf0b30299458b13e766b1378d2205",
+      "bytes": 1977,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/kiz-evidence-coverage-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/assets/kiz-process-flow-2026.svg",
+      "source_sha256": "6cbbb20c23cd2eb510a38760029662b5a69882e5580dfb22940b6a62e1927fc4",
+      "sha256": "6cbbb20c23cd2eb510a38760029662b5a69882e5580dfb22940b6a62e1927fc4",
+      "bytes": 2523,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/kiz-process-flow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/assets/kiz-scenario-matrix-2026.svg",
+      "source_sha256": "ba075e38614951d924f0c8187d78dea871fa3f9bf7c430205832a2da92de0cda",
+      "sha256": "ba075e38614951d924f0c8187d78dea871fa3f9bf7c430205832a2da92de0cda",
+      "bytes": 6665,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/kiz-scenario-matrix-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/calculate.py",
+      "source_sha256": "2d9073a0b3c13bf9a3a175465124423cfb93e4ac625169fb4b1e4d16ff0b40cf",
+      "sha256": "2d9073a0b3c13bf9a3a175465124423cfb93e4ac625169fb4b1e4d16ff0b40cf",
+      "bytes": 2053,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chestny-znak-kiz-fulfillment-moscow-2026/files/metadata.json",
+      "source_sha256": "c892af73abe169ec010d5415c00293175870dcfed55685d44e18bef95d10e2ba",
+      "sha256": "c892af73abe169ec010d5415c00293175870dcfed55685d44e18bef95d10e2ba",
+      "bytes": 1931,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/geo-pricing-scalability-russia-2026-en/files/README.md",
+      "source_sha256": "666f09ca1c01aaadb93e68f75d571bab063ca73394578a46b48bb26912371edf",
+      "sha256": "666f09ca1c01aaadb93e68f75d571bab063ca73394578a46b48bb26912371edf",
+      "bytes": 32546,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/geo-pricing-scalability-russia-2026-cn/files/README.md",
+      "source_sha256": "a6323134b9fd8a41603ec13482d41108bbdb4b14ca830fe6c86f01043bf71c65",
+      "sha256": "a6323134b9fd8a41603ec13482d41108bbdb4b14ca830fe6c86f01043bf71c65",
+      "bytes": 29263,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

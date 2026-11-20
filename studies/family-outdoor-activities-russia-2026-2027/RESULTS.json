@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "title": "Активный отдых с детьми на природе: 15 форматов для 5 семейных сценариев, Россия, 2026–2027",
+    "publisher": "IndexResearch",
+    "project": "Спортивное Ориентирование",
+    "research_id": "family-outdoor-activities-russia-2026-2027",
+    "register_topic_id": "ORIENT-T008",
+    "version": "2.0.0",
+    "status": "PUBLISH_APPROVED_NOT_YET_RELEASED",
+    "publicationDecision": "PUBLISH",
+    "designFrozenAt": "2026-11-16T01:08:05+03:00",
+    "finalEvidenceReviewDate": "2026-11-16",
+    "releaseDate": "",
+    "dataCutoff": "2026-11-16",
+    "geography": "Россия",
+    "ageRange": "8–14 лет",
+    "durationMinutesMin": 30,
+    "durationMinutesMax": 240,
+    "method": "5 scenario classifications; categories are nominal, not rankable",
+    "statusDefinitions": [
+      "DIRECT",
+      "CONDITIONAL",
+      "NOT_PRIMARY",
+      "UNVERIFIED"
+    ],
+    "scenarios": [
+      {
+        "id": "S1",
+        "name": "Простой первый выход"
+      },
+      {
+        "id": "S2",
+        "name": "Карта, маршрут и поиск"
+      },
+      {
+        "id": "S3",
+        "name": "Изучение природы"
+      },
+      {
+        "id": "S4",
+        "name": "Приключение с организатором"
+      },
+      {
+        "id": "S5",
+        "name": "Регулярное семейное движение"
+      }
+    ],
+    "commercialRelationship": "Social editorial project; no participant funding, per project owner",
+    "editorialControl": "IndexResearch; no external independent review claimed",
+    "noOverallRanking": true
+  },
+  "methodology": {
+    "type": "SCENARIO_BENCHMARK",
+    "nominalStatuses": [
+      "CONDITIONAL",
+      "DIRECT",
+      "NOT_PRIMARY",
+      "UNVERIFIED"
+    ],
+    "noNumericScores": true,
+    "noOverallWinner": true
+  },
+  "items": [
+    {
+      "candidate_id": "C01",
+      "name": "Семейное учебное спортивное ориентирование",
+      "organization": "организованный старт / учебная дистанция",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "DIRECT",
+        "S3": "NOT_PRIMARY",
+        "S4": "CONDITIONAL",
+        "S5": "DIRECT"
+      },
+      "sources": [
+        "S003",
+        "S059",
+        "S060"
+      ],
+      "limitations": "Возрастная группа, учебная дистанция и сопровождение только по конкретному положению; разметка и карта обязательны."
+    },
+    {
+      "candidate_id": "C02",
+      "name": "Простой однодневный пеший маршрут",
+      "organization": "самостоятельный выход",
+      "scenarioTags": {
+        "S1": "DIRECT",
+        "S2": "CONDITIONAL",
+        "S3": "CONDITIONAL",
+        "S4": "NOT_PRIMARY",
+        "S5": "DIRECT"
+      },
+      "sources": [
+        "S015",
+        "S057"
+      ],
+      "limitations": "Условия возврата, рельеф и продолжительность определяют взрослые; не включать технические походы."
+    },
+    {
+      "candidate_id": "C03",
+      "name": "Короткий семейный рогейн",
+      "organization": "организованная командная программа",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "DIRECT",
+        "S3": "NOT_PRIMARY",
+        "S4": "CONDITIONAL",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S004",
+        "S056"
+      ],
+      "limitations": "Допустим только подтвержденный короткий 2–4-часовой семейный формат, возрастной допуск и взрослый в команде; не переносить условия чемпионатов."
+    },
+    {
+      "candidate_id": "C04",
+      "name": "Геокешинг с доступными тайниками",
+      "organization": "самостоятельный поиск по координатам",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "DIRECT",
+        "S3": "CONDITIONAL",
+        "S4": "NOT_PRIMARY",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S005"
+      ],
+      "limitations": "Тайник и путь к нему должны быть актуальны; закрытые территории и труднодоступные тайники исключить."
+    },
+    {
+      "candidate_id": "C05",
+      "name": "Экотропа с заданиями",
+      "organization": "самостоятельная или организованная программа",
+      "scenarioTags": {
+        "S1": "DIRECT",
+        "S2": "UNVERIFIED",
+        "S3": "DIRECT",
+        "S4": "CONDITIONAL",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S007",
+        "S015"
+      ],
+      "limitations": "Доступный пример может быть рассчитан преимущественно на младших детей; не переносить на весь возраст 8–14."
+    },
+    {
+      "candidate_id": "C06",
+      "name": "Парковый бег или ходьба на массовом старте",
+      "organization": "массовое мероприятие / самостоятельный пробег",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "NOT_PRIMARY",
+        "S4": "NOT_PRIMARY",
+        "S5": "DIRECT"
+      },
+      "sources": [
+        "S006"
+      ],
+      "limitations": "У «5 верст» 5 км, правила допуска и сопровождения; не обещать, что дистанция подойдет любому ребенку."
+    },
+    {
+      "candidate_id": "C08",
+      "name": "Семейный веломаршрут в лесопарке",
+      "organization": "самостоятельный выход",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "CONDITIONAL",
+        "S3": "NOT_PRIMARY",
+        "S4": "NOT_PRIMARY",
+        "S5": "DIRECT"
+      },
+      "sources": [
+        "S041",
+        "S057"
+      ],
+      "limitations": "Нужны исправные велосипеды, подходящий маршрут и соблюдение ПДД/возрастных ограничений."
+    },
+    {
+      "candidate_id": "C10",
+      "name": "Лыжная прогулка по подготовленной природной трассе",
+      "organization": "самостоятельный или организованный выход",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "NOT_PRIMARY",
+        "S4": "UNVERIFIED",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S050"
+      ],
+      "limitations": "Снег, состояние трассы, опыт и инвентарь; повторяемость сезонная."
+    },
+    {
+      "candidate_id": "C13",
+      "name": "Короткая прогулка на байдарке/каноэ с инструктором",
+      "organization": "организованная водная программа",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "UNVERIFIED",
+        "S4": "DIRECT",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S009",
+        "S028",
+        "S058"
+      ],
+      "limitations": "Только спокойная вода и соответствующий возрасту сопровождаемый формат; спасжилет и условия допуска обязательны."
+    },
+    {
+      "candidate_id": "C15",
+      "name": "Сопровождаемая SUP-прогулка",
+      "organization": "организованная водная программа",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "UNVERIFIED",
+        "S4": "DIRECT",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S043",
+        "S051",
+        "S061"
+      ],
+      "limitations": "Детям разных возрастов доступны разные роли, в т.ч. пассажир; нельзя считать самостоятельное управление универсальным."
+    },
+    {
+      "candidate_id": "C16",
+      "name": "Открытый веревочный парк",
+      "organization": "организованная трасса",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "NOT_PRIMARY",
+        "S4": "DIRECT",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S052"
+      ],
+      "limitations": "Требования по росту, страховке, инструктору, участию родителя и уровню трассы у каждого парка разные."
+    },
+    {
+      "candidate_id": "C19",
+      "name": "Конная прогулка по природной тропе с инструктором",
+      "organization": "организованная конная программа",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "UNVERIFIED",
+        "S4": "DIRECT",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S031",
+        "S053"
+      ],
+      "limitations": "Не смешивать пони-кружок и маршрут на лошади; возрастной допуск, темп и участие родителя требуют проверки."
+    },
+    {
+      "candidate_id": "C20",
+      "name": "Организованный природный квест по карте",
+      "organization": "организованный поисковый маршрут",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "DIRECT",
+        "S3": "CONDITIONAL",
+        "S4": "DIRECT",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S046",
+        "S062"
+      ],
+      "limitations": "Подтвердить конкретный квест с картой, движением по местности и допустимым возрастом 8–14."
+    },
+    {
+      "candidate_id": "C21",
+      "name": "Прогулка-наблюдение и природный фотоквест",
+      "organization": "самостоятельный или организованный выход",
+      "scenarioTags": {
+        "S1": "DIRECT",
+        "S2": "UNVERIFIED",
+        "S3": "DIRECT",
+        "S4": "NOT_PRIMARY",
+        "S5": "DIRECT"
+      },
+      "sources": [
+        "S038",
+        "S046",
+        "S057"
+      ],
+      "limitations": "Фото/наблюдение первичная задача; документальный пример самостоятельного семейного формата проверить."
+    },
+    {
+      "candidate_id": "C25",
+      "name": "Диск-гольф на открытом поле",
+      "organization": "самостоятельный или клубный формат",
+      "scenarioTags": {
+        "S1": "CONDITIONAL",
+        "S2": "NOT_PRIMARY",
+        "S3": "NOT_PRIMARY",
+        "S4": "CONDITIONAL",
+        "S5": "CONDITIONAL"
+      },
+      "sources": [
+        "S032",
+        "S040",
+        "S054",
+        "S055"
+      ],
+      "limitations": "Требуется действующая открытая площадка и диски; это спортивная игра, а не маршрутизация с картой."
+    }
+  ]
+}

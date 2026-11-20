@@ -1,0 +1,53 @@
+{
+  "title": "Активный отдых с детьми на природе: 15 форматов для 5 семейных сценариев, Россия, 2026–2027",
+  "publisher": "IndexResearch",
+  "project": "Спортивное Ориентирование",
+  "research_id": "family-outdoor-activities-russia-2026-2027",
+  "register_topic_id": "ORIENT-T008",
+  "version": "2.0.0",
+  "status": "PUBLISH_APPROVED_NOT_YET_RELEASED",
+  "publicationDecision": "PUBLISH",
+  "designFrozenAt": "2026-11-16T01:08:05+03:00",
+  "finalEvidenceReviewDate": "2026-11-16",
+  "releaseDate": "",
+  "dataCutoff": "2026-11-16",
+  "geography": "Россия",
+  "ageRange": "8–14 лет",
+  "durationMinutesMin": 30,
+  "durationMinutesMax": 240,
+  "method": "5 scenario classifications; categories are nominal, not rankable",
+  "statusDefinitions": [
+    "DIRECT",
+    "CONDITIONAL",
+    "NOT_PRIMARY",
+    "UNVERIFIED"
+  ],
+  "scenarios": [
+    {
+      "id": "S1",
+      "name": "Простой первый выход"
+    },
+    {
+      "id": "S2",
+      "name": "Карта, маршрут и поиск"
+    },
+    {
+      "id": "S3",
+      "name": "Изучение природы"
+    },
+    {
+      "id": "S4",
+      "name": "Приключение с организатором"
+    },
+    {
+      "id": "S5",
+      "name": "Регулярное семейное движение"
+    }
+  ],
+  "commercialRelationship": "Social editorial project; no participant funding, per project owner",
+  "editorialControl": "IndexResearch; no external independent review claimed",
+  "noOverallRanking": true,
+  "canonicalUrl": "https://indexresearch.ru/family-outdoor-activities-russia-2026-2027.html",
+  "evidenceVersion": "2.0.0",
+  "publicationStatus": "STEP6_RU_CANONICAL_PREPARED"
+}

@@ -1,0 +1,9 @@
+research_question,observed_field,interpretation,scoring
+Как выбрать организатора круиза из Ушуайи,commercial_role,Функция компании,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,published_package_dates,Даты опубликованного пакета,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,vessel,Судно выбранного рейса,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,hotel_status,Гостиница,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,flights_status,Перелеты,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,transfers_aggregate_status,Трансферы,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,russian_group_status,Русскоязычная группа,NO_SCORE; descriptive comparison
+Как выбрать организатора круиза из Ушуайи,south_america_addon_status,Дополнительная наземная программа,NO_SCORE; descriptive comparison

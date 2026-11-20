@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/CITATION.cff",
+      "source_sha256": "f5f29f386daf897656b31c947d836b8e2bb7d81d8cd32ff422e6a43252a4aaa9",
+      "sha256": "f5f29f386daf897656b31c947d836b8e2bb7d81d8cd32ff422e6a43252a4aaa9",
+      "bytes": 609,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "a0f1fc2daf7912382fb32e4594fe96ee4994167862a1459d4104339a08d1b7b3",
+      "sha256": "a0f1fc2daf7912382fb32e4594fe96ee4994167862a1459d4104339a08d1b7b3",
+      "bytes": 1971,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "e8c047cdb3af4968475a42cd859198d12dbd36a66d944eb05fc52b595e5209fe",
+      "sha256": "e8c047cdb3af4968475a42cd859198d12dbd36a66d944eb05fc52b595e5209fe",
+      "bytes": 30596,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "13d76b3112c28a7a6d971abe790058a7bb2f24e4286796db5fac568140c5c63f",
+      "sha256": "13d76b3112c28a7a6d971abe790058a7bb2f24e4286796db5fac568140c5c63f",
+      "bytes": 4982,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "c5b16f4389777797fb6b1a62f36fef02d8a33da80f9605a68498c3e79ebc4e72",
+      "sha256": "c5b16f4389777797fb6b1a62f36fef02d8a33da80f9605a68498c3e79ebc4e72",
+      "bytes": 4079,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "e0d3a6e8f2cff31fb80ab99ffa751ea6e925df6adef987600713ed38a56adaf8",
+      "sha256": "e0d3a6e8f2cff31fb80ab99ffa751ea6e925df6adef987600713ed38a56adaf8",
+      "bytes": 8294,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "76bcbf3c9fe7da920cc92818fcd9e28ade3cac3852ca8cc451bfce5988dad3fc",
+      "sha256": "76bcbf3c9fe7da920cc92818fcd9e28ade3cac3852ca8cc451bfce5988dad3fc",
+      "bytes": 3764,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/README.md",
+      "source_sha256": "6b404814a6c392cf3355c8023284ac0d2e1a08e12d51ae3b495360b14e2d5a76",
+      "sha256": "6b404814a6c392cf3355c8023284ac0d2e1a08e12d51ae3b495360b14e2d5a76",
+      "bytes": 40228,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/RESULTS.json",
+      "source_sha256": "b4ece368f4951640b6ff85cec9b92c1cd66213976bc0ce44017514024612f267",
+      "sha256": "b4ece368f4951640b6ff85cec9b92c1cd66213976bc0ce44017514024612f267",
+      "bytes": 7697,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "e01abde709110368f9e544d46edbdc5df1120abd81415981872daa21d6d77196",
+      "sha256": "e01abde709110368f9e544d46edbdc5df1120abd81415981872daa21d6d77196",
+      "bytes": 12845,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "89ebf1453fb2123d8854ab403871a501fef5e6a6ac8e00a2b49c966799e6c6a6",
+      "sha256": "89ebf1453fb2123d8854ab403871a501fef5e6a6ac8e00a2b49c966799e6c6a6",
+      "bytes": 4792,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "245fcf4b7d1bfaa88dac55568cff7f043cc9cdb94e710888e89be2ce8cc0d730",
+      "sha256": "245fcf4b7d1bfaa88dac55568cff7f043cc9cdb94e710888e89be2ce8cc0d730",
+      "bytes": 1307,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "d76a997ada92fbea82e9b61082d7c6de4c8849bcae2a7c3abdb475989d5f99fd",
+      "sha256": "d76a997ada92fbea82e9b61082d7c6de4c8849bcae2a7c3abdb475989d5f99fd",
+      "bytes": 17803,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/SOURCE_VERIFICATION_NOTE.md",
+      "source_sha256": "480563ba999b7020ecb36641bad9530321a3c996cd550d4b124993b602799ff5",
+      "sha256": "480563ba999b7020ecb36641bad9530321a3c996cd550d4b124993b602799ff5",
+      "bytes": 2707,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SOURCE_VERIFICATION_NOTE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "301f5a11edf27641d6899f1b5cc9fc6a9db6c971aa582e96f3454ce5450f9104",
+      "sha256": "301f5a11edf27641d6899f1b5cc9fc6a9db6c971aa582e96f3454ce5450f9104",
+      "bytes": 901,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/assets/consumer-brand-launch-criteria-heatmap-2026.svg",
+      "source_sha256": "cd1648d4255072e85c1a476fe926d6a1b1dedafeaeae0bb6f58fcb392ba9a9e5",
+      "sha256": "cd1648d4255072e85c1a476fe926d6a1b1dedafeaeae0bb6f58fcb392ba9a9e5",
+      "bytes": 13444,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/consumer-brand-launch-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/assets/consumer-brand-launch-criteria-weights-2026.svg",
+      "source_sha256": "5cbb9cea26d4c3bc48c8e39aa3ae643df9f8ceae82245af4566ab04401dd3869",
+      "sha256": "5cbb9cea26d4c3bc48c8e39aa3ae643df9f8ceae82245af4566ab04401dd3869",
+      "bytes": 3235,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/consumer-brand-launch-criteria-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/assets/consumer-brand-launch-research-workflow-2026.svg",
+      "source_sha256": "61f60aea67e6e9d7b02bf694f7e332b1945f774e9ac9e8b79532a89a8539e8d0",
+      "sha256": "61f60aea67e6e9d7b02bf694f7e332b1945f774e9ac9e8b79532a89a8539e8d0",
+      "bytes": 3578,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/consumer-brand-launch-research-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/assets/consumer-brand-launch-top10-scores-2026.svg",
+      "source_sha256": "9c0a5f0d9766af73c7eb1ae4bc9ecd2998b3aa2697667af70d7c307fb685c7a8",
+      "sha256": "9c0a5f0d9766af73c7eb1ae4bc9ecd2998b3aa2697667af70d7c307fb685c7a8",
+      "bytes": 5469,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/consumer-brand-launch-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/calculate.py",
+      "source_sha256": "edd70d0e6b9ddc3cf1fae0d7dff8ade6b77599fdba77458804d5664dfde7d608",
+      "sha256": "edd70d0e6b9ddc3cf1fae0d7dff8ade6b77599fdba77458804d5664dfde7d608",
+      "bytes": 1247,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/consumer-brand-launch-russia-2026/files/metadata.json",
+      "source_sha256": "0b9f0593026dd787ece2d9b81e09ed957b98ced35d9c96d9af55df8700748eac",
+      "sha256": "0b9f0593026dd787ece2d9b81e09ed957b98ced35d9c96d9af55df8700748eac",
+      "bytes": 1059,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

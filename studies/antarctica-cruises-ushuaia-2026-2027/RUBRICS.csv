@@ -1,0 +1,7 @@
+status,meaning,numeric_value
+INCLUDED,Явно включено в конкретный тариф,NOT_APPLICABLE
+PAID_OPTION,Указана отдельная платная опция,NOT_APPLICABLE
+ON_REQUEST,Оформляется индивидуально по запросу,NOT_APPLICABLE
+EXCLUDED,Явно не включено в тариф,NOT_APPLICABLE
+NOT_CONFIRMED,Не установлено по проверенным документам,NOT_APPLICABLE
+CONFIRMED,Подтверждена характеристика по первичному источнику,NOT_APPLICABLE

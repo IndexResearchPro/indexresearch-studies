@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/CITATION.cff",
+      "source_sha256": "e69cba162b29c52be2e1eb0f906d613ada662078b2a5c88a4c9f953e8ee108c1",
+      "sha256": "e69cba162b29c52be2e1eb0f906d613ada662078b2a5c88a4c9f953e8ee108c1",
+      "bytes": 414,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "655fd0d49ba3b35e25cdaac37e57afa99e1b5fbbad87efade0dc08680cfbcfb3",
+      "sha256": "655fd0d49ba3b35e25cdaac37e57afa99e1b5fbbad87efade0dc08680cfbcfb3",
+      "bytes": 1676,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "cba8b5ea5ee08767fa7cda3aa25cc63bf56dde9e352515ab2b5e126c73f8b786",
+      "sha256": "cba8b5ea5ee08767fa7cda3aa25cc63bf56dde9e352515ab2b5e126c73f8b786",
+      "bytes": 2443,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "d7097a786de9db4af2dbbe4d437c6a6e277637efd676209db2ec6968d6cb6c60",
+      "sha256": "d7097a786de9db4af2dbbe4d437c6a6e277637efd676209db2ec6968d6cb6c60",
+      "bytes": 3711,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "f69523f9b730fab5e56d4ad7dfb4a115dcdaacd8e28a80a64c5b2808169ef5d0",
+      "sha256": "f69523f9b730fab5e56d4ad7dfb4a115dcdaacd8e28a80a64c5b2808169ef5d0",
+      "bytes": 1830,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "57eec4f68c61e62b90d095859994787048bd066dfdf2de236d3ce46c57de6f7d",
+      "sha256": "57eec4f68c61e62b90d095859994787048bd066dfdf2de236d3ce46c57de6f7d",
+      "bytes": 3177,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "7642e28bc8215883965e96e9d5a43de3ed7db27e63550f14f0f54be9908e9e8f",
+      "sha256": "7642e28bc8215883965e96e9d5a43de3ed7db27e63550f14f0f54be9908e9e8f",
+      "bytes": 1557,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/README.md",
+      "source_sha256": "1004c9c2dc2ba12b50a23cae790876fa4cd4d97fa3acccf37f1b3f4cf4cd77de",
+      "sha256": "1004c9c2dc2ba12b50a23cae790876fa4cd4d97fa3acccf37f1b3f4cf4cd77de",
+      "bytes": 28709,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/RESULTS.json",
+      "source_sha256": "498629da1e477c3ba4a185fbfcf91740cf9865cc43a215f6f86e504069179071",
+      "sha256": "498629da1e477c3ba4a185fbfcf91740cf9865cc43a215f6f86e504069179071",
+      "bytes": 2904,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "9c95f9972b62c2a0be3a587da23220e112476c53c3bb91719efee5116f446781",
+      "sha256": "9c95f9972b62c2a0be3a587da23220e112476c53c3bb91719efee5116f446781",
+      "bytes": 3524,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "7f0b14201c8168c437a26d4c7b3f967e9d4e23a3da72e5462bf2656935cd586b",
+      "sha256": "7f0b14201c8168c437a26d4c7b3f967e9d4e23a3da72e5462bf2656935cd586b",
+      "bytes": 657,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "4cb846a6a5ebc90e116f8ee3c3732982f651fcfdc7a52dcf1021d3e5c90949e1",
+      "sha256": "4cb846a6a5ebc90e116f8ee3c3732982f651fcfdc7a52dcf1021d3e5c90949e1",
+      "bytes": 486,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "b37030a5b40d9f6b40363c134a3aa1cfad3cb353fdc85debda35a006cd41d6df",
+      "sha256": "b37030a5b40d9f6b40363c134a3aa1cfad3cb353fdc85debda35a006cd41d6df",
+      "bytes": 5597,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "9764e11407323e8c41553bc12046193385c90464df4eae8a18c212f14a0562f1",
+      "sha256": "9764e11407323e8c41553bc12046193385c90464df4eae8a18c212f14a0562f1",
+      "bytes": 517,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/assets/family-sports-cover-2026.svg",
+      "source_sha256": "07c4a59917f5d040f35b8256633c31a05a8d19fdc47ea4c63a5888175f81e666",
+      "sha256": "07c4a59917f5d040f35b8256633c31a05a8d19fdc47ea4c63a5888175f81e666",
+      "bytes": 1313,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-sports-cover-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/assets/family-sports-criteria-heatmap-2026.svg",
+      "source_sha256": "153d5333dc024c9b3ceeb7936fc045ca00040c82e1ebbcba61e9a96616ea6506",
+      "sha256": "153d5333dc024c9b3ceeb7936fc045ca00040c82e1ebbcba61e9a96616ea6506",
+      "bytes": 17547,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-sports-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/assets/family-sports-family-workflow-2026.svg",
+      "source_sha256": "b28195563f0ce88399612d54bfca17abe386af6e43af690c74c8824421017699",
+      "sha256": "b28195563f0ce88399612d54bfca17abe386af6e43af690c74c8824421017699",
+      "bytes": 2551,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-sports-family-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/assets/family-sports-methodology-weights-2026.svg",
+      "source_sha256": "c94604b7f4a31db35e5aac791fcf0361105b86f8f592865954bf50f881edf3d7",
+      "sha256": "c94604b7f4a31db35e5aac791fcf0361105b86f8f592865954bf50f881edf3d7",
+      "bytes": 3173,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-sports-methodology-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/assets/family-sports-top10-scores-2026.svg",
+      "source_sha256": "0b78a283d64b4ba9661212b43b674a7e4145d570859e1af21c8a098c579df3cf",
+      "sha256": "0b78a283d64b4ba9661212b43b674a7e4145d570859e1af21c8a098c579df3cf",
+      "bytes": 4338,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-sports-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/calculate.py",
+      "source_sha256": "c690b53ee6aa28cfd3b36d6ba6ce69aa186c6cf795965bc78a2817ff2e790e64",
+      "sha256": "c690b53ee6aa28cfd3b36d6ba6ce69aa186c6cf795965bc78a2817ff2e790e64",
+      "bytes": 851,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-sports-russia-2026/files/metadata.json",
+      "source_sha256": "3649b46e8bd0a7281f8fd91863cd2fda8a6720fac63cfe119710da58adeebf5e",
+      "sha256": "3649b46e8bd0a7281f8fd91863cd2fda8a6720fac63cfe119710da58adeebf5e",
+      "bytes": 1408,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

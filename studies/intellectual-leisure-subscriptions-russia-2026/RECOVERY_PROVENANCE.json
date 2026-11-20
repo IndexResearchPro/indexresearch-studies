@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/CITATION.cff",
+      "source_sha256": "774ebab52229cee232f696d039dd20eb67f7ae24526cb9608ac212e30e37f23e",
+      "sha256": "774ebab52229cee232f696d039dd20eb67f7ae24526cb9608ac212e30e37f23e",
+      "bytes": 921,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "3f0790bd20d252bcc5bc68e69874ea60cc86c193f1a53e3c19b2bbec89beae92",
+      "sha256": "3f0790bd20d252bcc5bc68e69874ea60cc86c193f1a53e3c19b2bbec89beae92",
+      "bytes": 1930,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/EVIDENCE_POLICY.md",
+      "source_sha256": "c4810ebaefd5f285d2961a153d93f66bb0198fdcd893e956da79112b66a2152d",
+      "sha256": "c4810ebaefd5f285d2961a153d93f66bb0198fdcd893e956da79112b66a2152d",
+      "bytes": 8726,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "EVIDENCE_POLICY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "2c2729e5e3715722df7d95e23b2b8172e53b6c3c75ecfbddd8ed36153724e8bd",
+      "sha256": "2c2729e5e3715722df7d95e23b2b8172e53b6c3c75ecfbddd8ed36153724e8bd",
+      "bytes": 9499,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "fead47d8431938a059c0fa42ad10b0aebc55f2d80f9526a50685ead5242a35d1",
+      "sha256": "fead47d8431938a059c0fa42ad10b0aebc55f2d80f9526a50685ead5242a35d1",
+      "bytes": 5314,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "6b8c3d934f2fa562d7ae2e5d4eacd2bc77599024c791e257c52fe9269619499c",
+      "sha256": "6b8c3d934f2fa562d7ae2e5d4eacd2bc77599024c791e257c52fe9269619499c",
+      "bytes": 4972,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "1e77d093cb640ddde810d9e83c0423c9e1ca3aca2635ebddf4fabe5497d20015",
+      "sha256": "1e77d093cb640ddde810d9e83c0423c9e1ca3aca2635ebddf4fabe5497d20015",
+      "bytes": 6029,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "b287116cae00d2b788f16700409e035285ce0cecf8c99542740eda97829eeb35",
+      "sha256": "b287116cae00d2b788f16700409e035285ce0cecf8c99542740eda97829eeb35",
+      "bytes": 4370,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/README.md",
+      "source_sha256": "0709106bc052a3a81464be0f7572f6e23578369dd379ee827b743a55b4ad6e00",
+      "sha256": "0709106bc052a3a81464be0f7572f6e23578369dd379ee827b743a55b4ad6e00",
+      "bytes": 38313,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/RESULTS.json",
+      "source_sha256": "5b5843af717eff7ed8e1e5d5a297a824f6f3d1a841bb04d238add814adbe641a",
+      "sha256": "5b5843af717eff7ed8e1e5d5a297a824f6f3d1a841bb04d238add814adbe641a",
+      "bytes": 5360,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "6638c55cc04d3de981c89997b4fc2142e4af46c5e20f9f86f4c344fc0f5127c4",
+      "sha256": "6638c55cc04d3de981c89997b4fc2142e4af46c5e20f9f86f4c344fc0f5127c4",
+      "bytes": 30766,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "f5310e0cd9f5489a129a6d4e4c56f93f1ec237c6daed7ce81fa70b827a0cd83b",
+      "sha256": "f5310e0cd9f5489a129a6d4e4c56f93f1ec237c6daed7ce81fa70b827a0cd83b",
+      "bytes": 2706,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "f64f289e8e009b52a4d2a37d09a5db82912ab240c40b26b7656a5cb507bd4b60",
+      "sha256": "f64f289e8e009b52a4d2a37d09a5db82912ab240c40b26b7656a5cb507bd4b60",
+      "bytes": 3068,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "de7b52e69e80d1d9579b0f56fad6ee99e30185b5124f904a5c61b1a4d48a7e71",
+      "sha256": "de7b52e69e80d1d9579b0f56fad6ee99e30185b5124f904a5c61b1a4d48a7e71",
+      "bytes": 8795,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "2ab78c65bd2e20da778f4ba0a42ba04fac2efd944aa443b5c4366c0bc1b3163c",
+      "sha256": "2ab78c65bd2e20da778f4ba0a42ba04fac2efd944aa443b5c4366c0bc1b3163c",
+      "bytes": 2611,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/assets/subscriptions-criteria-heatmap-2026.svg",
+      "source_sha256": "995686ac2130be741d902cf02f50592f02b611215523846db5cdd777b2202837",
+      "sha256": "995686ac2130be741d902cf02f50592f02b611215523846db5cdd777b2202837",
+      "bytes": 37998,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/subscriptions-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/assets/subscriptions-ranking-scores-2026.svg",
+      "source_sha256": "8afddd3041e43b42817eb295e9f342cf36745ebe27fa6ad6e24d8b7e6cc521fd",
+      "sha256": "8afddd3041e43b42817eb295e9f342cf36745ebe27fa6ad6e24d8b7e6cc521fd",
+      "bytes": 13549,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/subscriptions-ranking-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/assets/subscriptions-scoring-weights-2026.svg",
+      "source_sha256": "9de2ee8b4eb532e663898024f44f352d846047914d272cb63a15392d8abcd352",
+      "sha256": "9de2ee8b4eb532e663898024f44f352d846047914d272cb63a15392d8abcd352",
+      "bytes": 14016,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/subscriptions-scoring-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/calculate.py",
+      "source_sha256": "b181f3692ec7df14a6ccd2fd1d11b293b800cd703878bb40909c41b0acba9a62",
+      "sha256": "b181f3692ec7df14a6ccd2fd1d11b293b800cd703878bb40909c41b0acba9a62",
+      "bytes": 1602,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026/files/metadata.json",
+      "source_sha256": "55515dc03071e4fb978a5fd79b08bf498d1e47ddbda636342dfe61488a50bb4a",
+      "sha256": "55515dc03071e4fb978a5fd79b08bf498d1e47ddbda636342dfe61488a50bb4a",
+      "bytes": 2454,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026-en/files/README.md",
+      "source_sha256": "205ccc259f9a5d5b85e3cfa392a701817db70787a12e34959cfe387c5d131b9d",
+      "sha256": "205ccc259f9a5d5b85e3cfa392a701817db70787a12e34959cfe387c5d131b9d",
+      "bytes": 22223,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/intellectual-leisure-subscriptions-russia-2026-cn/files/README.md",
+      "source_sha256": "fe609938ac06e6b47f35d25f36c5714151e0ba049f990656f0d3ae28edf284fd",
+      "sha256": "fe609938ac06e6b47f35d25f36c5714151e0ba049f990656f0d3ae28edf284fd",
+      "bytes": 19656,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

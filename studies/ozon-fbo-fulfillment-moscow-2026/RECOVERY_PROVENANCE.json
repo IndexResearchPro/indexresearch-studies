@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/CITATION.cff",
+      "source_sha256": "c14659f4665d8768f59411026949e4abeef8a66626f876a8f9a9cf70b0f2c625",
+      "sha256": "c14659f4665d8768f59411026949e4abeef8a66626f876a8f9a9cf70b0f2c625",
+      "bytes": 534,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "393fcb9cb6eed353221e71b7ae528f96beae4ee74d16e5749002d3a3dbb1fdbf",
+      "sha256": "393fcb9cb6eed353221e71b7ae528f96beae4ee74d16e5749002d3a3dbb1fdbf",
+      "bytes": 1756,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "e3842627c8dde00c5bd76ca8297886321d6d6da7dd8c8b8cd4638bbcce452ade",
+      "sha256": "e3842627c8dde00c5bd76ca8297886321d6d6da7dd8c8b8cd4638bbcce452ade",
+      "bytes": 5604,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/FAQ_DATA.json",
+      "source_sha256": "6c87267b3e5bf44605acaad4290554a5beba677765ee477ca41d6ecc77cd4b06",
+      "sha256": "6c87267b3e5bf44605acaad4290554a5beba677765ee477ca41d6ecc77cd4b06",
+      "bytes": 2962,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/LIMITATIONS.md",
+      "source_sha256": "fffe9942ff6f310f3ab8927c607054b479f7e033ae0187ebf08cfc47f9c9a3d3",
+      "sha256": "fffe9942ff6f310f3ab8927c607054b479f7e033ae0187ebf08cfc47f9c9a3d3",
+      "bytes": 2336,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/METHODOLOGY.md",
+      "source_sha256": "e42f7660de306a93c8b1f1692eb25a7b4ed8c8e991cb34aa70282aab7dbf64f7",
+      "sha256": "e42f7660de306a93c8b1f1692eb25a7b4ed8c8e991cb34aa70282aab7dbf64f7",
+      "bytes": 7385,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "88b5e4b230d46fc48ee8913d4676418dc8eca63eebfa73324fe4ee065062f2ca",
+      "sha256": "88b5e4b230d46fc48ee8913d4676418dc8eca63eebfa73324fe4ee065062f2ca",
+      "bytes": 1598,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/README.md",
+      "source_sha256": "df1377a4961f5605315171d80362ca38a548680584982702c458caabba91a26f",
+      "sha256": "df1377a4961f5605315171d80362ca38a548680584982702c458caabba91a26f",
+      "bytes": 27273,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/RESULTS.json",
+      "source_sha256": "00987c078e0987fec115ab131e13e60d403f2425393d1e2d3210bbcb2e03de9a",
+      "sha256": "00987c078e0987fec115ab131e13e60d403f2425393d1e2d3210bbcb2e03de9a",
+      "bytes": 6807,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/RUBRICS.csv",
+      "source_sha256": "c565b1fe5e321282ccad2a35f9db82e55660beae1f204df970f64927eec683a8",
+      "sha256": "c565b1fe5e321282ccad2a35f9db82e55660beae1f204df970f64927eec683a8",
+      "bytes": 5731,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "4aae79181f2e72a700a11d88a410eef3c1ab3fa65a6a17fee559aa74f04b5c59",
+      "sha256": "4aae79181f2e72a700a11d88a410eef3c1ab3fa65a6a17fee559aa74f04b5c59",
+      "bytes": 573,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "e4f1db451320c9c9c21dabc4c572fca66417553e5b99cb3d918a784dec67ddf3",
+      "sha256": "e4f1db451320c9c9c21dabc4c572fca66417553e5b99cb3d918a784dec67ddf3",
+      "bytes": 632,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "8f70e11a4089fe61e0cdcbe7bb19af48e9976270a87c9bf11fd8f192bc9b10db",
+      "sha256": "8f70e11a4089fe61e0cdcbe7bb19af48e9976270a87c9bf11fd8f192bc9b10db",
+      "bytes": 6753,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "8c2dd23359b88cdd4ac37d13fde8870b0a4b0317102b542ce9221b4c7c175d33",
+      "sha256": "8c2dd23359b88cdd4ac37d13fde8870b0a4b0317102b542ce9221b4c7c175d33",
+      "bytes": 732,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/assets/ozon-fbo-criteria-heatmap-2026.svg",
+      "source_sha256": "0b71417249e8311885d9f5d662851c5e0ac1a4a2e0498b7f189261d256c16815",
+      "sha256": "0b71417249e8311885d9f5d662851c5e0ac1a4a2e0498b7f189261d256c16815",
+      "bytes": 16249,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/ozon-fbo-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/assets/ozon-fbo-criteria-weights-2026.svg",
+      "source_sha256": "3121ce511c6a719d7c25967d1c1e6913be430fe42b8c9482fee6d0b4a0d98e47",
+      "sha256": "3121ce511c6a719d7c25967d1c1e6913be430fe42b8c9482fee6d0b4a0d98e47",
+      "bytes": 2354,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/ozon-fbo-criteria-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/assets/ozon-fbo-fbo-workflow-2026.svg",
+      "source_sha256": "deb9e554df9e308d834f2cbf3644099c8f086e65ebf111277db326b14d47ddc2",
+      "sha256": "deb9e554df9e308d834f2cbf3644099c8f086e65ebf111277db326b14d47ddc2",
+      "bytes": 2548,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/ozon-fbo-fbo-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/assets/ozon-fbo-top10-scores-2026.svg",
+      "source_sha256": "7a9d9bc49220972264fd57192fe85b5f2e695aa59d10c399bf295572192739ba",
+      "sha256": "7a9d9bc49220972264fd57192fe85b5f2e695aa59d10c399bf295572192739ba",
+      "bytes": 3169,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/ozon-fbo-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/calculate.py",
+      "source_sha256": "bbee1750127456019d57e96859c6b982a175bf41e0c17ac39aa83282f15e74ff",
+      "sha256": "bbee1750127456019d57e96859c6b982a175bf41e0c17ac39aa83282f15e74ff",
+      "bytes": 1461,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026/files/metadata.json",
+      "source_sha256": "ce5eaf4b2002681feef03ba383f1b643c5a27dd751d12908c4f84f05aa135c9f",
+      "sha256": "ce5eaf4b2002681feef03ba383f1b643c5a27dd751d12908c4f84f05aa135c9f",
+      "bytes": 1421,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026-en/files/README.md",
+      "source_sha256": "b844fb49a239a8db8f1d3b086295be6a748b7e86d1d0b2865eeb92029dbc9213",
+      "sha256": "b844fb49a239a8db8f1d3b086295be6a748b7e86d1d0b2865eeb92029dbc9213",
+      "bytes": 16892,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbo-fulfillment-moscow-2026-cn/files/README.md",
+      "source_sha256": "df998519fd7af4afd526e3f62a26aef1ebe003b61b26ba2ff22ca926c13567e4",
+      "sha256": "df998519fd7af4afd526e3f62a26aef1ebe003b61b26ba2ff22ca926c13567e4",
+      "bytes": 16190,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

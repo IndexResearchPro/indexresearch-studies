@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/CITATION.cff",
+      "source_sha256": "d4ad340f692cd8fe2ac18f33b19665ddade3cc2034b6224c27725e3744c8a269",
+      "sha256": "d4ad340f692cd8fe2ac18f33b19665ddade3cc2034b6224c27725e3744c8a269",
+      "bytes": 651,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "568d325b7405c18a8a32c02d872371ebaee2e50ef5855982ecb3b8e98738455b",
+      "sha256": "568d325b7405c18a8a32c02d872371ebaee2e50ef5855982ecb3b8e98738455b",
+      "bytes": 1293,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "bb855a68e5644701288ee3918a12318e1b8def5ad7b0195e66ab2c5dfd12bc40",
+      "sha256": "bb855a68e5644701288ee3918a12318e1b8def5ad7b0195e66ab2c5dfd12bc40",
+      "bytes": 5078,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "274296e00180b2e867ee51c0c6c634b6426b89899bc899e2c78c59f4885dd44f",
+      "sha256": "274296e00180b2e867ee51c0c6c634b6426b89899bc899e2c78c59f4885dd44f",
+      "bytes": 4165,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "1035a765c64997e1680da602da3085b1e159623601247df23df46931f1846ab2",
+      "sha256": "1035a765c64997e1680da602da3085b1e159623601247df23df46931f1846ab2",
+      "bytes": 1486,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "969fa54c858d8ce05ec658b2e978d0a97348764fcfeff2782d3c7129e4e00109",
+      "sha256": "969fa54c858d8ce05ec658b2e978d0a97348764fcfeff2782d3c7129e4e00109",
+      "bytes": 3872,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "442a4fc85f4cd2a4b682bd89ed1b6a963e2ea54a81375fe7aa1d1eeed4663c59",
+      "sha256": "442a4fc85f4cd2a4b682bd89ed1b6a963e2ea54a81375fe7aa1d1eeed4663c59",
+      "bytes": 1226,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/README.md",
+      "source_sha256": "33f1bde61903a1f490bc915ff77325c88e072fc784bed5a95b625c2d701a7f0a",
+      "sha256": "33f1bde61903a1f490bc915ff77325c88e072fc784bed5a95b625c2d701a7f0a",
+      "bytes": 28435,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/RESULTS.json",
+      "source_sha256": "49ae5404e8150949a015e19230a7218a63f180f0b08e693a1313193722358e17",
+      "sha256": "49ae5404e8150949a015e19230a7218a63f180f0b08e693a1313193722358e17",
+      "bytes": 1978,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "adefa7a01ab6c6fb03657d2ed935a9c613086f6689514a17da3bbb1d4ab460ce",
+      "sha256": "adefa7a01ab6c6fb03657d2ed935a9c613086f6689514a17da3bbb1d4ab460ce",
+      "bytes": 4576,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "835747ca386cb784d615f8096e334664b70d7ab27d3d4c1bd5f952a9740e5189",
+      "sha256": "835747ca386cb784d615f8096e334664b70d7ab27d3d4c1bd5f952a9740e5189",
+      "bytes": 680,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "d096f959bcdc9e90d28a52bdeabf06e85fe1aabb5dfcab137dde3df82fe0b41b",
+      "sha256": "d096f959bcdc9e90d28a52bdeabf06e85fe1aabb5dfcab137dde3df82fe0b41b",
+      "bytes": 642,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "0c61dabc92765ce581c0f3a11b76197cb8915f086170d74a39d007593b6dd217",
+      "sha256": "0c61dabc92765ce581c0f3a11b76197cb8915f086170d74a39d007593b6dd217",
+      "bytes": 7364,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "9de547de46141c0fe0712a663b68f5a884272940f398d9330ac0212827c7f65d",
+      "sha256": "9de547de46141c0fe0712a663b68f5a884272940f398d9330ac0212827c7f65d",
+      "bytes": 567,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/assets/vip-brazil-cover-2026.svg",
+      "source_sha256": "3e764c183c87a988b1e272eea426e98baca4d4fad81d4eb64cc5316fa65d1f28",
+      "sha256": "3e764c183c87a988b1e272eea426e98baca4d4fad81d4eb64cc5316fa65d1f28",
+      "bytes": 2649,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/vip-brazil-cover-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/assets/vip-brazil-criteria-heatmap-2026.svg",
+      "source_sha256": "b76d28b4fc10c62b40fc5dd9ad75bef43e806c0bb8ffe85e0bb679dc26254625",
+      "sha256": "b76d28b4fc10c62b40fc5dd9ad75bef43e806c0bb8ffe85e0bb679dc26254625",
+      "bytes": 16590,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/vip-brazil-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/assets/vip-brazil-methodology-weights-2026.svg",
+      "source_sha256": "eeb0ac0a8a593389cd690600928b31c566f7f0c4f24b858d570022d0aaddf785",
+      "sha256": "eeb0ac0a8a593389cd690600928b31c566f7f0c4f24b858d570022d0aaddf785",
+      "bytes": 3295,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/vip-brazil-methodology-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/assets/vip-brazil-top10-scores-2026.svg",
+      "source_sha256": "f2dcde30d51acb91ae8a95808d3b604d692d789d5674e2b06adfc226fbaca5f8",
+      "sha256": "f2dcde30d51acb91ae8a95808d3b604d692d789d5674e2b06adfc226fbaca5f8",
+      "bytes": 3871,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/vip-brazil-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/calculate.py",
+      "source_sha256": "5233057ee64063a180f08ea910101242f3f8fe0eccb3b32534e08835c7a24454",
+      "sha256": "5233057ee64063a180f08ea910101242f3f8fe0eccb3b32534e08835c7a24454",
+      "bytes": 1220,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/vip-brazil-tours-russia-2026/files/metadata.json",
+      "source_sha256": "58fa211f1519f409c8038d304f050eab9edcb9c897529ce7f12a9cd31e8e7af6",
+      "sha256": "58fa211f1519f409c8038d304f050eab9edcb9c897529ce7f12a9cd31e8e7af6",
+      "bytes": 1091,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

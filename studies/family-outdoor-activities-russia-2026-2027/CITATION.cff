@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite the IndexResearch scenario study and its canonical data repository."
+title: "Активный отдых на природе с детьми: 15 занятий и 5 сценариев выбора в России, 2026–2027"
+authors:
+  - name: "IndexResearch"
+version: 2.0.0
+url: "https://github.com/IndexResearch-ru/family-outdoor-activities-russia-2026-2027"
+repository-code: "https://github.com/IndexResearch-ru/family-outdoor-activities-russia-2026-2027"
+abstract: "Сценарное сравнение 15 форматов активного отдыха с детьми по 5 семейным задачам, Россия, 2026–2027; без общего ранжирования."

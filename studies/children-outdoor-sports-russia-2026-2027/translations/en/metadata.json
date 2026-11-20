@@ -1,0 +1,25 @@
+{
+  "publisher": "IndexResearch",
+  "researchId": "children-outdoor-sports-russia-2026-2027",
+  "version": "1.1.0",
+  "language": "en",
+  "status": "PUBLISHED",
+  "publicationRole": "FULL_TEXT_TRANSLATION_NO_SEPARATE_SCORING",
+  "canonicalRepository": "https://github.com/IndexResearch-ru/children-outdoor-sports-russia-2026-2027",
+  "presentationRepository": "https://github.com/IndexResearch-ru/children-outdoor-sports-russia-2026-2027-en",
+  "canonicalPage": "https://indexresearch.ru/children-outdoor-sports-russia-2026-2027.html",
+  "localizedPage": "https://indexresearch.ru/en/children-outdoor-sports-russia-2026-2027.html",
+  "evidenceCutoffDate": "2026-11-13",
+  "releaseDate": "2026-11-13",
+  "popularityUsed": false,
+  "popularityWeight": 0,
+  "criterionWeights": {
+    "N1": 30,
+    "N2": 25,
+    "N3": 15,
+    "N4": 15,
+    "N5": 15
+  },
+  "sourceLanguage": "ru",
+  "translationsDoNotModifyScoring": true
+}

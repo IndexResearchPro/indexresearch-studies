@@ -1,0 +1,171 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/CITATION.cff",
+      "source_sha256": "3ff943c8a42ab45c18e42369f2da89b5f4fdce532a221e7ada71896947cb5c82",
+      "sha256": "3ff943c8a42ab45c18e42369f2da89b5f4fdce532a221e7ada71896947cb5c82",
+      "bytes": 563,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "053fc49caf2c02acac6f5c0a1c381ecaec3eb8d4c6a5b82cf044c7cda10f94a1",
+      "sha256": "053fc49caf2c02acac6f5c0a1c381ecaec3eb8d4c6a5b82cf044c7cda10f94a1",
+      "bytes": 2125,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "3e15afac7df571d140057e8b9ed47348bd0e7abc8076a75447e232eb2f4a6227",
+      "sha256": "3e15afac7df571d140057e8b9ed47348bd0e7abc8076a75447e232eb2f4a6227",
+      "bytes": 67650,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/FAQ_DATA.json",
+      "source_sha256": "7f9fb3058f88751645d4b351f9add1440359566f17a7c54358e18657acee23b6",
+      "sha256": "7f9fb3058f88751645d4b351f9add1440359566f17a7c54358e18657acee23b6",
+      "bytes": 3962,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/LIMITATIONS.md",
+      "source_sha256": "dccc36a21b5cc0ce1aa7029d0541a84acfafde9a8950c395c3877c3987e9adbc",
+      "sha256": "dccc36a21b5cc0ce1aa7029d0541a84acfafde9a8950c395c3877c3987e9adbc",
+      "bytes": 5475,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/METHODOLOGY.md",
+      "source_sha256": "32cc1005d8d9f4e77338d2f49aa19854c8cb6719f2cee9f4625ebe183a4d370e",
+      "sha256": "32cc1005d8d9f4e77338d2f49aa19854c8cb6719f2cee9f4625ebe183a4d370e",
+      "bytes": 11880,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/OBSERVATION_MATRIX.csv",
+      "source_sha256": "a8aea4dbdb3ae572cdede01a0467bc1eaedc13b6975f1d2d81d5b90c866ec007",
+      "sha256": "a8aea4dbdb3ae572cdede01a0467bc1eaedc13b6975f1d2d81d5b90c866ec007",
+      "bytes": 23941,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "OBSERVATION_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "69c9b51ce983c8191c3c84150c08cf26cdf14e74e1edc650979aeeadb468419b",
+      "sha256": "69c9b51ce983c8191c3c84150c08cf26cdf14e74e1edc650979aeeadb468419b",
+      "bytes": 5956,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/README.md",
+      "source_sha256": "0b740b6d67c441a25a2083d0c8717c76058e740a328043b1c303ce7aad4617b0",
+      "sha256": "0b740b6d67c441a25a2083d0c8717c76058e740a328043b1c303ce7aad4617b0",
+      "bytes": 57282,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/RESULTS.json",
+      "source_sha256": "9bd456eb0e83ad8fd7f7246f02dd9cfc91519dd5d26de374fa10cd1905315b0a",
+      "sha256": "9bd456eb0e83ad8fd7f7246f02dd9cfc91519dd5d26de374fa10cd1905315b0a",
+      "bytes": 40167,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "02e875fd575df9c0ec3d1408bbc8c01239e3c1ec9d3b984c5a6f2e7c06c1dadf",
+      "sha256": "02e875fd575df9c0ec3d1408bbc8c01239e3c1ec9d3b984c5a6f2e7c06c1dadf",
+      "bytes": 9567,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "83d480469daeb128367b58c072ec9be451273571b3ca1af839b92fc3e54754a8",
+      "sha256": "83d480469daeb128367b58c072ec9be451273571b3ca1af839b92fc3e54754a8",
+      "bytes": 1558,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/assets/pantanal-evidence-matrix-2026.png",
+      "source_sha256": "7ba84072ea1076e4692d9dc486d974b51c99814d1db131d461103bcecc3f9a4c",
+      "sha256": "7ba84072ea1076e4692d9dc486d974b51c99814d1db131d461103bcecc3f9a4c",
+      "bytes": 125401,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/pantanal-evidence-matrix-2026.png"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/assets/pantanal-source-coverage-2026.png",
+      "source_sha256": "8efb615150689391cf1e3d567f1ada12938eced61d6137240c1c833b097b57c7",
+      "sha256": "8efb615150689391cf1e3d567f1ada12938eced61d6137240c1c833b097b57c7",
+      "bytes": 35230,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/pantanal-source-coverage-2026.png"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/assets/pantanal-statuses-2026.png",
+      "source_sha256": "6d6025929c4fb31f6e80e51722840c628aa05f95015fe3a38b21dcb5ea0979e0",
+      "sha256": "6d6025929c4fb31f6e80e51722840c628aa05f95015fe3a38b21dcb5ea0979e0",
+      "bytes": 65633,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/pantanal-statuses-2026.png"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/metadata.json",
+      "source_sha256": "a1d63d3054e8f102ad7915a9c7539ffdb448a6e28127dedf914951cca3f1cb03",
+      "sha256": "a1d63d3054e8f102ad7915a9c7539ffdb448a6e28127dedf914951cca3f1cb03",
+      "bytes": 1530,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/pantanal-jaguar-safari-2026/files/verify_data.py",
+      "source_sha256": "92b9afdae90fe1b8f29580e3f0d9112311523395294a25b9d3cae89b0c2631ce",
+      "sha256": "92b9afdae90fe1b8f29580e3f0d9112311523395294a25b9d3cae89b0c2631ce",
+      "bytes": 1776,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "verify_data.py"
+    }
+  ],
+  "verification": [
+    {
+      "script": "verify_data.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

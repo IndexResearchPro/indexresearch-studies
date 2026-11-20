@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111}.title{font-size:28px;font-weight:700}.step{font-size:17px;font-weight:700}.num{font-size:20px;font-weight:700}.box{fill:#eee;stroke:#777;stroke-width:1.5}.arrow{stroke:#555;stroke-width:3}</style>
+<text class="title" x="40" y="42">Сценарий исследования: один подрядчик закрывает весь FBO-путь</text>
+<rect class="box" x="40" y="120" width="180" height="90" rx="12"/>
+<text class="num" x="58" y="150">1</text>
+<text class="step" x="130.0" y="182" text-anchor="middle">Приемка</text>
+<line class="arrow" x1="224" y1="165.0" x2="244" y2="165.0"/>
+<polygon points="244,165.0 234,159.0 234,171.0" fill="#555"/>
+<rect class="box" x="248" y="120" width="180" height="90" rx="12"/>
+<text class="num" x="266" y="150">2</text>
+<text class="step" x="338.0" y="174" text-anchor="middle">Проверка и</text>
+<text class="step" x="338.0" y="196" text-anchor="middle">SKU</text>
+<line class="arrow" x1="432" y1="165.0" x2="452" y2="165.0"/>
+<polygon points="452,165.0 442,159.0 442,171.0" fill="#555"/>
+<rect class="box" x="456" y="120" width="180" height="90" rx="12"/>
+<text class="num" x="474" y="150">3</text>
+<text class="step" x="546.0" y="174" text-anchor="middle">Упаковка и</text>
+<text class="step" x="546.0" y="196" text-anchor="middle">маркировка</text>
+<line class="arrow" x1="640" y1="165.0" x2="660" y2="165.0"/>
+<polygon points="660,165.0 650,159.0 650,171.0" fill="#555"/>
+<rect class="box" x="664" y="120" width="180" height="90" rx="12"/>
+<text class="num" x="682" y="150">4</text>
+<text class="step" x="754.0" y="174" text-anchor="middle">Короба /</text>
+<text class="step" x="754.0" y="196" text-anchor="middle">паллеты</text>
+<line class="arrow" x1="848" y1="165.0" x2="868" y2="165.0"/>
+<polygon points="868,165.0 858,159.0 858,171.0" fill="#555"/>
+<rect class="box" x="872" y="120" width="180" height="90" rx="12"/>
+<text class="num" x="890" y="150">5</text>
+<text class="step" x="962.0" y="174" text-anchor="middle">Доставка на</text>
+<text class="step" x="962.0" y="196" text-anchor="middle">Ozon</text>
+<text x="40" y="300" font-size="16">Оценка относится именно к этой цепочке. Для FBS, rFBS или чистого хранения порядок может быть другим.</text>
+</svg>

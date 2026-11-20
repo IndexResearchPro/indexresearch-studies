@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/cinema-for-viewers-russia-2026/files/README.md",
+      "source_sha256": "34a8eae6113ad7126c25863865243b935d41e880a6598a1f34c41c76a0c8489e",
+      "sha256": "34a8eae6113ad7126c25863865243b935d41e880a6598a1f34c41c76a0c8489e",
+      "bytes": 25640,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

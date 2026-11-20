@@ -1,0 +1,112 @@
+{
+  "study_id": "protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026",
+  "family_id": "BOMBBAR-T002",
+  "step": 4,
+  "model_status_at_test": "DRAFT_CALIBRATION_NOT_FROZEN",
+  "model_version": "0.4.0",
+  "sample": "historical/indexed product pages used as calibration proxy, NOT a synchronized Nov 17 price observation",
+  "candidate_pool": 37,
+  "numeric_complete_index_proxy": 18,
+  "unscored_in_complete_proxy": 19,
+  "brands": [
+    "Bombbar",
+    "Chikalab",
+    "Snaq Fabriq"
+  ],
+  "product_families": [
+    "Chika Biscuit / бисквитное печенье",
+    "Chikapie / печенье в шоколаде",
+    "Cookie Nuts",
+    "SNAQER / глазированное печенье",
+    "Низкокалорийное печенье",
+    "Протеиновое печенье 60 г"
+  ],
+  "all_sample_prices_current_confirmed": false,
+  "weights_nominal": [
+    40.0,
+    30.0,
+    30.0
+  ],
+  "scoring_anchors": {
+    "protein_g": [
+      5,
+      21
+    ],
+    "kcal": [
+      100,
+      220
+    ],
+    "price_rub": [
+      50,
+      150
+    ]
+  },
+  "iterations": 5000,
+  "seed": 20261117,
+  "generator": "Python random.Random / Mersenne Twister",
+  "weight_perturbation": {
+    "distribution": "independent uniform factors [0.8,1.2] for each of 3 weights, then normalize to sum 100",
+    "relative_perturbation": 0.2
+  },
+  "single_series_no_multiple_runs": true,
+  "tie_rule": "competitive ranking 1,1,3; ties <=1e-9, deterministic SKU display only; group membership tie-aware",
+  "nominal_tie_aware_top3_ids": [
+    "CK003",
+    "CK007",
+    "CK009",
+    "CK010",
+    "CK014"
+  ],
+  "nominal_tie_aware_top3_group_size": 5,
+  "nominal_top10_ids": [
+    "CK001",
+    "CK003",
+    "CK007",
+    "CK009",
+    "CK010",
+    "CK014",
+    "CK015",
+    "CK019",
+    "CK031",
+    "CK033"
+  ],
+  "nominal_rank1_ids": [
+    "CK007"
+  ],
+  "leaders_draw_count": {
+    "CK007": 2641,
+    "CK014": 2359
+  },
+  "leaders_frequency_percent": {
+    "CK007": 52.82,
+    "CK014": 47.18
+  },
+  "mean_top3_membership_retention_percent": 81.608,
+  "all_top3_group_unchanged_percent": 43.32,
+  "mean_top10_membership_retention_percent": 100.0,
+  "all_top10_group_unchanged_percent": 100.0,
+  "kendall_tau_b_mean": 0.906921,
+  "kendall_tau_b_min": 0.742479,
+  "kendall_tau_b_max": 0.996661,
+  "observed_sample_correlations": {
+    "mass_protein": 0.847835,
+    "mass_kcal": 0.896602,
+    "protein_kcal": 0.599617,
+    "mass_total_score": -0.107938
+  },
+  "nominal_score_gaps": {
+    "CK007 vs CK014": 0.3,
+    "CK007 vs CK003": 1.5,
+    "CK014 vs CK015": 5.25
+  },
+  "price_case_count": 7,
+  "model_double_count_warning": "protein/100kcal, rub/10g, portion mass, source count are diagnostic or qualitative only",
+  "publication_limitations": [
+    "Results are diagnostic only, not scores or rankings of presently purchasable products",
+    "No live 2026-11-17 synchronized price + stock verification across sample",
+    "Only 18 of 37 candidates numerically complete in proxy; excluded SKUs could change top10",
+    "First place is sensitive to weights and even small prices",
+    "Brand portfolio is related; disclose Bombbar/GAEO connection and editorial review",
+    "Check all products for SKU, line, net mass, food category, box size and actual availability before final scoring"
+  ]
+}

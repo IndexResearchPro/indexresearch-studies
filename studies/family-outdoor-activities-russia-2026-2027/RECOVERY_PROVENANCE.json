@@ -1,0 +1,180 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/CITATION.cff",
+      "source_sha256": "85396c5713cae825d024fad7fe0a0929d196ff5a4220e708b16a90b5bd12114d",
+      "sha256": "85396c5713cae825d024fad7fe0a0929d196ff5a4220e708b16a90b5bd12114d",
+      "bytes": 726,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "5df93e53d33a720735e65f2f07951258a46d5bf322e62daa775b5aaf7f7747e8",
+      "sha256": "5df93e53d33a720735e65f2f07951258a46d5bf322e62daa775b5aaf7f7747e8",
+      "bytes": 49118,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/FAQ_DATA.json",
+      "source_sha256": "857c7ff202478b15b3be9f6da79f16868a2afe67c3a2d43b10501412752c50b7",
+      "sha256": "857c7ff202478b15b3be9f6da79f16868a2afe67c3a2d43b10501412752c50b7",
+      "bytes": 6623,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/FORMAT_SCENARIO_MATRIX.csv",
+      "source_sha256": "81bc043403340a0a31143f9f63777bbc0cddd8578e2d4c3b2b5433d30b0050a4",
+      "sha256": "81bc043403340a0a31143f9f63777bbc0cddd8578e2d4c3b2b5433d30b0050a4",
+      "bytes": 6209,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FORMAT_SCENARIO_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/LIMITATIONS.md",
+      "source_sha256": "67173cf290ff2f9475a5095c94a914160754ca4828cc60f72c504ee51b961542",
+      "sha256": "67173cf290ff2f9475a5095c94a914160754ca4828cc60f72c504ee51b961542",
+      "bytes": 4916,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/METHODOLOGY.md",
+      "source_sha256": "203bc3d10fc295719829cf77ec5cb70fe9980a5846d0ccf66dd8bde7339721c1",
+      "sha256": "203bc3d10fc295719829cf77ec5cb70fe9980a5846d0ccf66dd8bde7339721c1",
+      "bytes": 9400,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/README.md",
+      "source_sha256": "3b70598109e1ef0491f6b4cfa549ca58b5d0dd7c43fb441dc3a06ff2878986dc",
+      "sha256": "3b70598109e1ef0491f6b4cfa549ca58b5d0dd7c43fb441dc3a06ff2878986dc",
+      "bytes": 47194,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/RESULTS.json",
+      "source_sha256": "a7577f7d34ac09e724a1ee3782ba0fabefc7852fa2fd713e3ae9f19bd8a12c26",
+      "sha256": "a7577f7d34ac09e724a1ee3782ba0fabefc7852fa2fd713e3ae9f19bd8a12c26",
+      "bytes": 11898,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/SCENARIO_RULES.csv",
+      "source_sha256": "e93362df9762944dc0cf9e216e9b3d1d16f1f95e3e55ea9c83b3470a5aa683c9",
+      "sha256": "e93362df9762944dc0cf9e216e9b3d1d16f1f95e3e55ea9c83b3470a5aa683c9",
+      "bytes": 2676,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCENARIO_RULES.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/SCORE_CELL_EVIDENCE.csv",
+      "source_sha256": "84b6870d857118247b306ddb32822bef7a46988d23382b88ee146c205a9646f7",
+      "sha256": "84b6870d857118247b306ddb32822bef7a46988d23382b88ee146c205a9646f7",
+      "bytes": 41636,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_CELL_EVIDENCE.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/SOURCE_REGISTER.csv",
+      "source_sha256": "449683feefc2d383f2fa888db48b69030bff40b520f6d382a3116b7201595b3c",
+      "sha256": "449683feefc2d383f2fa888db48b69030bff40b520f6d382a3116b7201595b3c",
+      "bytes": 32576,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/assets/family-outdoor-matrix-2026.svg",
+      "source_sha256": "f66fa65c3d080e7fb646317ea5839a85f69a4bb19525eadc4c9dcdde76aee4ff",
+      "sha256": "f66fa65c3d080e7fb646317ea5839a85f69a4bb19525eadc4c9dcdde76aee4ff",
+      "bytes": 20739,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-outdoor-matrix-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/assets/family-outdoor-scenarios-2026.svg",
+      "source_sha256": "93f24ce8b5e6bb6729c6f8f13c4801f26e4e5195ecfac387eb1e896da62ead64",
+      "sha256": "93f24ce8b5e6bb6729c6f8f13c4801f26e4e5195ecfac387eb1e896da62ead64",
+      "bytes": 4443,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-outdoor-scenarios-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/assets/family-outdoor-status-distribution-2026.svg",
+      "source_sha256": "53e623172515d7dd1456de725ff88ee2307fc9f846720bb740adf61606182a42",
+      "sha256": "53e623172515d7dd1456de725ff88ee2307fc9f846720bb740adf61606182a42",
+      "bytes": 5392,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/family-outdoor-status-distribution-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/calculate.py",
+      "source_sha256": "41cc5ade323867da5779238b0040e12e9f372cf47ced36d3752e45cdfd4d695e",
+      "sha256": "41cc5ade323867da5779238b0040e12e9f372cf47ced36d3752e45cdfd4d695e",
+      "bytes": 2201,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027/files/metadata.json",
+      "source_sha256": "4e71e2564d53631e42268ca33020a0b63081af3314e371e4db627d61fb906f95",
+      "sha256": "4e71e2564d53631e42268ca33020a0b63081af3314e371e4db627d61fb906f95",
+      "bytes": 1781,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027-en/files/README.md",
+      "source_sha256": "23327b8f36d036fad8ab10f9461335a0ff3f3d3806c9a477caf97e41a46540fa",
+      "sha256": "23327b8f36d036fad8ab10f9461335a0ff3f3d3806c9a477caf97e41a46540fa",
+      "bytes": 31013,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/family-outdoor-activities-russia-2026-2027-cn/files/README.md",
+      "source_sha256": "3c9e478f03715f11374846298144b19d605124da4ab6f15476cef83ad8d58f92",
+      "sha256": "3c9e478f03715f11374846298144b19d605124da4ab6f15476cef83ad8d58f92",
+      "bytes": 28035,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

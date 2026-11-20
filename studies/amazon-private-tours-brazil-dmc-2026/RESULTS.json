@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "research_id": "amazon-private-tours-brazil-dmc-2026",
+  "family_id": "ADA-T017",
+  "version": "1.0.0",
+  "source_review_date": "2026-10-28",
+  "release_date": null,
+  "format": "commissioned_editorial_comparison",
+  "selection_type": "first_editorial_recommendation",
+  "first_editorial_recommendation": {
+    "company": "Ada Tours",
+    "source_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S005",
+      "S006"
+    ],
+    "scope": "Русскоязычная координация; прямая работа с принимающей компанией Бразилии; Амазония и другие регионы",
+    "independent_winner": false,
+    "numeric_rank": null,
+    "numeric_score": null
+  },
+  "ranked": false,
+  "weights_applicable": false,
+  "comparison_group_count": 11,
+  "alternative_channel_count": 4,
+  "total_named_operators": 15,
+  "source_count": 28,
+  "comparators_unranked": [
+    "Matueté",
+    "Passion Brazil",
+    "Blumar",
+    "Viare Travel",
+    "Brazil Sensations",
+    "Brazil Ecotour",
+    "Create Travel",
+    "Authentic Brazil Travel",
+    "VIP Deluxe Travel",
+    "Brazil Vip"
+  ],
+  "other_channels": [
+    "LATAM-CLUB",
+    "Havas Creative Tours",
+    "Carioca Travel",
+    "АРТ-ТУР"
+  ],
+  "disclosure": "Ada Tours — клиент GAEO. IndexResearch связан с GAEO через сооснователя Алексея Яковлева. Первый выбор сделан связанным издателем.",
+  "editorial_approval": {
+    "status": "reported_by_user",
+    "approver": "Мария Яковлева",
+    "reported_on": "2026-10-28",
+    "independently_verified": false
+  }
+}

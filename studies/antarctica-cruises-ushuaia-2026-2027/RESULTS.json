@@ -1,0 +1,562 @@
+{
+  "research_id": "INDEX-T046",
+  "version": "3.1-qualitative",
+  "status": "PUBLICATION_APPROVED_PENDING_DEPLOYMENT",
+  "research_type": "EDITORIAL_SHORTLIST_BUYER_GUIDE",
+  "ranked": false,
+  "scope": "Экспедиционные морские круизы с посадкой в Ушуайе, сезон 2026–2027",
+  "research_question": "Через какие 15 компаний можно подобрать морскую экспедицию в Антарктиду с отправлением из Ушуайи в сезоне 2026–2027 и как отличаются опубликованные предложения продавцов, организаторов и судовых операторов?",
+  "methodology_frozen_at": "2026-10-23T09:02:51Z",
+  "evidence_cutoff": "2026-10-23",
+  "groups": [
+    {
+      "group_id": "A",
+      "name": "Русскоязычные организаторы/продавцы",
+      "participants": [
+        {
+          "participant_id": "P01",
+          "name": "Ada Tours",
+          "example": "Антарктида: путешествие открытий и обучения",
+          "source_ids": [
+            "V3-S001",
+            "V3-S002",
+            "V3-S024",
+            "V3-S026"
+          ]
+        },
+        {
+          "participant_id": "P05",
+          "name": "АРТ-ТУР",
+          "example": "Круиз «Антарктический полуостров»",
+          "source_ids": [
+            "V3-S006"
+          ]
+        },
+        {
+          "participant_id": "P02",
+          "name": "Квинта-тур",
+          "example": "Круиз к берегам Антарктиды — Классика",
+          "source_ids": [
+            "V3-S003"
+          ]
+        },
+        {
+          "participant_id": "P04",
+          "name": "Клуб полярных путешествий",
+          "example": "Мир айсбергов и пингвинов",
+          "source_ids": [
+            "V3-S005",
+            "V3-S022"
+          ]
+        },
+        {
+          "participant_id": "P03",
+          "name": "RussiaDiscovery",
+          "example": "Энергия Антарктиды",
+          "source_ids": [
+            "V3-S004"
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "B",
+      "name": "Международные туристические компании",
+      "participants": [
+        {
+          "participant_id": "P22",
+          "name": "Chimu Adventures",
+          "example": "Antarctic Peninsula: The Classic Voyage, ACPLACOA",
+          "source_ids": [
+            "V3-S008",
+            "V3-S025"
+          ]
+        },
+        {
+          "participant_id": "P13",
+          "name": "G Adventures",
+          "example": "Antarctica Classic in Depth, trip XVAESX",
+          "source_ids": [
+            "V3-S007"
+          ]
+        },
+        {
+          "participant_id": "P23",
+          "name": "Intrepid Travel",
+          "example": "Exploring Antarctica’s Spring (Ocean Albatros), GXMS",
+          "source_ids": [
+            "V3-S009",
+            "V3-S010"
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "C",
+      "name": "Экспедиционные операторы",
+      "participants": [
+        {
+          "participant_id": "P12",
+          "name": "Aurora Expeditions",
+          "example": "Across the Antarctic Circle, ANC017S",
+          "source_ids": [
+            "V3-S014",
+            "V3-S023",
+            "V3-S027"
+          ]
+        },
+        {
+          "participant_id": "P17",
+          "name": "Oceanwide Expeditions",
+          "example": "Antarctica — Discovery and learning, HDS25-27",
+          "source_ids": [
+            "V3-S019",
+            "V3-S020",
+            "V3-S021"
+          ]
+        },
+        {
+          "participant_id": "P15",
+          "name": "Polar Latitudes Expeditions",
+          "example": "Exploring Antarctica’s Spring",
+          "source_ids": [
+            "V3-S016",
+            "V3-S017"
+          ]
+        },
+        {
+          "participant_id": "P09",
+          "name": "PONANT",
+          "example": "Emblematic Antarctica, AU181126",
+          "source_ids": [
+            "V3-S011"
+          ]
+        },
+        {
+          "participant_id": "P14",
+          "name": "Poseidon Expeditions",
+          "example": "Realm of Penguins & Icebergs",
+          "source_ids": [
+            "V3-S015"
+          ]
+        },
+        {
+          "participant_id": "P10",
+          "name": "Quark Expeditions",
+          "example": "Antarctic Explorer: Discovering the 7th Continent, Ocean Explorer",
+          "source_ids": [
+            "V3-S012",
+            "V3-S013"
+          ]
+        },
+        {
+          "participant_id": "P16",
+          "name": "Swan Hellenic",
+          "example": "Antarctic Wonders, M3026111109",
+          "source_ids": [
+            "V3-S018"
+          ]
+        }
+      ]
+    }
+  ],
+  "candidate_pool": 28,
+  "shortlist_count": 15,
+  "reserves_count": 5,
+  "outside_count": 8,
+  "commercial_relationship": "Ada Tours связан с GAEO; исследование INDEX-T046 относится к теме ADA-T014. Значимая связь раскрывается во всех языковых версиях.",
+  "independent_editorial_approval": "APPROVED_REPORTED_BY_USER_2026-10-23",
+  "publication_decision": "PUBLISH",
+  "selection_note": "15 редакционно отобранных примеров, не рейтинг качества, не исчерпывающая выборка и не утверждение превосходства над другими компаниями.",
+  "notes": [
+    "Не переносить сведения о судовом операторе на коммерческого продавца без договора.",
+    "Услуги относятся только к указанному предложению или тарифу.",
+    "Отсутствие публичного подтверждения не равно отсутствию услуги."
+  ],
+  "publication_status": "READY_FOR_PUBLICATION",
+  "editorial_approval_source": "Решение Марии передано пользователем в чате: «от Марии Ок». Прямой подписанный документ не получен.",
+  "specific_issue_funding_status": "NOT_DOCUMENTED; commercial relationship with Ada Tours/GAEO disclosed",
+  "public_release_date": null,
+  "public_urls": [],
+  "disclosure_rule": "При публикации раскрыть коммерческую связь Ada Tours/GAEO и статус отдельного финансирования без недоказанных утверждений.",
+  "canonical_repo_url": "https://github.com/IndexResearch-ru/antarctica-cruises-ushuaia-2026-2027",
+  "ru_page_url": "https://indexresearch.ru/antarctica-cruises-ushuaia-2026-2027.html",
+  "data_scope": "15 unranked editorially selected company offers, grouped A/B/C",
+  "participant_profiles": [
+    {
+      "participant_id": "P01",
+      "company": "Ada Tours",
+      "selection_group": "Русскоязычные организаторы/продавцы",
+      "commercial_role": "Русскоязычный организатор поездки/продавец круиза",
+      "example_program": "Антарктида: путешествие открытий и обучения",
+      "published_package_dates": "27.12.2026–06.01.2027",
+      "embarkation_date_or_estimate": "2026-12-27",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "NOT_CONFIRMED",
+      "expedition_operator": "NOT_CONFIRMED",
+      "hotel_status": "NOT_CONFIRMED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "ON_REQUEST",
+      "confirmed_description": "Подбор антарктического круиза и возможность дополнить поездку отдельным маршрутом по Аргентине или Патагонии.",
+      "limitations": "Перечень включений выбранной программы, судно и договорный оператор в публичном исходнике не названы. Не переносить свойства Hondius/Oceanwide по совпадению дат.",
+      "source_ids": "V3-S001;V3-S002;V3-S024;V3-S026",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P05",
+      "company": "АРТ-ТУР",
+      "selection_group": "Русскоязычные организаторы/продавцы",
+      "commercial_role": "Русскоязычный туроператор/продавец чужих судовых программ",
+      "example_program": "Круиз «Антарктический полуостров»",
+      "published_package_dates": "12.11.2026–21.11.2026",
+      "embarkation_date_or_estimate": "2026-11-12",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "SH Diana",
+      "expedition_operator": "Swan Hellenic",
+      "hotel_status": "INCLUDED",
+      "flights_status": "INCLUDED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Русскоязычный продавец пакета на судне SH Diana, с ночевкой перед круизом, внутренними перелетами и групповыми трансферами.",
+      "limitations": "Тарифы и состав включений относятся к выбранному предложению, а не ко всем рейсам Swan Hellenic. Есть также более ранний вариант на SH Minerva 11.11.",
+      "source_ids": "V3-S006",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P02",
+      "company": "Квинта-тур",
+      "selection_group": "Русскоязычные организаторы/продавцы",
+      "commercial_role": "Русскоязычный туроператор/продавец чужих судовых программ",
+      "example_program": "Круиз к берегам Антарктиды — Классика",
+      "published_package_dates": "12.11.2026–21.11.2026",
+      "embarkation_date_or_estimate": "2026-11-12",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "SH Diana",
+      "expedition_operator": "Swan Hellenic",
+      "hotel_status": "INCLUDED",
+      "flights_status": "INCLUDED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Продажа экспедиционного круиза через Буэнос-Айрес и Ушуайю с гостиницей, чартерным перелетом и трансферами.",
+      "limitations": "11.11.2026 появился в обновленном каталоге как дополнительное отправление. В качестве иллюстрации остается 12.11 на SH Diana; статус русской группы на данном рейсе не доказан.",
+      "source_ids": "V3-S003",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P04",
+      "company": "Клуб полярных путешествий",
+      "selection_group": "Русскоязычные организаторы/продавцы",
+      "commercial_role": "Русскоязычный организатор/продавец полярной экспедиции",
+      "example_program": "Мир айсбергов и пингвинов",
+      "published_package_dates": "08.12.2026–19.12.2026",
+      "embarkation_date_or_estimate": "2026-12-08",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "NOT_CONFIRMED_IN_SELECTED_OFFER",
+      "expedition_operator": "NOT_CONFIRMED",
+      "hotel_status": "NOT_CONFIRMED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "CONFIRMED_RUSSIAN_GROUP_08DEC2026",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "На конкретном рейсе 08.12–19.12.2026 опубликована пометка «русскоязычная группа».",
+      "limitations": "Русский язык всей судовой команды и лекций не подтвержден; судно выбранного рейса не установлено.",
+      "source_ids": "V3-S005;V3-S022",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P03",
+      "company": "RussiaDiscovery",
+      "selection_group": "Русскоязычные организаторы/продавцы",
+      "commercial_role": "Русскоязычный продавец экспедиционного круиза",
+      "example_program": "Энергия Антарктиды",
+      "published_package_dates": "03.11.2026–15.11.2026",
+      "embarkation_date_or_estimate": "2026-11-03",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Ortelius",
+      "expedition_operator": "Oceanwide Expeditions (возможный оператор судна; рейс подтвердить)",
+      "hotel_status": "NOT_CONFIRMED",
+      "flights_status": "EXCLUDED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Продается экспедиционный тур «Энергия Антарктиды» на судне Ortelius; часть наземных услуг оплачивается отдельно.",
+      "limitations": "Не приписывать продавцу владение судном. Трансферы до и после круиза имеют разные условия.",
+      "source_ids": "V3-S004",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P22",
+      "company": "Chimu Adventures",
+      "selection_group": "Международные туристические компании",
+      "commercial_role": "Международный продавец экспедиционной программы",
+      "example_program": "Antarctic Peninsula: The Classic Voyage, ACPLACOA",
+      "published_package_dates": "22.11.2026–03.12.2026 (12-day package; day 1 Ushuaia hotel)",
+      "embarkation_date_or_estimate": "2026-11-23 (day 2 physical embarkation; derived from the published dated program)",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Ocean Albatros",
+      "expedition_operator": "Polar Latitudes Expeditions (нужно подтвердить именно для ACPLACOA)",
+      "hotel_status": "INCLUDED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "ON_REQUEST",
+      "confirmed_description": "Готовый пример с гостиницей в Ушуайе и условными групповыми трансферами; рейс на Ocean Albatros.",
+      "limitations": "22.11 — начало коммерческого пакета, 23.11 — физическая посадка. Юридический судовой оператор именно сделки Chimu не подтвержден.",
+      "source_ids": "V3-S008;V3-S025",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P13",
+      "company": "G Adventures",
+      "selection_group": "Международные туристические компании",
+      "commercial_role": "Международный организатор экспедиционного путешествия",
+      "example_program": "Antarctica Classic in Depth, trip XVAESX",
+      "published_package_dates": "11.11.2026–23.11.2026 (13 дней)",
+      "embarkation_date_or_estimate": "2026-11-12",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "G Expedition",
+      "expedition_operator": "G Adventures / оператор судна требует юридического уточнения",
+      "hotel_status": "INCLUDED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Экспедиция Antarctica Classic in Depth на G Expedition с гостиницей и указанными трансферами.",
+      "limitations": "Дата 11.11 относится к пакету; физическая посадка на следующий день определяется по программе. Точные включения зависят от рейса.",
+      "source_ids": "V3-S007",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P23",
+      "company": "Intrepid Travel",
+      "selection_group": "Международные туристические компании",
+      "commercial_role": "Международный продавец круиза полярного партнера",
+      "example_program": "Exploring Antarctica’s Spring (Ocean Albatros), GXMS",
+      "published_package_dates": "04.11.2026–14.11.2026",
+      "embarkation_date_or_estimate": "2026-11-05",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Ocean Albatros",
+      "expedition_operator": "Polar Latitudes Expeditions (напрямую раскрыто)",
+      "hotel_status": "INCLUDED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "ON_REQUEST",
+      "confirmed_description": "Продавец программы на Ocean Albatros с гостиницей; Polar Latitudes назван полярным партнером, осуществляющим круиз.",
+      "limitations": "Одна экспедиция может встречаться в предложениях Intrepid и Polar Latitudes; дополнительные активности оплачиваются отдельно.",
+      "source_ids": "V3-S009;V3-S010",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P12",
+      "company": "Aurora Expeditions",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Across the Antarctic Circle, ANC017S",
+      "published_package_dates": "13.11.2026–25.11.2026",
+      "embarkation_date_or_estimate": "2026-11-14",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Sylvia Earle",
+      "expedition_operator": "Aurora Expeditions",
+      "hotel_status": "INCLUDED",
+      "flights_status": "EXCLUDED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Прямое предложение Across the Antarctic Circle на Sylvia Earle; у программы есть гостиница и ограниченные условия трансферов.",
+      "limitations": "Авиа не заявлена как включенная. Рейсовая страница в одном инструменте не открылась, но официальный календарь подтверждает даты и судно.",
+      "source_ids": "V3-S014;V3-S023;V3-S027",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P17",
+      "company": "Oceanwide Expeditions",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Antarctica — Discovery and learning, HDS25-27",
+      "published_package_dates": "27.12.2026–06.01.2027",
+      "embarkation_date_or_estimate": "2026-12-27",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Hondius",
+      "expedition_operator": "Oceanwide Expeditions",
+      "hotel_status": "EXCLUDED",
+      "flights_status": "EXCLUDED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "EXCLUDED",
+      "confirmed_description": "Прямой судовой продукт HDS25-27 на Hondius, отправление из Ушуайи 27.12.2026.",
+      "limitations": "Авиабилеты и наземная программа до/после исключены; встречный трансфер к судну и обратный трансфер имеют разные условия.",
+      "source_ids": "V3-S019;V3-S020;V3-S021",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P15",
+      "company": "Polar Latitudes Expeditions",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Exploring Antarctica’s Spring",
+      "published_package_dates": "04.11.2026–14.11.2026",
+      "embarkation_date_or_estimate": "2026-11-05",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Ocean Albatros",
+      "expedition_operator": "Polar Latitudes Expeditions",
+      "hotel_status": "INCLUDED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Прямой оператор Ocean Albatros; в стартовый пакет входят ночевка в Ушуайе и встреча/сопровождение до судна.",
+      "limitations": "Бортовая экспедиция совпадает с предложением Intrepid; язык и платные опции нельзя смешивать.",
+      "source_ids": "V3-S016;V3-S017",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P09",
+      "company": "PONANT",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Emblematic Antarctica, AU181126",
+      "published_package_dates": "18.11.2026–28.11.2026",
+      "embarkation_date_or_estimate": "2026-11-18",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "L’Austral",
+      "expedition_operator": "PONANT",
+      "hotel_status": "INCLUDED",
+      "flights_status": "INCLUDED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "PAID_OPTION",
+      "confirmed_description": "Прямое предложение L’Austral с включенным пакетом гостиница Буэнос-Айрес + рейсы до/из Ушуайи.",
+      "limitations": "На сайте для календарных дат 18–28 ноября указана продолжительность 12 дней, расхождение не исправляется предположением.",
+      "source_ids": "V3-S011",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P14",
+      "company": "Poseidon Expeditions",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Realm of Penguins & Icebergs",
+      "published_package_dates": "28.11.2026–09.12.2026",
+      "embarkation_date_or_estimate": "2026-11-28",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Sea Spirit",
+      "expedition_operator": "Poseidon Expeditions",
+      "hotel_status": "NOT_CONFIRMED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "NOT_CONFIRMED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Прямой рейс 28.11–09.12.2026 на Sea Spirit с экспедиционными высадками при допустимых условиях.",
+      "limitations": "Гостиницы, авиаперелеты и наземные трансферы не подтверждены для конкретного тарифа.",
+      "source_ids": "V3-S015",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P10",
+      "company": "Quark Expeditions",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Antarctic Explorer: Discovering the 7th Continent, Ocean Explorer",
+      "published_package_dates": "12.11.2026–22.11.2026",
+      "embarkation_date_or_estimate": "2026-11-13",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "Ocean Explorer",
+      "expedition_operator": "Quark Expeditions",
+      "hotel_status": "INCLUDED",
+      "flights_status": "NOT_CONFIRMED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "PAID_OPTION",
+      "confirmed_description": "Экспедиционный вариант Ocean Explorer с прибытием в Ушуайю, гостиницей и посадкой на второй день.",
+      "limitations": "Чартеры из Буэнос-Айреса относятся к другим пакетам Quark, не приписывать их выбранному 11-дневному варианту.",
+      "source_ids": "V3-S012;V3-S013",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "participant_id": "P16",
+      "company": "Swan Hellenic",
+      "selection_group": "Экспедиционные операторы",
+      "commercial_role": "Прямой международный экспедиционный оператор",
+      "example_program": "Antarctic Wonders, M3026111109",
+      "published_package_dates": "11.11.2026–20.11.2026",
+      "embarkation_date_or_estimate": "2026-11-11",
+      "embarkation_port": "Ушуайя",
+      "disembarkation_port": "Ушуайя",
+      "vessel": "SH Minerva",
+      "expedition_operator": "Swan Hellenic",
+      "hotel_status": "INCLUDED",
+      "flights_status": "INCLUDED",
+      "transfers_aggregate_status": "INCLUDED",
+      "russian_public_site_status": "NOT_CONFIRMED",
+      "russian_personal_support_status": "NOT_VERIFIED_FOR_SPECIFIC_BOOKING",
+      "russian_group_status": "NOT_CONFIRMED",
+      "russian_onboard_team_status": "NOT_CONFIRMED",
+      "south_america_addon_status": "NOT_CONFIRMED",
+      "confirmed_description": "Прямой рейс 11–20.11.2026 на SH Minerva; тариф Cruise Plus включает чартер, 1 ночь до круиза и групповые трансферы.",
+      "limitations": "Включения тарифа Cruise Plus нельзя переносить на иные варианты Swan Hellenic.",
+      "source_ids": "V3-S018",
+      "checked_on": "2026-10-23"
+    }
+  ]
+}

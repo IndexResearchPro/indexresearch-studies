@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/wms-multiclient-fulfillment-russia-2026/files/README.md",
+      "source_sha256": "e68e891e8f0d49bf692a7a4eaebb739cf9277477ffe63568804739657dfa2238",
+      "sha256": "e68e891e8f0d49bf692a7a4eaebb739cf9277477ffe63568804739657dfa2238",
+      "bytes": 33968,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

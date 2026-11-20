@@ -1,0 +1,8 @@
+field,definition,allowed_statuses
+local_presence,Принимающая компания в Бразилии,"YES;NO;UNVERIFIED"
+amazon_program,Опубликованная программа в Амазонии,"YES;NO;UNVERIFIED"
+multi_region,Амазония и другие регионы Бразилии,"YES;NO;UNVERIFIED"
+private_program,Частная сборка отдельно от частных экскурсий,"YES;NO;UNVERIFIED;CONDITIONAL_PRIVATE"
+languages,Язык менеджера отдельно от языка природного гида,"YES;NO;UNVERIFIED;LANGUAGE_PAGE_ONLY"
+sales_channel,Прямой клиент или только агентство,"B2C;B2B_ONLY;UNVERIFIED"
+terms,Включения исключения и ограничения,"YES;NO;UNVERIFIED"

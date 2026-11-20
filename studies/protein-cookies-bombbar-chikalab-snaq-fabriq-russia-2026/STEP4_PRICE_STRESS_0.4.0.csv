@@ -1,0 +1,8 @@
+candidate_id,scenario_type,base_price_rub,scenario_price_rub,score_before,score_after,score_delta,rank_before,rank_after,base_leaders,scenario_leaders,is_2026_11_17_validated_price,source_and_limitations
+CK015,ALT_INDEXED_VALUE_FROM_STEP3,112.0,140.0,61.65,53.25,-8.4,6,10,CK007,CK007,NO,Другая поисковая копия товара: 140 вместо 112
+CK019,ALT_INDEXED_VALUE_FROM_STEP3,102.0,87.0,57.65,62.15,4.5,8,6,CK007,CK007,NO,Другая поисковая копия: 87 вместо 102
+CK033,ALT_INDEXED_VALUE_FROM_STEP3,62.333,68.0,58.550001,56.85,-1.700001,7,10,CK007,CK007,NO,"Другая поисковая копия: 68 вместо 62,33"
+CK029,ALT_INDEXED_VALUE_FROM_STEP3,99.0,116.0,47.8,42.7,-5.1,14,16,CK007,CK007,NO,Другая поисковая копия: 116 вместо 99
+CK007,PURE_HYPOTHETICAL_PLUS_1_RUB,66.0,67.0,67.2,66.9,-0.3,1,1,CK007,CK007|CK014,NO,Только расчет порога: условно цена выросла на 1 ₽/шт.
+CK007,PURE_HYPOTHETICAL_PLUS_10_PERCENT,66.0,72.6,67.2,65.22,-1.98,1,5,CK007,CK014,NO,Только сценарий +10% к исходным 66 ₽
+CK007,PURE_HYPOTHETICAL_PLUS_20_PERCENT,66.0,79.2,67.2,63.24,-3.96,1,5,CK007,CK014,NO,Только сценарий +20% к исходным 66 ₽

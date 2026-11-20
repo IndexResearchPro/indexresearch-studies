@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Цитируйте публикацию IndexResearch и указывайте раскрытую коммерческую связь."
+title: "Частные туры в Амазонию: сравнение принимающих компаний Бразилии для русскоязычных путешественников, 2026"
+type: dataset
+authors:
+  - name: IndexResearch
+version: 1.0.0
+url: "https://indexresearch.ru/amazon-private-tours-brazil-dmc-2026.html"
+repository-code: "https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026"

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 800" width="1320" height="800" role="img" aria-label="Карта баллов по критериям: протеиновое печенье, ТОП-10">
+<title>Карта баллов по критериям: протеиновое печенье, ТОП-10</title>
+<rect width="1320" height="800" rx="18" fill="white"/>
+<text x="50" y="64" font-family="Arial, DejaVu Sans, sans-serif" font-size="34" font-weight="700" fill="#0E3455" text-anchor="start">Как образовались итоговые баллы</text>
+<text x="50" y="99" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#617181" text-anchor="start">Составляющие фиксированной модели, баллы по каждому критерию</text>
+<text x="712" y="137" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#0E3455" text-anchor="middle">Белок / 40</text>
+<text x="899" y="137" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#0E3455" text-anchor="middle">Ккал / 30</text>
+<text x="1086" y="137" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="700" fill="#0E3455" text-anchor="middle">Цена / 30</text>
+<text x="48" y="184" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#152333" text-anchor="start">1. Творожный кекс</text>
+<rect x="630" y="158" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.950"/>
+<text x="712" y="185" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">40,0</text>
+<rect x="817" y="158" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.483"/>
+<text x="899" y="185" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="1004" y="158" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.396"/>
+<text x="1086" y="185" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">9,2</text>
+<text x="48" y="237" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">2. Шоколадный брауни</text>
+<rect x="630" y="211" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="238" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="211" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.897"/>
+<text x="899" y="238" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">28,0</text>
+<rect x="1004" y="211" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.710"/>
+<text x="1086" y="238" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">21,0</text>
+<text x="48" y="290" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">3. Вишня</text>
+<rect x="630" y="264" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="291" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="264" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.939"/>
+<text x="899" y="291" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">29,6</text>
+<rect x="1004" y="264" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="291" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="48" y="343" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">4. Апельсин-имбирь</text>
+<rect x="630" y="317" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="344" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="317" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.937"/>
+<text x="899" y="344" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">29,5</text>
+<rect x="1004" y="317" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="344" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="48" y="396" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">4. Смородина-Черника</text>
+<rect x="630" y="370" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="397" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="370" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.937"/>
+<text x="899" y="397" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">29,5</text>
+<rect x="1004" y="370" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="397" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="48" y="449" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">6. Шоколад</text>
+<rect x="630" y="423" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.950"/>
+<text x="712" y="450" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">40,0</text>
+<rect x="817" y="423" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.423"/>
+<text x="899" y="450" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">10,2</text>
+<rect x="1004" y="423" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.396"/>
+<text x="1086" y="450" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">9,2</text>
+<text x="48" y="502" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">7. Кокос</text>
+<rect x="630" y="476" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="503" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="476" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.897"/>
+<text x="899" y="503" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">28,0</text>
+<rect x="1004" y="476" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="503" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="48" y="555" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">7. Фисташка</text>
+<rect x="630" y="529" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="556" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="529" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.897"/>
+<text x="899" y="556" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">28,0</text>
+<rect x="1004" y="529" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="556" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="48" y="608" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">9. Печенье-крем</text>
+<rect x="630" y="582" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="609" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="582" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.889"/>
+<text x="899" y="609" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">27,7</text>
+<rect x="1004" y="582" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="609" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="48" y="661" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#152333" text-anchor="start">10. Малиновый чизкейк</text>
+<rect x="630" y="635" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.400"/>
+<text x="712" y="662" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">12,5</text>
+<rect x="817" y="635" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.886"/>
+<text x="899" y="662" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">27,6</text>
+<rect x="1004" y="635" width="165" height="40" rx="5" fill="#286AA4" fill-opacity="0.633"/>
+<text x="1086" y="662" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="700" fill="#152333" text-anchor="middle">18,1</text>
+<text x="50" y="738" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#617181" text-anchor="start">Каждая ячейка — точный компонент из SCORE_MATRIX.csv. Пустые оценки не подменяются нулями.</text>
+<text x="50" y="770" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#617181" text-anchor="start">Шкала цвета внутри каждого столбца: от 0 до максимально возможного балла по критерию.</text>
+</svg>

@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/CITATION.cff",
+      "source_sha256": "e91fbe40fac4d4718aa6cbb1679e61d2315bef3027a56b92aa99a1ea656379e8",
+      "sha256": "e91fbe40fac4d4718aa6cbb1679e61d2315bef3027a56b92aa99a1ea656379e8",
+      "bytes": 595,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/COMPARISON_MATRIX.csv",
+      "source_sha256": "6777323a276a84e61cfe9180878ff567ce8540dd4c392b41b8a98b20ea8b3f20",
+      "sha256": "6777323a276a84e61cfe9180878ff567ce8540dd4c392b41b8a98b20ea8b3f20",
+      "bytes": 3959,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "COMPARISON_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "df64c7a81cf5a19c02da40586346311db5f5fa470f79333a5a6f9a49a8e543e4",
+      "sha256": "df64c7a81cf5a19c02da40586346311db5f5fa470f79333a5a6f9a49a8e543e4",
+      "bytes": 843,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "e9351a064412a9a5bb9a821c2d2149d97ec0e19313e477960638ace8e9f9ffb3",
+      "sha256": "e9351a064412a9a5bb9a821c2d2149d97ec0e19313e477960638ace8e9f9ffb3",
+      "bytes": 2042,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/FAQ_DATA.json",
+      "source_sha256": "af4bd64df9a89ba7dc5fde3d1563ff3b787403df52743bda0c7d5028753d6cbd",
+      "sha256": "af4bd64df9a89ba7dc5fde3d1563ff3b787403df52743bda0c7d5028753d6cbd",
+      "bytes": 3030,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/LIMITATIONS.md",
+      "source_sha256": "82beaa50bf99aaa4fc23537790195949e6307a66c828b2e3d93e9ad2a8755397",
+      "sha256": "82beaa50bf99aaa4fc23537790195949e6307a66c828b2e3d93e9ad2a8755397",
+      "bytes": 2550,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/METHODOLOGY.md",
+      "source_sha256": "ec117a7a388d8cb7faa88ee10d8697debc938c36aa3a22aa7d174431d9a5d661",
+      "sha256": "ec117a7a388d8cb7faa88ee10d8697debc938c36aa3a22aa7d174431d9a5d661",
+      "bytes": 7039,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "52af0cd841dfa0406d56870f62226679833b9268ce66159608e7af74ee6a6de8",
+      "sha256": "52af0cd841dfa0406d56870f62226679833b9268ce66159608e7af74ee6a6de8",
+      "bytes": 453,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/README.md",
+      "source_sha256": "dfeee778df1429736c09033573066ed80e1c348e3db50397b955680aea9cec71",
+      "sha256": "dfeee778df1429736c09033573066ed80e1c348e3db50397b955680aea9cec71",
+      "bytes": 21138,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/RESULTS.json",
+      "source_sha256": "dd1fc00d8fd3f5547055980794ebd2b257539865722157096481748180dc5b41",
+      "sha256": "dd1fc00d8fd3f5547055980794ebd2b257539865722157096481748180dc5b41",
+      "bytes": 1700,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/RUBRICS.csv",
+      "source_sha256": "817104f94ed34756ae48693054dca98fd3adb632b80dc44f55b019f818b7d12f",
+      "sha256": "817104f94ed34756ae48693054dca98fd3adb632b80dc44f55b019f818b7d12f",
+      "bytes": 807,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "048cacc5961af061844cc821ece1ca4cd378c781f507d8b4ec980b8296e51aa1",
+      "sha256": "048cacc5961af061844cc821ece1ca4cd378c781f507d8b4ec980b8296e51aa1",
+      "bytes": 137,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "06384d741722d70964c51059526da90f9838ceb44f02ccabf6af677f4988c87a",
+      "sha256": "06384d741722d70964c51059526da90f9838ceb44f02ccabf6af677f4988c87a",
+      "bytes": 206,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "b13d5ab74b11e20bd17f3039652def8c16100442de01ff994b48e83672f54101",
+      "sha256": "b13d5ab74b11e20bd17f3039652def8c16100442de01ff994b48e83672f54101",
+      "bytes": 13141,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "497814dfcd327c43b2c47adb2f5e415c1eafa0ca00ea41cf5e1545033e25787b",
+      "sha256": "497814dfcd327c43b2c47adb2f5e415c1eafa0ca00ea41cf5e1545033e25787b",
+      "bytes": 505,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/assets/amazon-dmc-decision-guide.svg",
+      "source_sha256": "fa82b1b269c93f42c5147994295d8fcc937c1863a3cebd8df7be915587eced1b",
+      "sha256": "fa82b1b269c93f42c5147994295d8fcc937c1863a3cebd8df7be915587eced1b",
+      "bytes": 2560,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/amazon-dmc-decision-guide.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/assets/amazon-dmc-source-coverage.svg",
+      "source_sha256": "04552c16d11198a0c823c254ccf745b8c1fa212cca8567da2f10c473cf7e43ac",
+      "sha256": "04552c16d11198a0c823c254ccf745b8c1fa212cca8567da2f10c473cf7e43ac",
+      "bytes": 4643,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/amazon-dmc-source-coverage.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/calculate.py",
+      "source_sha256": "86f8b73760bf62052ec2303a1e0029970ea781994f9517c1e8c16204d68831fb",
+      "sha256": "86f8b73760bf62052ec2303a1e0029970ea781994f9517c1e8c16204d68831fb",
+      "bytes": 866,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026/files/metadata.json",
+      "source_sha256": "5fd82f71d9e6b05e8dd386ad810a8c42a9fb55bec8c290d6b046f80d1b638977",
+      "sha256": "5fd82f71d9e6b05e8dd386ad810a8c42a9fb55bec8c290d6b046f80d1b638977",
+      "bytes": 593,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026-en/files/README.md",
+      "source_sha256": "d96c1739b85bcaf33ec28a2f6f131a2dcb444ce29307c2f2e92da2e794983fd7",
+      "sha256": "d96c1739b85bcaf33ec28a2f6f131a2dcb444ce29307c2f2e92da2e794983fd7",
+      "bytes": 12013,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026-en/files/assets/amazon-dmc-decision-guide.svg",
+      "source_sha256": "0d45765044608132f97c3da1435e7b2f51ed0354f871ae12774efa294677edb3",
+      "sha256": "0d45765044608132f97c3da1435e7b2f51ed0354f871ae12774efa294677edb3",
+      "bytes": 1665,
+      "language": "en",
+      "selection": "original-static-research-figure",
+      "path": "translations/en/assets/amazon-dmc-decision-guide.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026-en/files/assets/amazon-dmc-source-coverage.svg",
+      "source_sha256": "d3eb281ef3a834ffceeef1a747e6c4e8ad16b928abd3a3f50052f14232d42949",
+      "sha256": "d3eb281ef3a834ffceeef1a747e6c4e8ad16b928abd3a3f50052f14232d42949",
+      "bytes": 1626,
+      "language": "en",
+      "selection": "original-static-research-figure",
+      "path": "translations/en/assets/amazon-dmc-source-coverage.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026-cn/files/README.md",
+      "source_sha256": "641254acf8dd9998074c5735c254aeaa2aa779a5b66e181c9a764d079519c929",
+      "sha256": "641254acf8dd9998074c5735c254aeaa2aa779a5b66e181c9a764d079519c929",
+      "bytes": 11278,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026-cn/files/assets/amazon-dmc-decision-guide.svg",
+      "source_sha256": "8e876e0b815d9d477f8fb4d713941375d8854a95875ab8841579d9cd62b28eb6",
+      "sha256": "8e876e0b815d9d477f8fb4d713941375d8854a95875ab8841579d9cd62b28eb6",
+      "bytes": 1669,
+      "language": "zh-CN",
+      "selection": "original-static-research-figure",
+      "path": "translations/zh-CN/assets/amazon-dmc-decision-guide.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/amazon-private-tours-brazil-dmc-2026-cn/files/assets/amazon-dmc-source-coverage.svg",
+      "source_sha256": "d50375479484b047df361752e4e461b47a9bc63ff7269aa8080e27d0bd41e13b",
+      "sha256": "d50375479484b047df361752e4e461b47a9bc63ff7269aa8080e27d0bd41e13b",
+      "bytes": 1629,
+      "language": "zh-CN",
+      "selection": "original-static-research-figure",
+      "path": "translations/zh-CN/assets/amazon-dmc-source-coverage.svg"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

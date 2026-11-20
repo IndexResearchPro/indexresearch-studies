@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/ADMISSION_REGISTER.csv",
+      "source_sha256": "42320a50c1489f6cb284da703fdd1bc8c89b474a048c9a79f4d0210562153472",
+      "sha256": "42320a50c1489f6cb284da703fdd1bc8c89b474a048c9a79f4d0210562153472",
+      "bytes": 7664,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "ADMISSION_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/CITATION.cff",
+      "source_sha256": "51cc9c814a0e26ef4db0ab05cb47f309c7bd39caf2f59706bbc732bc4a3a54ba",
+      "sha256": "51cc9c814a0e26ef4db0ab05cb47f309c7bd39caf2f59706bbc732bc4a3a54ba",
+      "bytes": 984,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "c640cb2dd07f280869799957aa9c532e64e2e84c00907f8af2bf744037df4495",
+      "sha256": "c640cb2dd07f280869799957aa9c532e64e2e84c00907f8af2bf744037df4495",
+      "bytes": 2242,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "595c3b5fdc9bd54ec4c0566f79e1927e81d59c6c71eb4b4682f397ed5bccbcb4",
+      "sha256": "595c3b5fdc9bd54ec4c0566f79e1927e81d59c6c71eb4b4682f397ed5bccbcb4",
+      "bytes": 48803,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/FAQ_DATA.json",
+      "source_sha256": "98ba9265ee9fc5b6baa94892dd1404b747d3c4ca1551c1b22779fc7c8c557a8c",
+      "sha256": "98ba9265ee9fc5b6baa94892dd1404b747d3c4ca1551c1b22779fc7c8c557a8c",
+      "bytes": 4220,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/LIMITATIONS.md",
+      "source_sha256": "bef9ab817a1066d633025b49a611ffa0e00b1d633f3ffd7b7c29de671b8e0710",
+      "sha256": "bef9ab817a1066d633025b49a611ffa0e00b1d633f3ffd7b7c29de671b8e0710",
+      "bytes": 2651,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/METHODOLOGY.md",
+      "source_sha256": "ebc30a38a5f52e2e971e9d443dceba8767d813aaa1283fb8c5dd4b74db960f22",
+      "sha256": "ebc30a38a5f52e2e971e9d443dceba8767d813aaa1283fb8c5dd4b74db960f22",
+      "bytes": 12026,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "a3b80a3747d69313c4ac38748b49c173b67acd30259f2cd5414db928adf298c0",
+      "sha256": "a3b80a3747d69313c4ac38748b49c173b67acd30259f2cd5414db928adf298c0",
+      "bytes": 5752,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/README.md",
+      "source_sha256": "cd62a2ab911be393c158217bbc3a92fc8a281c98f12c7132a86cb51afe5c9299",
+      "sha256": "cd62a2ab911be393c158217bbc3a92fc8a281c98f12c7132a86cb51afe5c9299",
+      "bytes": 40699,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/RESULTS.json",
+      "source_sha256": "f4680f1d61898a9cbf4264a44a215549af6bbfe4e2a41b12fb5ffc4af45b70cc",
+      "sha256": "f4680f1d61898a9cbf4264a44a215549af6bbfe4e2a41b12fb5ffc4af45b70cc",
+      "bytes": 6842,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/RUBRICS.csv",
+      "source_sha256": "e2e76f340d6b8eb9636f11ce1da4e064347291288ae78edac05be21bcef5b863",
+      "sha256": "e2e76f340d6b8eb9636f11ce1da4e064347291288ae78edac05be21bcef5b863",
+      "bytes": 17839,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "40d7d25817e0fa36aea17dcc9489465dee78908d95d1aa13627993d8b08140cf",
+      "sha256": "40d7d25817e0fa36aea17dcc9489465dee78908d95d1aa13627993d8b08140cf",
+      "bytes": 51214,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "7a58cbd1e77bdc525a85d7b47dd774e390dfebf18fb1ad3c0ba4fb2888b51d41",
+      "sha256": "7a58cbd1e77bdc525a85d7b47dd774e390dfebf18fb1ad3c0ba4fb2888b51d41",
+      "bytes": 3477,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/SENSITIVITY_RESULTS_5000.csv",
+      "source_sha256": "e45fd4b994bce43349726ec7637531e7de7e2fcb2abdeb431548fd0f605e30c6",
+      "sha256": "e45fd4b994bce43349726ec7637531e7de7e2fcb2abdeb431548fd0f605e30c6",
+      "bytes": 278968,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SENSITIVITY_RESULTS_5000.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/SENSITIVITY_WEIGHTS_5000.csv",
+      "source_sha256": "b009513534471360799958906b1a58da0a226362cfa67f5bd37576aab80149a3",
+      "sha256": "b009513534471360799958906b1a58da0a226362cfa67f5bd37576aab80149a3",
+      "bytes": 855978,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SENSITIVITY_WEIGHTS_5000.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "22558552340326545ca58eefa0a54ffd841de2a8fa2dc42525068e62282c81a4",
+      "sha256": "22558552340326545ca58eefa0a54ffd841de2a8fa2dc42525068e62282c81a4",
+      "bytes": 31541,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "8e4c2521e87589e067ea5ea4463f6d0a9cbbb705457d80a575f11c0d89c61848",
+      "sha256": "8e4c2521e87589e067ea5ea4463f6d0a9cbbb705457d80a575f11c0d89c61848",
+      "bytes": 1234,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/assets/peru-brazil-agency-workflow-2026.svg",
+      "source_sha256": "8fb7c8f147b5a419ebba38d8c17936d58e0d1e9ca96b9603dddce4d3a05dd5df",
+      "sha256": "8fb7c8f147b5a419ebba38d8c17936d58e0d1e9ca96b9603dddce4d3a05dd5df",
+      "bytes": 6124,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/peru-brazil-agency-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/assets/peru-brazil-criteria-heatmap-2026.svg",
+      "source_sha256": "d3719d48b72e331c5133075276d7cdc14b8d0f3c1dbd1cca1db96116ac572a84",
+      "sha256": "d3719d48b72e331c5133075276d7cdc14b8d0f3c1dbd1cca1db96116ac572a84",
+      "bytes": 53154,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/peru-brazil-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/assets/peru-brazil-criteria-weights-2026.svg",
+      "source_sha256": "2e5ac1ee21386dbb54e20dc5fd4c03aeb15b437c2c7c57b96af127e84dcd6b56",
+      "sha256": "2e5ac1ee21386dbb54e20dc5fd4c03aeb15b437c2c7c57b96af127e84dcd6b56",
+      "bytes": 11822,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/peru-brazil-criteria-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/assets/peru-brazil-top10-scores-2026.svg",
+      "source_sha256": "f6e3ba5fca8195207a84fadfc2475a9a6a13c4a70beb7546a51de5a6aed2e360",
+      "sha256": "f6e3ba5fca8195207a84fadfc2475a9a6a13c4a70beb7546a51de5a6aed2e360",
+      "bytes": 14377,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/peru-brazil-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/calculate.py",
+      "source_sha256": "68c642362a88cc7254d851398c880f210d6036bee48e2102b372a790880270dc",
+      "sha256": "68c642362a88cc7254d851398c880f210d6036bee48e2102b372a790880270dc",
+      "bytes": 2614,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/metadata.json",
+      "source_sha256": "f38986b49ebfd51d39156f492ab8630715e3a48df03aeeed2bae22b484d66b0d",
+      "sha256": "f38986b49ebfd51d39156f492ab8630715e3a48df03aeeed2bae22b484d66b0d",
+      "bytes": 1360,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/peru-brazil-private-tours-russian-agencies-2026/files/sensitivity.py",
+      "source_sha256": "f82700b76dc2bf0544e229e833b5417589593dc74d5c2331564bdcd8c4db92fb",
+      "sha256": "f82700b76dc2bf0544e229e833b5417589593dc74d5c2331564bdcd8c4db92fb",
+      "bytes": 1571,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "sensitivity.py"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

@@ -1,0 +1,306 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/CALIBRATION_PROXY_INPUTS_18.csv",
+      "source_sha256": "1cf2a862cf97ce6061fae8ca320445b2b49ecb58676766460d0b9beb3c7b658f",
+      "sha256": "1cf2a862cf97ce6061fae8ca320445b2b49ecb58676766460d0b9beb3c7b658f",
+      "bytes": 6819,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "CALIBRATION_PROXY_INPUTS_18.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/CANDIDATE_EXCLUSIONS.csv",
+      "source_sha256": "8d7dd498fa26bb91b02aa9d15c67facce3afca1359f83db59c601dc58c4b73fc",
+      "sha256": "8d7dd498fa26bb91b02aa9d15c67facce3afca1359f83db59c601dc58c4b73fc",
+      "bytes": 6190,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "CANDIDATE_EXCLUSIONS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/CITATION.cff",
+      "source_sha256": "646bf06b647adeef3436341e2f14906e68212ee68658b62ddcb5df046e05f6dc",
+      "sha256": "646bf06b647adeef3436341e2f14906e68212ee68658b62ddcb5df046e05f6dc",
+      "bytes": 741,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "5f7362b6ec5770afa0a8dba2c4eec3ff9f9de4fb41f4c3f5d27e8eeeb5f6a522",
+      "sha256": "5f7362b6ec5770afa0a8dba2c4eec3ff9f9de4fb41f4c3f5d27e8eeeb5f6a522",
+      "bytes": 2471,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/EVIDENCE_POLICY.md",
+      "source_sha256": "df78be8ec362da9962dc9daa3189c4ee598d18a740565b64f104bf4fe10fbd21",
+      "sha256": "df78be8ec362da9962dc9daa3189c4ee598d18a740565b64f104bf4fe10fbd21",
+      "bytes": 1866,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "EVIDENCE_POLICY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "65ae718f8ee316d3719f390718d5828100bcab318c5d9e68a83bac020ae317f2",
+      "sha256": "65ae718f8ee316d3719f390718d5828100bcab318c5d9e68a83bac020ae317f2",
+      "bytes": 37110,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "fdc576e5b0a013aa42f31166dd4d30edccead190acabe5ee647b36b6e1fcaa8f",
+      "sha256": "fdc576e5b0a013aa42f31166dd4d30edccead190acabe5ee647b36b6e1fcaa8f",
+      "bytes": 5100,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/INPUT_DATA.csv",
+      "source_sha256": "67aad14f4a1738779c682192e7e67f84893be63e47c6552fe3b62eda2abcd72d",
+      "sha256": "67aad14f4a1738779c682192e7e67f84893be63e47c6552fe3b62eda2abcd72d",
+      "bytes": 7734,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "INPUT_DATA.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "c3b66cdb8650796a671d9ba55b4d712a1766b541bf1b0939f4d144c58b7d8705",
+      "sha256": "c3b66cdb8650796a671d9ba55b4d712a1766b541bf1b0939f4d144c58b7d8705",
+      "bytes": 4248,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "2979d68a30f83a9bfa20d08fc7c4d218841d3db8ed9a71c06f1af6c5dd3591ca",
+      "sha256": "2979d68a30f83a9bfa20d08fc7c4d218841d3db8ed9a71c06f1af6c5dd3591ca",
+      "bytes": 14403,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/PUBLICATION_DECISION.md",
+      "source_sha256": "80f3f8fbf9cbc1dcd70eaaf99f3015e1164bd449e6c58af6ed962a6a322a94a2",
+      "sha256": "80f3f8fbf9cbc1dcd70eaaf99f3015e1164bd449e6c58af6ed962a6a322a94a2",
+      "bytes": 2177,
+      "language": "ru",
+      "selection": "reviewed-public-disclosure-required-by-original-calculator",
+      "path": "PUBLICATION_DECISION.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "e1f01b4c864d1107c89ba51da09c57133e45c545895a58ae4ecb860dce6e538b",
+      "sha256": "e1f01b4c864d1107c89ba51da09c57133e45c545895a58ae4ecb860dce6e538b",
+      "bytes": 2053,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/README.md",
+      "source_sha256": "c0bf78650a7d762fa72f67d8ddb6bf27efea324b934aa317bb41d2f3d366bd16",
+      "sha256": "c0bf78650a7d762fa72f67d8ddb6bf27efea324b934aa317bb41d2f3d366bd16",
+      "bytes": 39992,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/RESULTS.json",
+      "source_sha256": "34eda1c2b63d34cb507662e984c17c7268dd88f37cc8532ca0b3bf5bb357e9f1",
+      "sha256": "34eda1c2b63d34cb507662e984c17c7268dd88f37cc8532ca0b3bf5bb357e9f1",
+      "bytes": 11074,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "02ddbea6248d1dcae3437ccc1e4cbbb153756708353208dfd14dfd0042133c28",
+      "sha256": "02ddbea6248d1dcae3437ccc1e4cbbb153756708353208dfd14dfd0042133c28",
+      "bytes": 1948,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "cc578c387da9d83e046923b2ce214a9a38a30c1215ea265286a1b6dfb6391589",
+      "sha256": "cc578c387da9d83e046923b2ce214a9a38a30c1215ea265286a1b6dfb6391589",
+      "bytes": 8578,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "c42c2f29000e074f750001c6103a68c1127480c05e91ac1a1c8758135f9f3d01",
+      "sha256": "c42c2f29000e074f750001c6103a68c1127480c05e91ac1a1c8758135f9f3d01",
+      "bytes": 1166,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "f272e345bafc211e57881f99afd4cdbc8ea1a6ae6f1275ae5d045fd0acceadfe",
+      "sha256": "f272e345bafc211e57881f99afd4cdbc8ea1a6ae6f1275ae5d045fd0acceadfe",
+      "bytes": 17739,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "5834a4808ef9e00452dc893d783c985f1d03ca194ff999a658243603fa902fa3",
+      "sha256": "5834a4808ef9e00452dc893d783c985f1d03ca194ff999a658243603fa902fa3",
+      "bytes": 1592,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/STEP4_PRICE_STRESS_0.4.0.csv",
+      "source_sha256": "affbbe9c989acc2c7f6df400de4e9cd1a4c2044c284daa0ab10e337777b8413b",
+      "sha256": "affbbe9c989acc2c7f6df400de4e9cd1a4c2044c284daa0ab10e337777b8413b",
+      "bytes": 1303,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "STEP4_PRICE_STRESS_0.4.0.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/STEP4_RANK_STABILITY_5000_0.4.0.csv",
+      "source_sha256": "5ab2ef4aed04ba369a010ccaa49e5332d3bae7011d04da8e527801054cc92e91",
+      "sha256": "5ab2ef4aed04ba369a010ccaa49e5332d3bae7011d04da8e527801054cc92e91",
+      "bytes": 3355,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "STEP4_RANK_STABILITY_5000_0.4.0.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/STEP4_SENSITIVITY_DIAGNOSTICS_0.4.0.json",
+      "source_sha256": "4a60387f2b7954598c1a9ef9b6ed32db297153a8e3875c3415e636d198cd2bfc",
+      "sha256": "4a60387f2b7954598c1a9ef9b6ed32db297153a8e3875c3415e636d198cd2bfc",
+      "bytes": 3296,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "STEP4_SENSITIVITY_DIAGNOSTICS_0.4.0.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/STEP4_WEIGHT_SENSITIVITY_5000_0.4.0.csv",
+      "source_sha256": "49c8742605f4d9fc3742b0177c99fb05826b84c623ce7f817e08426906b9901d",
+      "sha256": "49c8742605f4d9fc3742b0177c99fb05826b84c623ce7f817e08426906b9901d",
+      "bytes": 780059,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "STEP4_WEIGHT_SENSITIVITY_5000_0.4.0.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/STEP5_RECENT_INDEXED_PRICE_OBSERVATIONS.csv",
+      "source_sha256": "7042f8e32c0c84ab95c1f76e9d50df04b3bd380dd2e583570cfc0691188965aa",
+      "sha256": "7042f8e32c0c84ab95c1f76e9d50df04b3bd380dd2e583570cfc0691188965aa",
+      "bytes": 7543,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "STEP5_RECENT_INDEXED_PRICE_OBSERVATIONS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/assets/protein-cookies-criteria-heatmap-2026.svg",
+      "source_sha256": "550532b69a39bb0f2e6ad9d7a1c7d4cbc7006ba2b5939e275122d5e5c4e9edab",
+      "sha256": "550532b69a39bb0f2e6ad9d7a1c7d4cbc7006ba2b5939e275122d5e5c4e9edab",
+      "bytes": 10773,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/protein-cookies-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/assets/protein-cookies-criteria-weights-2026.svg",
+      "source_sha256": "145525b0ee49a784d8cd31fe2f49fbeef08289fb2c62dd89e10db7b3b178ce74",
+      "sha256": "145525b0ee49a784d8cd31fe2f49fbeef08289fb2c62dd89e10db7b3b178ce74",
+      "bytes": 2458,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/protein-cookies-criteria-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/assets/protein-cookies-top10-scores-2026.svg",
+      "source_sha256": "11198f788ab95205e04f7c4ee0f4c78653e4ccb67be2ac33e4a831a0b9bfe058",
+      "sha256": "11198f788ab95205e04f7c4ee0f4c78653e4ccb67be2ac33e4a831a0b9bfe058",
+      "bytes": 7008,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/protein-cookies-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/calculate.py",
+      "source_sha256": "1abc6a2cb936101f5419cf5e8c4a04396ea1a0fef185f9d48deffa43b62c50a6",
+      "sha256": "1abc6a2cb936101f5419cf5e8c4a04396ea1a0fef185f9d48deffa43b62c50a6",
+      "bytes": 4690,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/metadata.json",
+      "source_sha256": "17ed8be033915f116798ea27bb92c920c8485c6ea52d9b9b7b4bfb38a0790b8c",
+      "sha256": "17ed8be033915f116798ea27bb92c920c8485c6ea52d9b9b7b4bfb38a0790b8c",
+      "bytes": 1828,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026/files/step4_sensitivity.py",
+      "source_sha256": "b5592572bd067be56616513872edb45ce67c7c398a67a7d5ab4d118b828d4ca8",
+      "sha256": "b5592572bd067be56616513872edb45ce67c7c398a67a7d5ab4d118b828d4ca8",
+      "bytes": 14088,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "step4_sensitivity.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026-en/files/README.md",
+      "source_sha256": "8a2a7157ef5d849f18e17bb671f5810bffd1291bae6028dd28d82b409c6c2c55",
+      "sha256": "8a2a7157ef5d849f18e17bb671f5810bffd1291bae6028dd28d82b409c6c2c55",
+      "bytes": 23795,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026-cn/files/README.md",
+      "source_sha256": "ac2469a55567e498644f8db866fe9e2b20eb48d308f1ecf58ca311b2643986fe",
+      "sha256": "ac2469a55567e498644f8db866fe9e2b20eb48d308f1ecf58ca311b2643986fe",
+      "bytes": 21829,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

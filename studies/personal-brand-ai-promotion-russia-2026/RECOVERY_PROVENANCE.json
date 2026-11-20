@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/personal-brand-ai-promotion-russia-2026-en/files/README.md",
+      "source_sha256": "1a7bc4bdcfdd84432a9d2e368188af27c3c81c60d2a6846ca3c89e0a2e2f5f9d",
+      "sha256": "1a7bc4bdcfdd84432a9d2e368188af27c3c81c60d2a6846ca3c89e0a2e2f5f9d",
+      "bytes": 26192,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

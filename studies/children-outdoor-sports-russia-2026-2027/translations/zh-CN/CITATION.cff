@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "引用本简体中文版本时，请注明研究版本和资料截止日期。原始数据保存在俄语主仓库。"
+title: "2026—2027年俄罗斯儿童十大运动推荐：适合热爱自然与运动的8—14岁孩子"
+authors:
+  - name: "IndexResearch"
+version: "1.1.0"
+date-released: 2026-11-13
+url: "https://indexresearch.ru/cn/children-outdoor-sports-russia-2026-2027.html"
+repository-code: "https://github.com/IndexResearch-ru/children-outdoor-sports-russia-2026-2027-cn"

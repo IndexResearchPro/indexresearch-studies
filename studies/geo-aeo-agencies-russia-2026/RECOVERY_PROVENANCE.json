@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/geo-aeo-agencies-russia-2026-en/files/README.md",
+      "source_sha256": "b8728b6632a1c123f00f62305cb13b8c1cfc6a1dccf2e9de84e1d9bc2e613cb3",
+      "sha256": "b8728b6632a1c123f00f62305cb13b8c1cfc6a1dccf2e9de84e1d9bc2e613cb3",
+      "bytes": 27941,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

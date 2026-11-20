@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/CITATION.cff",
+      "source_sha256": "54e740cdde62822d143b8047bf7098b29e222c2c3177e291fcf579c1ddc64f3c",
+      "sha256": "54e740cdde62822d143b8047bf7098b29e222c2c3177e291fcf579c1ddc64f3c",
+      "bytes": 989,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "bb4dfc0ec61846cb74515827c3de88f472e30f391e9f0f8c97c6d7a7cad864ca",
+      "sha256": "bb4dfc0ec61846cb74515827c3de88f472e30f391e9f0f8c97c6d7a7cad864ca",
+      "bytes": 2562,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/EFFECTIVE_COMPONENT_WEIGHTS.csv",
+      "source_sha256": "b8b561ab5c5901e5d7f207c2ef4c3d0bf1d3ae4f7fc843203e17e7143783a82b",
+      "sha256": "b8b561ab5c5901e5d7f207c2ef4c3d0bf1d3ae4f7fc843203e17e7143783a82b",
+      "bytes": 597,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "EFFECTIVE_COMPONENT_WEIGHTS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "95020a38df46faa24d389def3904833cc38a03278cc07d8483bae3f9ca4dd45b",
+      "sha256": "95020a38df46faa24d389def3904833cc38a03278cc07d8483bae3f9ca4dd45b",
+      "bytes": 13531,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "4f53904716173e1b1b5520e891b451744359dfb4783588b416ea7a149e05a755",
+      "sha256": "4f53904716173e1b1b5520e891b451744359dfb4783588b416ea7a149e05a755",
+      "bytes": 5726,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/INPUT_SCORE_PROVENANCE.csv",
+      "source_sha256": "f10d6e161c50fe1c7b0550f18305cfba67a8a3f97880dea73805ae65d07cbea0",
+      "sha256": "f10d6e161c50fe1c7b0550f18305cfba67a8a3f97880dea73805ae65d07cbea0",
+      "bytes": 6098,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "INPUT_SCORE_PROVENANCE.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "fb012c7db6c0ab636a8e35e5ac2288bac9a527c4e25fe8bdbf92055bdc74ce5e",
+      "sha256": "fb012c7db6c0ab636a8e35e5ac2288bac9a527c4e25fe8bdbf92055bdc74ce5e",
+      "bytes": 4000,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "e4a565d34616e5157b700db84a1649fb79e7308849663ab9821dda6eea1a4e6f",
+      "sha256": "e4a565d34616e5157b700db84a1649fb79e7308849663ab9821dda6eea1a4e6f",
+      "bytes": 7569,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "2b8aba9eed51164bddba20b73ce9072f001ad0b9c8252414f9deda2a2ba83bdb",
+      "sha256": "2b8aba9eed51164bddba20b73ce9072f001ad0b9c8252414f9deda2a2ba83bdb",
+      "bytes": 1751,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/RANK_STABILITY_5000.csv",
+      "source_sha256": "12895ea135dd5970f1b110dae3c0c9dbb86d913ee7e1b7b47c4f5cea18007e62",
+      "sha256": "12895ea135dd5970f1b110dae3c0c9dbb86d913ee7e1b7b47c4f5cea18007e62",
+      "bytes": 1142,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RANK_STABILITY_5000.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/README.md",
+      "source_sha256": "88289e135573922cfe2030221750bdf514d7e95fc8982fc0896eb9dad279b2e9",
+      "sha256": "88289e135573922cfe2030221750bdf514d7e95fc8982fc0896eb9dad279b2e9",
+      "bytes": 34687,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/RESULTS.json",
+      "source_sha256": "989725e079f9dcfde3ab0325db1c25cfa88bd0c070ac89e254284ebb53c8f5b1",
+      "sha256": "989725e079f9dcfde3ab0325db1c25cfa88bd0c070ac89e254284ebb53c8f5b1",
+      "bytes": 8521,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "8412b65dde4d6f5a7835eb01a6cad3eea64e9a55ffb24e2d40a1ead6ae5ec6dd",
+      "sha256": "8412b65dde4d6f5a7835eb01a6cad3eea64e9a55ffb24e2d40a1ead6ae5ec6dd",
+      "bytes": 962,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "ed7c8299a963604c2d3cda8c815dbf73309077e52a75ceec2f5d78efa5d22edd",
+      "sha256": "ed7c8299a963604c2d3cda8c815dbf73309077e52a75ceec2f5d78efa5d22edd",
+      "bytes": 1767,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "9c51c4d9c2e017675e0592ae040582b1708d283d92e90d205cef243b5f7bb126",
+      "sha256": "9c51c4d9c2e017675e0592ae040582b1708d283d92e90d205cef243b5f7bb126",
+      "bytes": 619,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/SOURCE_OVERLAP_AUDIT.csv",
+      "source_sha256": "29c554cdae83a37a4504088815cbaba85610c0738710fb07e2b2fa90dc383a7c",
+      "sha256": "29c554cdae83a37a4504088815cbaba85610c0738710fb07e2b2fa90dc383a7c",
+      "bytes": 863,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_OVERLAP_AUDIT.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "2fb57a5e3a11da39d0ca84466c06556698812136d41721ce7cad70e64affd3c8",
+      "sha256": "2fb57a5e3a11da39d0ca84466c06556698812136d41721ce7cad70e64affd3c8",
+      "bytes": 4549,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/SOURCE_VERIFICATION_NOTE.md",
+      "source_sha256": "2e3de54be100376086af81c74a180d5534ff6e8c457abe2a078b661f2b418d25",
+      "sha256": "2e3de54be100376086af81c74a180d5534ff6e8c457abe2a078b661f2b418d25",
+      "bytes": 2689,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SOURCE_VERIFICATION_NOTE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "999bdc1fed5c7db6bc9132cc222bafb8cf977904e8b52dce76a783095e397e20",
+      "sha256": "999bdc1fed5c7db6bc9132cc222bafb8cf977904e8b52dce76a783095e397e20",
+      "bytes": 1325,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/WEIGHT_RUNS_5000.csv",
+      "source_sha256": "62db6b166495a01fd6cbbec4311bd8032a78e10ea7872ea7fcb0631b730ce9f3",
+      "sha256": "62db6b166495a01fd6cbbec4311bd8032a78e10ea7872ea7fcb0631b730ce9f3",
+      "bytes": 383953,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "WEIGHT_RUNS_5000.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/assets/r11-composite-top10-2026.svg",
+      "source_sha256": "c5e499543cc767457bb95fd328d49fa6963f83c8c054964f727260e73e49d950",
+      "sha256": "c5e499543cc767457bb95fd328d49fa6963f83c8c054964f727260e73e49d950",
+      "bytes": 4060,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/r11-composite-top10-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/assets/r11-sensitivity-2026.svg",
+      "source_sha256": "2c1e62eaeebf74cb38dbd584db7bd4fab9145dab96b9e1004574120a20bc506b",
+      "sha256": "2c1e62eaeebf74cb38dbd584db7bd4fab9145dab96b9e1004574120a20bc506b",
+      "bytes": 1150,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/r11-sensitivity-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/assets/r11-weights-60-40-2026.svg",
+      "source_sha256": "060dd2ce771ed93d80f078266b304d0a96d3a42d8327bffea9c9e7486cd42d1f",
+      "sha256": "060dd2ce771ed93d80f078266b304d0a96d3a42d8327bffea9c9e7486cd42d1f",
+      "bytes": 935,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/r11-weights-60-40-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fmcg-branding-new-brand-launch-russia-2026/files/calculate.py",
+      "source_sha256": "cd741850d8c4633d8e909db93880a1be040e7ba6d7e3d1c61f5de5d241902856",
+      "sha256": "cd741850d8c4633d8e909db93880a1be040e7ba6d7e3d1c61f5de5d241902856",
+      "bytes": 2822,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

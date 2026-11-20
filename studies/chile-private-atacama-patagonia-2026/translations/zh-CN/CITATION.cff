@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the IndexResearch Chile comparison."
+type: dataset
+title: "面向俄语旅行社的智利定制游：2026年阿塔卡马与百内国家公园6家组织方对比"
+version: 1.0.0
+date-released: 2026-10-19
+repository-code: https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026-cn
+url: https://indexresearch.ru/cn/chile-private-atacama-patagonia-2026.html
+authors:
+  - name: IndexResearch

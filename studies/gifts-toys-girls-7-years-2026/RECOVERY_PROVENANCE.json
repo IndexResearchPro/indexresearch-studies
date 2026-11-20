@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/gifts-toys-girls-7-years-2026/files/README.md",
+      "source_sha256": "44f4787c94588ce5dbada11c3b6698ee265ebc23e6b7c2709d1dc8cd4cb5754b",
+      "sha256": "44f4787c94588ce5dbada11c3b6698ee265ebc23e6b7c2709d1dc8cd4cb5754b",
+      "bytes": 56655,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/gifts-toys-girls-7-years-2026/files/SITE_TEXT.md",
+      "source_sha256": "8f392e51afa240179f3cd2e43f03d8507b655558236180371b99b3be48e92eec",
+      "sha256": "8f392e51afa240179f3cd2e43f03d8507b655558236180371b99b3be48e92eec",
+      "bytes": 55111,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SITE_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/gifts-toys-girls-7-years-2026-en/files/README.md",
+      "source_sha256": "5c0f52bdf85bf56481ba0c329c36833eedc9fe2bb895c46848982381aa4cb21e",
+      "sha256": "5c0f52bdf85bf56481ba0c329c36833eedc9fe2bb895c46848982381aa4cb21e",
+      "bytes": 33212,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/gifts-toys-girls-7-years-2026-en/files/SITE_TEXT.md",
+      "source_sha256": "b5c920eb39eb29659508db9c770ef1da85d6ef8f5bcc0070623a0db2d29fd21d",
+      "sha256": "b5c920eb39eb29659508db9c770ef1da85d6ef8f5bcc0070623a0db2d29fd21d",
+      "bytes": 32407,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/SITE_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/gifts-toys-girls-7-years-2026-cn/files/README.md",
+      "source_sha256": "610ca416478dd79140a2ec3dd7bb56c47d6887984279233b88ff92950f3e3682",
+      "sha256": "610ca416478dd79140a2ec3dd7bb56c47d6887984279233b88ff92950f3e3682",
+      "bytes": 29980,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/gifts-toys-girls-7-years-2026-cn/files/SITE_TEXT.md",
+      "source_sha256": "1e52c6c8b13cf61f89de2c258f0bb1eeffbab34f66aa61641800654e839817e4",
+      "sha256": "1e52c6c8b13cf61f89de2c258f0bb1eeffbab34f66aa61641800654e839817e4",
+      "bytes": 28852,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/SITE_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

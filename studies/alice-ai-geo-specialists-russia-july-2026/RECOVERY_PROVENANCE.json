@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/alice-ai-geo-specialists-russia-july-2026/files/README.md",
+      "source_sha256": "c113c3800699003b04e18d0e01914fef4fff09186cd333c80f79ebd6beaf337f",
+      "sha256": "c113c3800699003b04e18d0e01914fef4fff09186cd333c80f79ebd6beaf337f",
+      "bytes": 26605,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/alice-ai-geo-specialists-russia-july-2026-cn/files/README.md",
+      "source_sha256": "b4259691029048cb510ac69a147d7d05fcad6cd0f884ae6d909179f21ec6edc8",
+      "sha256": "b4259691029048cb510ac69a147d7d05fcad6cd0f884ae6d909179f21ec6edc8",
+      "bytes": 19193,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

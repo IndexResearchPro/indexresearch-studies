@@ -1,0 +1,19 @@
+candidate_id,brand,line,flavor_or_product,nominal_rank_private,nominal_score_private,pct_rank_unchanged,pct_leader,pct_top3_tie_aware,pct_top10_tie_aware,min_rank,median_rank,max_rank,mean_rank,evidence_warning
+CK007,Bombbar,Низкокалорийное печенье,Смородина-Черника,1,67.2,52.82,52.82,100.0,100.0,1,1.0,3,1.577,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK014,Bombbar,Протеиновое печенье 60 г,Творожный кекс,2,66.9,13.78,47.18,60.96,100.0,1,2.0,7,2.719,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK003,Bombbar,Низкокалорийное печенье,Кокос,3,65.7,43.32,0.0,82.36,100.0,2,3.0,4,2.786,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK009,Bombbar,Низкокалорийное печенье,Фисташка,3,65.7,43.32,0.0,82.36,100.0,2,3.0,4,2.786,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK010,Bombbar,Низкокалорийное печенье,Шоколадный брауни,3,65.7,43.32,0.0,82.36,100.0,2,3.0,4,2.786,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK015,Bombbar,Протеиновое печенье 60 г,Шоколад,6,61.65,55.14,0.0,17.64,100.0,2,6.0,10,5.985,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK033,Snaq Fabriq,Cookie Nuts,Шоколад-фундук,7,58.550001,32.44,0.0,0.0,100.0,5,7.0,9,7.38,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK019,Chikalab,Chika Biscuit / бисквитное печенье,Бисквит капучино,8,57.65,16.22,0.0,0.0,100.0,7,9.0,10,8.523,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK001,Bombbar,Низкокалорийное печенье,Апельсин-имбирь,9,57.6,29.38,0.0,0.0,100.0,6,8.0,10,8.402,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK031,Snaq Fabriq,Cookie Nuts,Десерт с соленой карамелью,10,57.1,46.98,0.0,0.0,100.0,6,9.0,10,9.056,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK006,Bombbar,Низкокалорийное печенье,Печенье-крем,11,50.150001,77.44,0.0,0.0,0.0,11,11.0,14,11.428,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK005,Bombbar,Низкокалорийное печенье,Малиновый чизкейк,12,50.050001,76.42,0.0,0.0,0.0,12,12.0,15,12.451,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK004,Bombbar,Низкокалорийное печенье,Красный бархат,13,49.950001,75.5,0.0,0.0,0.0,13,13.0,16,13.471,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK029,Chikalab,Chikapie / печенье в шоколаде,Тройной шоколад,14,47.8,52.7,0.0,0.0,0.0,11,14.0,15,13.561,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK027,Chikalab,Chikapie / печенье в шоколаде,Клубника в шоколаде,15,47.55,51.9,0.0,0.0,0.0,12,15.0,16,14.66,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK034,Snaq Fabriq,SNAQER / глазированное печенье,"Арахис, изюм и карамель",16,45.85,72.18,0.0,0.0,0.0,11,16.0,16,15.43,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK036,Snaq Fabriq,SNAQER / глазированное печенье,Фисташка и карамель,17,40.45,50.16,0.0,0.0,0.0,17,17.0,18,17.498,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE
+CK037,Snaq Fabriq,SNAQER / глазированное печенье,"Фисташковая паста, катаифи и карамель",17,40.45,49.84,0.0,0.0,0.0,17,18.0,18,17.502,INDEX_SNAPSHOT_ONLY_NOT_CURRENT_PRICE

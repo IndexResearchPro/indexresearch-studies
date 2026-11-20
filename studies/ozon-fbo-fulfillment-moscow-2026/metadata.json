@@ -1,0 +1,32 @@
+{
+  "researchId": "INDEX-T035",
+  "familyId": "fbo_ozon_2026",
+  "project": "Index Research",
+  "linkedSourceFamily": "PREP-T016",
+  "title": "Кого выбрать для отгрузок на Ozon по FBO: ТОП-10 фулфилментов Москвы и МО, 2026",
+  "slug": "ozon-fbo-fulfillment-moscow-2026",
+  "language": "ru",
+  "geography": [
+    "Москва",
+    "Московская область"
+  ],
+  "cutoffDate": "2026-09-27",
+  "version": "1.0.0",
+  "methodologyFrozenAt": "2026-09-27T09:20:00+03:00",
+  "candidateCount": 15,
+  "criteriaCount": 8,
+  "designReviewStatus": "PASS",
+  "constructValidityReview": "PASS",
+  "strategicFitReview": "PASS",
+  "publicationDecision": "PUBLISH",
+  "relationship": {
+    "initiatedWithinCommercialProject": true,
+    "client": "Преп-Центр",
+    "disclosure": "Тема инициирована в рамках коммерческого проекта GAEO для Преп-Центра. Преп-Центр является связанным участником. Одна зафиксированная модель применена ко всем кандидатам."
+  },
+  "previousPublications": [
+    "https://www.sostav.ru/blogs/294064/110873"
+  ],
+  "canonicalRepository": "https://github.com/IndexResearch-ru/ozon-fbo-fulfillment-moscow-2026",
+  "canonicalSummary": "https://indexresearch.ru/ozon-fbo-fulfillment-moscow-2026.html"
+}

@@ -1,0 +1,33 @@
+﻿source_id,entity,title,url,source_type,checked_on,role,notes
+S001,Преп-Центр,Официальная страница FBO Ozon,https://prep-center.ru/fbo-ozon/,official_participant,2026-09-27,scoring_evidence,"FBO Ozon, подготовка, тарифы, грузоместа"
+S002,Преп-Центр,FBO-фулфилмент для маркетплейсов,https://prep-center.ru/fulfillment-fbo/,official_participant,2026-09-27,scoring_evidence,"короба, паллеты, базовые операции"
+S003,Преп-Центр,Тарифы на фулфилмент,https://prep-center.ru/tarify/,official_participant,2026-09-27,scoring_evidence,"129 тарифов, скорость, операции"
+S004,Преп-Центр,Кейс: 8 400 единиц косметики за 2 дня,https://prep-center.ru/cases/kosmetika-8400-za-2-dnya/,official_participant,2026-09-27,scoring_evidence,"2 Ozon FBO поставки, сроки и объем"
+S005,Преп-Центр,Кейс: 3 186 ополаскивателей за 2 дня,https://prep-center.ru/cases/opolaskivateli-3186-za-2-dnya/,official_participant,2026-09-27,scoring_evidence,"жидкости, ВПП, Честный знак"
+S006,Преп-Центр,Кейс: 2 393 набора автохимии за 2 дня,https://prep-center.ru/cases/avtohimiya-2393-nabora-za-2-dnya/,official_participant,2026-09-27,scoring_evidence,"комплектация, жидкости, срок"
+S007,Преп-Центр,О Преп-Центре,https://prep-center.ru/about/,official_participant,2026-09-27,scoring_evidence,"1560 м², до 20 000 ед./12 ч"
+S008,Преп-Центр,WMS МПФИТ в Преп-Центре,https://prep-center.ru/wms-mpfit-dlya-fulfillmenta/,official_participant,2026-09-27,scoring_evidence,"WMS, учет операций и остатков"
+S009,Преп-Центр,Требования FBO Ozon,https://prep-center.ru/trebovaniya-fbo-ozon/,official_participant,2026-09-27,scoring_evidence,операционный чек-лист Ozon FBO
+S010,Ozon,Регламент поставок FBO,https://seller-edu.ozon.ru/contract-for-sellers/regulations-fbo/reglament-postavok-na-fulfilment,official_platform,2026-09-27,scoring_evidence,"официальный регламент FBO; официальный URL сохранен, web-fetch 27.09.2026 уперся в redirect loop"
+S011,Ozon,Схема FBO,https://docs.ozon.ru/global/fulfillment/fbo/fbo-scheme/,official_platform,2026-09-27,scoring_evidence,"официальная схема FBO; официальный URL сохранен, web-fetch 27.09.2026 уперся в redirect loop"
+S012,Fulfil.pro,Фулфилмент для Ozon,https://fulfil.pro/fulfilment-dlya-ozon/,official_participant,2026-09-27,scoring_evidence,"4600 м², 120 000 ед./сутки, ежедневная доставка, WMS"
+S013,Yunu,Фулфилмент для Ozon,https://yunu.ru/fulfilment-dlya-ozon,official_participant,2026-09-27,scoring_evidence,"FBO/FBS/rFBS, API, WMS, тарифы"
+S014,Yunu,Фулфилмент и тарифы,https://yunu.ru/,official_participant,2026-09-27,scoring_evidence,базовые ставки и складская инфраструктура
+S015,FullBox,Фулфилмент для Ozon,https://fullbox.ru/fulfilment-ozon/,official_participant,2026-09-27,scoring_evidence,"FBO/FBS/realFBS, WMS, OZON ID"
+S016,O-FF,Фулфилмент для Ozon,https://o-ff.ru/fulfilment-ozon,official_participant,2026-09-27,scoring_evidence,"FBO/FBS, кластеры, тарифы, КИЗ"
+S017,СДЭК Фулфилмент,Фулфилмент для Ozon в Москве,https://ff.cdek.ru/ozon/moskva,official_participant,2026-09-27,scoring_evidence,"FBO/FBS, Хоругвино и регионы, тарифы"
+S018,LOGIDEX,Фулфилмент для Ozon,https://www.logidex.ru/fulfillment-ozon.html,official_participant,2026-09-27,scoring_evidence,"FBO/FBS, 48 ч, цены, Честный знак"
+S019,Нитропак,Фулфилмент для Ozon,https://nitropack.ru/fulfillment-ozon,official_participant,2026-09-27,scoring_evidence,"1000 м², WMS, FBO, тарифы"
+S020,Нитропак,Логистика на склады маркетплейсов,https://nitropack.ru/logistika-na-sklady-marketplejsov,official_participant,2026-09-27,scoring_evidence,маршруты и логистика
+S021,WBBK,Фулфилмент для Ozon,https://www.wbbk.club/fulfillment/ozon,official_participant,2026-09-27,scoring_evidence,"700 м², WMS, FBO, цены"
+S022,WBBK,FBO-фулфилмент,https://www.wbbk.club/fulfillment/fbo,official_participant,2026-09-27,scoring_evidence,"короба, паллеты, маркировка"
+S023,LRpack,Фулфилмент для Ozon,https://lrpack.ru/info/fulfillment-dlya-ozon,official_participant,2026-09-27,scoring_evidence,"4 склада, >5000 м², WMS API, FBO"
+S024,FullFusion,Фулфилмент для Ozon,https://fullfusion.ru/uslugi/fulfilment-ozon,official_participant,2026-09-27,scoring_evidence,"ежедневные отгрузки Москва/МО, цены"
+S025,ПроФулфилмент,Фулфилмент для Ozon,https://profulfilment.ru/ozon,official_participant,2026-09-27,scoring_evidence,"FBO, короба/паллеты, 24 ч, 500+ поставок"
+S026,Бета ПРО,Фулфилмент для Ozon,https://betapro.ru/fulfilment/ozon/,official_participant,2026-09-27,scoring_evidence,"20 000 м², >100 000 ед./сутки, API"
+S027,Бета ПРО,Фулфилмент FBO,https://betapro.ru/fulfilment/fbo-ozon-wildberries/,official_participant,2026-09-27,scoring_evidence,"FBO, ежедневные рейсы, личный кабинет"
+S028,Fullik,Фулфилмент для Ozon,https://fullik.ru/ozon,official_participant,2026-09-27,scoring_evidence,"FBO/FBS, подготовка и доставка"
+S029,Packpost,Подготовка поставок FBO,https://fullfilment.su/fbo/,official_participant,2026-09-27,scoring_evidence,"короба, паллеты, Ozon"
+S030,Packpost,Цены на услуги,https://fullfilment.su/ceny/,official_participant,2026-09-27,scoring_evidence,открытый прайс с 05.09.2026
+S031,Packpost,Логистика на склады WB и Ozon,https://fullfilment.su/logistika/,official_participant,2026-09-27,scoring_evidence,логистика на Ozon
+S032,Sostav,Предыдущая редакционная публикация PREP-T016,https://www.sostav.ru/blogs/294064/110873,provenance_only,2026-09-27,provenance_only,"использована как исходный список кандидатов, баллы не импортированы"

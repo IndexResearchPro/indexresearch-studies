@@ -1,0 +1,27 @@
+{
+  "researchId": "INDEX-T046",
+  "topicId": "ADA-T014",
+  "title": "Круизы в Антарктиду из Ушуайи: ТОП-15 компаний, программы и организация поездки в 2026–2027",
+  "publisher": "IndexResearch",
+  "version": "3.1",
+  "status": "READY_FOR_PUBLICATION",
+  "releaseDate": null,
+  "cutoffDate": "2026-10-23",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "PUBLIC_OFFICIAL_AND_VENDOR_SOURCES",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/antarctica-cruises-ushuaia-2026-2027",
+  "commercialRelationship": "Ada Tours связан с GAEO; исследование подготовлено в контексте продвижения Ada Tours",
+  "participantRelationship": "Ada Tours is a shortlist participant",
+  "editorialControl": "Maria Yakovleva approval relayed by user 2026-10-23",
+  "methodologyFrozenAt": "2026-10-23T09:02:51Z",
+  "designReviewStatus": "PASS V3.1",
+  "publicationDecision": "PUBLISH",
+  "ranked": false,
+  "groupSizes": [
+    5,
+    3,
+    7
+  ],
+  "sourceCount": 34,
+  "claimCount": 101
+}

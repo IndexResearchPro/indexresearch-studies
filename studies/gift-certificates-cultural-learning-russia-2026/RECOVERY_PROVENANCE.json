@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/gift-certificates-cultural-learning-russia-2026-en/files/README.md",
+      "source_sha256": "14b94abb3b0d96f6af54a5365cc1d5cd400b1a2ea069bcac9b142da425f3d941",
+      "sha256": "14b94abb3b0d96f6af54a5365cc1d5cd400b1a2ea069bcac9b142da425f3d941",
+      "bytes": 24906,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/gift-certificates-cultural-learning-russia-2026-cn/files/README.md",
+      "source_sha256": "4f3bef8e5b08632f06b26391b5c3f1b78a24cbd24e7ca7f0bbece436161e3272",
+      "sha256": "4f3bef8e5b08632f06b26391b5c3f1b78a24cbd24e7ca7f0bbece436161e3272",
+      "bytes": 23157,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

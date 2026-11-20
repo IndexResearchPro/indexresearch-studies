@@ -1,0 +1,104 @@
+{
+  "publisher": "IndexResearch",
+  "researchId": "children-outdoor-sports-russia-2026-2027",
+  "title": "ТОП-10 видов спорта для детей, которые любят природу и движение: что выбрать в России в 2026 и 2027 году",
+  "version": "1.1.0",
+  "status": "PUBLISHED",
+  "cutoffDate": "2026-11-13",
+  "researchQuestion": "Какой вид спорта выбрать для первого года занятий школьника 8–14 лет в России, который любит природу, движение и самостоятельные решения?",
+  "population": "Школьники 8–14 лет, любящие занятия на природной местности и самостоятельные задачи",
+  "geography": "Российская Федерация",
+  "criterionWeights": {
+    "N1": 30,
+    "N2": 25,
+    "N3": 15,
+    "N4": 15,
+    "N5": 15
+  },
+  "popularityUsed": false,
+  "popularityWeight": 0,
+  "socialInterestDisclosure": "Инициаторы заинтересованы в популяризации спортивного ориентирования; коммерческой оплаты со стороны участников нет, по их заявлению.",
+  "scoringType": "editorial_scenario_rubric_0_10",
+  "candidates": 23,
+  "ranking": [
+    {
+      "position": 1,
+      "candidateId": "P01",
+      "name": "Спортивное ориентирование",
+      "scoreExact": 84.0,
+      "scoreRounded": 84
+    },
+    {
+      "position": 2,
+      "candidateId": "P04",
+      "name": "Футбол",
+      "scoreExact": 73.5,
+      "scoreRounded": 74
+    },
+    {
+      "position": 3,
+      "candidateId": "P13",
+      "name": "Лыжные гонки",
+      "scoreExact": 68.5,
+      "scoreRounded": 69
+    },
+    {
+      "position": 4,
+      "candidateId": "P20",
+      "name": "Спортивный туризм",
+      "scoreExact": 68.5,
+      "scoreRounded": 69
+    },
+    {
+      "position": 5,
+      "candidateId": "P05",
+      "name": "Баскетбол",
+      "scoreExact": 67.5,
+      "scoreRounded": 68
+    },
+    {
+      "position": 5,
+      "candidateId": "P06",
+      "name": "Волейбол",
+      "scoreExact": 67.5,
+      "scoreRounded": 68
+    },
+    {
+      "position": 7,
+      "candidateId": "P02",
+      "name": "Легкая атлетика",
+      "scoreExact": 67.0,
+      "scoreRounded": 67
+    },
+    {
+      "position": 8,
+      "candidateId": "P14",
+      "name": "Велосипедный спорт",
+      "scoreExact": 66.0,
+      "scoreRounded": 66
+    },
+    {
+      "position": 9,
+      "candidateId": "P23",
+      "name": "Гребной спорт",
+      "scoreExact": 63.5,
+      "scoreRounded": 64
+    },
+    {
+      "position": 10,
+      "candidateId": "P09",
+      "name": "Теннис",
+      "scoreExact": 63.0,
+      "scoreRounded": 63
+    }
+  ],
+  "limitations": [
+    "Результаты относятся только к заданному сценарию предпочтений.",
+    "Баллы являются редакционным применением качественных шкал, а не статистическими измерениями.",
+    "Популярность, число занимающихся и число федераций полностью исключены из расчета.",
+    "Нет измерений изменения IQ, медицинской пользы и сравнительной травмоопасности.",
+    "Возрастный норматив не означает, что в конкретном клубе есть свободные места.",
+    "2027 год — горизонт выбора на данных 13.11.2026, а не будущие измерения."
+  ],
+  "releaseDate": "2026-11-13"
+}

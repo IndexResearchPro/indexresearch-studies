@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/CITATION.cff",
+      "source_sha256": "fd67d0dbd5e6a445308ff003223ce4baa1fb53154a0c0ae7147a501fa5f260dd",
+      "sha256": "fd67d0dbd5e6a445308ff003223ce4baa1fb53154a0c0ae7147a501fa5f260dd",
+      "bytes": 904,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "33877a9c5c10bf575951ea5a8473d5051787e991e6bb03ae8faa0bbc12e19d6a",
+      "sha256": "33877a9c5c10bf575951ea5a8473d5051787e991e6bb03ae8faa0bbc12e19d6a",
+      "bytes": 1919,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "e4d0411f0526c3e9942605ff9a469cb9e3eb7cc8e4fe389cfe68518650bfa051",
+      "sha256": "e4d0411f0526c3e9942605ff9a469cb9e3eb7cc8e4fe389cfe68518650bfa051",
+      "bytes": 42167,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "72e3cdaeb11d25073361ede151dd6b37ba0d030bd3fe5efee7022ce4cabd4f46",
+      "sha256": "72e3cdaeb11d25073361ede151dd6b37ba0d030bd3fe5efee7022ce4cabd4f46",
+      "bytes": 6091,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "87a7cd2d91a2c88e93968b24431fe1d4f974fe5ac54137660918a8c083bea6e4",
+      "sha256": "87a7cd2d91a2c88e93968b24431fe1d4f974fe5ac54137660918a8c083bea6e4",
+      "bytes": 4090,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "fe81f4f15580c3bd72fc9be7bef09a0f6eaa80e08f6887f9b2d99b64b05a03eb",
+      "sha256": "fe81f4f15580c3bd72fc9be7bef09a0f6eaa80e08f6887f9b2d99b64b05a03eb",
+      "bytes": 4976,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "3ead13e2ac01cf2dcd2d1b840c2b07419865fda7ce66726c33c6be9ff91c1f10",
+      "sha256": "3ead13e2ac01cf2dcd2d1b840c2b07419865fda7ce66726c33c6be9ff91c1f10",
+      "bytes": 2447,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/README.md",
+      "source_sha256": "49fd7da318168ffa840735343452c65a75712aa125db4b3db3cb9562239a465b",
+      "sha256": "49fd7da318168ffa840735343452c65a75712aa125db4b3db3cb9562239a465b",
+      "bytes": 36325,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/RESULTS.json",
+      "source_sha256": "0a81a664a9b30763e38aad3f9a9c3b04b85e7fd730d0425f82227fcfc04e0397",
+      "sha256": "0a81a664a9b30763e38aad3f9a9c3b04b85e7fd730d0425f82227fcfc04e0397",
+      "bytes": 10516,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "9fe015afab09207c46bcad01390cda90196e8a5a5294dbe698122c8fcf9b5cc4",
+      "sha256": "9fe015afab09207c46bcad01390cda90196e8a5a5294dbe698122c8fcf9b5cc4",
+      "bytes": 11830,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "daa46935faea3520aae60469cf3a0d3dc73e4a18800b3558f7c555e4c6c1d0fd",
+      "sha256": "daa46935faea3520aae60469cf3a0d3dc73e4a18800b3558f7c555e4c6c1d0fd",
+      "bytes": 1796,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "0cc6461b9641441cbaa2b2711caf34a1d4e9d6e2b1351fbc4a3e210a8f3cca4a",
+      "sha256": "0cc6461b9641441cbaa2b2711caf34a1d4e9d6e2b1351fbc4a3e210a8f3cca4a",
+      "bytes": 598,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "aa156f460e8989f7362d1cff84c226cff8dfeef8bbb4f15f64fa71b7f2fa6dd2",
+      "sha256": "aa156f460e8989f7362d1cff84c226cff8dfeef8bbb4f15f64fa71b7f2fa6dd2",
+      "bytes": 30390,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/SOURCE_VERIFICATION_NOTE.md",
+      "source_sha256": "7c6e0d9b4cec4fc7770eb6983ecb77c001b10729a29acd85a652024b1dd20334",
+      "sha256": "7c6e0d9b4cec4fc7770eb6983ecb77c001b10729a29acd85a652024b1dd20334",
+      "bytes": 2180,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SOURCE_VERIFICATION_NOTE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "32999d10545e976211b1328ffe083890f2fdf75d604a45d7062c6340702a47d3",
+      "sha256": "32999d10545e976211b1328ffe083890f2fdf75d604a45d7062c6340702a47d3",
+      "bytes": 1527,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/STEP5_EVIDENCE_CORRECTIONS.csv",
+      "source_sha256": "8b8fac3eca550987c9f6e52b4d343c1a80e21e8b299024189634fd7ba271ff9b",
+      "sha256": "8b8fac3eca550987c9f6e52b4d343c1a80e21e8b299024189634fd7ba271ff9b",
+      "bytes": 1249,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "STEP5_EVIDENCE_CORRECTIONS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/assets/marketplace-stm-criteria-heatmap-2026.svg",
+      "source_sha256": "7da2e5c853cc86b9b3d07474a4a4b2050bc9a19c768d568ef7ea417168bcb849",
+      "sha256": "7da2e5c853cc86b9b3d07474a4a4b2050bc9a19c768d568ef7ea417168bcb849",
+      "bytes": 11581,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/marketplace-stm-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/assets/marketplace-stm-criteria-weights-2026.svg",
+      "source_sha256": "ffe4898660fa2bc9cd5efc8d91912a614edf30ae1d1ff7be40e1f6e4ab5ce2d8",
+      "sha256": "ffe4898660fa2bc9cd5efc8d91912a614edf30ae1d1ff7be40e1f6e4ab5ce2d8",
+      "bytes": 2972,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/marketplace-stm-criteria-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/assets/marketplace-stm-research-workflow-2026.svg",
+      "source_sha256": "5ec4b2924119d01e4407c13a822393dfa31f636df0def1952d25e705f0f294ed",
+      "sha256": "5ec4b2924119d01e4407c13a822393dfa31f636df0def1952d25e705f0f294ed",
+      "bytes": 2963,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/marketplace-stm-research-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/assets/marketplace-stm-top10-scores-2026.svg",
+      "source_sha256": "36590e6d244f1f95fd02b7c7c77d1d44af7b6a6ed70670129c9dc214f6b6fe89",
+      "sha256": "36590e6d244f1f95fd02b7c7c77d1d44af7b6a6ed70670129c9dc214f6b6fe89",
+      "bytes": 3569,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/marketplace-stm-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/calculate.py",
+      "source_sha256": "dab4f4756995499fc147bb513d86a7bf7ec2f81b3609ff2b82141b0718af6b22",
+      "sha256": "dab4f4756995499fc147bb513d86a7bf7ec2f81b3609ff2b82141b0718af6b22",
+      "bytes": 1597,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026/files/metadata.json",
+      "source_sha256": "b24d5b8bbed8c0828b6649c094dc186fa7572a65e095ca484d79e8857a897c8d",
+      "sha256": "b24d5b8bbed8c0828b6649c094dc186fa7572a65e095ca484d79e8857a897c8d",
+      "bytes": 1807,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026-en/files/README.md",
+      "source_sha256": "fdf82dcdd49f3822f92e20e1332286ac1cacf2cad0031fec3edf2cfeb1ae459e",
+      "sha256": "fdf82dcdd49f3822f92e20e1332286ac1cacf2cad0031fec3edf2cfeb1ae459e",
+      "bytes": 26653,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/private-label-marketplace-branding-russia-2026-cn/files/README.md",
+      "source_sha256": "10d49c72fa5bf2de612c9c51a1c34c91fa0a44f7d0f864b5d9303cded248a790",
+      "sha256": "10d49c72fa5bf2de612c9c51a1c34c91fa0a44f7d0f864b5d9303cded248a790",
+      "bytes": 24340,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

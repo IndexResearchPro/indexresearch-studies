@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/ai-visibility-methodology/files/README.md",
+      "source_sha256": "e92a5245f11da63133ec05b8f622e3ff8b55ee714644285169914708bc8ff6e9",
+      "sha256": "e92a5245f11da63133ec05b8f622e3ff8b55ee714644285169914708bc8ff6e9",
+      "bytes": 2525,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

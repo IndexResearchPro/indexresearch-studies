@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "19f4a9e42fd279c3e8f985176f6cebc0c915d8c769022ae3ef170698f42e6830",
+      "sha256": "19f4a9e42fd279c3e8f985176f6cebc0c915d8c769022ae3ef170698f42e6830",
+      "bytes": 1935,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "95b24b2e6b57e4f68b05f1abe4bafad1a3bbeb0cd6a0e2875cacb60b99ffc1e6",
+      "sha256": "95b24b2e6b57e4f68b05f1abe4bafad1a3bbeb0cd6a0e2875cacb60b99ffc1e6",
+      "bytes": 49041,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/LIMITATIONS.md",
+      "source_sha256": "675e960aeadd928c59a2f7a0d0de214af65e73d4e021335151b0b9536b4ab169",
+      "sha256": "675e960aeadd928c59a2f7a0d0de214af65e73d4e021335151b0b9536b4ab169",
+      "bytes": 4396,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "80ac4abb2057b358e7b7784befbabe4a3ae61ceb0bf027c4b55374b3f6279b16",
+      "sha256": "80ac4abb2057b358e7b7784befbabe4a3ae61ceb0bf027c4b55374b3f6279b16",
+      "bytes": 4029,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/RESULTS.json",
+      "source_sha256": "20ff667e55418b1d1fe6ade2d3f0675ad089968967a57f6bdbe930ce679de6f1",
+      "sha256": "20ff667e55418b1d1fe6ade2d3f0675ad089968967a57f6bdbe930ce679de6f1",
+      "bytes": 1908,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/RUBRICS.csv",
+      "source_sha256": "1f32473e32b3a9170a6470b2045bf403fd2768ec5d76c4ddd0284d824beb0ca1",
+      "sha256": "1f32473e32b3a9170a6470b2045bf403fd2768ec5d76c4ddd0284d824beb0ca1",
+      "bytes": 7438,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "27aefaf474bdc6adc03db902ef0e41e615cfafc77ba4f1f77d82fc085172790d",
+      "sha256": "27aefaf474bdc6adc03db902ef0e41e615cfafc77ba4f1f77d82fc085172790d",
+      "bytes": 3018,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "d11bb69dd94add70928a6ee3e00c83657cfafc12c30461b9af7a24e79ea9bf1f",
+      "sha256": "d11bb69dd94add70928a6ee3e00c83657cfafc12c30461b9af7a24e79ea9bf1f",
+      "bytes": 2718,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "596418022bab4e1d37c9e2e172219866defd09d740d82f2e200137106ad122c2",
+      "sha256": "596418022bab4e1d37c9e2e172219866defd09d740d82f2e200137106ad122c2",
+      "bytes": 10912,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "d909ac78f77bbdf3d2bf09a26f6ac45c8cd9e9020a7b045d270dda640f99ada3",
+      "sha256": "d909ac78f77bbdf3d2bf09a26f6ac45c8cd9e9020a7b045d270dda640f99ada3",
+      "bytes": 1408,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/ozon-fbs-fulfillment-moscow-2026/files/metadata.json",
+      "source_sha256": "30a3b29d8dc1add60cb140f7a1d7476332016f8cdaabe72ca09f35857e0ea081",
+      "sha256": "30a3b29d8dc1add60cb140f7a1d7476332016f8cdaabe72ca09f35857e0ea081",
+      "bytes": 1055,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

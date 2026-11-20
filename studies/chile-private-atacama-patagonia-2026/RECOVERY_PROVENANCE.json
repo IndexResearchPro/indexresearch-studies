@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/CITATION.cff",
+      "source_sha256": "740093942334e78089237337d16767ae27301b54a9b8d500c0a18eb828d0795b",
+      "sha256": "740093942334e78089237337d16767ae27301b54a9b8d500c0a18eb828d0795b",
+      "bytes": 717,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/COMPANY_OFFER_COMPARISON.csv",
+      "source_sha256": "9ec98af6edf8932dd2061223c1727839be7646cffa9dbeb95561f41f740b1c13",
+      "sha256": "9ec98af6edf8932dd2061223c1727839be7646cffa9dbeb95561f41f740b1c13",
+      "bytes": 4780,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "COMPANY_OFFER_COMPARISON.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "2fd96ac3c2058edc476f2a88d006011961bf6ccfeda5d8430d817d468c20837f",
+      "sha256": "2fd96ac3c2058edc476f2a88d006011961bf6ccfeda5d8430d817d468c20837f",
+      "bytes": 1551,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "a34b8305e6a08568afe733f8dbead4b2a95e9a7ffe4f20835052842b0c4dafe8",
+      "sha256": "a34b8305e6a08568afe733f8dbead4b2a95e9a7ffe4f20835052842b0c4dafe8",
+      "bytes": 15619,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/FAQ_DATA.json",
+      "source_sha256": "4c78ea87dc8177502bac3399c6b958c95bca9ce8a1b29546d707ea1f2e3d0963",
+      "sha256": "4c78ea87dc8177502bac3399c6b958c95bca9ce8a1b29546d707ea1f2e3d0963",
+      "bytes": 3944,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/LIMITATIONS.md",
+      "source_sha256": "15aef7b5b95b5e621bbf128755a8122d1bd4ad94f22b910e4c923f0dcd3e6aad",
+      "sha256": "15aef7b5b95b5e621bbf128755a8122d1bd4ad94f22b910e4c923f0dcd3e6aad",
+      "bytes": 3703,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/METHODOLOGY.md",
+      "source_sha256": "9c4415c1793b8d44039f04a99659ab0426e485342efceb99e36e94f67d3120bc",
+      "sha256": "9c4415c1793b8d44039f04a99659ab0426e485342efceb99e36e94f67d3120bc",
+      "bytes": 12647,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/OBSERVATION_MATRIX.csv",
+      "source_sha256": "568f194ef04f1465a737ecc241b67ac37a1416f98ab33c9dd24a68bd7833c91e",
+      "sha256": "568f194ef04f1465a737ecc241b67ac37a1416f98ab33c9dd24a68bd7833c91e",
+      "bytes": 25430,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "OBSERVATION_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/QUESTION_TO_OBSERVATION_MAP.csv",
+      "source_sha256": "453d64af4e4338c80964c15bb8cc013ef47332450a5ccdfec187b2968d196b8c",
+      "sha256": "453d64af4e4338c80964c15bb8cc013ef47332450a5ccdfec187b2968d196b8c",
+      "bytes": 986,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_OBSERVATION_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/README.md",
+      "source_sha256": "f96e8ccab0c6c6a9f6f60c5670bfddd11a888cac0e9f2889048e01dc65e1ce83",
+      "sha256": "f96e8ccab0c6c6a9f6f60c5670bfddd11a888cac0e9f2889048e01dc65e1ce83",
+      "bytes": 46852,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/RESULTS.json",
+      "source_sha256": "7121da7d0f94b5ff0ce76c84c02013325d7fe555f8a0da1cd8132b0120dab71e",
+      "sha256": "7121da7d0f94b5ff0ce76c84c02013325d7fe555f8a0da1cd8132b0120dab71e",
+      "bytes": 20450,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "7ea13c8873f29b8d65c96c6d57355d0f303c695296f5a24a880d770fb6ce6b90",
+      "sha256": "7ea13c8873f29b8d65c96c6d57355d0f303c695296f5a24a880d770fb6ce6b90",
+      "bytes": 9344,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "cb52ff222f3f838146e6566894a9f22ef568234ec3b358083a9cedb5fd5d44f2",
+      "sha256": "cb52ff222f3f838146e6566894a9f22ef568234ec3b358083a9cedb5fd5d44f2",
+      "bytes": 1601,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/assets/chile-agency-buyer-workflow-2026.png",
+      "source_sha256": "b4ba5860708d28a9e2f3cce6a5d36f2c8bb269ad874a4c2f03f30f2745ef6719",
+      "sha256": "b4ba5860708d28a9e2f3cce6a5d36f2c8bb269ad874a4c2f03f30f2745ef6719",
+      "bytes": 24200,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/chile-agency-buyer-workflow-2026.png"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/assets/chile-agency-buyer-workflow-2026.svg",
+      "source_sha256": "6733ea51d875d5d9f79b2b4dab2adefaf02512957804642e3aac675169ba3739",
+      "sha256": "6733ea51d875d5d9f79b2b4dab2adefaf02512957804642e3aac675169ba3739",
+      "bytes": 3620,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/chile-agency-buyer-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/assets/chile-evidence-map-2026.png",
+      "source_sha256": "0188d1254ce1134de7c6c2b8a7b43cbba075bc9446cdf6efb49d32a0785d3ab7",
+      "sha256": "0188d1254ce1134de7c6c2b8a7b43cbba075bc9446cdf6efb49d32a0785d3ab7",
+      "bytes": 36485,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/chile-evidence-map-2026.png"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/assets/chile-evidence-map-2026.svg",
+      "source_sha256": "ac42d834e06376619775ab4ab55e9eb6e816dec8f79e55aca11761a8c347d0ab",
+      "sha256": "ac42d834e06376619775ab4ab55e9eb6e816dec8f79e55aca11761a8c347d0ab",
+      "bytes": 9324,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/chile-evidence-map-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/assets/chile-route-examples-2026.png",
+      "source_sha256": "ec9e5760f5a7083d5fc0addc4fc75c67eacfe9674c9cb76dab2e0084eb4b1bc7",
+      "sha256": "ec9e5760f5a7083d5fc0addc4fc75c67eacfe9674c9cb76dab2e0084eb4b1bc7",
+      "bytes": 41712,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/chile-route-examples-2026.png"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/assets/chile-route-examples-2026.svg",
+      "source_sha256": "e8b3d5feb425eb3c23553edf417ead25ddffb344c6d7b767b751672b03f20306",
+      "sha256": "e8b3d5feb425eb3c23553edf417ead25ddffb344c6d7b767b751672b03f20306",
+      "bytes": 3594,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/chile-route-examples-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/metadata.json",
+      "source_sha256": "5801f7de77c07ed1050eff6d09810bd187f137cf9e0371113d3ad146c19a8471",
+      "sha256": "5801f7de77c07ed1050eff6d09810bd187f137cf9e0371113d3ad146c19a8471",
+      "bytes": 1602,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026-en/files/CITATION.cff",
+      "source_sha256": "930c2cac3d8daa29bba03a9f904afa21f363eeb757fe767b9fd80d1f98f8a0e4",
+      "sha256": "930c2cac3d8daa29bba03a9f904afa21f363eeb757fe767b9fd80d1f98f8a0e4",
+      "bytes": 449,
+      "language": "en",
+      "selection": "original-bibliographic-record",
+      "path": "translations/en/CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026-en/files/README.md",
+      "source_sha256": "0a26133bb6ab58db830726149df5f9a6a0887f8e03085193d6b15f5a5495f74d",
+      "sha256": "0a26133bb6ab58db830726149df5f9a6a0887f8e03085193d6b15f5a5495f74d",
+      "bytes": 22404,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026-cn/files/CITATION.cff",
+      "source_sha256": "ead352313d391e0fbd28468a883a80bbcbf8c01654f71baf9f697ff0cfab4866",
+      "sha256": "ead352313d391e0fbd28468a883a80bbcbf8c01654f71baf9f697ff0cfab4866",
+      "bytes": 445,
+      "language": "zh-CN",
+      "selection": "original-bibliographic-record",
+      "path": "translations/zh-CN/CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026-cn/files/README.md",
+      "source_sha256": "50fb48a6ab9f1ae6c013877bc79b499c36c8587039d9be1d1dc853657ab8c37c",
+      "sha256": "50fb48a6ab9f1ae6c013877bc79b499c36c8587039d9be1d1dc853657ab8c37c",
+      "bytes": 20179,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/chile-private-atacama-patagonia-2026/files/validate.py",
+      "source_sha256": "6dd73cb2dad9973c4ab39cbc7d361d848f7fc08b0bfcbb63b3d9b11fc6fcf97c",
+      "sha256": "6dd73cb2dad9973c4ab39cbc7d361d848f7fc08b0bfcbb63b3d9b11fc6fcf97c",
+      "bytes": 1887,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "validate.py"
+    }
+  ],
+  "verification": [
+    {
+      "script": "validate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

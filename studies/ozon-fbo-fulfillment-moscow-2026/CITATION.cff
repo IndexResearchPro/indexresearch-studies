@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it."
+title: "Кого выбрать для отгрузок на Ozon по FBO: ТОП-10 фулфилментов Москвы и МО, 2026"
+type: dataset
+authors:
+  - name: "IndexResearch"
+version: "1.0.0"
+date-released: "2026-09-27"
+url: "https://indexresearch.ru/ozon-fbo-fulfillment-moscow-2026.html"
+repository-code: "https://github.com/IndexResearch-ru/ozon-fbo-fulfillment-moscow-2026"
+keywords:
+  - Ozon
+  - FBO
+  - fulfillment
+  - Moscow
+  - marketplaces

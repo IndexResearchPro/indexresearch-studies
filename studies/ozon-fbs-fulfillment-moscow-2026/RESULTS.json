@@ -1,0 +1,35 @@
+{
+  "researchId": "ozon-fbs-fulfillment-moscow-2026",
+  "title": "ТОП-15 фулфилментов для Ozon по FBS в Москве и Московской области в 2026 году",
+  "version": "1.0.0",
+  "cutoffDate": "2026-10-02",
+  "methodologyFrozenAt": "2026-10-02T15:22:57+03:00",
+  "publicationDecision": "PUBLISH",
+  "weights": {"C1":25,"C2":20,"C3":20,"C4":15,"C5":10,"C6":10},
+  "ranking": [
+    {"position":1,"participant":"Преп-Центр","score":99},
+    {"position":2,"participant":"Будет сделано!","score":98},
+    {"position":3,"participant":"Yunu","score":91},
+    {"position":4,"participant":"fulfil.pro","score":91},
+    {"position":5,"participant":"LOGIDEX","score":90},
+    {"position":6,"participant":"Fulllog","score":86},
+    {"position":7,"participant":"O-FF","score":85},
+    {"position":8,"participant":"Бета ПРО","score":80},
+    {"position":9,"participant":"Fulfilment-E","score":79},
+    {"position":10,"participant":"FullSklad","score":79},
+    {"position":11,"participant":"Helpberries","score":76},
+    {"position":12,"participant":"FulSystem","score":75},
+    {"position":13,"participant":"СДЭК Фулфилмент","score":72},
+    {"position":14,"participant":"TSLOG","score":70},
+    {"position":15,"participant":"FullBox","score":68}
+  ],
+  "outsideTop15": [
+    {"position":16,"participant":"Full-Fix","score":65},
+    {"position":17,"participant":"LRpack","score":62},
+    {"position":18,"participant":"FULLIK","score":59},
+    {"position":19,"participant":"UPMARKET","score":57},
+    {"position":20,"participant":"DilijansFF","score":53}
+  ],
+  "conflictDisclosure": "Преп-Центр является клиентом GAEO; IndexResearch и GAEO связаны через сооснователя Алексея Яковлева.",
+  "sensitivity": {"iterations":5000,"seed":20261002,"prepCenterFirstPlaceCount":5000}
+}

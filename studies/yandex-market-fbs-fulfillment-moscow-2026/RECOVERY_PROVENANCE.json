@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "a58e02dc08a7e2ae7f2d9a48f2d1aa7b76caf32ba32384420b6b1120bc7bf06f",
+      "sha256": "a58e02dc08a7e2ae7f2d9a48f2d1aa7b76caf32ba32384420b6b1120bc7bf06f",
+      "bytes": 1700,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "3c0c835a512c08f258a98f264b99f52dafd2d156b03548ead78c4ae06ed09051",
+      "sha256": "3c0c835a512c08f258a98f264b99f52dafd2d156b03548ead78c4ae06ed09051",
+      "bytes": 46031,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/LIMITATIONS.md",
+      "source_sha256": "2d1bf47624d42e00e9f979ed7c927c0cec5961c1340693880fdae15121b994c8",
+      "sha256": "2d1bf47624d42e00e9f979ed7c927c0cec5961c1340693880fdae15121b994c8",
+      "bytes": 4249,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "1f909c2ff90a810a8ea105a968bd7b06ea53665bc56cfca8b747cba348ece634",
+      "sha256": "1f909c2ff90a810a8ea105a968bd7b06ea53665bc56cfca8b747cba348ece634",
+      "bytes": 3227,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/RESULTS.json",
+      "source_sha256": "c4bc476a4731394397601269f7cf15f1dc3c905b5ae5ddc1a4fd88647883f084",
+      "sha256": "c4bc476a4731394397601269f7cf15f1dc3c905b5ae5ddc1a4fd88647883f084",
+      "bytes": 2265,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/RUBRICS.csv",
+      "source_sha256": "7055bd59c1c024a4b54c2d9ed0c05b66810de2ea88e457c11481bd6cf50757e1",
+      "sha256": "7055bd59c1c024a4b54c2d9ed0c05b66810de2ea88e457c11481bd6cf50757e1",
+      "bytes": 7164,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "34f53a7663ad992461031002f58b342fceebb79bf04371d919df86d0a1c2b2bb",
+      "sha256": "34f53a7663ad992461031002f58b342fceebb79bf04371d919df86d0a1c2b2bb",
+      "bytes": 3260,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "ada30d6804cd57f3234e58d67cc9cd9c88d5e6e7a42dce9dcf5f179c45793341",
+      "sha256": "ada30d6804cd57f3234e58d67cc9cd9c88d5e6e7a42dce9dcf5f179c45793341",
+      "bytes": 2845,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "6f822daaaa5f133581eb69da56d29829f3b92312bf1c6986d32df73ee69f55f2",
+      "sha256": "6f822daaaa5f133581eb69da56d29829f3b92312bf1c6986d32df73ee69f55f2",
+      "bytes": 11093,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "970d1a73b62aeb5dc55f763dc6cac80f4e2863f5453b5e7c3534ac7313f9733b",
+      "sha256": "970d1a73b62aeb5dc55f763dc6cac80f4e2863f5453b5e7c3534ac7313f9733b",
+      "bytes": 1111,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/yandex-market-fbs-fulfillment-moscow-2026/files/metadata.json",
+      "source_sha256": "2c9f48999613b3d2b79d02d1ea815637f818f4ac8307246a6fd028c4dbda27f9",
+      "sha256": "2c9f48999613b3d2b79d02d1ea815637f818f4ac8307246a6fd028c4dbda27f9",
+      "bytes": 1193,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

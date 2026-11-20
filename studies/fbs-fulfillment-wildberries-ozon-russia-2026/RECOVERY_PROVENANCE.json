@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/fbs-fulfillment-wildberries-ozon-russia-2026/files/README.md",
+      "source_sha256": "f71ad976ec9f3a195bfe8be3f7e7019f6891939cca1b3ea6dc9d6372948678d3",
+      "sha256": "f71ad976ec9f3a195bfe8be3f7e7019f6891939cca1b3ea6dc9d6372948678d3",
+      "bytes": 24877,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fbs-fulfillment-wildberries-ozon-russia-2026-en/files/README.md",
+      "source_sha256": "0e9d79f32eee3db50dbb22891f1a3f44e973340675de6bb44b6c1977f5e5cfe3",
+      "sha256": "0e9d79f32eee3db50dbb22891f1a3f44e973340675de6bb44b6c1977f5e5cfe3",
+      "bytes": 18429,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

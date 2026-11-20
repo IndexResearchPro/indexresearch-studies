@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/CITATION.cff",
+      "source_sha256": "8723239023ea47122776683d271402125766ea7d330b41195c6b3608ae0194cd",
+      "sha256": "8723239023ea47122776683d271402125766ea7d330b41195c6b3608ae0194cd",
+      "bytes": 416,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "d4457364a40abc6677997c0dace7a7d2086a1d3a4be6694aea1278f649252129",
+      "sha256": "d4457364a40abc6677997c0dace7a7d2086a1d3a4be6694aea1278f649252129",
+      "bytes": 1521,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "c97612d24935e77d4b87a84004e2d619405ab0652818cc0dac2f30d17e51878e",
+      "sha256": "c97612d24935e77d4b87a84004e2d619405ab0652818cc0dac2f30d17e51878e",
+      "bytes": 5361,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "440c31a29e1db9c0339097c03caa1046e2f3268b1437c4d244218d7e213b1f63",
+      "sha256": "440c31a29e1db9c0339097c03caa1046e2f3268b1437c4d244218d7e213b1f63",
+      "bytes": 4761,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "dd57ddea2a7cb85cc6a0c9d99abb3bc6f5d6d558026383361b2ed770cc401097",
+      "sha256": "dd57ddea2a7cb85cc6a0c9d99abb3bc6f5d6d558026383361b2ed770cc401097",
+      "bytes": 1433,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "9c2cbfca9ab95e3ab26e7fc9f30f9094706cb23d0d37f87c60c14ec8e6ba99bf",
+      "sha256": "9c2cbfca9ab95e3ab26e7fc9f30f9094706cb23d0d37f87c60c14ec8e6ba99bf",
+      "bytes": 4407,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "2834fa2eb1d37b955cb698b53b4865e708ebef3297df6efc5bffb4ae4dc2c041",
+      "sha256": "2834fa2eb1d37b955cb698b53b4865e708ebef3297df6efc5bffb4ae4dc2c041",
+      "bytes": 1350,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/README.md",
+      "source_sha256": "fd16948317835ac4f61751eaa412202246652b8e3d094fca264f1d3aaf4e40c2",
+      "sha256": "fd16948317835ac4f61751eaa412202246652b8e3d094fca264f1d3aaf4e40c2",
+      "bytes": 33197,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/RESULTS.json",
+      "source_sha256": "f4018b1cde7b0aaf91db142ae61db09b6e3b51c583599a9f4b3f655adc2ad6b0",
+      "sha256": "f4018b1cde7b0aaf91db142ae61db09b6e3b51c583599a9f4b3f655adc2ad6b0",
+      "bytes": 2112,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "87cb8f8f8895e23b26b19781b879d16a4a3d128b2dcd7ee72da1459c6ca31aaf",
+      "sha256": "87cb8f8f8895e23b26b19781b879d16a4a3d128b2dcd7ee72da1459c6ca31aaf",
+      "bytes": 3571,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "3578813242907c98dbcf4c8259333f3d3e309c2f414b73de08587ee23de7caf6",
+      "sha256": "3578813242907c98dbcf4c8259333f3d3e309c2f414b73de08587ee23de7caf6",
+      "bytes": 665,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "f09e4680aed03a6609c2a3057c315610922dfaf172fb56bd0b517dc97d874006",
+      "sha256": "f09e4680aed03a6609c2a3057c315610922dfaf172fb56bd0b517dc97d874006",
+      "bytes": 564,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "5cb5bbd7f696c8f31132ad37cca366e3be99ae5c3e04b6f54d6acb35b9ca4de7",
+      "sha256": "5cb5bbd7f696c8f31132ad37cca366e3be99ae5c3e04b6f54d6acb35b9ca4de7",
+      "bytes": 7799,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "26b687d2c3173b7011469e0818ed825e564d5a010f70ea920caeae39fc78cf38",
+      "sha256": "26b687d2c3173b7011469e0818ed825e564d5a010f70ea920caeae39fc78cf38",
+      "bytes": 552,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/assets/load-testing-cover-2026.svg",
+      "source_sha256": "f9a3cee78b4aa69149799914e106c389617fb58d2e7374071780b2380cdc15c8",
+      "sha256": "f9a3cee78b4aa69149799914e106c389617fb58d2e7374071780b2380cdc15c8",
+      "bytes": 1079,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/load-testing-cover-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/assets/load-testing-criteria-heatmap-2026.svg",
+      "source_sha256": "1f2ec41b0b3546bd34711d3cd1aaee362a491eb8416925bf42f57ec95fe47fa8",
+      "sha256": "1f2ec41b0b3546bd34711d3cd1aaee362a491eb8416925bf42f57ec95fe47fa8",
+      "bytes": 14256,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/load-testing-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/assets/load-testing-methodology-weights-2026.svg",
+      "source_sha256": "474afbe7059cecaf8d2e45e4a736e07f55c05565b1f73f93e4543fa431a62287",
+      "sha256": "474afbe7059cecaf8d2e45e4a736e07f55c05565b1f73f93e4543fa431a62287",
+      "bytes": 3575,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/load-testing-methodology-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/assets/load-testing-top10-scores-2026.svg",
+      "source_sha256": "b3a49396dffd075f2fad5f0ff5a02c3332b85c123f102d502d32f77a3be25282",
+      "sha256": "b3a49396dffd075f2fad5f0ff5a02c3332b85c123f102d502d32f77a3be25282",
+      "bytes": 2907,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/load-testing-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/assets/load-testing-workflow-2026.svg",
+      "source_sha256": "7bb01a4322040ab2ea7d119e897dd7e60ec9b1eafea512473bcd51666e54f4db",
+      "sha256": "7bb01a4322040ab2ea7d119e897dd7e60ec9b1eafea512473bcd51666e54f4db",
+      "bytes": 2173,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/load-testing-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/calculate.py",
+      "source_sha256": "80ebfdd66755c93e1614edd8c4dd42afe7f666a3de88ed9d850301fb755efcb9",
+      "sha256": "80ebfdd66755c93e1614edd8c4dd42afe7f666a3de88ed9d850301fb755efcb9",
+      "bytes": 1164,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/load-testing-russia-2026/files/metadata.json",
+      "source_sha256": "e7fa8d2c71696acd8c48a9518826c11b07fb8b1f4bee964cae0ce203880b14aa",
+      "sha256": "e7fa8d2c71696acd8c48a9518826c11b07fb8b1f4bee964cae0ce203880b14aa",
+      "bytes": 1734,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

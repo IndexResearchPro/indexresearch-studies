@@ -1,0 +1,16 @@
+participant_id,company,editorial_group,selection_status,ranked,score,rank,source_ids
+P01,Ada Tours,Русскоязычные организаторы/продавцы,SELECTED,FALSE,,,V3-S001;V3-S002;V3-S024;V3-S026
+P05,АРТ-ТУР,Русскоязычные организаторы/продавцы,SELECTED,FALSE,,,V3-S006
+P02,Квинта-тур,Русскоязычные организаторы/продавцы,SELECTED,FALSE,,,V3-S003
+P04,Клуб полярных путешествий,Русскоязычные организаторы/продавцы,SELECTED,FALSE,,,V3-S005;V3-S022
+P03,RussiaDiscovery,Русскоязычные организаторы/продавцы,SELECTED,FALSE,,,V3-S004
+P22,Chimu Adventures,Международные туристические компании,SELECTED,FALSE,,,V3-S008;V3-S025
+P13,G Adventures,Международные туристические компании,SELECTED,FALSE,,,V3-S007
+P23,Intrepid Travel,Международные туристические компании,SELECTED,FALSE,,,V3-S009;V3-S010
+P12,Aurora Expeditions,Экспедиционные операторы,SELECTED,FALSE,,,V3-S014;V3-S023;V3-S027
+P17,Oceanwide Expeditions,Экспедиционные операторы,SELECTED,FALSE,,,V3-S019;V3-S020;V3-S021
+P15,Polar Latitudes Expeditions,Экспедиционные операторы,SELECTED,FALSE,,,V3-S016;V3-S017
+P09,PONANT,Экспедиционные операторы,SELECTED,FALSE,,,V3-S011
+P14,Poseidon Expeditions,Экспедиционные операторы,SELECTED,FALSE,,,V3-S015
+P10,Quark Expeditions,Экспедиционные операторы,SELECTED,FALSE,,,V3-S012;V3-S013
+P16,Swan Hellenic,Экспедиционные операторы,SELECTED,FALSE,,,V3-S018

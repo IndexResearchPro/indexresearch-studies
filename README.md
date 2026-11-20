@@ -2,13 +2,19 @@
 
 [![IndexResearch](assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
 
-Здесь собраны публичные материалы исследований IndexResearch. В папке каждого исследования есть тексты, методика, исходные данные, библиография и файлы для проверки опубликованных результатов.
+Здесь собраны сохранившиеся публичные материалы 39 исследований IndexResearch и 2 общие методики. Состав каждого набора указан в его README: для части исследований доступны данные и расчетные скрипты, для других сохранился только опубликованный текст. Развернутые статьи на русском, английском и китайском размещены на indexresearch.ru.
 
-Each study folder contains the published texts, methods, data, references, and files for reproducing or verifying the results.
+This repository preserves public materials for 39 studies and 2 general methodologies. Each README identifies the files that survived: some packages include data and calculation scripts; others contain only the published text. Full articles are available on indexresearch.ru.
 
-每项研究的目录包含已发布的文本、研究方法、数据、参考来源，以及用于复现或核验结果的文件。
+本仓库保存39项研究的公开资料和2份通用方法说明。各目录的README明确列出已恢复的文件：部分研究保留了数据和计算脚本，部分仅保留已发表的文本。完整文章发布在indexresearch.ru。
 
-## Исследования · Studies · 研究
+## Полный каталог восстановленных материалов
+
+[Все 39 исследований, общие методики и перечень отсутствующих оригиналов](RECOVERY_INDEX.md).
+
+История этого репозитория фиксирует восстановленный снимок с ноября 2026 года. Прежняя история Git и первоначальные коммиты заморозки утрачены. Указанные внутри оригиналов даты и старые ссылки сохранены как исторические сведения; новый коммит не подтверждает прежнюю дату фиксации.
+
+## Первые 3 опубликованных набора · Initial studies · 首批研究
 
 | Исследование | RU | EN | 简体中文 |
 |---|---|---|---|

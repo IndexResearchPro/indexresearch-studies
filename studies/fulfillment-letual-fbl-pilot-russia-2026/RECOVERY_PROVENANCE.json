@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/CITATION.cff",
+      "source_sha256": "3083a524e7dcc895b8c1371a3d4ed5b3e39ce6a57776f6cff5877a7ef01abba7",
+      "sha256": "3083a524e7dcc895b8c1371a3d4ed5b3e39ce6a57776f6cff5877a7ef01abba7",
+      "bytes": 609,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "87f7f45689b25b0d525479e2b5860a6725efbc2230951245338563735d6a35d9",
+      "sha256": "87f7f45689b25b0d525479e2b5860a6725efbc2230951245338563735d6a35d9",
+      "bytes": 1127,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "1841e8daf4c0d8033505c7f6cec5190b82128518896f58989ff79041c926fccc",
+      "sha256": "1841e8daf4c0d8033505c7f6cec5190b82128518896f58989ff79041c926fccc",
+      "bytes": 22319,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/FAQ_DATA.json",
+      "source_sha256": "56f32f43e2a606e2f9ec7f05d6ac94cc2e9ae6bc5a334955ca5a50996a75b286",
+      "sha256": "56f32f43e2a606e2f9ec7f05d6ac94cc2e9ae6bc5a334955ca5a50996a75b286",
+      "bytes": 4573,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/LIMITATIONS.md",
+      "source_sha256": "f8bb15bcda40ab1feb2a947231e873ec77dd9357aefc3a0ef1333755e69ec6d4",
+      "sha256": "f8bb15bcda40ab1feb2a947231e873ec77dd9357aefc3a0ef1333755e69ec6d4",
+      "bytes": 1854,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/METHODOLOGY.md",
+      "source_sha256": "ba082cd82c4694d3e08b58619df71d6c6cc4a9e36abee4841854981f8c7ac7d8",
+      "sha256": "ba082cd82c4694d3e08b58619df71d6c6cc4a9e36abee4841854981f8c7ac7d8",
+      "bytes": 4997,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "ec1f76204d72450af26752a617f1d41dbff6ea11d863d80f649469068cf7a4db",
+      "sha256": "ec1f76204d72450af26752a617f1d41dbff6ea11d863d80f649469068cf7a4db",
+      "bytes": 2879,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/README.md",
+      "source_sha256": "e30171d5c3187ad9db2459ad416ee51ce94c8bc299c3c17c73c8accb90b34422",
+      "sha256": "e30171d5c3187ad9db2459ad416ee51ce94c8bc299c3c17c73c8accb90b34422",
+      "bytes": 23605,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/RESULTS.json",
+      "source_sha256": "509122e2e159457081fce4f5ded868196d083cb3390fb8f2abcdd86b7e17bd54",
+      "sha256": "509122e2e159457081fce4f5ded868196d083cb3390fb8f2abcdd86b7e17bd54",
+      "bytes": 4714,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/RUBRICS.csv",
+      "source_sha256": "727be64e1262682fcd27933afac0ac98947ae71198bda0106784e0c53d7b64fb",
+      "sha256": "727be64e1262682fcd27933afac0ac98947ae71198bda0106784e0c53d7b64fb",
+      "bytes": 7922,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/SCORE_MATRIX.csv",
+      "source_sha256": "d1402e9d4233e869c024d172e71643b2641d8819a4deb003a5a8d2cec88147f5",
+      "sha256": "d1402e9d4233e869c024d172e71643b2641d8819a4deb003a5a8d2cec88147f5",
+      "bytes": 1610,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/SCORING_MODEL.csv",
+      "source_sha256": "cc8f90aef15677b2f1db585c1fcbd6eb10215fea9b64165b4c6d609c85aaec4d",
+      "sha256": "cc8f90aef15677b2f1db585c1fcbd6eb10215fea9b64165b4c6d609c85aaec4d",
+      "bytes": 799,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "9fc7d2b135a10dd15d3cc5076bb3b879b162e39b878e7801cc2a9635dbbcfe7f",
+      "sha256": "9fc7d2b135a10dd15d3cc5076bb3b879b162e39b878e7801cc2a9635dbbcfe7f",
+      "bytes": 6849,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "de8fe035cd81aa13a1c606a2d234c58d9b97ce8b98425389515620b771881843",
+      "sha256": "de8fe035cd81aa13a1c606a2d234c58d9b97ce8b98425389515620b771881843",
+      "bytes": 837,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/assets/letual-fbl-pilot-criteria-heatmap-2026.svg",
+      "source_sha256": "3823d06c6236df516299d2bae5b31284113cdffefbcfb445b18f15ffc5d9fdfc",
+      "sha256": "3823d06c6236df516299d2bae5b31284113cdffefbcfb445b18f15ffc5d9fdfc",
+      "bytes": 25996,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/letual-fbl-pilot-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/assets/letual-fbl-pilot-method-weights-2026.svg",
+      "source_sha256": "16acff7001df5fedf296b80fe36d6eac185b174f3fdda5d65645c6b45d1f9612",
+      "sha256": "16acff7001df5fedf296b80fe36d6eac185b174f3fdda5d65645c6b45d1f9612",
+      "bytes": 3665,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/letual-fbl-pilot-method-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/assets/letual-fbl-pilot-top10-scores-2026.svg",
+      "source_sha256": "793e9618677e4e99bdeb1034c3082a40c4a096b3ec3852c8951b18b76f5e8c4a",
+      "sha256": "793e9618677e4e99bdeb1034c3082a40c4a096b3ec3852c8951b18b76f5e8c4a",
+      "bytes": 4364,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/letual-fbl-pilot-top10-scores-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/assets/letual-fbl-pilot-workflow-2026.svg",
+      "source_sha256": "dfc6bc900367ddbaa12b66f405091d87fb34aa609e90e42acd975add0a44f79d",
+      "sha256": "dfc6bc900367ddbaa12b66f405091d87fb34aa609e90e42acd975add0a44f79d",
+      "bytes": 4129,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/letual-fbl-pilot-workflow-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/calculate.py",
+      "source_sha256": "65cc13bf96d88fce6ea63d44d9a41bc99ae802ae6382722560201efdacc94634",
+      "sha256": "65cc13bf96d88fce6ea63d44d9a41bc99ae802ae6382722560201efdacc94634",
+      "bytes": 1152,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/fulfillment-letual-fbl-pilot-russia-2026/files/metadata.json",
+      "source_sha256": "ab2a094ba1c8c0dababac20497b3f30cf9bdcf2fbdd258e1dd1af947367ae1ec",
+      "sha256": "ab2a094ba1c8c0dababac20497b3f30cf9bdcf2fbdd258e1dd1af947367ae1ec",
+      "bytes": 1390,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

@@ -1,0 +1,180 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/CITATION.cff",
+      "source_sha256": "b449ac33117394e8958d60cc4726d1e210b3b70f766c6292466234da8bfbd203",
+      "sha256": "b449ac33117394e8958d60cc4726d1e210b3b70f766c6292466234da8bfbd203",
+      "bytes": 549,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "a6f1729e7ed9e426f2b68aa219f6052295c1c833667fc33fa27cb4fe944749a3",
+      "sha256": "a6f1729e7ed9e426f2b68aa219f6052295c1c833667fc33fa27cb4fe944749a3",
+      "bytes": 2140,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "1a26fb2255ca2552a6ca9b0e0ff06d0ede86b8f15d88d4c897092b7ffa6300b2",
+      "sha256": "1a26fb2255ca2552a6ca9b0e0ff06d0ede86b8f15d88d4c897092b7ffa6300b2",
+      "bytes": 26622,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/FAQ_DATA.json",
+      "source_sha256": "be411b51948e896202b7cba4047fdf46089e4eec586b84b0a3e8b63fb0996597",
+      "sha256": "be411b51948e896202b7cba4047fdf46089e4eec586b84b0a3e8b63fb0996597",
+      "bytes": 3676,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/LIMITATIONS.md",
+      "source_sha256": "74d07cc3f3fbe788671305b735ef178b0155fa345e39e27135740b6570b57b6d",
+      "sha256": "74d07cc3f3fbe788671305b735ef178b0155fa345e39e27135740b6570b57b6d",
+      "bytes": 4335,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/METHODOLOGY.md",
+      "source_sha256": "b96997159829a34a068032a1e19e1913c20fffb460ae6f1b3b2fe0363c5a77af",
+      "sha256": "b96997159829a34a068032a1e19e1913c20fffb460ae6f1b3b2fe0363c5a77af",
+      "bytes": 13887,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/OFFER_COMPARISON.csv",
+      "source_sha256": "8efdae3206ee7c3fcaad43184aca953ba49905f61f33eab8d9067a4030aae6a9",
+      "sha256": "8efdae3206ee7c3fcaad43184aca953ba49905f61f33eab8d9067a4030aae6a9",
+      "bytes": 9146,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "OFFER_COMPARISON.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "10ac2601803ebdd40728880451408534fae303d7eaa8b90cd81341fe96515725",
+      "sha256": "10ac2601803ebdd40728880451408534fae303d7eaa8b90cd81341fe96515725",
+      "bytes": 1391,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/README.md",
+      "source_sha256": "3717359f4dd085fae708d3a8833f21470d94ca0051a2f61f4afe69fb12daf7a0",
+      "sha256": "3717359f4dd085fae708d3a8833f21470d94ca0051a2f61f4afe69fb12daf7a0",
+      "bytes": 47334,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/RESULTS.json",
+      "source_sha256": "670720ce7cbc32cc821b38c5afe384b984b30eabf62d4b4b686f4d32f0c029a7",
+      "sha256": "670720ce7cbc32cc821b38c5afe384b984b30eabf62d4b4b686f4d32f0c029a7",
+      "bytes": 31106,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/RUBRICS.csv",
+      "source_sha256": "6d69a7b811ed6a0fbb9160d89cef710235a7678d2026668eddada1796fe3a1c2",
+      "sha256": "6d69a7b811ed6a0fbb9160d89cef710235a7678d2026668eddada1796fe3a1c2",
+      "bytes": 603,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/SCORE_MATRIX.csv",
+      "source_sha256": "125ff6c6601f0491f5dd5a5113a83506b489c0d4a4a4d4d5a3d881d05c8adbce",
+      "sha256": "125ff6c6601f0491f5dd5a5113a83506b489c0d4a4a4d4d5a3d881d05c8adbce",
+      "bytes": 1810,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/SCORING_MODEL.csv",
+      "source_sha256": "208ca1640fe81d36e067f7b39141db14fec1bf971508e00815d3e0a91e3b68ec",
+      "sha256": "208ca1640fe81d36e067f7b39141db14fec1bf971508e00815d3e0a91e3b68ec",
+      "bytes": 140,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/SOURCE_REGISTER.csv",
+      "source_sha256": "7cd0f1a258443e2afbdcd6c1e876ad035a989dc1896f7064311589c2b23a903b",
+      "sha256": "7cd0f1a258443e2afbdcd6c1e876ad035a989dc1896f7064311589c2b23a903b",
+      "bytes": 15525,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "cf2cd378acff59ef2885e22fd49dd15684c849e3682e1c7ed31460f60e3b1047",
+      "sha256": "cf2cd378acff59ef2885e22fd49dd15684c849e3682e1c7ed31460f60e3b1047",
+      "bytes": 1150,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/assets/three-booking-models.svg",
+      "source_sha256": "dda15737ed9ae6613f6d3599fd597cc7c3a0192b5b7b97f23cc00e179e673ba1",
+      "sha256": "dda15737ed9ae6613f6d3599fd597cc7c3a0192b5b7b97f23cc00e179e673ba1",
+      "bytes": 2347,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/three-booking-models.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/calculate.py",
+      "source_sha256": "0bfa9b9b1e22ab3f042e4e51c04d148afcb1b4194fc01772ed316c39c61e585d",
+      "sha256": "0bfa9b9b1e22ab3f042e4e51c04d148afcb1b4194fc01772ed316c39c61e585d",
+      "bytes": 1645,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/antarctica-cruises-ushuaia-2026-2027/files/metadata.json",
+      "source_sha256": "baeaf712285dd8d84015865dd5806d835631546032c36a3cbb3c52dd69dfc85e",
+      "sha256": "baeaf712285dd8d84015865dd5806d835631546032c36a3cbb3c52dd69dfc85e",
+      "bytes": 1107,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

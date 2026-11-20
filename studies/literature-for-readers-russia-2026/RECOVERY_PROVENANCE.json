@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/literature-for-readers-russia-2026/files/README.md",
+      "source_sha256": "e904cbaf896b782e1a4a66529d7cbf7059173ee5860b84b35abe365b77e3f1af",
+      "sha256": "e904cbaf896b782e1a4a66529d7cbf7059173ee5860b84b35abe365b77e3f1af",
+      "bytes": 22150,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    }
+  ],
+  "verification": [],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

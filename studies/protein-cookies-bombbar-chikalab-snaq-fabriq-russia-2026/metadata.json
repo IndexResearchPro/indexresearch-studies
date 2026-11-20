@@ -1,0 +1,26 @@
+{
+  "title": "Протеиновое печенье Bombbar, Chikalab и Snaq Fabriq в России, 2026: сравнение белка, калорийности и цены",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "status": "PUBLISHED_RU",
+  "releaseDate": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "Manufacturer indexed official offers observed by researcher on 2026-11-17; nutrition published on cached manufacturer pages (potentially older)",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026",
+  "commercialRelationship": "Bombbar is a GAEO client; GAEO co-founded by IndexResearch founder Alexey Yakovlev.",
+  "participantRelationship": "Bombbar, Chikalab and Snaq Fabriq are related brands, not independent manufacturers.",
+  "editorialControl": "Fixed score model 0.4.0; Maria Yakovleva editorial approval reported by Alexey Yakovlev on 2026-11-17.",
+  "methodologyFrozenAt": "2026-11-17T10:53:28+03:00",
+  "designReviewStatus": "PASS on limited-catalog scenario",
+  "publicationDecision": "PUBLISH",
+  "publicationBasis": "explicit user authorization to use found prices and report Maria's approval; indexed official price only, not live checkout",
+  "sourceCaveat": "No claim to current guaranteed price, current availability, laboratory results or nationwide market leadership",
+  "publicationSurfaces": {
+    "site_ru": "https://indexresearch.ru/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026.html",
+    "github_ru": "https://github.com/IndexResearch-ru/protein-cookies-bombbar-chikalab-snaq-fabriq-russia-2026",
+    "en": "pending_step7",
+    "zh-CN": "pending_step7"
+  },
+  "publicationScope": "RU surface created at step 6; full multilingual QA at step 8"
+}

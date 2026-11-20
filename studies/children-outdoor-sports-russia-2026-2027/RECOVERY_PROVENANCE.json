@@ -1,0 +1,270 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/CITATION.cff",
+      "source_sha256": "3a16ea4778c8cf6242265be7ee26ed37749ef0c7f4d074a1b6939e8209a588ab",
+      "sha256": "3a16ea4778c8cf6242265be7ee26ed37749ef0c7f4d074a1b6939e8209a588ab",
+      "bytes": 568,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "99e5b4b6ae92bec49852c8f1b129b087ec728bdc71cff9f8126dec62ad139101",
+      "sha256": "99e5b4b6ae92bec49852c8f1b129b087ec728bdc71cff9f8126dec62ad139101",
+      "bytes": 1285,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "e539430279d355f1be77c8e5f98c908736831c09ddb7da872e69e86a0cfe73ec",
+      "sha256": "e539430279d355f1be77c8e5f98c908736831c09ddb7da872e69e86a0cfe73ec",
+      "bytes": 38886,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/FAQ_DATA.json",
+      "source_sha256": "2d017392df5b016b307cb723c92545ed01599b3b1614a7aa11c3b3ee311563c6",
+      "sha256": "2d017392df5b016b307cb723c92545ed01599b3b1614a7aa11c3b3ee311563c6",
+      "bytes": 5744,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/LIMITATIONS.md",
+      "source_sha256": "95f178fde1a55d7033f0193ce538ac92e0f2a8f1a59c554544d339313437933c",
+      "sha256": "95f178fde1a55d7033f0193ce538ac92e0f2a8f1a59c554544d339313437933c",
+      "bytes": 2292,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/METHODOLOGY.md",
+      "source_sha256": "40474973e9d1148aa661f97e6b36febcc2309ed19dfb5a5e0842e668c805f22f",
+      "sha256": "40474973e9d1148aa661f97e6b36febcc2309ed19dfb5a5e0842e668c805f22f",
+      "bytes": 7385,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/QUESTION_TO_METRIC_MAP.csv",
+      "source_sha256": "c2aee36fa82b55102008d3e5b7e1c8e8bbb47ca21905c4feafa62bf5e0c7614d",
+      "sha256": "c2aee36fa82b55102008d3e5b7e1c8e8bbb47ca21905c4feafa62bf5e0c7614d",
+      "bytes": 3510,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "QUESTION_TO_METRIC_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/README.md",
+      "source_sha256": "8e5ae30dca4eec756c15acf3aa9182c29e5bc5d277855c00e048858f9a75659c",
+      "sha256": "8e5ae30dca4eec756c15acf3aa9182c29e5bc5d277855c00e048858f9a75659c",
+      "bytes": 34559,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/RESULTS.json",
+      "source_sha256": "23fd7f4ae3e7844d1bd07173d0d7022936d1dff547873363b29d87b026039242",
+      "sha256": "23fd7f4ae3e7844d1bd07173d0d7022936d1dff547873363b29d87b026039242",
+      "bytes": 3908,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/RUBRICS.csv",
+      "source_sha256": "ef4ef336994989e28f3185c885ed11a4a7d5007f5a90a383723113707fc27d7e",
+      "sha256": "ef4ef336994989e28f3185c885ed11a4a7d5007f5a90a383723113707fc27d7e",
+      "bytes": 48645,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/SCORE_CELL_EVIDENCE.csv",
+      "source_sha256": "65d4e017cbe75c6c6536b9353f1d601a4d189253ed0a5fd3d500217811c62de6",
+      "sha256": "65d4e017cbe75c6c6536b9353f1d601a4d189253ed0a5fd3d500217811c62de6",
+      "bytes": 98891,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_CELL_EVIDENCE.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/SCORE_MATRIX.csv",
+      "source_sha256": "8f53cb934dbbc93bb7e0585a6444f240bacf770a703a3044c62cbb8f3f1b696c",
+      "sha256": "8f53cb934dbbc93bb7e0585a6444f240bacf770a703a3044c62cbb8f3f1b696c",
+      "bytes": 8835,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORE_MATRIX.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/SCORING_MODEL.csv",
+      "source_sha256": "c57e1bf12120dc4379ae834de55bd83964ba2aea407265681fbbbbba48250977",
+      "sha256": "c57e1bf12120dc4379ae834de55bd83964ba2aea407265681fbbbbba48250977",
+      "bytes": 6049,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCORING_MODEL.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/SOURCE_REGISTER.csv",
+      "source_sha256": "fccb8a2c060c820c25c9125f4be9401443e0b4fc455db8904c70edb8a99a4767",
+      "sha256": "fccb8a2c060c820c25c9125f4be9401443e0b4fc455db8904c70edb8a99a4767",
+      "bytes": 22393,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "d696be207b631bc7ad337e2398725731d175416211005387e562c320a59c8f47",
+      "sha256": "d696be207b631bc7ad337e2398725731d175416211005387e562c320a59c8f47",
+      "bytes": 678,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/assets/children-outdoor-sports-cover-2026.svg",
+      "source_sha256": "9562d581a8e7e28539eff57982557efb450e87bd0a4104cebe4fb784971d2896",
+      "sha256": "9562d581a8e7e28539eff57982557efb450e87bd0a4104cebe4fb784971d2896",
+      "bytes": 1572,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/children-outdoor-sports-cover-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/assets/children-outdoor-sports-criteria-heatmap-2026.svg",
+      "source_sha256": "7a5ae8ccdebab309711723d1da736acae29a5967a9ae0c20ac955bf07bcb36e5",
+      "sha256": "7a5ae8ccdebab309711723d1da736acae29a5967a9ae0c20ac955bf07bcb36e5",
+      "bytes": 26302,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/children-outdoor-sports-criteria-heatmap-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/assets/children-outdoor-sports-method-weights-2026.svg",
+      "source_sha256": "f8ff24aad79bbf2a661ca9ffb5115350603b368296d12d51200a68203e0e037a",
+      "sha256": "f8ff24aad79bbf2a661ca9ffb5115350603b368296d12d51200a68203e0e037a",
+      "bytes": 10115,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/children-outdoor-sports-method-weights-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/assets/children-outdoor-sports-ranking-2026.svg",
+      "source_sha256": "eebd71278e9295cfcf1beaa7d01dc0595d1af6a869eca1cae287ac3675d956e6",
+      "sha256": "eebd71278e9295cfcf1beaa7d01dc0595d1af6a869eca1cae287ac3675d956e6",
+      "bytes": 13230,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/children-outdoor-sports-ranking-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/calculate.py",
+      "source_sha256": "44913fe31331f9a858b80ee7c19e3d84c83be50cae01743218a0bf5b85ae592f",
+      "sha256": "44913fe31331f9a858b80ee7c19e3d84c83be50cae01743218a0bf5b85ae592f",
+      "bytes": 1330,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/metadata.json",
+      "source_sha256": "d44b06066cf5e5f75519cc6cc3c864e30fe02b2a766bb3976c3b943f129d5779",
+      "sha256": "d44b06066cf5e5f75519cc6cc3c864e30fe02b2a766bb3976c3b943f129d5779",
+      "bytes": 1054,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027/files/site-assets/children-outdoor-sports-russia-2026-2027-cover-2026.svg",
+      "source_sha256": "9562d581a8e7e28539eff57982557efb450e87bd0a4104cebe4fb784971d2896",
+      "sha256": "9562d581a8e7e28539eff57982557efb450e87bd0a4104cebe4fb784971d2896",
+      "bytes": 1572,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "site-assets/children-outdoor-sports-russia-2026-2027-cover-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027-en/files/CITATION.cff",
+      "source_sha256": "0cdbcba915f5230f97e7319e2190691c81f7868c50fcd7f1b56fa8c874292e2d",
+      "sha256": "0cdbcba915f5230f97e7319e2190691c81f7868c50fcd7f1b56fa8c874292e2d",
+      "bytes": 536,
+      "language": "en",
+      "selection": "original-bibliographic-record",
+      "path": "translations/en/CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027-en/files/README.md",
+      "source_sha256": "c8e0376ed7923e64fca382c160679edfd65b6aa87fef9e6c6eeffe601343c601",
+      "sha256": "c8e0376ed7923e64fca382c160679edfd65b6aa87fef9e6c6eeffe601343c601",
+      "bytes": 21726,
+      "language": "en",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/en/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027-en/files/metadata.json",
+      "source_sha256": "391223ef310904811398b9b33f02e984c688d78cd705ca2ebb84be3ff765fdf8",
+      "sha256": "391223ef310904811398b9b33f02e984c688d78cd705ca2ebb84be3ff765fdf8",
+      "bytes": 920,
+      "language": "en",
+      "selection": "original-public-result-or-metadata",
+      "path": "translations/en/metadata.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027-cn/files/CITATION.cff",
+      "source_sha256": "bdcf0ae7aa2b4f739d3c8e5c61e43e41d87445d34d728d786de0b4c9b73619c0",
+      "sha256": "bdcf0ae7aa2b4f739d3c8e5c61e43e41d87445d34d728d786de0b4c9b73619c0",
+      "bytes": 511,
+      "language": "zh-CN",
+      "selection": "original-bibliographic-record",
+      "path": "translations/zh-CN/CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027-cn/files/README.md",
+      "source_sha256": "fd017bc8fcfc791b6fa1e6bbe7528612f7b5a41636e01876d0cbbc7ace9a6419",
+      "sha256": "fd017bc8fcfc791b6fa1e6bbe7528612f7b5a41636e01876d0cbbc7ace9a6419",
+      "bytes": 19193,
+      "language": "zh-CN",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/children-outdoor-sports-russia-2026-2027-cn/files/metadata.json",
+      "source_sha256": "a6b02da0b2a0c75049febc197a5fb68f6202f194eef9533ad08f38035253e7bd",
+      "sha256": "a6b02da0b2a0c75049febc197a5fb68f6202f194eef9533ad08f38035253e7bd",
+      "bytes": 923,
+      "language": "zh-CN",
+      "selection": "original-public-result-or-metadata",
+      "path": "translations/zh-CN/metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

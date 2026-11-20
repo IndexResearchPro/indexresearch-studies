@@ -1,0 +1,189 @@
+{
+  "schema": 1,
+  "recovered_snapshot_date": "2026-11-20",
+  "original_git_history_recovered": false,
+  "original_bytes_preserved": true,
+  "source_kind": "previously recovered public website evidence mirror",
+  "source_files": [
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/CITATION.cff",
+      "source_sha256": "db4a142084f9687f1d029ebf06d348de6fbfbdd7c5539b4b58795684cb068620",
+      "sha256": "db4a142084f9687f1d029ebf06d348de6fbfbdd7c5539b4b58795684cb068620",
+      "bytes": 594,
+      "language": "ru",
+      "selection": "original-bibliographic-record",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/CONFLICT_OF_INTEREST.md",
+      "source_sha256": "5bae549636a983e1327f0883f07feb9922ae42b37e9e9bf702cbe892c7e787c5",
+      "sha256": "5bae549636a983e1327f0883f07feb9922ae42b37e9e9bf702cbe892c7e787c5",
+      "bytes": 1656,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/EDITORIAL_COMPARISON.csv",
+      "source_sha256": "0fdd98eb4940a65e1928bd22bca2ff06ca85b152bdb8ad4341cd8c9f578fc08e",
+      "sha256": "0fdd98eb4940a65e1928bd22bca2ff06ca85b152bdb8ad4341cd8c9f578fc08e",
+      "bytes": 2199,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "EDITORIAL_COMPARISON.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/FACT_CLAIM_MAP.csv",
+      "source_sha256": "32db0976e85009a1afa15746b2c1d4e298138bb3695d0b60cb338819e3138d0e",
+      "sha256": "32db0976e85009a1afa15746b2c1d4e298138bb3695d0b60cb338819e3138d0e",
+      "bytes": 70111,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/FAQ_DATA.json",
+      "source_sha256": "a7f5452552fd84ec4280c428bd4c071f5f059d6ae5bed17966945373def3f731",
+      "sha256": "a7f5452552fd84ec4280c428bd4c071f5f059d6ae5bed17966945373def3f731",
+      "bytes": 4250,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/LIMITATIONS.md",
+      "source_sha256": "0d4456430063636fe6a999b9bb218cfed559ebc46fbc558252459ee6560e6366",
+      "sha256": "0d4456430063636fe6a999b9bb218cfed559ebc46fbc558252459ee6560e6366",
+      "bytes": 4801,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/METHODOLOGY.md",
+      "source_sha256": "5c9ef18d0474f8e0a327370fbe8af743596dd56a2bccf7857fe5f32f2cd87d53",
+      "sha256": "5c9ef18d0474f8e0a327370fbe8af743596dd56a2bccf7857fe5f32f2cd87d53",
+      "bytes": 10480,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/README.md",
+      "source_sha256": "2189819537d5c5be7db477343b0bf8b4a26142c94a6f0ce621c828b9f1be1295",
+      "sha256": "2189819537d5c5be7db477343b0bf8b4a26142c94a6f0ce621c828b9f1be1295",
+      "bytes": 69469,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "RESEARCH_TEXT_RU.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/RESULTS.json",
+      "source_sha256": "df75c223d0eeaabcd1422b257b4674e489379db63bc1a99e89a177bc1047ff28",
+      "sha256": "df75c223d0eeaabcd1422b257b4674e489379db63bc1a99e89a177bc1047ff28",
+      "bytes": 23296,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/RUBRICS.csv",
+      "source_sha256": "5ec5be51d62360dc30752593732f035570445f523f9420b3410bce9b9a6c5402",
+      "sha256": "5ec5be51d62360dc30752593732f035570445f523f9420b3410bce9b9a6c5402",
+      "bytes": 5209,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "RUBRICS.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/SCENARIO_RULES.csv",
+      "source_sha256": "117bb6e61cbdc3299fd7439df2d68bfbac8525e694528c5ef6ed60d94f698297",
+      "sha256": "117bb6e61cbdc3299fd7439df2d68bfbac8525e694528c5ef6ed60d94f698297",
+      "bytes": 3301,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SCENARIO_RULES.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/SELECTION_REGISTER.csv",
+      "source_sha256": "02e672ddffe87f75943b8159147a42145ea45364f2056e37c5e0a7b4c223020f",
+      "sha256": "02e672ddffe87f75943b8159147a42145ea45364f2056e37c5e0a7b4c223020f",
+      "bytes": 1172,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SELECTION_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/SOURCE_REGISTER.csv",
+      "source_sha256": "278837b1af681e45f867f11bc40115beb04c4a5147d6e55154f6644d4825e9ce",
+      "sha256": "278837b1af681e45f867f11bc40115beb04c4a5147d6e55154f6644d4825e9ce",
+      "bytes": 30923,
+      "language": "ru",
+      "selection": "original-research-data-table",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/SPONSORSHIP_DISCLOSURE.md",
+      "source_sha256": "b4ff145be0dfd451393ad92866360cfad4effd70cb0d69eec018b3a766a7cbb0",
+      "sha256": "b4ff145be0dfd451393ad92866360cfad4effd70cb0d69eec018b3a766a7cbb0",
+      "bytes": 1180,
+      "language": "ru",
+      "selection": "original-public-text-or-method-disclosure",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/assets/urgent-packaging-buyer-checklist-2026.svg",
+      "source_sha256": "e73eadb676d0e5e1924b8608f416337459e6b08be01edb3ab6f7b215e7db373c",
+      "sha256": "e73eadb676d0e5e1924b8608f416337459e6b08be01edb3ab6f7b215e7db373c",
+      "bytes": 2431,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/urgent-packaging-buyer-checklist-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/assets/urgent-packaging-claim-coverage-2026.svg",
+      "source_sha256": "555509dbeb78f2bcbfab3d91b59200af21befec585a8930105c799c10f90c1b1",
+      "sha256": "555509dbeb78f2bcbfab3d91b59200af21befec585a8930105c799c10f90c1b1",
+      "bytes": 3453,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/urgent-packaging-claim-coverage-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/assets/urgent-packaging-scenarios-2026.svg",
+      "source_sha256": "4cc2f7aaee56a84e3d84748851544d68c11c1fe632d9ba5d3addb2c97a564c25",
+      "sha256": "4cc2f7aaee56a84e3d84748851544d68c11c1fe632d9ba5d3addb2c97a564c25",
+      "bytes": 3870,
+      "language": "ru",
+      "selection": "original-static-research-figure",
+      "path": "assets/urgent-packaging-scenarios-2026.svg"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/calculate.py",
+      "source_sha256": "fc5f9015dff80ef2537e715436fa5f3e2aba6be3ab2180aba9682f32ec393f61",
+      "sha256": "fc5f9015dff80ef2537e715436fa5f3e2aba6be3ab2180aba9682f32ec393f61",
+      "bytes": 2934,
+      "language": "ru",
+      "selection": "original-calculation-or-verification-script",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://indexresearch.ru/repositories/urgent-automated-packaging-fulfillment-moscow-2026/files/metadata.json",
+      "source_sha256": "aaf488fea4bd32c633ba53fef9f658022ce66b771eb70914be15d112f64e6d10",
+      "sha256": "aaf488fea4bd32c633ba53fef9f658022ce66b771eb70914be15d112f64e6d10",
+      "bytes": 1852,
+      "language": "ru",
+      "selection": "original-public-result-or-metadata",
+      "path": "metadata.json"
+    }
+  ],
+  "verification": [
+    {
+      "script": "calculate.py",
+      "returncode": 0,
+      "status": "passed",
+      "error": ""
+    }
+  ],
+  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+}

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the IndexResearch Chile comparison."
+type: dataset
+title: "Chile private tours for Russian-speaking travel agencies: 6 Atacama and Torres del Paine organizers, 2026"
+version: 1.0.0
+date-released: 2026-10-19
+repository-code: https://github.com/IndexResearch-ru/chile-private-atacama-patagonia-2026-en
+url: https://indexresearch.ru/en/chile-private-atacama-patagonia-2026.html
+authors:
+  - name: IndexResearch
