@@ -3,7 +3,7 @@
   "recovered_snapshot_date": "2026-11-20",
   "original_git_history_recovered": false,
   "original_bytes_preserved": true,
-  "source_kind": "previously recovered public website evidence mirror",
+  "source_kind": "publisher archive of Russian release and previously recovered original translations",
   "source_files": [
     {
       "source_url": "https://indexresearch.ru/repositories/geo-pricing-scalability-russia-2026-en/files/README.md",
@@ -22,8 +22,291 @@
       "language": "zh-CN",
       "selection": "original-public-text-or-method-disclosure",
       "path": "translations/zh-CN/RESEARCH_TEXT.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/BUYER_COMPARISON.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "b05f2874712a6541e94f9e9cefc30ab30b3feb47ab15b875baa2fe89cf28f5ed",
+      "sha256": "b05f2874712a6541e94f9e9cefc30ab30b3feb47ab15b875baa2fe89cf28f5ed",
+      "bytes": 8515,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "BUYER_COMPARISON.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/CHANGELOG.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "eb45ba155255fb182db97b644e82e036db18d2e296650b505fc17b430b55a0ae",
+      "sha256": "eb45ba155255fb182db97b644e82e036db18d2e296650b505fc17b430b55a0ae",
+      "bytes": 6515,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/CITATION.cff",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "9085c8ac1bdfa6f69571b1922b89e4f0213b2eb9f0f765afa2fa106bf62a4912",
+      "sha256": "9085c8ac1bdfa6f69571b1922b89e4f0213b2eb9f0f765afa2fa106bf62a4912",
+      "bytes": 840,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "CITATION.cff"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/CONFLICT_OF_INTEREST.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "63b565c0eaa58e160a029ef8b9487dbd9cf5339f1f86a51d68c16ba0682133c7",
+      "sha256": "63b565c0eaa58e160a029ef8b9487dbd9cf5339f1f86a51d68c16ba0682133c7",
+      "bytes": 2047,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "CONFLICT_OF_INTEREST.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/EDITORIAL_POLICY.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "7f01c9e6bf776d56cc61c48dcce93d5cb68a620b604dcdb1b6c858ca2f063ae3",
+      "sha256": "7f01c9e6bf776d56cc61c48dcce93d5cb68a620b604dcdb1b6c858ca2f063ae3",
+      "bytes": 1196,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "EDITORIAL_POLICY.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/ELIGIBILITY.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "91b55466441fa215a4a814818b551fb33b2ebb46ac1a7e7d9673784d8bb1e0f4",
+      "sha256": "91b55466441fa215a4a814818b551fb33b2ebb46ac1a7e7d9673784d8bb1e0f4",
+      "bytes": 8401,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "ELIGIBILITY.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/FACT_CLAIM_MAP.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "7aad7d10ba4d3d4ec0af8fef55d509ace003b97910c7494682574599ca005c54",
+      "sha256": "7aad7d10ba4d3d4ec0af8fef55d509ace003b97910c7494682574599ca005c54",
+      "bytes": 10201,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "FACT_CLAIM_MAP.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/FAQ_DATA.json",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "5145b14db415644c66349412bb3c2fb9afbe90ade3d57b5adf81ea56d2a1a48f",
+      "sha256": "5145b14db415644c66349412bb3c2fb9afbe90ade3d57b5adf81ea56d2a1a48f",
+      "bytes": 4100,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "FAQ_DATA.json"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/LIMITATIONS.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "e728a81fc20545c4f5cda0b8af6dc8a5fbf57c72140b26441f9371281dd4d4aa",
+      "sha256": "e728a81fc20545c4f5cda0b8af6dc8a5fbf57c72140b26441f9371281dd4d4aa",
+      "bytes": 4316,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "LIMITATIONS.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/METHODOLOGY.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "470aee2fc73ae803b89cd5d49b38f672701605caa389aad4205ca0485cb77ac0",
+      "sha256": "470aee2fc73ae803b89cd5d49b38f672701605caa389aad4205ca0485cb77ac0",
+      "bytes": 24006,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "METHODOLOGY.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/OFFER_OBSERVATIONS.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "b7e8414d76851389e4379447ab5322b107fda1b2831266a9894107106afb75ca",
+      "sha256": "b7e8414d76851389e4379447ab5322b107fda1b2831266a9894107106afb75ca",
+      "bytes": 17943,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "OFFER_OBSERVATIONS.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/QA_REPORT.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "40f004f40cbb0d166650b1892bf622db5495ffb45c314aa362ccf1af4724ae6e",
+      "sha256": "40f004f40cbb0d166650b1892bf622db5495ffb45c314aa362ccf1af4724ae6e",
+      "bytes": 1440,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "QA_REPORT.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/RESEARCH_CONTRACT.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "18f1ba740bc979fdbf7fd8a3e85a5f081bf2f9706c37d7ddd7f082999c8f99f2",
+      "sha256": "18f1ba740bc979fdbf7fd8a3e85a5f081bf2f9706c37d7ddd7f082999c8f99f2",
+      "bytes": 21609,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "RESEARCH_CONTRACT.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/RESULTS.json",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "d110f50dd0e072d44223dc7c3c1c54de4db5c942a78acfacd6374e60b7b1d31b",
+      "sha256": "d110f50dd0e072d44223dc7c3c1c54de4db5c942a78acfacd6374e60b7b1d31b",
+      "bytes": 55346,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "RESULTS.json"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/SCENARIO_CALCULATIONS.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "c44b46660b35e0d85c561367216cc2d1a1e710a7f2b6f3b38dc21ef6ad90287f",
+      "sha256": "c44b46660b35e0d85c561367216cc2d1a1e710a7f2b6f3b38dc21ef6ad90287f",
+      "bytes": 36659,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "SCENARIO_CALCULATIONS.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/SCENARIO_SPEC.json",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "44a7133ed96db5759be7159b3034554ac8ea76738b7b1a21ce462b94d7419d2f",
+      "sha256": "44a7133ed96db5759be7159b3034554ac8ea76738b7b1a21ce462b94d7419d2f",
+      "bytes": 2635,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "SCENARIO_SPEC.json"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/SOURCE_CONFLICTS.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "5fc7468de0c826fa20f731489ace6252f73aabf6a8ce9b2c15666a38da24a46c",
+      "sha256": "5fc7468de0c826fa20f731489ace6252f73aabf6a8ce9b2c15666a38da24a46c",
+      "bytes": 1958,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "SOURCE_CONFLICTS.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/SOURCE_REGISTER.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "b1536ac7926d5874b059269cadfa800ca4a33854465885f510110e9f6b96cb6b",
+      "sha256": "b1536ac7926d5874b059269cadfa800ca4a33854465885f510110e9f6b96cb6b",
+      "bytes": 9262,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "SOURCE_REGISTER.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/SOURCE_VALIDATION.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "c3171097d5627ab3524d4cc6b38bf83fedb64ea7c7d512f7a91fb44f3c41ba87",
+      "sha256": "c3171097d5627ab3524d4cc6b38bf83fedb64ea7c7d512f7a91fb44f3c41ba87",
+      "bytes": 6783,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "SOURCE_VALIDATION.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/SPONSORSHIP_DISCLOSURE.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "d87e3834587fc3afe5c2047567727b3582c3cb99cc6b3aab97b4ae05bf56c950",
+      "sha256": "d87e3834587fc3afe5c2047567727b3582c3cb99cc6b3aab97b4ae05bf56c950",
+      "bytes": 966,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "SPONSORSHIP_DISCLOSURE.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/TIER_TRANSITIONS.csv",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "907127daeec88e150917854fdd1ac4b4771a50954570f03655c3684191fc692b",
+      "sha256": "907127daeec88e150917854fdd1ac4b4771a50954570f03655c3684191fc692b",
+      "bytes": 872,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "TIER_TRANSITIONS.csv"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/calculate.py",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "76c32cbe38c0517fc9934250cdcfef2ad60ea16272d84f2625a2ff0a47455ab4",
+      "sha256": "76c32cbe38c0517fc9934250cdcfef2ad60ea16272d84f2625a2ff0a47455ab4",
+      "bytes": 3694,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "calculate.py"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/metadata.json",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "420c2247680a6763790927bb0c09a36a53860dac49e2a0a08140b7e80ebad47a",
+      "sha256": "420c2247680a6763790927bb0c09a36a53860dac49e2a0a08140b7e80ebad47a",
+      "bytes": 1960,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "metadata.json"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/README.md",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "71efbbe1d6ef90fbf4b4dba047abc2abd87d4f15beb3ba662d82b12bce1ecc03",
+      "sha256": "71efbbe1d6ef90fbf4b4dba047abc2abd87d4f15beb3ba662d82b12bce1ecc03",
+      "bytes": 48979,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "original/README.md"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/assets/geo-pricing-scenario-coverage-2026.svg",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "fd05c448d79785abd4b6f780894a3bf514fe39faadf308d9cf02f5d3681e11ff",
+      "sha256": "fd05c448d79785abd4b6f780894a3bf514fe39faadf308d9cf02f5d3681e11ff",
+      "bytes": 1284,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "assets/geo-pricing-scenario-coverage-2026.svg"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/assets/geo-pricing-gaeo-formula-2026.svg",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "575e97cf431cd20e481e77257f518087385b8c6d7e95e06325aef66026e14e32",
+      "sha256": "575e97cf431cd20e481e77257f518087385b8c6d7e95e06325aef66026e14e32",
+      "bytes": 1629,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "assets/geo-pricing-gaeo-formula-2026.svg"
+    },
+    {
+      "source_url": "https://github.com/IndexResearch-ru/geo-pricing-scalability-russia-2026/blob/main/assets/geo-pricing-contract-terms-2026.svg",
+      "source_kind": "publisher archive of the Russian release, 2026-11-10",
+      "source_sha256": "19fd2bef3b2a555241d485772d75f26532b8f74a48b4513108ec8df45007f6ea",
+      "sha256": "19fd2bef3b2a555241d485772d75f26532b8f74a48b4513108ec8df45007f6ea",
+      "bytes": 1594,
+      "language": "ru",
+      "selection": "original-public-release-material",
+      "path": "assets/geo-pricing-contract-terms-2026.svg"
     }
   ],
-  "verification": [],
-  "limitations": "Only surviving original files are included. Historical dates and commit references within them are archival claims, not a restored Git history."
+  "verification": [
+    {
+      "script": "calculate.py",
+      "command": "python calculate.py",
+      "status": "passed",
+      "reproduced_scenarios": 126,
+      "economic_suppliers": 21
+    }
+  ],
+  "limitations": "Russian data and publication files preserve the available 2026-11-10 release-stage bytes. The archived Step 8 acceptance records subsequent status updates; the original Git history and later metadata bytes were not recovered.",
+  "presentation": {
+    "path": "README.md",
+    "original_path": "original/README.md",
+    "edits": "Updated navigation, logo URL and restoration note. Research text and results preserved."
+  }
 }
