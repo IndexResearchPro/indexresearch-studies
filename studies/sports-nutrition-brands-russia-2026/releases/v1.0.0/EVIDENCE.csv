@@ -1,0 +1,133 @@
+evidence_id,entity_id,criterion_id,claim,source_ids,status,raw_value,score_value,score_low,score_high,verification_sufficient,note
+B01-DRY,B01,DRY,Bombbar: DRY positive,S001,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B01-RTD,B01,RTD,Bombbar: RTD positive,S002,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B01-SNACK,B01,SNACK,Bombbar: SNACK positive,S003,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B01-ORDER,B01,ORDER,Bombbar: ORDER positive,S003,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B01-REGIONAL,B01,REGIONAL,Bombbar: REGIONAL positive,S004,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B01-SECOND,B01,SECOND,Bombbar: SECOND positive,S005,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B02-DRY,B02,DRY,Prime Kraft: DRY positive,S006,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B02-RTD,B02,RTD,Prime Kraft: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B02-SNACK,B02,SNACK,Prime Kraft: SNACK positive,S007,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B02-ORDER,B02,ORDER,Prime Kraft: ORDER positive,S006,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B02-REGIONAL,B02,REGIONAL,Prime Kraft: REGIONAL positive,S008,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B02-SECOND,B02,SECOND,Prime Kraft: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B03-DRY,B03,DRY,PureProtein: DRY positive,S009,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B03-RTD,B03,RTD,PureProtein: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B03-SNACK,B03,SNACK,PureProtein: SNACK positive,S010,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B03-ORDER,B03,ORDER,PureProtein: ORDER positive,S009,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B03-REGIONAL,B03,REGIONAL,PureProtein: REGIONAL positive,S011,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B03-SECOND,B03,SECOND,PureProtein: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B04-DRY,B04,DRY,Maxler: DRY positive,S012,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B04-RTD,B04,RTD,Maxler: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B04-SNACK,B04,SNACK,Maxler: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B04-ORDER,B04,ORDER,Maxler: ORDER positive,S013,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B04-REGIONAL,B04,REGIONAL,Maxler: REGIONAL positive,S014,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B04-SECOND,B04,SECOND,Maxler: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B05-DRY,B05,DRY,IRONMAN: DRY positive,S015,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B05-RTD,B05,RTD,IRONMAN: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B05-SNACK,B05,SNACK,IRONMAN: SNACK positive,S016,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B05-ORDER,B05,ORDER,IRONMAN: ORDER positive,S015,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B05-REGIONAL,B05,REGIONAL,IRONMAN: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B05-SECOND,B05,SECOND,IRONMAN: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B06-DRY,B06,DRY,ProteinREX: DRY positive,S017,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B06-RTD,B06,RTD,ProteinREX: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B06-SNACK,B06,SNACK,ProteinREX: SNACK positive,S018,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B06-ORDER,B06,ORDER,ProteinREX: ORDER positive,S017,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B06-REGIONAL,B06,REGIONAL,ProteinREX: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B06-SECOND,B06,SECOND,ProteinREX: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B07-DRY,B07,DRY,Be First: DRY positive,S019,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B07-RTD,B07,RTD,Be First: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B07-SNACK,B07,SNACK,Be First: SNACK positive,S020,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B07-ORDER,B07,ORDER,Be First: ORDER positive,S019,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B07-REGIONAL,B07,REGIONAL,Be First: REGIONAL positive,S021,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B07-SECOND,B07,SECOND,Be First: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B08-DRY,B08,DRY,GeneticLab Nutrition: DRY positive,S022,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B08-RTD,B08,RTD,GeneticLab Nutrition: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B08-SNACK,B08,SNACK,GeneticLab Nutrition: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B08-ORDER,B08,ORDER,GeneticLab Nutrition: ORDER positive,S022,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B08-REGIONAL,B08,REGIONAL,GeneticLab Nutrition: REGIONAL positive,S023,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B08-SECOND,B08,SECOND,GeneticLab Nutrition: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B09-DRY,B09,DRY,RLine: DRY positive,S024,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B09-RTD,B09,RTD,RLine: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B09-SNACK,B09,SNACK,RLine: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B09-ORDER,B09,ORDER,RLine: ORDER positive,S025,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B09-REGIONAL,B09,REGIONAL,RLine: REGIONAL positive,S026,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B09-SECOND,B09,SECOND,RLine: SECOND positive,S027,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B10-DRY,B10,DRY,Первый Русский Протеин: DRY positive,S028,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B10-RTD,B10,RTD,Первый Русский Протеин: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B10-SNACK,B10,SNACK,Первый Русский Протеин: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B10-ORDER,B10,ORDER,Первый Русский Протеин: ORDER positive,S028,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B10-REGIONAL,B10,REGIONAL,Первый Русский Протеин: REGIONAL positive,S029,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B10-SECOND,B10,SECOND,Первый Русский Протеин: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B11-DRY,B11,DRY,FITKIT: DRY no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B11-RTD,B11,RTD,FITKIT: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B11-SNACK,B11,SNACK,FITKIT: SNACK positive,S030,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B11-ORDER,B11,ORDER,FITKIT: ORDER positive,S031,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B11-REGIONAL,B11,REGIONAL,FITKIT: REGIONAL positive,S032,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B11-SECOND,B11,SECOND,FITKIT: SECOND positive,S033,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B12-DRY,B12,DRY,FitnessShock: DRY no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B12-RTD,B12,RTD,FitnessShock: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B12-SNACK,B12,SNACK,FitnessShock: SNACK positive,S034,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B12-ORDER,B12,ORDER,FitnessShock: ORDER positive,S035,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B12-REGIONAL,B12,REGIONAL,FitnessShock: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B12-SECOND,B12,SECOND,FitnessShock: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B13-DRY,B13,DRY,Chikalab: DRY no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B13-RTD,B13,RTD,Chikalab: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B13-SNACK,B13,SNACK,Chikalab: SNACK positive,S036,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B13-ORDER,B13,ORDER,Chikalab: ORDER positive,S036,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B13-REGIONAL,B13,REGIONAL,Chikalab: REGIONAL positive,S004,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B13-SECOND,B13,SECOND,Chikalab: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B14-DRY,B14,DRY,Snaq Fabriq: DRY no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B14-RTD,B14,RTD,Snaq Fabriq: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B14-SNACK,B14,SNACK,Snaq Fabriq: SNACK positive,S037,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B14-ORDER,B14,ORDER,Snaq Fabriq: ORDER positive,S037,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B14-REGIONAL,B14,REGIONAL,Snaq Fabriq: REGIONAL positive,S004,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B14-SECOND,B14,SECOND,Snaq Fabriq: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B15-DRY,B15,DRY,Optimum Nutrition: DRY positive,S038,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B15-RTD,B15,RTD,Optimum Nutrition: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B15-SNACK,B15,SNACK,Optimum Nutrition: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B15-ORDER,B15,ORDER,Optimum Nutrition: ORDER positive,S038,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B15-REGIONAL,B15,REGIONAL,Optimum Nutrition: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B15-SECOND,B15,SECOND,Optimum Nutrition: SECOND positive,S039,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B16-DRY,B16,DRY,BioTechUSA: DRY positive,S040,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B16-RTD,B16,RTD,BioTechUSA: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B16-SNACK,B16,SNACK,BioTechUSA: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B16-ORDER,B16,ORDER,BioTechUSA: ORDER positive,S040,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B16-REGIONAL,B16,REGIONAL,BioTechUSA: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B16-SECOND,B16,SECOND,BioTechUSA: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B17-DRY,B17,DRY,VPLab: DRY positive,S041,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B17-RTD,B17,RTD,VPLab: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B17-SNACK,B17,SNACK,VPLab: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B17-ORDER,B17,ORDER,VPLab: ORDER positive,S041,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B17-REGIONAL,B17,REGIONAL,VPLab: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B17-SECOND,B17,SECOND,VPLab: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B18-DRY,B18,DRY,Binasport: DRY positive,S042,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B18-RTD,B18,RTD,Binasport: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B18-SNACK,B18,SNACK,Binasport: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B18-ORDER,B18,ORDER,Binasport: ORDER positive,S042,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B18-REGIONAL,B18,REGIONAL,Binasport: REGIONAL positive,S043,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B18-SECOND,B18,SECOND,Binasport: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B19-DRY,B19,DRY,Tree of Life: DRY positive,S044,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B19-RTD,B19,RTD,Tree of Life: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B19-SNACK,B19,SNACK,Tree of Life: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B19-ORDER,B19,ORDER,Tree of Life: ORDER positive,S044,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B19-REGIONAL,B19,REGIONAL,Tree of Life: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B19-SECOND,B19,SECOND,Tree of Life: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B20-DRY,B20,DRY,Soul Way: DRY positive,S045,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B20-RTD,B20,RTD,Soul Way: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B20-SNACK,B20,SNACK,Soul Way: SNACK no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B20-ORDER,B20,ORDER,Soul Way: ORDER positive,S045,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B20-REGIONAL,B20,REGIONAL,Soul Way: REGIONAL positive,S046,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B20-SECOND,B20,SECOND,Soul Way: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B21-DRY,B21,DRY,CMTech: DRY positive,S047,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B21-RTD,B21,RTD,CMTech: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B21-SNACK,B21,SNACK,CMTech: SNACK positive,S048,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B21-ORDER,B21,ORDER,CMTech: ORDER positive,S047,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B21-REGIONAL,B21,REGIONAL,CMTech: REGIONAL no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B21-SECOND,B21,SECOND,CMTech: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B22-DRY,B22,DRY,MadFit: DRY no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B22-RTD,B22,RTD,MadFit: RTD no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"
+B22-SNACK,B22,SNACK,MadFit: SNACK positive,S049,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B22-ORDER,B22,ORDER,MadFit: ORDER positive,S049,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B22-REGIONAL,B22,REGIONAL,MadFit: REGIONAL positive,S004,confirmed,positive evidence,5,5,5,true,Source as of Nov 17; stock may change
+B22-SECOND,B22,SECOND,MadFit: SECOND no affirmative evidence in fixed historical register,,not_found,,0,0,0,true,"Evidence coverage zero, not proof of actual absence"

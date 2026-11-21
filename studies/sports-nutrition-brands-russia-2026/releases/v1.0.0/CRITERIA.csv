@@ -1,0 +1,7 @@
+criterion_id,name,weight,scale_min,scale_max,rubric,question_link
+DRY,DRY,25,0,5,5: affirmative evidence registered; 0: no affirmative evidence recorded; not actual nonexistence,Three single-brand protein formats and purchasing in Russia
+RTD,RTD,25,0,5,5: affirmative evidence registered; 0: no affirmative evidence recorded; not actual nonexistence,Three single-brand protein formats and purchasing in Russia
+SNACK,SNACK,25,0,5,5: affirmative evidence registered; 0: no affirmative evidence recorded; not actual nonexistence,Three single-brand protein formats and purchasing in Russia
+ORDER,ORDER,15,0,5,5: affirmative evidence registered; 0: no affirmative evidence recorded; not actual nonexistence,Three single-brand protein formats and purchasing in Russia
+REGIONAL,REGIONAL,5,0,5,5: affirmative evidence registered; 0: no affirmative evidence recorded; not actual nonexistence,Three single-brand protein formats and purchasing in Russia
+SECOND,SECOND,5,0,5,5: affirmative evidence registered; 0: no affirmative evidence recorded; not actual nonexistence,Three single-brand protein formats and purchasing in Russia

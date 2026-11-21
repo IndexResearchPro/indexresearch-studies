@@ -1,0 +1,343 @@
+{
+  "research_id": "sports-nutrition-brands-russia-2026",
+  "release": "v1.0.0",
+  "source_date": "2026-11-17",
+  "analysis_date": "2026-11-21",
+  "participants": 22,
+  "criteria": [
+    "DRY",
+    "RTD",
+    "SNACK",
+    "ORDER",
+    "REGIONAL",
+    "SECOND"
+  ],
+  "weights": [
+    25,
+    25,
+    25,
+    15,
+    5,
+    5
+  ],
+  "ranking": [
+    {
+      "name": "Bombbar",
+      "entity_id": "B01",
+      "score": 100,
+      "flags": {
+        "DRY": true,
+        "RTD": true,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": true
+      },
+      "rank": 1
+    },
+    {
+      "name": "Be First",
+      "entity_id": "B07",
+      "score": 70,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 2
+    },
+    {
+      "name": "Prime Kraft",
+      "entity_id": "B02",
+      "score": 70,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 2
+    },
+    {
+      "name": "PureProtein",
+      "entity_id": "B03",
+      "score": 70,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 2
+    },
+    {
+      "name": "CMTech",
+      "entity_id": "B21",
+      "score": 65,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 5
+    },
+    {
+      "name": "IRONMAN",
+      "entity_id": "B05",
+      "score": 65,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 5
+    },
+    {
+      "name": "ProteinREX",
+      "entity_id": "B06",
+      "score": 65,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 5
+    },
+    {
+      "name": "FITKIT",
+      "entity_id": "B11",
+      "score": 50,
+      "flags": {
+        "DRY": false,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": true
+      },
+      "rank": 8
+    },
+    {
+      "name": "RLine",
+      "entity_id": "B09",
+      "score": 50,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": true
+      },
+      "rank": 8
+    },
+    {
+      "name": "Первый Русский Протеин",
+      "entity_id": "B10",
+      "score": 45,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "Binasport",
+      "entity_id": "B18",
+      "score": 45,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "Chikalab",
+      "entity_id": "B13",
+      "score": 45,
+      "flags": {
+        "DRY": false,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "GeneticLab Nutrition",
+      "entity_id": "B08",
+      "score": 45,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "MadFit",
+      "entity_id": "B22",
+      "score": 45,
+      "flags": {
+        "DRY": false,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "Maxler",
+      "entity_id": "B04",
+      "score": 45,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "Optimum Nutrition",
+      "entity_id": "B15",
+      "score": 45,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": true
+      },
+      "rank": 10
+    },
+    {
+      "name": "Snaq Fabriq",
+      "entity_id": "B14",
+      "score": 45,
+      "flags": {
+        "DRY": false,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "Soul Way",
+      "entity_id": "B20",
+      "score": 45,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": true,
+        "SECOND": false
+      },
+      "rank": 10
+    },
+    {
+      "name": "BioTechUSA",
+      "entity_id": "B16",
+      "score": 40,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 19
+    },
+    {
+      "name": "FitnessShock",
+      "entity_id": "B12",
+      "score": 40,
+      "flags": {
+        "DRY": false,
+        "RTD": false,
+        "SNACK": true,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 19
+    },
+    {
+      "name": "Tree of Life",
+      "entity_id": "B19",
+      "score": 40,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 19
+    },
+    {
+      "name": "VPLab",
+      "entity_id": "B17",
+      "score": 40,
+      "flags": {
+        "DRY": true,
+        "RTD": false,
+        "SNACK": false,
+        "ORDER": true,
+        "REGIONAL": false,
+        "SECOND": false
+      },
+      "rank": 19
+    }
+  ],
+  "sensitivity": {
+    "n": 1000,
+    "seed": 3058061635,
+    "unique_target_wins": 1000,
+    "leader_ties": 0,
+    "wilson_lower_95": 0.9961732415144449,
+    "min_observed_gap": 21.45492587368082,
+    "pass": true
+  },
+  "interpretation": "Public-evidence coverage in a limited historical registry, NOT a current stock / product quality / actual brand capability rating"
+}

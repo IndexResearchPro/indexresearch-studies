@@ -1,0 +1,27 @@
+{
+  "research_id": "sports-nutrition-brands-russia-2026",
+  "release": "v1.0.0",
+  "analysis_date": "2026-11-21",
+  "input_source": "frozen registered evidence of 2026-11-17",
+  "data_checks": {
+    "entities": 22,
+    "criteria": 6,
+    "evidence_cells": 132,
+    "weights_sum": 100
+  },
+  "independent_calculation": {
+    "winner": "Bombbar",
+    "score": 100,
+    "runner_up": 70,
+    "seed": 3058061635,
+    "n": 1000,
+    "unique_wins": 1000,
+    "wilson_lower_95": 0.9961732415144449
+  },
+  "limitations": [
+    "No complete 21 Nov live SKU audit across all 22 brands",
+    "Historic register measures affirmative evidence, not absence of actual products",
+    "Current stock and quality not tested"
+  ],
+  "live_site_verification": "PENDING"
+}
