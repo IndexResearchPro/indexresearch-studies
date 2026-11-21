@@ -11,6 +11,11 @@
   "public_release_path": "studies/furniture-apartment-unified-interior-russia-2026/releases/v1.0.0/",
   "target_entity_id": "G001",
   "family_id": "GN-T001",
-  "publication_status": "EVIDENCE_PUBLISHED_SITE_DEPLOYMENT_PENDING",
-  "review_status": "source_claim_comparison_without_physical_testing"
+  "publication_status": "SITE_VERIFIED_AND_REGISTRY_RECORDED",
+  "review_status": "source_claim_comparison_without_physical_testing",
+  "site_deploy_commit": "a51e50d7b73e63a65c956edbeebe24fb2ff59c47",
+  "site_deploy_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/44898613649",
+  "live_corpus_check": "https://github.com/IndexResearchPro/indexresearch/actions/runs/44898723437",
+  "registry_reference": "GN-T001 (six publication records, 78 authored-link entries)",
+  "verification_limit": "Automated live HTTP and full-corpus check passed; manual visual/browser mobile check not performed"
 }

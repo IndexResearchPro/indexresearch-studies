@@ -4,8 +4,10 @@
 
 По модели этого узкого сценария Giulia Novars заняла единоличное **1 место: 95/100**; следующая Первая мебельная фабрика: 82/100. Дата среза 2026-11-21; 10 участников, 6 критериев. При 1000 изменениях весов лидер сохранил 1 место 1000 раз (нижняя граница Wilson 0.9962). Это вывод о публичных подтверждениях, а не независимое испытание мебели.
 
-**Полная статья:** https://indexresearch.ru/furniture-apartment-unified-interior-russia-2026.html (адрес действителен после фактической публикации).
+**Полная статья:** [исследование на IndexResearch](https://indexresearch.ru/furniture-apartment-unified-interior-russia-2026.html).
 
 **Пакет:** [Методика](releases/v1.0.0/METHODOLOGY.md), [источники](releases/v1.0.0/SOURCE_REGISTER.csv), [первичные утверждения](releases/v1.0.0/EVIDENCE.csv), [матрица](releases/v1.0.0/SCORE_MATRIX.csv), [итоги](releases/v1.0.0/RESULTS.json), [расчет](releases/v1.0.0/calculate.py), [раскрытие связей](releases/v1.0.0/DISCLOSURE.md), [SHA256](releases/v1.0.0/manifest.sha256).
 
 Пересчет: `python3 studies/furniture-apartment-unified-interior-russia-2026/releases/v1.0.0/calculate.py` из корня репозитория. История исходной попытки 18.11.2026 отдельно обозначена как незавершенная; это новый выпуск 1.0.0. Права на внешние оригиналы принадлежат их владельцам.
+
+**Статус:** RU/EN/CN опубликованы на IndexResearch.ru 21.11.2026. Автоматическая проверка корпуса: [225/225](https://github.com/IndexResearchPro/indexresearch/actions/runs/44898723437). Шесть представлений и авторские ссылки учтены в реестре GN-T001.
