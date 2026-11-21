@@ -1,0 +1,278 @@
+{
+  "research_id": "sugarfree-protein-chocolate-russia-2026",
+  "release": "v1.0.0",
+  "data_cutoff": "2026-11-18",
+  "calculation": "0.6*M01+0.4*M02, where M01=100*protein/25 clipped to [0,100], M02=100*(600-kcal)/250 clipped to [0,100]",
+  "n_candidates": 30,
+  "n_admitted": 25,
+  "n_excluded": 5,
+  "target_entity_id": "C001",
+  "top_unique": true,
+  "ranking": [
+    {
+      "rank": 1,
+      "id": "C001",
+      "brand": "Chikalab",
+      "product": "Молочный шоколад, 100 г",
+      "protein_g_per_100g": 21,
+      "kcal_per_100g": 500,
+      "score": 66.4,
+      "source_ids": "S004"
+    },
+    {
+      "rank": 2,
+      "id": "C005",
+      "brand": "Chikalab",
+      "product": "Молочный с кешью, 100 г",
+      "protein_g_per_100g": 21.2,
+      "kcal_per_100g": 526,
+      "score": 62.72,
+      "source_ids": "S008"
+    },
+    {
+      "rank": 3,
+      "id": "C009",
+      "brand": "Chikalab",
+      "product": "Белый с фундуком и кукурузными чипсами",
+      "protein_g_per_100g": 19,
+      "kcal_per_100g": 498,
+      "score": 61.92,
+      "source_ids": "S012;S062;S063;S064;S065;S072;S076"
+    },
+    {
+      "rank": 4,
+      "id": "C003",
+      "brand": "Chikalab",
+      "product": "Молочный шоколад с миндалем, 100 г",
+      "protein_g_per_100g": 20.8,
+      "kcal_per_100g": 535,
+      "score": 60.32,
+      "source_ids": "S034"
+    },
+    {
+      "rank": 5,
+      "id": "C008",
+      "brand": "Chikalab",
+      "product": "Белый с миндалем и кокосом, 100 г",
+      "protein_g_per_100g": 19.3,
+      "kcal_per_100g": 513,
+      "score": 60.24,
+      "source_ids": "S011"
+    },
+    {
+      "rank": 6,
+      "id": "C002",
+      "brand": "Chikalab",
+      "product": "Темный шоколад, 100 г",
+      "protein_g_per_100g": 20,
+      "kcal_per_100g": 533,
+      "score": 58.72,
+      "source_ids": "S005;S058;S061"
+    },
+    {
+      "rank": 7,
+      "id": "C006",
+      "brand": "Chikalab",
+      "product": "Темный с миндалем, 100 г",
+      "protein_g_per_100g": 20,
+      "kcal_per_100g": 537,
+      "score": 58.08,
+      "source_ids": "S009;S047;S048"
+    },
+    {
+      "rank": 8,
+      "id": "C004",
+      "brand": "Chikalab",
+      "product": "Молочный с фундуком, 100 г",
+      "protein_g_per_100g": 20,
+      "kcal_per_100g": 543,
+      "score": 57.12,
+      "source_ids": "S007"
+    },
+    {
+      "rank": 9,
+      "id": "C007",
+      "brand": "Chikalab",
+      "product": "Темный с фундуком, 100 г",
+      "protein_g_per_100g": 20,
+      "kcal_per_100g": 548,
+      "score": 56.32,
+      "source_ids": "S010"
+    },
+    {
+      "rank": 10,
+      "id": "C028",
+      "brand": "Torras",
+      "product": "Горький шоколад без сахара с протеином, карамелью и морской солью, 100 г",
+      "protein_g_per_100g": 10,
+      "kcal_per_100g": 405,
+      "score": 55.2,
+      "source_ids": "S031;S032;S050;S060;S066;S089;S090"
+    },
+    {
+      "rank": 11,
+      "id": "C021",
+      "brand": "RED Delight",
+      "product": "Экстра темный шоколад 60%",
+      "protein_g_per_100g": 8.5,
+      "kcal_per_100g": 383,
+      "score": 55.12,
+      "source_ids": "S035"
+    },
+    {
+      "rank": 12,
+      "id": "C024",
+      "brand": "RED Delight",
+      "product": "Молочный шоколад",
+      "protein_g_per_100g": 6.5,
+      "kcal_per_100g": 393,
+      "score": 48.72,
+      "source_ids": "S038;S044"
+    },
+    {
+      "rank": 13,
+      "id": "C012",
+      "brand": "Победа вкуса",
+      "product": "Charged, горький 72% какао без сахара",
+      "protein_g_per_100g": 10,
+      "kcal_per_100g": 450,
+      "score": 48,
+      "source_ids": "S040;S049"
+    },
+    {
+      "rank": 14,
+      "id": "C025",
+      "brand": "RED Delight",
+      "product": "Молочный с фундуком",
+      "protein_g_per_100g": 6.9,
+      "kcal_per_100g": 404,
+      "score": 47.92,
+      "source_ids": "S039;S017"
+    },
+    {
+      "rank": 15,
+      "id": "C022",
+      "brand": "RED Delight",
+      "product": "Темный шоколад 40%",
+      "protein_g_per_100g": 4.6,
+      "kcal_per_100g": 373,
+      "score": 47.36,
+      "source_ids": "S036;S017"
+    },
+    {
+      "rank": 16,
+      "id": "C014",
+      "brand": "Победа вкуса",
+      "product": "Charged, молочный 36% какао без сахара",
+      "protein_g_per_100g": 11,
+      "kcal_per_100g": 470,
+      "score": 47.2,
+      "source_ids": "S041"
+    },
+    {
+      "rank": 17,
+      "id": "C018",
+      "brand": "Победа вкуса",
+      "product": "Charged Slim & Fit, молочный без добавленного сахара",
+      "protein_g_per_100g": 11,
+      "kcal_per_100g": 470,
+      "score": 47.2,
+      "source_ids": "S015;S045;S046;S073;S074;S077"
+    },
+    {
+      "rank": 18,
+      "id": "C010",
+      "brand": "Snaq Fabriq",
+      "product": "Milky молочный шоколад, 75 г",
+      "protein_g_per_100g": 11,
+      "kcal_per_100g": 490,
+      "score": 44,
+      "source_ids": "S013"
+    },
+    {
+      "rank": 19,
+      "id": "C013",
+      "brand": "Победа вкуса",
+      "product": "Charged, темный 57% какао без сахара",
+      "protein_g_per_100g": 8,
+      "kcal_per_100g": 460,
+      "score": 41.6,
+      "source_ids": "S042;S043;S046;S070;S082"
+    },
+    {
+      "rank": 20,
+      "id": "C011",
+      "brand": "Snaq Fabriq",
+      "product": "Milky молочный с фундуком, 75 г",
+      "protein_g_per_100g": 12,
+      "kcal_per_100g": 531,
+      "score": 39.84,
+      "source_ids": "S014"
+    },
+    {
+      "rank": 21,
+      "id": "C020",
+      "brand": "O'Zera",
+      "product": "No Sugar Added Dark&Orange, 90 г",
+      "protein_g_per_100g": 8.5,
+      "kcal_per_100g": 480,
+      "score": 39.6,
+      "source_ids": "S019;S080;S092"
+    },
+    {
+      "rank": 22,
+      "id": "C019",
+      "brand": "O'Zera",
+      "product": "No Sugar Added Dark&Nuts, 90 г",
+      "protein_g_per_100g": 10,
+      "kcal_per_100g": 510,
+      "score": 38.4,
+      "source_ids": "S018;S059;S081;S091"
+    },
+    {
+      "rank": 23,
+      "id": "C027",
+      "brand": "APRIORI",
+      "product": "Горький 99% какао, 45/100 г",
+      "protein_g_per_100g": 12.5,
+      "kcal_per_100g": 560,
+      "score": 36.4,
+      "source_ids": "S020"
+    },
+    {
+      "rank": 24,
+      "id": "C030",
+      "brand": "Villars",
+      "product": "Горький шоколад без добавления сахара, 70% какао, 100 г",
+      "protein_g_per_100g": 6,
+      "kcal_per_100g": 495,
+      "score": 31.2,
+      "source_ids": "S033"
+    },
+    {
+      "rank": 25,
+      "id": "C026",
+      "brand": "RED Delight",
+      "product": "Карамелизированный молочный",
+      "protein_g_per_100g": 3.4,
+      "kcal_per_100g": 476,
+      "score": 28,
+      "source_ids": "S017;S067;S068;S069;S079"
+    }
+  ],
+  "stability": {
+    "n": 1000,
+    "seed": 83731127,
+    "rng": "Python random.Random 3.13.5",
+    "weight_multipliers": "independent Uniform(0.70,1.30); renormalized",
+    "target_unique_wins": 971,
+    "top_ties": 0,
+    "wilson_lower_95": 0.9586616416633058,
+    "min_target_margin": -3.2908741342016725,
+    "full_order_stability": "not calculated",
+    "pass": true,
+    "threshold": "k >= 730 and Wilson lower > 0.70"
+  },
+  "source_recheck_scope": "selected decisive product pages reviewed 2026-11-21; 91 original URL records reused; not all secondary sources live rechecked",
+  "caveat": "Result is only for disclosed recipes and reported nutrition values, not all chocolate on the market, lab results, taste, health or stock"
+}

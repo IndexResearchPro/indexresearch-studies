@@ -1,0 +1,29 @@
+{
+  "blueprint_version": "7.0",
+  "status": "PRE_PUBLICATION_CALCULATION_VALIDATED; EXTERNAL_PAGE_QA_NOT_PERFORMED",
+  "checks": {
+    "source_rows": 91,
+    "candidate_rows": 30,
+    "admitted_rows": 25,
+    "excluded_rows": 5,
+    "evidence_rows": 50,
+    "criteria_sum": 100,
+    "unique_target": "C001",
+    "winner_score": 66.4,
+    "runner_up_score": 62.72,
+    "seed": 83731127,
+    "n": 1000,
+    "unique_wins": 971,
+    "wilson_lower_95": 0.9586616416633058,
+    "selection_and_disclosure_pass": true,
+    "final_live_site_verified": false
+  },
+  "known_open_risks": [
+    "Primary/secondary nutritional discrepancy C002 is exposed, source priority manufacturer.",
+    "No guarantee of in-stock items; study scope is a historical catalog-nutrition comparison.",
+    "C028 store category labels caramel as filling but ingredients list crunchy caramel pieces.",
+    "Not all 91 historic URLs live rechecked."
+  ],
+  "tested_equivalent_python_calculation": "2026-11-21, local model with 25 participants, Python 3.13.5; 971 unique wins; code in release must be run directly before public approval",
+  "generated_at": "2026-11-21T12:57:08.829+03:00"
+}
