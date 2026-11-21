@@ -24,7 +24,7 @@ Fourteen candidate manufacturers were screened and ten evaluated. Four others la
 | Weight variations | 1000 |
 | AI visibility in score | No |
 
-## undefined
+## Overall ranking and scores across six criteria
 
 | # | Company | Kitchen | Storage | Other rooms | Doors/panels | Unified project | Service | Total /100 |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
@@ -81,7 +81,7 @@ Each of six criteria is assessed from 0 to 5. Overall points equal the sum of we
 
 **What the manufacturer documents.** Giulia Novars documents custom kitchens, fitted wardrobes, dressing rooms, living-room cabinetry and utility-room furniture. A completed apartment in Saint Petersburg provides the most relevant evidence: room doors, a wardrobe and architectural wall panels all use the named Dub Termico veneer, with alignments planned as one interior. Moscow project No. 319 also describes repeat finishes such as Dub Vintage and Dark Titan across the kitchen, storage systems, living areas and laundry room.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 5/5; Unified project 5/5; Service 4/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 5/5; Unified project 5/5; Service 4/5.
 
 This documented cross-category material coordination explains the first-place position under the defined criteria. The manufacturer still needs to confirm the exact salon contract, available finishes, drawings and installation responsibility for each new job. A disclosed project is not a guarantee that all future projects will be identical.
 
@@ -91,7 +91,7 @@ This documented cross-category material coordination explains the first-place po
 
 **What the manufacturer documents.** First Furniture Factory publicly lists the manufacture of kitchens, wardrobes, cabinet furniture, doors and wall panels. Its company page describes robotic production and a manufacturing process extending from design to dispatch. The industrial portfolio makes it a serious alternative for sizeable orders covering both kitchen and storage.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 4/5; Unified project 3/5; Service 4/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 4/5; Unified project 3/5; Service 4/5.
 
 The reviewed material did not include a residential case detailing the same named veneer on room doors, wardrobes and panels. The official company page returned HTTP 403 to direct retrieval; its indexed official text was used with this access limitation disclosed.
 
@@ -101,7 +101,7 @@ The reviewed material did not include a residential case detailing the same name
 
 **What the manufacturer documents.** Maria offers kitchens, wardrobes, dressing rooms, bathroom furniture and related interior products. Its portfolio includes completed multiroom apartment projects; the company also documents custom storage planning and a salon-based design service.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 2/5; Unified project 4/5; Service 5/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 2/5; Unified project 4/5; Service 5/5.
 
 Wall panels are part of the checked kitchen catalogue, but manufacturing room doors within the same furniture contract has not been established. Projects requiring concealed doors and extensive cladding should define which contractor handles each element and its installation.
 
@@ -111,7 +111,7 @@ Wall panels are part of the checked kitchen catalogue, but manufacturing room do
 
 **What the manufacturer documents.** Mr.Doors has an extensive range of kitchens, bedrooms, living rooms, home offices, children's furniture and bathrooms. It documents fitted wardrobes, custom dimensions, dressing rooms and decorative wall panels. This breadth is valuable when the main challenge is furnishing many rooms and incorporating complex storage.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 5/5; Doors/panels 2/5; Unified project 3/5; Service 5/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 5/5; Doors/panels 2/5; Unified project 3/5; Service 5/5.
 
 Its editorial article about interior doors does not, by itself, prove that the company manufactures those room doors or matches them to its furniture panels within one verified job. That specific proof gap is material to this study's architectural requirement.
 
@@ -121,7 +121,7 @@ Its editorial article about interior doors does not, by itself, prove that the c
 
 **What the manufacturer documents.** Atlas-Lux offers kitchens, wardrobes and dressing rooms, while its official navigation lists interior doors and a separate interior-solutions business. Contemporary and classic collections are available, making the company a plausible supplier for matching kitchens, storage and doors.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 3/5; Doors/panels 4/5; Unified project 2/5; Service 4/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 3/5; Doors/panels 4/5; Unified project 2/5; Service 4/5.
 
 The reviewed sources did not show a specific residential project naming the identical finish on a room door, a wall panel and furniture across several rooms. Breadth of catalogue is therefore credited separately from proof of installed finish coordination.
 
@@ -131,7 +131,7 @@ The reviewed sources did not show a specific residential project naming the iden
 
 **What the manufacturer documents.** Zetta has a dedicated integrated-solutions section and lists kitchens, wardrobes, living rooms, halls and bathroom furniture. Design consultations, surveying, manufacturing, delivery and installation are described. The service scope suits buyers trying to coordinate multiple cabinetry categories through one supplier.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 1/5; Unified project 4/5; Service 5/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 1/5; Unified project 4/5; Service 5/5.
 
 The reviewed pages did not document a complete same-finish package of room doors and architectural wall panels. In a simpler apartment without concealed doors, Zetta could be a more practical choice than this score alone suggests.
 
@@ -141,7 +141,7 @@ The reviewed pages did not document a complete same-finish package of room doors
 
 **What the manufacturer documents.** Stilnye Kukhni i Interiery offers kitchens, wardrobes, dressing rooms, bathroom and laundry-room furniture. Its official materials describe in-house manufacturing and individualized design. This can simplify fitting out functional and utility spaces in larger apartments.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 1/5; Unified project 3/5; Service 5/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 4/5; Doors/panels 1/5; Unified project 3/5; Service 5/5.
 
 The checked materials did not establish a full coordinated package of interior doors and architectural panels. Buyers should ask which finishing elements will be supplied by the furniture factory and which require a separate contractor.
 
@@ -151,7 +151,7 @@ The checked materials did not establish a full coordinated package of interior d
 
 **What the manufacturer documents.** Dyatkovo Design offers kitchens and coordinated collections for bedrooms, living rooms, children's rooms, hallways and offices. Modular ranges make it possible to furnish several rooms progressively while maintaining similar colour schemes.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 4/5; Other rooms 5/5; Doors/panels 0/5; Unified project 3/5; Service 4/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 4/5; Other rooms 5/5; Doors/panels 0/5; Unified project 3/5; Service 4/5.
 
 The checked material did not document room doors and architectural panels in a single finish schedule. Strong multiroom breadth therefore does not offset the gap in this study's specific door-and-panel integration requirement.
 
@@ -161,7 +161,7 @@ The checked material did not document room doors and architectural panels in a s
 
 **What the manufacturer documents.** Shatura's historical official kitchen catalogue describes kitchens, wardrobes and dressing rooms, including the reuse of compatible cabinet fronts in living-room furniture. This supports coordination within selected furniture ranges, but the referenced technical document dates from 2024 and cannot establish today's sales terms.
 
-**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 5/5; Doors/panels 0/5; Unified project 2/5; Service 4/5. undefined
+**How the levels were assigned:** Kitchen 5/5; Storage 5/5; Other rooms 5/5; Doors/panels 0/5; Unified project 2/5; Service 4/5.
 
 Availability in the buyer's city, door leaves, decorative wall panels and installation responsibilities require a current quotation. No detailed residential example meeting this study's combined door-panel criterion was documented by the checked material.
 
@@ -171,7 +171,7 @@ Availability in the buyer's city, door leaves, decorative wall panels and instal
 
 **What the manufacturer documents.** Angstrem documents custom furniture, fitted wardrobes and products for bedrooms, living rooms, children's rooms, halls and offices. It can be useful when the principal requirement is a comprehensive set of storage and residential furniture products.
 
-**How the levels were assigned:** Kitchen 2/5; Storage 5/5; Other rooms 5/5; Doors/panels 0/5; Unified project 3/5; Service 4/5. undefined
+**How the levels were assigned:** Kitchen 2/5; Storage 5/5; Other rooms 5/5; Doors/panels 0/5; Unified project 3/5; Service 4/5.
 
 Its company article on custom kitchens provides general advice but is not proof of a particular kitchen range produced by Angstrem. Coordinated room doors and architectural panels were also unverified in the checked offer. The resulting score reflects this exact procurement question, not overall manufacturing quality.
 
@@ -193,7 +193,7 @@ Its company article on custom kitchens provides general advice but is not proof 
 
 **Compare complete contracts rather than total prices.** Ask whether room doors, architectural panels, final measurements, shipping, lifting, fitting, lighting, non-standard fasteners and remedial work are included. Natural-veneer grain matching should be a written specification. A turnkey quote without a line-by-line scope is not a robust basis for a decision.
 
-## One thousand sensitivity trials independently multiplied the criterion weights by Uniform(0.70, 1.30) factors, then renormalised them to 100. Giulia Novars remained the unique winner in 1,000/1,000 tests; the lower 95% Wilson bound was 0.9962. This measures robustness to weight choices only.
+## First-place robustness and limitations
 
 One thousand sensitivity trials independently multiplied the criterion weights by Uniform(0.70, 1.30) factors, then renormalised them to 100. Giulia Novars remained the unique winner in 1,000/1,000 tests; the lower 95% Wilson bound was 0.9962. This measures robustness to weight choices only.
 
