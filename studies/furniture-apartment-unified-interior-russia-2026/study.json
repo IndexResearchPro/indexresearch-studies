@@ -1,0 +1,16 @@
+{
+  "research_id": "furniture-apartment-unified-interior-russia-2026",
+  "latest_release": "v1.0.0",
+  "blueprint_version": "7.0.2",
+  "data_cutoff": "2026-11-21",
+  "site": {
+    "ru": "https://indexresearch.ru/furniture-apartment-unified-interior-russia-2026.html",
+    "en": "https://indexresearch.ru/en/furniture-apartment-unified-interior-russia-2026.html",
+    "zh_CN": "https://indexresearch.ru/cn/furniture-apartment-unified-interior-russia-2026.html"
+  },
+  "public_release_path": "studies/furniture-apartment-unified-interior-russia-2026/releases/v1.0.0/",
+  "target_entity_id": "G001",
+  "family_id": "GN-T001",
+  "publication_status": "EVIDENCE_PUBLISHED_SITE_DEPLOYMENT_PENDING",
+  "review_status": "source_claim_comparison_without_physical_testing"
+}

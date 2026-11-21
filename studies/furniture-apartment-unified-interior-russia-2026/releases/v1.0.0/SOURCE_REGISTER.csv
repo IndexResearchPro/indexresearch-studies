@@ -1,0 +1,22 @@
+source_id,url,title,publisher,checked_at,source_date,source_type,access_status
+S01,https://spb.giulianovars.ru/realizedprojects/proekt_202/,"Квартира: кухня, двери, панели и шкаф, шпон Дуб Termico",Giulia Novars,2026-11-21T11:13:15.235Z,,official_project,ok
+S02,https://giulianovars.ru/realizedprojects/proekt_319/,"Московская квартира, кухни, шкафы, стены, постирочная",Giulia Novars,2026-11-21T11:13:15.235Z,,official_project,ok
+S03,https://giulianovars.ru/about/,О фабрике,Giulia Novars,2026-11-21T11:13:15.235Z,,official_company,ok
+S04,https://giulianovars.ru/manufacture/,Производство мебели на заказ,Giulia Novars,2026-11-21T11:13:15.235Z,,official_company,ok
+S05,https://www.1mf.ru/about/,"О фабрике, категориях и полном цикле",Первая мебельная фабрика,2026-11-21T11:13:15.235Z,,official_company,indexed_official_text;direct_403
+S06,https://www.1mf.ru/,Каталог фабрики,Первая мебельная фабрика,2026-11-21T11:13:15.235Z,,official_catalog,indexed_official_text;direct_403
+S07,https://www.mrdoors.ru/,"Кухни, системы хранения и мебель по комнатам",Mr.Doors,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S08,https://www.mrdoors.ru/news/26-03-2024-stenovye-paneli-dlya-vashego-interera/,Стеновые панели,Mr.Doors,2026-11-21T11:13:15.235Z,,official_company,ok
+S09,https://www.marya.ru/,Каталог мебели Мария и студии,Мария,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S10,https://voskresensk.marya.ru/portfolio/32729/,Многокомнатный проект,Мария,2026-11-21T11:13:15.235Z,,official_project,indexed_official_text
+S11,https://atlas-lux.ru/,"Каталог кухонь, хранения и межкомнатных дверей",Атлас-Люкс,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S12,https://atlaslux-interiors.ru/,Интерьерное направление компании,Атлас-Люкс,2026-11-21T11:13:15.235Z,,official_catalog,not_independently_opened;homepage_link_only
+S13,https://zetta.ru/catalog/kompleksnye-resheniya/,Комплексные решения,Zetta,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S14,https://zetta.ru/catalog/,Каталог и услуги фабрики,Zetta,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S15,https://www.stilkuhni.ru/about/,О компании и собственном производстве,Стильные Кухни и Интерьеры,2026-11-21T11:13:15.235Z,,official_company,indexed_official_text
+S16,https://www.stilkuhni.ru/,Каталог мебели для помещений,Стильные Кухни и Интерьеры,2026-11-21T11:13:15.235Z,,official_catalog,indexed_official_text
+S17,https://dyatkovo.ru/,Каталог по комнатам,Дятьково Design,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S18,https://dyatkovo.ru/mebel-na-zakaz/,Мебель на заказ,Дятьково Design,2026-11-21T11:13:15.235Z,,official_company,indexed_official_text
+S19,https://static.shatura.com/upload/iblock/f0a/mo65hwda12fxce3okl6ebwb6s0mh1iro/Pasport_izdeliya_SHatura_Kukhni_v_4_ot_11_02_2024.pdf,"Паспорт кухонной программы, редакция 2024",Шатура,2026-11-21T11:13:15.235Z,2024-02-11,official_pdf_historical,indexed_official_text;new_live_page_403
+S20,https://www.angstrem-mebel.ru/mebel-na-zakaz/,Мебель на заказ,Ангстрем,2026-11-21T11:13:15.235Z,,official_catalog,ok
+S21,https://www.angstrem-mebel.ru/blog/sovety/521936/,Статья о кухнях на заказ (не каталог продукции),Ангстрем,2026-11-21T11:13:15.235Z,,official_article,ok
