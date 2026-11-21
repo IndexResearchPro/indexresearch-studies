@@ -50,6 +50,8 @@ All protein and energy values are expressed **per 100 g**, even where a retail b
 
 ## Full results: all 25 admitted recipes
 
+| Rank | Recipe | Protein, g/100 g | Energy, kcal/100 g | Score /100 |
+|---:|---|---:|---:|---:|
 | 1 | Chikalab «Milk chocolate» | 21 | 500 | 66.40 |
 | 2 | Chikalab «Milk chocolate with cashews» | 21.2 | 526 | 62.72 |
 | 3 | Chikalab «White chocolate with hazelnuts and corn crisps» | 19 | 498 | 61.92 |
