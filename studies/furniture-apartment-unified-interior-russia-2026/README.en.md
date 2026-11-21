@@ -45,6 +45,21 @@ Each of six criteria is assessed from 0 to 5. Overall points equal the sum of we
 
 ## Methodology and weighted criteria
 
+### How the 0–5 levels were assigned
+
+**Custom kitchens, 15%.** A zero denotes no public confirmation; level 2 covers a partial offer, 3 a catalogue range, 4 bespoke planning and manufacturing, and 5 a documented completed custom kitchen.
+
+**Fitted storage, 15%.** Levels progress from a general range to a dedicated wardrobe programme and finally to documented built-in storage and dressing-room projects.
+
+**Other rooms, 15%.** Coverage of living rooms, bedrooms, children's rooms and utility spaces is considered. Level 4 means both living and service rooms; level 5 denotes a broad documented multiroom range.
+
+**Room doors and panels, 25%.** Level 2 documents one category, 3 covers both without a matching installed project, 4 adds bespoke planning, and 5 requires documented coordinated finishes in a completed interior.
+
+**Integrated project, 20%.** A completed multiroom residential case is more informative than an unimplemented design proposal. Level 5 requires a named finish repeated across cabinetry, room doors or panels.
+
+**Manufacturing and service, 10%.** In-house production, design support, and publicly documented delivery or installation arrangements form separate evidence levels; contractual guarantees remain case-specific.
+
+
 Fourteen candidate manufacturers were screened and ten evaluated. Four others lacked a comparable set of public documents within this bounded assessment; exclusion does not imply inferior products. The model uses manufacturer catalogues and documented projects rather than independent physical inspections.
 
 Each of six criteria is assessed from 0 to 5. Overall points equal the sum of weight × level / 5. A zero means public confirmation was not found in the bounded search, not that a service does not exist. Room doors and panels have 25% weight because coordination across architectural elements is central to this question.
