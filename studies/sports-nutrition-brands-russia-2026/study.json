@@ -2,12 +2,16 @@
   "research_id": "sports-nutrition-brands-russia-2026",
   "family_id": "BOMBBAR-T003",
   "release": "v1.0.0",
-  "status": "EVIDENCE_PREPARED",
+  "status": "SITE_DEPLOYED",
   "source_cutoff": "2026-11-17",
   "analysis_date": "2026-11-21",
   "site_urls": {
-    "ru": null,
-    "en": null,
-    "zh_CN": null
-  }
+    "ru": "https://indexresearch.ru/sports-nutrition-brands-russia-2026.html",
+    "en": "https://indexresearch.ru/en/sports-nutrition-brands-russia-2026.html",
+    "zh_CN": "https://indexresearch.ru/cn/sports-nutrition-brands-russia-2026.html"
+  },
+  "publication_date": "2026-11-21",
+  "deploy_commit": "a10358c376ebe245b6f5ff97913052aa5b5d71ea",
+  "deploy_run": "44900008876",
+  "corpus_check_run": "44900147477"
 }
