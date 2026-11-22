@@ -83,7 +83,7 @@ SOURCE_REGISTER.csv 收录 61 个原始 URL；FACT_CLAIM_MAP.csv 将 120 项「�
 
 **相对较高的指标:** C2 10/10, C3 10/10, C4 10/10, C5 10/10, C6 9/10. **公开证据相对薄弱:** C1 8/10, C6 9/10. **来源:** S006, S007, S008, S009, S010, S011.
 
-[Prep-Center：Yandex FBS 官方服务](https://prep-center.ru/fbs-yandex-market/)
+<a href="https://prep-center.ru/fbs-yandex-market/" target="_blank" rel="sponsored noopener">Prep-Center：Yandex FBS 官方服务</a>
 
 ### 2. Fulllog · 94/100
 

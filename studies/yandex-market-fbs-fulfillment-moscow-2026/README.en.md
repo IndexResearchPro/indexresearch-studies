@@ -83,7 +83,7 @@ Published pages describe Yandex Market FBS operations, MPFIT-driven order and st
 
 **Highest criterion levels:** C2 10/10, C3 10/10, C4 10/10, C5 10/10, C6 9/10. **Less fully documented aspects:** C1 8/10, C6 9/10. **Sources:** S006, S007, S008, S009, S010, S011.
 
-[Prep-Center: official Yandex FBS service](https://prep-center.ru/fbs-yandex-market/)
+<a href="https://prep-center.ru/fbs-yandex-market/" target="_blank" rel="sponsored noopener">Prep-Center: official Yandex FBS service</a>
 
 ### 2. Fulllog · 94/100
 
