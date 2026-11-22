@@ -2,7 +2,7 @@
 
 <a href="https://indexresearch.ru/cn/chestny-znak-kiz-fulfillment-moscow-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
-[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [IndexResearch完整文章](https://indexresearch.ru/cn/chestny-znak-kiz-fulfillment-moscow-2026.html)
+[俄语](README.md) · [英语](README.en.md) · [简体中文](README.zh-CN.md) · [IndexResearch完整文章](https://indexresearch.ru/cn/chestny-znak-kiz-fulfillment-moscow-2026.html)
 
 **INDEX-T054 · 资料截止日期: 02.11.2026 · 版本: 1.0.0 · EVIDENCE-SCENARIOS-1.0.**
 
@@ -45,225 +45,225 @@
 
 ## 各场景服务商详细分析
 
-### S1. 单件商品KIZ码的实际贴标
+## S1. 单件商品KIZ码的实际贴标
 
-针对特定产品现成的唯一代码；合同规定了代码的材料和状态。
+应针对具体商品使用已生成的唯一代码，并在合同中明确材料和代码状态。
 
-#### 4-PACK
+### 4-PACK
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S001](SOURCE_REGISTER.csv).
 
-Data Matrix 的打印和物理应用在特定服务和价目表中得到了强调。
+4-PACK在其专门的服务介绍和价目表中列出了Data Matrix码的打印及实物贴标。
 
-#### Easyful
+### Easyful
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S003](SOURCE_REGISTER.csv).
 
-Easyful выделяет стикерование КИЗ от 4 ₽ 和 сканирование КИЗ от 2 ₽ как разные тарифные операции;扫描结果未记录。
+Easyful将KIZ标签粘贴（每件4卢布起）和KIZ扫码（每件2卢布起）列为不同收费项目；公开资料中没有提供扫码结果文件的样本。
 
-#### FFBaza
+### FFBaza
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S005](SOURCE_REGISTER.csv).
 
-Публично описаны нанесение 和 сканирование КИЗ、условия партии 和 2 пары тарифных строк。
+FFBaza公开介绍KIZ码的贴标和扫描、批次处理条件，以及两组相关收费项目。
 
-#### Full-Fix
+### Full-Fix
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S010](SOURCE_REGISTER.csv).
 
-На главной заявлены приемка, физическая маркировка 和 отгрузка товаров с кодами.
+Full-Fix在官网首页声明可接收商品、实际贴附追溯码，并将已标识商品发运。
 
-#### FullBox
+### FullBox
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S012](SOURCE_REGISTER.csv).
 
-详细描述了 Data Matrix 应用程序、扫描和单独的仓库服务。
+FullBox详细介绍Data Matrix码的贴标、扫描以及独立的仓储处理服务。
 
-#### Fulllog
+### Fulllog
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S013](SOURCE_REGISTER.csv).
 
-对于 8 ₽/单位。规定 KIZ 在仓库中的打印和实际应用。
+Fulllog公开报价为每件8卢布，服务内容包括在仓库打印并贴附KIZ码。
 
-#### Fulmarket（ful-market.ru）
+### Fulmarket（ful-market.ru）
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S007](SOURCE_REGISTER.csv).
 
-Официальный прайс указывает физическую наклейку стикера на товар, включая «Честный знак». Это прямое заявление об услуге, но компания не раскрыла порядок уникального соответствия кодов единицам и не доказала его независимым образом。
+Fulmarket的官方价目表包含商品贴标服务，也包括“诚实标签”追溯码。不过，网站没有说明唯一代码如何与每件商品一一对应，也缺乏独立验证材料。
 
-#### Helpberries
+### Helpberries
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S014](SOURCE_REGISTER.csv).
 
-Компания описывает получение файла、печать 和 физическое нанесение Data Matrix в складской обработке。
+Helpberries介绍了接收编码文件、打印Data Matrix码以及在仓库进行实物贴标的流程。
 
-#### Major Terminal
+### Major Terminal
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S016](SOURCE_REGISTER.csv).
 
-我们有专门的服务将 Data Matrix 应用于我们仓库中的货物。
+Major Terminal在其自有仓库提供一项专门的Data Matrix码实物贴标服务。
 
-#### Prep-Center
+### Prep-Center
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S022](SOURCE_REGISTER.csv).
 
-Публикуются печать/нанесение готовых КИЗ за 7 ₽ 和 отдельная физическая обработка партии。
+Prep-Center公布了现成KIZ码打印与贴标服务，每件7卢布，并介绍了相关批次的实际仓储处理。
 
 <a href="https://prep-center.ru/chestnyy-znak/" rel="sponsored noopener">Prep-Center官方业务资料</a>
 
-#### Re-stok
+### Re-stok
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S023](SOURCE_REGISTER.csv).
 
-重新启动 отдельно указывает нанесение ранее предоставленного кода «Честного знака» на единицу за 9 ₽;不要与传统标签的一般“双重标签”相混淆。
+Re-stok将客户提供的“诚实标签”追溯码贴标列为单独收费项目，每件9卢布；这一操作不同于普通平台标签的重复粘贴。
 
-#### CDEK Fulfillment
+### CDEK Fulfillment
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S004](SOURCE_REGISTER.csv).
 
-СДЭК Фулфилмент прямо предлагает нанесение кодов «Честный знак» на товары по техническому заданию. Отдельные отчеты об индивидуальных КИЗ 和 транспортной агрегациии по источнику не установлены.
+CDEK Fulfillment声明可按客户技术要求为商品贴附“诚实标签”追溯码。所查资料没有独立展示单件KIZ记录和运输包装聚合报告。
 
-#### U2Pack
+### U2Pack
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S029](SOURCE_REGISTER.csv).
 
-U2Pack 页面描述了已提交任务的标记代码的物理应用。
+U2Pack的服务说明涉及按照客户提供的要求实际贴附追溯码。
 
-#### RFL
+### RFL
 
 **类别:** 大型3PL，需单独签约. **证据登记中的来源编号:** [S025](SOURCE_REGISTER.csv).
 
-该页面描述了仓库库存中的实际应用、调节和处理。
+RFL公开描述了仓库内的追溯码实物贴标、核对及库存商品处理。
 
-### S2. 用于单独保护性包装的原始 KIZ 的副本
+## S2. 用于单独保护性包装的原始 KIZ 的副本
 
 一种产品具有相同的代码；这不是包的单独代码。
 
-#### 4-PACK
+### 4-PACK
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S001](SOURCE_REGISTER.csv).
 
-四件装明确描述了将原始 Data Matrix 转移到同一单元的独立外包装中并将其与多件装运箱分开的过程。
+4-PACK明确介绍了将原有Data Matrix码复制到同一商品的外部独立保护包装上，并与装有多件商品的运输纸箱区分开来。
 
-#### Prep-Center
+### Prep-Center
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S021](SOURCE_REGISTER.csv).
 
-该服务描述了相同代码的外部副本及其自身的情况，并带有一批 3 186 冲洗；没有外部验证。
+Prep-Center介绍了在单件商品外包装上复制同一个追溯码的操作，并引用了一批3,186瓶漱口水的自有案例；该案例没有经过外部独立测试。
 
 <a href="https://prep-center.ru/cases/agregatsiya-kiz-naborov-wms/" rel="sponsored noopener">Prep-Center官方业务资料</a>
 
-### S3. 扫描各个 KIZ 和代码报告
+## S3. 扫描各个 KIZ 和代码报告
 
 需要向客户端验证上传格式；一般WMS不等于代码文件。
 
-#### Full-Fix
+### Full-Fix
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S011](SOURCE_REGISTER.csv).
 
-WMS页面描述了两阶段扫描“产品→KIZ”和代码验证的方案。指示 KIZ 的操作日志并在其自己的 WMS 中进行监控；客户出口必须得到确认。
+Full-Fix的WMS页面介绍了“商品→KIZ”的两阶段扫描与验码流程，并称其系统保存KIZ操作日志、支持监控；向客户导出数据的具体能力仍需核实。
 
-#### FullBox
+### FullBox
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S012](SOURCE_REGISTER.csv).
 
-描述了在接受时和申请后对 CIZ 的可读性/状态的控制。公司声明向 ChZ 转移信息并准备 UPD；凭证不单独验证。
+FullBox介绍在收货及贴标后检查KIZ码的可读性与状态。公司还声明可向“诚实标签”提交信息并准备通用转让文件（UPD），但相关法律授权未获独立验证。
 
-#### Fulllog
+### Fulllog
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S013](SOURCE_REGISTER.csv).
 
-指示了应用期间的代码控制，但没有结果的公开样本。声明所应用的代码必须单独考虑，并且货物将被退回库存；单独检查报告。
+Fulllog声明贴标时核验代码，并按件记录已贴的KIZ码，随后将商品返回可用库存；公开资料中没有提供对应报告样本。
 
-#### Helpberries
+### Helpberries
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S014](SOURCE_REGISTER.csv).
 
-给出了验收时扫描并验证代码正确性的步骤。声称与文件和代码会计进行比较，但没有批次登记册的确认样本。
+Helpberries介绍了收货时扫码、核验代码及与单据比对的步骤；尚未取得可验证的整批追溯码登记表样本。
 
-#### Major Terminal
+### Major Terminal
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S015](SOURCE_REGISTER.csv).
 
-代码的读取、验证和应用分别进行描述。声明有关所应用的代码、自己的 WMS 以及与客户交互的报告。
+Major Terminal分别介绍了扫码、验证及贴标，并声明可以提供已贴代码报告、使用自有WMS并与客户交换处理信息。
 
-#### Prep-Center
+### Prep-Center
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S022](SOURCE_REGISTER.csv), [S020](SOURCE_REGISTER.csv).
 
-服务页面上描述了 WMS 中的单件扫描、代码验证和阶段记录。某公司技术示例：WMS链接附件和拨号代码，向客户提供信件文件；源代码导出尚未经过公开验证。
+Prep-Center服务页面介绍按件扫码、验码及在WMS中记录处理阶段。其自有案例称WMS可关联组合商品的各件追溯码与组合码，并向客户提供对应关系文件；原始导出结果未获独立核查。
 
 <a href="https://prep-center.ru/chestnyy-znak/" rel="sponsored noopener">Prep-Center官方业务资料</a>
 
-#### Re-stok
+### Re-stok
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S023](SOURCE_REGISTER.csv), [S024](SOURCE_REGISTER.csv).
 
-单独扫描 3 ₽，在验收/组装期间检查。已声明备案/状态更新、合同授权和报告未知。
+Re-stok将扫码列为单独项目，每件3卢布，并在收货与分拣时进行检查。公司声称可提交信息或更新状态，但合同授权及实际报告格式尚不明确。
 
-#### U2Pack
+### U2Pack
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S029](SOURCE_REGISTER.csv).
 
-名称为扫码聚合，但未公开监控各单元的状态。宣布形成链接文件并交换文件；没有提供具体示例。
+U2Pack提及为聚合业务扫描追溯码，但没有公开每件商品状态核查的细节。公司称可形成代码关联文件并交换单据，未提供具体样例。
 
-#### RFL
+### RFL
 
 **类别:** 大型3PL，需单独签约. **证据登记中的来源编号:** [S025](SOURCE_REGISTER.csv).
 
-仓库链中存在标签的协调和控制。描述了批量处理时单位的注册和代码的固定。
+RFL介绍了在仓库作业中核对及控制标识信息，包含聚合单元登记与批次处理时的代码记录。
 
-### S4. 组合商品：各单件追溯码对应关系
+## S4. 组合商品：各单件追溯码对应关系
 
 一个单独的消费者集，而不是 KITU； GIS MT 中的注册并不遵循 WMS 的规定。
 
-#### Prep-Center
+### Prep-Center
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S020](SOURCE_REGISTER.csv).
 
-Prep-Center案例描述了扫描 KIZ 2 附件，将其链接到 WMS MPFIT 中的招聘代码并发布通信文件。 GIS MT 中的集合注册保留在客户端；这批货物的数量未知。
+Prep-Center的自有案例描述了扫描组合商品中2件商品的KIZ码，在MPFIT WMS中与组合码关联并提供对应关系文件。向GIS MT登记该组合商品仍由客户负责；案例未披露整批商品数量。
 
 <a href="https://prep-center.ru/cases/agregatsiya-kiz-naborov-wms/" rel="sponsored noopener">Prep-Center官方业务资料</a>
 
-### S5. KITU/SSCC 的传输聚合
+## S5. KITU/SSCC 的传输聚合
 
 附件代码与箱/托盘之间的关系；将信息传输至 GIS MT 需另行商定。
 
-#### Full-Fix
+### Full-Fix
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S011](SOURCE_REGISTER.csv).
 
-WMS 按纸箱/托盘级别显示 KIZ 的聚合；文件传输至 GIS MT 的事实尚未得到单独证明。
+Full-Fix声明其WMS能够将KIZ码按纸箱和托盘层级聚合；尚无独立证据表明相应文件已成功提交至GIS MT。
 
-#### FullBox
+### FullBox
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S012](SOURCE_REGISTER.csv).
 
-FullBox 说明将各个数据矩阵聚合到运输箱和托盘中；该站点本身并不取代对 GIS MT 文件下载和接受的独立确认。
+FullBox声明可将单件商品的Data Matrix码聚合到运输纸箱和托盘；仅凭官网描述无法确认GIS MT已接收有关文件。
 
-#### Helpberries
+### Helpberries
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S014](SOURCE_REGISTER.csv).
 
-描述了将各个代码聚合到运输箱中的情况。
+Helpberries介绍了将单件商品追溯码归集到运输纸箱的操作。
 
-#### Major Terminal
+### Major Terminal
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S015](SOURCE_REGISTER.csv).
 
-直接描述仓库骨料运输处理和组包装，特别是鞋类。
+Major Terminal明确介绍了仓库内运输包装的聚合处理和成组包装，主要应用于鞋类商品。
 
-#### U2Pack
+### U2Pack
 
 **类别:** 标准服务组. **证据登记中的来源编号:** [S029](SOURCE_REGISTER.csv).
 
-U2Pack明确说明了SGTIN与SSCC的关联以及传输聚合文件的准备；发送至 GIS MT 的条件必须单独商定。
+U2Pack明确声明可以关联SGTIN与SSCC并准备运输包装聚合文件；向GIS MT提交数据的条件需要另行商定。
 
-#### RFL
+### RFL
 
 **类别:** 大型3PL，需单独签约. **证据登记中的来源编号:** [S025](SOURCE_REGISTER.csv).
 
-仓库中带有代码聚合的盒子/托盘已公布。
+RFL公开声明可在仓库将商品代码聚合到纸箱或托盘中。
 
 ![14项方案的场景公开证据分布](assets/kiz-scenario-matrix-2026.zh-CN.svg)
 
