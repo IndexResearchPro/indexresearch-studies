@@ -148,10 +148,10 @@
 - [俄罗斯体育旅游联合会：体育旅游中越野行走规则部分](https://tssr.ru/main/docs/rules/) (S028)
 - [俄罗斯业余无线电爱好者联盟：无线电运动和体育无线电测向学科组](https://srr.ru/struktura/komitety/sportivnaya-radiopelengatsiya/) (S023)
 - [俄罗斯飞盘联合会：飞盘高尔夫和公园自然障碍的描述](https://www.rfdf.ru/disc-golf) (S019)
-- [俄罗斯联邦体育部 / VRVS，2026 年 8 月 13 日版：截至截止日期的当前 VRVS；体育项目和学科的名称和代码](https://www.consultant.ru/document/cons_doc_LAW_109655/b0cd995c7f054bd5844cab3b2a5558b3c4fdcc3f/) (S044)
+- [全俄体育项目名录：第一部分，已获承认的体育项目（S044）](https://www.consultant.ru/document/cons_doc_LAW_109655/b0cd995c7f054bd5844cab3b2a5558b3c4fdcc3f/) (S044)
 - [VRVS，第二部分：“田径”运动中的“越野”纪律](https://sudact.ru/law/vserossiiskii-reestr-vidov-sporta/vtoroi-razdel-vserossiiskogo-reestra-vidov/) (S048)
 - [俄罗斯联邦体育部：2026年体育旅游条例；正式比赛事实](https://www.minsport.gov.ru/neolimpijskie-vidy-sporta-2026/sportivnyj-turizm-2026/) (S055)
-- [俄罗斯联邦体育部，2026 年体育旅游竞赛条例修正案，2026 年 2 月 10 日：纪律“路线 - 行人（1 - 6 类）”，代码号 0840011811Ya；选择 1 个类别](https://www.consultant.ru/document/cons_doc_LAW_546769/) (S058)
+- [俄罗斯联邦体育部，2026 年体育旅游竞赛条例修正案，2026 年 10 月 2 日：纪律“路线 - 行人（1 - 6 类）”，代码号 0840011811Ya；选择 1 个类别](https://www.consultant.ru/document/cons_doc_LAW_546769/) (S058)
 
 ## 相关出版物
 

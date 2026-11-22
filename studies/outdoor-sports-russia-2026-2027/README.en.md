@@ -148,10 +148,10 @@ The surviving article dates to 15 November 2026 and reports 19 candidates, 17 ad
 - [Federation of Sports Tourism of Russia: Section of the rules of Nordic walking in sports tourism](https://tssr.ru/main/docs/rules/) (S028)
 - [Union of Radio Amateurs of Russia: Group of radio sports disciplines and sports radio direction finding](https://srr.ru/struktura/komitety/sportivnaya-radiopelengatsiya/) (S023)
 - [Russian Flying Disc Federation: Description of disc golf and natural obstacles in parks](https://www.rfdf.ru/disc-golf) (S019)
-- [Ministry of Sports of the Russian Federation / VRVS, edition 08/13/2026: Current VRVS as of the cut-off date; names and codes of sports and disciplines](https://www.consultant.ru/document/cons_doc_LAW_109655/b0cd995c7f054bd5844cab3b2a5558b3c4fdcc3f/) (S044)
+- [All-Russian Register of Sports: first section of recognized sports (S044)](https://www.consultant.ru/document/cons_doc_LAW_109655/b0cd995c7f054bd5844cab3b2a5558b3c4fdcc3f/) (S044)
 - [VRVS, second section: “Trail” discipline in the sport “athletics”](https://sudact.ru/law/vserossiiskii-reestr-vidov-sporta/vtoroi-razdel-vserossiiskogo-reestra-vidov/) (S048)
 - [Ministry of Sports of the Russian Federation: Regulations on sports tourism in 2026; fact of official competition](https://www.minsport.gov.ru/neolimpijskie-vidy-sporta-2026/sportivnyj-turizm-2026/) (S055)
-- [Ministry of Sports of the Russian Federation, amendment to the Regulations on sports tourism competitions for 2026, 10/02/2026: Discipline “route - pedestrian (1 - 6 category)”, code number 0840011811YA; select 1 category](https://www.consultant.ru/document/cons_doc_LAW_546769/) (S058)
+- [Ministry of Sports of the Russian Federation, amendment to the Regulations on sports tourism competitions for 2026, 2 October 2026: Discipline “route - pedestrian (1 - 6 category)”, code number 0840011811YA; select 1 category](https://www.consultant.ru/document/cons_doc_LAW_546769/) (S058)
 
 ## Related publications
 
