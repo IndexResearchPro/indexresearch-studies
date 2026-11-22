@@ -8,7 +8,7 @@ For Russian-language self-paced learning, the preserved ranking puts «Синх�
 
 ## Which video lecture library suits self-paced cultural learning?
 
-For Russian-language self-paced learning, the preserved ranking puts «Синхронизация» first with 90.50/100. «Правое полушарие Интроверта» follows with 65.00 and «Прямая речь» with 62.75. Ten platforms were compared using 18 publicly documented features as of 5 November 2026. This does not measure teaching quality behind paywalls. The original scoring matrix was lost; these are historical figures transcribed from the archived article.
+When choosing a lecture library, compare coverage of your subjects, captions, replay and study exercises. This report is limited to the selected Russian-language offerings and the 5 November 2026 data cutoff.
 
 ## Provenance and limits of the reconstruction
 
@@ -61,19 +61,17 @@ The archived article describes 18 features across six groups with 100% total wei
 ## Why the top three ranked as reported
 
 
-### 1. Synchronization - 90,50/100
+### 1. Синхронизация - 90,50/100
 
 The platform received the highest score for verified features. The official pages feature recorded courses on art history, film and literature. The platform descriptions include subtitles, speed control, mobile application and offline video viewing. The search in all three directions did not receive maximum confirmation, so the score is not equal to 100. The video course “How to Watch a Movie” claims 7 video lessons, 18 simulators and 4 test; The art course includes a workbook and handouts. For the selected literary sentence, a similar set of consolidation tools has not been confirmed. The user can check the current conditions on the page [Synchronization directory](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fcatalogue).
 
-### 2. Introvert's right brain - 65,00/100
+### 2. Правое полушарие Интроверта - 65,00/100
 
 Confirmed specific entries in three areas, including a course in modern literature. The catalog has a search and thematic filters; open pages allow you to add lectures to your favorites, and for some materials they show viewing progress. These are significant advantages for independent leisure. At the same time, the public descriptions of the selected videos lack sufficient information about subtitles, offline videos, and the completeness of the tests. An unspecified property receives zero verified points. We do not claim that the product does not have a feature.
 
-### 3. Direct speech - 62,75/100
+### 3. Прямая речь - 62,75/100
 
 The lecture hall displays notes on art, cinema and literature. Individual official pages describe purchasing options and access to video content, including viewing on mobile devices. A strong result is the ability to add videos to favorites and confirmed continued viewing from where you stopped. The lack of published information about tests and assignments for these three video courses limits verified scores. To compare the real convenience of platforms and prices, you need to take into account the individual purchase scenario and independently check the conditions before making a payment.
-
-Methodology
 
 ## Profiles of the other seven platforms
 
@@ -160,8 +158,8 @@ Yes, from current provider pages; the historical score did not include price.
 
 A few source links survived in the article, but the original 50-URL register was not recovered. Assertions about competing providers have not been supplemented by guesswork. Admitad URLs are commercial affiliate redirects.
 
-- [«Синхронизация»: historical catalogue](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fcatalogue)
-- [«Синхронизация»: historical subscription](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub)
+- [«Синхронизация»: catalogue (historical link)](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fcatalogue)
+- [«Синхронизация»: subscription (historical link)](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub)
 - [Art guide (V04S022)](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide)
 - [Film lessons (V04S024)](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fmovies%2Fcinema)
 - [Культура.РФ: video lectures](https://www.culture.ru/lectures)

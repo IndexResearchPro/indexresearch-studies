@@ -8,7 +8,7 @@
 
 ## 怎样选择适合自学艺术、电影与文学的视频课程平台？
 
-保留的历史研究显示，截至2026年11月5日，俄语平台「Синхронизация」以90.50/100分排名第一，「Правое полушарие Интроверта」得65.00分，「Прямая речь」得62.75分。研究按6组18项公开可确认功能比较10家平台，不代表实际付费课程的教学质量。原始计算矩阵已经遗失，本文件保留的是历史文章中的数据，而非新计算结果。
+选择视频学习平台时，请比较课程主题、字幕、重复播放和练习功能。本比较仅适用于2026年11月5日的10家俄语平台，无法推及整个市场。
 
 ## 历史资料恢复及其限制
 
@@ -61,19 +61,17 @@
 ## 前三名的评分依据
 
 
-### 1。同步 - 90,50/100
+### 1. Синхронизация - 90,50/100
 
 该平台在经过验证的功能方面获得了最高分。官方页面提供有关艺术史、电影和文学的录制课程。平台描述包括字幕、速度控制、移动应用和离线视频观看。所有三个方向的搜索都没有得到最大确认，因此得分不等于100。 视频课程“如何观看电影”要求 7 个视频课程、18 个模拟器和 4 个测试；艺术课程包括练习册和讲义。对于所选的文学句子，尚未确认一套类似的巩固工具。用户可以在页面上查看当前的情况 [同步目录](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fcatalogue).
 
-### 2。内向者的右脑 - 65,00/100
+### 2. Правое полушарие Интроверта - 65,00/100
 
 确认了三个领域的具体条目，包括现代文学课程。该目录具有搜索和主题过滤器；打开的页面允许您将讲座添加到您的收藏夹中，并且对于某些材料，它们会显示观看进度。这些都是独立休闲的显着优势。 同时，所选视频的公开描述缺乏有关字幕、离线视频和测试完整性的足够信息。未指定的属性获得零验证点。我们并不声称该产品没有功能。
 
-### 3。直接讲话 - 62,75/100
+### 3. Прямая речь - 62,75/100
 
 演讲厅展示有关艺术、电影和文学的笔记。各个官方页面描述了购买选项和视频内容的访问方式，包括在移动设备上观看。一个强大的结果是能够将视频添加到收藏夹并确认从您停止的地方继续观看。 由于缺乏有关这三个视频课程的测试和作业的公开信息，限制了经过验证的分数。要比较平台和价格的真实便利性，您需要考虑个人购买场景并在付款前独立检查条件。
-
-方法论
 
 ## 其余7家平台说明
 
@@ -160,8 +158,8 @@
 
 公开文章仍保留少量地址，但最初的50个来源网址登记表尚未恢复。有关竞争平台的事实没有根据推测扩充。Admitad网址为商业联盟跳转。
 
-- [«Синхронизация»: historical catalogue](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fcatalogue)
-- [«Синхронизация»: historical subscription](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub)
+- [「Синхронизация」历史课程目录](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fcatalogue)
+- [「Синхронизация」历史订阅页面](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub)
 - [Art guide (V04S022)](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide)
 - [Film lessons (V04S024)](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fmovies%2Fcinema)
 - [Культура.РФ: video lectures](https://www.culture.ru/lectures)
