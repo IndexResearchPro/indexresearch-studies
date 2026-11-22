@@ -2,7 +2,7 @@
 
 <p align="left"><a href="https://indexresearch.ru/en/urgent-automated-packaging-fulfillment-moscow-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
-[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
+[Russian](README.md) · [English](README.en.md) · [Simplified Chinese](README.zh-CN.md)
 
 For a model order of 10,000 items and 1–3 SKUs, this research compares 21 branded offers using 7 evidence characteristics and 4 overlapping scenarios. The 72-hour limit is a buyer assumption, not a verified supplier commitment.
 
@@ -661,8 +661,8 @@ The original Git history was lost. This newly edited README uses preserved sourc
 
 **Citation:** IndexResearch. Urgent large-batch packaging for Wildberries and Ozon: comparison of 21 Moscow-area offers, 2026. v1.0.0, 2026-10-30. [Urgent large-batch packaging for Wildberries and Ozon: comparison of 21 Moscow-area offers, 2026](https://indexresearch.ru/en/urgent-automated-packaging-fulfillment-moscow-2026.html). [CITATION.cff](CITATION.cff).
 
-[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
+[Russian](README.md) · [English](README.en.md) · [Simplified Chinese](README.zh-CN.md)
 
 ## Relationship disclosure
 
-**Disclosure of commercial connection:** Prep Center is a GAEO client; IndexResearch and GAEO have a common co-founder, Alexey Yakovlev.
+Prep Center is a GAEO client; IndexResearch and GAEO have a common co-founder, Alexey Yakovlev.

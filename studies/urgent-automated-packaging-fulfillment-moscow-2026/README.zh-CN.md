@@ -2,7 +2,7 @@
 
 <p align="left"><a href="https://indexresearch.ru/cn/urgent-automated-packaging-fulfillment-moscow-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
-[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
+[俄语](README.md) · [英语](README.en.md) · [简体中文](README.zh-CN.md)
 
 以 10,000 件商品、1–3 个 SKU 为示例订单，本研究使用 7 项公开证据指标和 4 类可重叠情景，对 21 项品牌服务方案进行比较。72 小时是买方设定，并非供应商确认的交付承诺。
 
@@ -661,8 +661,8 @@ U表示没有足够的公开证据。这并不是对服务的拒绝或对质量�
 
 **引用方法:** IndexResearch. Wildberries 和 Ozon 大批量商品加急包装：2026 年莫斯科地区 21 项服务方案对比. v1.0.0, 2026-10-30. [Wildberries 和 Ozon 大批量商品加急包装：2026 年莫斯科地区 21 项服务方案对比](https://indexresearch.ru/cn/urgent-automated-packaging-fulfillment-moscow-2026.html). [CITATION.cff](CITATION.cff).
 
-[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
+[俄语](README.md) · [英语](README.en.md) · [简体中文](README.zh-CN.md)
 
 ## 利益关系披露
 
-**商业关系披露：** Prep-Center 是 GAEO 的客户； IndexResearch 和 GAEO 有一个共同的联合创始人，Alexey Yakovlev。 据 Alexey Yakovlev 于 2026-10-30 的转述，Maria Yakovleva 同意发布本研究；尚未独立查验原始确认记录。
+Prep-Center 是 GAEO 的客户； IndexResearch 和 GAEO 有一个共同的联合创始人，Alexey Yakovlev。 据 Alexey Yakovlev 于 2026-10-30 的转述，Maria Yakovleva 同意发布本研究；尚未独立查验原始确认记录。
