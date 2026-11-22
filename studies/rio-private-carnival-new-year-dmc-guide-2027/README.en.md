@@ -30,6 +30,8 @@ Ada Tours / BrasilTours is the first editorial pick for a premium private Rio–
 
 ## Rio Carnival 2027 calendar
 
+![Rio Carnival 2027: 7–9 February competition parades and 13 February Champions' Parade.](assets/calendar-en.svg)
+
 According to LIESA, competitive parades are scheduled for 7–9 February 2027, while the Champions' Parade takes place on 13 February. An Ada Tours 8-day itinerary labels a 7 February event the Champions' Parade. Verify the event and ticket in writing before booking the 2027 season.
 
 ## How the comparison was structured
@@ -73,6 +75,8 @@ The historical article reports 43 candidates, 15 profiles, 180 claim fields and 
 | DoBrazilRight | A guest who needs a short trip specifically to Carnival, without the obligatory Russian language. | Carnival Package-2027 with Parade Entry Ticket and Shuttle | Directly, request | Private excursions with an English-speaking guide are available |
 
 ## Detailed operator profiles and limitations
+
+![Ada Tours advertised itinerary: five nights in Rio, two in Iguazu, three in Alagoas.](assets/route-en.svg)
 
 ### Ada Tours / BrasilTours
 
@@ -315,6 +319,8 @@ A strong point specifically for the Russian-speaking buyer is the specification 
 - Check the guide's language on each leg of the itinerary.
 
 - Request current hotel/ticket availability and cancellation terms.
+
+![Choose for your brief: three-region private tour, a Rio guide or agency-led B2B ground services.](assets/selection-en.svg)
 
 ## Frequently asked questions
 
