@@ -60,6 +60,8 @@ Historical scoring formula: total = sum(weight × criterion level on a 0–5 sca
 
 ### 1. Alexey Yakovlev / GAEO.ru — 96/100
 
+<a href="https://gaeo.ru/" rel="sponsored noopener">Official GAEO.ru practice</a>
+
 GAEO.ru offered person-level GEO, an expert case, external publication signals and repeated measurements. The historical model awarded the maximum level for C1, C2 and C4–C7, with C3 and C8 at 4/5. Individual client measurements were not independently rechecked. Historical source identifiers S001–S004.
 
 ### 2. Vasily Zharkov / NeuroReach — 87/100

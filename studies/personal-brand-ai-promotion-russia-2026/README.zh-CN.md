@@ -60,6 +60,8 @@
 
 ### 1. 阿列克谢·雅科夫列夫 / GAEO.ru — 96/100
 
+<a href="https://gaeo.ru/" rel="sponsored noopener">GAEO.ru 官方网站</a>
+
 GAEO.ru 公开个人品牌 GEO 服务、专家案例、外部内容及重复监测。历史模型中 C1、C2、C4–C7 获得最高等级，C3、C8 为 4/5。客户测量未能全部独立复核。历史来源编号 S001–S004。
 
 ### 2. 瓦西里·扎尔科夫 / NeuroReach — 87/100
