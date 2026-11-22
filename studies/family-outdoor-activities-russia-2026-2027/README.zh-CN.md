@@ -124,7 +124,7 @@
 
 DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表示须满足特定条件；NOT_PRIMARY表示活动的主要目标不同；UNVERIFIED表示该项组合证据不足，并不意味着无法开展。
 
-**原始证明文件：**[METHODOLOGY.md](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/METHODOLOGY.md) · [SCENARIO_RULES.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCENARIO_RULES.csv) · [RESEARCH_CONTRACT.md](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/RESEARCH_CONTRACT.md)
+**原始证明文件：**[METHODOLOGY.md](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/METHODOLOGY.md) · [SCENARIO_RULES.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCENARIO_RULES.csv)
 
 ## 15项活动：证据与参加条件
 
@@ -138,7 +138,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**必须核对具体赛事的年龄组、初学路线、成人陪同、地图和路标等要求。
 
-**来源：**[S003](https://rufso.ru/pravila/), [S059](https://orgeo.ru/event/info/vstrechadz?lang=ru), [S060](https://orgeo.ru/event/info/56037). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S003](https://rufso.ru/pravila/), [S059](https://orgeo.ru/event/info/vstrechadz?lang=ru), [S060](https://orgeo.ru/event/info/56037). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 简单的日间步行路线
 
@@ -150,7 +150,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**成年人须评估地形、天气、路线与返程条件；不包括技术性徒步。
 
-**来源：**[S015](https://www.valdaypark.ru/ecotrails), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S015](https://www.valdaypark.ru/ecotrails), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 短时亲子定向积分赛
 
@@ -162,7 +162,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**仅采用有证明的2—4小时家庭赛制，核对年龄限制并由成人参与团队。
 
-**来源：**[S004](https://rogaining.ru/rules/rus-rogaining-rules), [S056](https://yasdelo.ru/rogeyn/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S004](https://rogaining.ru/rules/rus-rogaining-rules), [S056](https://yasdelo.ru/rogeyn/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 易到达的地理寻宝点
 
@@ -174,7 +174,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**核对寻宝点仍存在、可安全到达，避开封闭区域，并考虑季节变化。
 
-**来源：**[S005](https://geocaching.su/rules). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S005](https://geocaching.su/rules). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 带任务的自然教育步道
 
@@ -186,7 +186,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**单个案例可能只适用于较窄年龄段，不能据此推及所有8—14岁儿童。
 
-**来源：**[S007](https://www.valdaypark.ru/ecotrails/sledopyt), [S015](https://www.valdaypark.ru/ecotrails). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S007](https://www.valdaypark.ru/ecotrails/sledopyt), [S015](https://www.valdaypark.ru/ecotrails). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 公园群众跑步或步行活动
 
@@ -198,7 +198,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**核对「5 верст」现行规则和具体场次，不能把5公里视为所有儿童都适宜的距离。
 
-**来源：**[S006](https://5verst.ru/terms-and-conditions/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S006](https://5verst.ru/terms-and-conditions/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 森林公园亲子骑行
 
@@ -210,7 +210,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**自行车必须完好，路线适龄，并遵守当地交通及年龄规定。
 
-**来源：**[S041](https://www.consultant.ru/document/cons_doc_LAW_2709/b11240808fefa9a32c03b5b7c81829af379a790e/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S041](https://www.consultant.ru/document/cons_doc_LAW_2709/b11240808fefa9a32c03b5b7c81829af379a790e/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 整备自然雪道上的越野滑雪漫步
 
@@ -222,7 +222,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**核对雪况、雪道、器材、技能和教练服务；重复参与受季节影响。
 
-**来源：**[S050](https://park-yauza.info/lyzhnye-trassy/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S050](https://park-yauza.info/lyzhnye-trassy/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 教练陪同的短途皮划艇／独木舟体验
 
@@ -234,7 +234,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**仅限平静水域；核对儿童年龄、成人陪同、合适救生衣和组织方规程。
 
-**来源：**[S009](https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5809358), [S028](https://baidarka-don.ru/progulki-na-baidarkah-v-rostove-na-donu), [S058](https://78.mchs.gov.ru/deyatelnost/press-centr/novosti/5813026). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S009](https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5809358), [S028](https://baidarka-don.ru/progulki-na-baidarkah-v-rostove-na-donu), [S058](https://78.mchs.gov.ru/deyatelnost/press-centr/novosti/5813026). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 有人陪同的SUP桨板体验
 
@@ -246,7 +246,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**年龄与儿童角色因项目而异，不能假定所有年龄都可独立划桨；须核对安全装备。
 
-**来源：**[S043](https://supwayspb.ru/sestra), [S051](https://splav-family.ru/sup), [S061](https://28.mchs.gov.ru/deyatelnost/press-centr/novosti/5811507). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S043](https://supwayspb.ru/sestra), [S051](https://splav-family.ru/sup), [S061](https://28.mchs.gov.ru/deyatelnost/press-centr/novosti/5811507). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 户外绳索挑战乐园
 
@@ -258,7 +258,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**核对每个场地的年龄与身高门槛、教练监护、安全吊带及成人陪同要求。
 
-**来源：**[S052](https://norwaypark.ru/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S052](https://norwaypark.ru/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 教练带领的自然步道骑马活动
 
@@ -270,7 +270,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**不能混淆儿童骑小马绕圈与真正路线骑行；核对年龄、速度和家庭同时参加条件。
 
-**来源：**[S031](https://taiga-travel.ru/progulki/), [S053](https://konisvetloe.ru/content/instruktori). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S031](https://taiga-travel.ru/progulki/), [S053](https://konisvetloe.ru/content/instruktori). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 有组织的户外地图寻点游戏
 
@@ -282,7 +282,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**确认项目确实包含使用地图、户外移动、适龄分组和必要陪同。
 
-**来源：**[S046](https://quest-lab.ru/quests/quests_parks/), [S062](https://quest-lab.ru/quests/kids/parks/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S046](https://quest-lab.ru/quests/quests_parks/), [S062](https://quest-lab.ru/quests/kids/parks/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 自然观察漫步与摄影寻物
 
@@ -294,7 +294,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**主要任务是观察与摄影，不能默认包含读图导航。
 
-**来源：**[S038](https://www.craneland.ru/?page_id=17168), [S046](https://quest-lab.ru/quests/quests_parks/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S038](https://www.craneland.ru/?page_id=17168), [S046](https://quest-lab.ru/quests/quests_parks/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### 户外场地飞盘高尔夫
 
@@ -306,7 +306,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 **主要限制：**核对场地开放与器材可用情况；这是一种投掷运动，并非定向越野。
 
-**来源：**[S032](https://rfdf.ru/disc-golf), [S040](https://discgolf.me/), [S054](https://ahoydiscs.ru/dvorec-pionerov/), [S055](https://discgolf.me/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**来源：**[S032](https://rfdf.ru/disc-golf), [S040](https://discgolf.me/), [S054](https://ahoydiscs.ru/dvorec-pionerov/), [S055](https://discgolf.me/). 每项判断可在[证据矩阵](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ## 出行前须核对
 
@@ -382,7 +382,7 @@ DIRECT表示该活动的已证实主要目的直接对应需求；CONDITIONAL表
 
 来源登记表包含60条记录，证据表把75项判断分别连接到来源和局限。对于6项缺少足够证据的组合，保留尚未核实状态，避免擅自认定适合。原始来源、计算和证明文件统一保存在俄文主仓库。
 
-[RESULTS.json](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/RESULTS.json) · [FORMAT_SCENARIO_MATRIX.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/FORMAT_SCENARIO_MATRIX.csv) · [SCORE_CELL_EVIDENCE.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv) · [FACT_CLAIM_MAP.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/FACT_CLAIM_MAP.csv) · [SOURCE_REGISTER.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SOURCE_REGISTER.csv) · [calculate.py](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/calculate.py).
+[RESULTS.json](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/RESULTS.json) · [FORMAT_SCENARIO_MATRIX.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/FORMAT_SCENARIO_MATRIX.csv) · [SCORE_CELL_EVIDENCE.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv) · [FACT_CLAIM_MAP.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/FACT_CLAIM_MAP.csv) · [SOURCE_REGISTER.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SOURCE_REGISTER.csv) · [calculate.py](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/calculate.py).
 
 ## 引用本研究
 

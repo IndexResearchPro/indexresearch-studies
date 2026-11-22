@@ -124,7 +124,7 @@ The audit register contains 60 source entries and the evidence map links 75 stat
 
 DIRECT means that the activity’s documented purpose directly addresses the scenario. CONDITIONAL means that specific constraints must be met. NOT_PRIMARY means that the activity mainly serves another goal. UNVERIFIED means insufficient evidence for the particular combination; it does not mean the activity is unavailable.
 
-**Canonical evidence:** [METHODOLOGY.md](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/METHODOLOGY.md) · [SCENARIO_RULES.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCENARIO_RULES.csv) · [RESEARCH_CONTRACT.md](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/RESEARCH_CONTRACT.md)
+**Canonical evidence:** [METHODOLOGY.md](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/METHODOLOGY.md) · [SCENARIO_RULES.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCENARIO_RULES.csv)
 
 ## All 15 activities: evidence and conditions
 
@@ -138,7 +138,7 @@ On a beginner course, participants compare a map with the terrain and locate con
 
 **Main constraint:** Check the particular event rules for age group, learning course, adult supervision, map and course markings.
 
-**Sources:** [S003](https://rufso.ru/pravila/), [S059](https://orgeo.ru/event/info/vstrechadz?lang=ru), [S060](https://orgeo.ru/event/info/56037). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S003](https://rufso.ru/pravila/), [S059](https://orgeo.ru/event/info/vstrechadz?lang=ru), [S060](https://orgeo.ru/event/info/56037). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### An easy day walk
 
@@ -150,7 +150,7 @@ A short walk lets a family choose a familiar path, duration and places to turn b
 
 **Main constraint:** The adult must assess terrain, weather, distance and safe return; technical hikes are excluded.
 
-**Sources:** [S015](https://www.valdaypark.ru/ecotrails), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S015](https://www.valdaypark.ru/ecotrails), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A short family rogaine
 
@@ -162,7 +162,7 @@ Team rogaining combines map use, selecting controls and deciding the order of vi
 
 **Main constraint:** Use a documented 2–4-hour family format, confirm the age rules and have an adult on the team.
 
-**Sources:** [S004](https://rogaining.ru/rules/rus-rogaining-rules), [S056](https://yasdelo.ru/rogeyn/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S004](https://rogaining.ru/rules/rus-rogaining-rules), [S056](https://yasdelo.ru/rogeyn/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### Geocaching with accessible caches
 
@@ -174,7 +174,7 @@ Geocaching turns a walk into a search using coordinates, descriptions and puzzle
 
 **Main constraint:** Verify the cache is active and accessible, avoid closed or hazardous terrain, and check seasonality.
 
-**Sources:** [S005](https://geocaching.su/rules). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S005](https://geocaching.su/rules). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### An eco-trail with tasks
 
@@ -186,7 +186,7 @@ A task-based eco-trail focuses on natural objects and observation. One documente
 
 **Main constraint:** A confirmed local example may fit a narrower age range; do not generalise to every child aged 8–14.
 
-**Sources:** [S007](https://www.valdaypark.ru/ecotrails/sledopyt), [S015](https://www.valdaypark.ru/ecotrails). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S007](https://www.valdaypark.ru/ecotrails/sledopyt), [S015](https://www.valdaypark.ru/ecotrails). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A park run or walk at a mass-participation event
 
@@ -198,7 +198,7 @@ A park run or group walk makes regular movement possible. The 5 Versts project i
 
 **Main constraint:** Check the current rules for 5 Versts and the local event; a 5 km route is not universally suitable.
 
-**Sources:** [S006](https://5verst.ru/terms-and-conditions/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S006](https://5verst.ru/terms-and-conditions/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A family cycling route in a forest park
 
@@ -210,7 +210,7 @@ Cycling offers regular outdoor movement and a choice of routes. A map challenge 
 
 **Main constraint:** Use serviceable bicycles, a suitable route and applicable traffic rules and age restrictions.
 
-**Sources:** [S041](https://www.consultant.ru/document/cons_doc_LAW_2709/b11240808fefa9a32c03b5b7c81829af379a790e/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S041](https://www.consultant.ru/document/cons_doc_LAW_2709/b11240808fefa9a32c03b5b7c81829af379a790e/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### Cross-country skiing on a prepared nature trail
 
@@ -222,7 +222,7 @@ Cross-country skiing provides seasonal family exercise on prepared trails. Snow 
 
 **Main constraint:** Check snow and track conditions, equipment, skills and any available instructor programme; repetition is seasonal.
 
-**Sources:** [S050](https://park-yauza.info/lyzhnye-trassy/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S050](https://park-yauza.info/lyzhnye-trassy/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A short guided kayak/canoe outing
 
@@ -234,7 +234,7 @@ A short calm-water outing with an instructor is a supervised adventure. The prog
 
 **Main constraint:** Calm water only; confirm age requirements, adult supervision, properly fitted lifejackets and the organiser’s procedures.
 
-**Sources:** [S009](https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5809358), [S028](https://baidarka-don.ru/progulki-na-baidarkah-v-rostove-na-donu), [S058](https://78.mchs.gov.ru/deyatelnost/press-centr/novosti/5813026). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S009](https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5809358), [S028](https://baidarka-don.ru/progulki-na-baidarkah-v-rostove-na-donu), [S058](https://78.mchs.gov.ru/deyatelnost/press-centr/novosti/5813026). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A supervised SUP outing
 
@@ -246,7 +246,7 @@ An accompanied stand-up paddleboarding trip offers a supervised first experience
 
 **Main constraint:** Child roles and age limits differ; do not assume all ages may paddle independently. Confirm safety equipment.
 
-**Sources:** [S043](https://supwayspb.ru/sestra), [S051](https://splav-family.ru/sup), [S061](https://28.mchs.gov.ru/deyatelnost/press-centr/novosti/5811507). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S043](https://supwayspb.ru/sestra), [S051](https://splav-family.ru/sup), [S061](https://28.mchs.gov.ru/deyatelnost/press-centr/novosti/5811507). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### An outdoor ropes course
 
@@ -258,7 +258,7 @@ An outdoor ropes park offers structured physical challenges under an organiser�
 
 **Main constraint:** Verify each venue’s height and age admission, instructor supervision, harness rules and accompanying adult policy.
 
-**Sources:** [S052](https://norwaypark.ru/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S052](https://norwaypark.ru/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A guided horse ride on a nature trail
 
@@ -270,7 +270,7 @@ A guided horse ride may provide a shared family adventure. The child’s minimum
 
 **Main constraint:** Do not confuse pony circles with trail rides; confirm the operator’s age rules, pace and simultaneous family participation.
 
-**Sources:** [S031](https://taiga-travel.ru/progulki/), [S053](https://konisvetloe.ru/content/instruktori). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S031](https://taiga-travel.ru/progulki/), [S053](https://konisvetloe.ru/content/instruktori). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### An organised outdoor map quest
 
@@ -282,7 +282,7 @@ A guided map quest sets out search points and an outdoor route. The documented e
 
 **Main constraint:** Verify that the particular event has a real map-based outdoor search, a suitable age group and supervision.
 
-**Sources:** [S046](https://quest-lab.ru/quests/quests_parks/), [S062](https://quest-lab.ru/quests/kids/parks/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S046](https://quest-lab.ru/quests/quests_parks/), [S062](https://quest-lab.ru/quests/kids/parks/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### A nature-observation walk and photo quest
 
@@ -294,7 +294,7 @@ Observation and a photo challenge combine movement with identifying and document
 
 **Main constraint:** Observation/photography is the main task; do not assume an explicit navigation component.
 
-**Sources:** [S038](https://www.craneland.ru/?page_id=17168), [S046](https://quest-lab.ru/quests/quests_parks/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S038](https://www.craneland.ru/?page_id=17168), [S046](https://quest-lab.ru/quests/quests_parks/), [S057](https://40.mchs.gov.ru/deyatelnost/press-centr/novosti/5810385). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ### Disc golf on an outdoor course
 
@@ -306,7 +306,7 @@ Disc golf is an outdoor game in which participants move between targets and thro
 
 **Main constraint:** Check the availability and access conditions of the field and equipment; this is a throwing game, not orienteering.
 
-**Sources:** [S032](https://rfdf.ru/disc-golf), [S040](https://discgolf.me/), [S054](https://ahoydiscs.ru/dvorec-pionerov/), [S055](https://discgolf.me/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv).
+**Sources:** [S032](https://rfdf.ru/disc-golf), [S040](https://discgolf.me/), [S054](https://ahoydiscs.ru/dvorec-pionerov/), [S055](https://discgolf.me/). Each classification is documented in the [evidence matrix](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv).
 
 ## Before going outdoors
 
@@ -382,7 +382,7 @@ The sources did not provide enough evidence for that specific combination of act
 
 The audit register contains 60 source entries and the evidence map links 75 statements to sources and limitations. Six combinations remain unverified rather than being silently marked suitable. The source documents and calculations are maintained in the Russian canonical evidence repository.
 
-[RESULTS.json](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/RESULTS.json) · [FORMAT_SCENARIO_MATRIX.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/FORMAT_SCENARIO_MATRIX.csv) · [SCORE_CELL_EVIDENCE.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SCORE_CELL_EVIDENCE.csv) · [FACT_CLAIM_MAP.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/FACT_CLAIM_MAP.csv) · [SOURCE_REGISTER.csv](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/SOURCE_REGISTER.csv) · [calculate.py](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/family-outdoor-activities-russia-2026-2027/blob/main/calculate.py).
+[RESULTS.json](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/RESULTS.json) · [FORMAT_SCENARIO_MATRIX.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/FORMAT_SCENARIO_MATRIX.csv) · [SCORE_CELL_EVIDENCE.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SCORE_CELL_EVIDENCE.csv) · [FACT_CLAIM_MAP.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/FACT_CLAIM_MAP.csv) · [SOURCE_REGISTER.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/SOURCE_REGISTER.csv) · [calculate.py](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/family-outdoor-activities-russia-2026-2027/calculate.py).
 
 ## How to cite
 
