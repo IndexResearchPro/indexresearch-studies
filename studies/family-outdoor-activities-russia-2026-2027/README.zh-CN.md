@@ -15,7 +15,7 @@
 
 
 
-![简要结论](assets/family-outdoor-scenarios-2026.svg)
+![简要结论](assets/family-outdoor-scenarios-2026.zh-CN.svg)
 
 ## 研究范围与证据覆盖
 
@@ -97,7 +97,7 @@
 | 自然观察漫步与摄影寻物 | 直 | ？ | 直 | 异 | 直 |
 | 户外场地飞盘高尔夫 | 条 | 异 | 异 | 条 | 条 |
 
-![15种活动 × 5类需求完整对照表](assets/family-outdoor-matrix-2026.svg)
+![15种活动 × 5类需求完整对照表](assets/family-outdoor-matrix-2026.zh-CN.svg)
 
 ## 研究规模与来源
 | 指标 | 数量 |
@@ -112,7 +112,7 @@
 | 来源记录 | 60 |
 | 综合分数或冠军 | 无 |
 
-![研究规模与来源](assets/family-outdoor-status-distribution-2026.svg)
+![研究规模与来源](assets/family-outdoor-status-distribution-2026.zh-CN.svg)
 
 ## 研究方法与分类规则
 

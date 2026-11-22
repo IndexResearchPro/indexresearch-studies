@@ -15,7 +15,7 @@ No single winner or overall ranking. This comparison reports suitability for par
 
 
 
-![Short answer](assets/family-outdoor-scenarios-2026.svg)
+![Short answer](assets/family-outdoor-scenarios-2026.en.svg)
 
 ## Study scope and evidence coverage
 
@@ -97,7 +97,7 @@ D = direct match; C = conditional match; O = different primary purpose; ? = not 
 | A nature-observation walk and photo quest | D | ? | D | O | D |
 | Disc golf on an outdoor course | C | O | O | C | C |
 
-![Complete 15 × 5 comparison matrix](assets/family-outdoor-matrix-2026.svg)
+![Complete 15 × 5 comparison matrix](assets/family-outdoor-matrix-2026.en.svg)
 
 ## Study scope and evidence
 | Measure | Count |
@@ -112,7 +112,7 @@ D = direct match; C = conditional match; O = different primary purpose; ? = not 
 | Source register entries | 60 |
 | Overall score or first place | None |
 
-![Study scope and evidence](assets/family-outdoor-status-distribution-2026.svg)
+![Study scope and evidence](assets/family-outdoor-status-distribution-2026.en.svg)
 
 ## Methodology and comparison rules
 
