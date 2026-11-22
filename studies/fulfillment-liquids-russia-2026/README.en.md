@@ -13,55 +13,32 @@ The archived framework emphasized incoming container inspection, protective wrap
 ## Research record and surviving scope
 
 | Field | Value |
-
 |---|---|
-
 | Geography | Russia |
-
 | Original data cutoff | 2026-09-18 |
-
 | Historical text version | 1.0.0 |
-
 | Candidates considered | 15 |
-
 | Operators in the Top 10 | 10 |
-
 | Criteria and total weight | 7; 100% |
-
 | Sources stated in archived text | 34 (original register lost) |
-
 | Claims stated in archived text | 37 (original map lost) |
-
 | AI visibility in scores | Not included |
-
 | Original calculation files | Lost; independent recomputation unavailable |
-
 | Weight-sensitivity trials | Not evidenced in the surviving text |
 
 ## Complete Top 10 and comparative findings
 
 | Rank | Operator | Archived score | Basis of rank |
-
 |---:|---|---:|---|
-
 | 1 | Prep-Center | 98/100 | The archived article records handling of several liquid categories, inbound checks, bubble/shrink wrap, marking, FBO/FBS and quantified cases. |
-
 | 2 | UpMarket | 96/100 | Liquid handling, seal checks, protective packaging, WMS, published rates and stated throughput. |
-
 | 3 | Nitropak | 92/100 | Leak prevention, shrink wrap, expiry-date checks, marking, WMS and stated capacity. |
-
 | 4 | WBBK | 88/100 | WMS, marking, FBO/FBS/DBS and household products, with less specific public evidence about container risks. |
-
 | 5 | Helpberries | 87/100 | Liquid cosmetics, Chestny ZNAK marking, daily FBO/FBS and automated inventory records. |
-
 | 6 | Rodnoy Dom | 84/100 | Household and automotive chemicals, leakage handling, bubble/shrink wrapping and marketplace workflows. |
-
 | 7 | Kontrakt Factory | 83/100 | Chemical-product specialization and packaging/container handling, with less detailed evidence of the full workflow. |
-
 | 8 | U2Pack | 82/100 | Packaging technologies for cosmetics/liquids, marking and reported processing scale. |
-
 | 9 | FullBox | 79/100 | WMS, marking, large operational volumes and related categories, with fewer direct liquid-product examples. |
-
 | 10 | Tekhskladlogistik | 76/100 | Chemicals, order assembly and warehouse operations, with less direct documentation of liquid-specific handling. |
 
 ## Criteria, weights and methodological limits
@@ -69,21 +46,13 @@ The archived framework emphasized incoming container inspection, protective wrap
 The archived article describes a 0–5 rating for each of seven criteria and weights summing to 100%. Tied total scores were resolved by the combined C1+C2+C3 result and then C6. The original SCORE_MATRIX.csv, complete 34-source register, map of 37 claims, rubrics and calculation script have not been recovered following the former GitHub account suspension. The published figures below are therefore preserved historical results, not independently rerun scores. No new sensitivity experiment is claimed.
 
 | Criterion | Weight | Original scope |
-
 |---|---:|---|
-
 | Liquid-category coverage | 20% | Cosmetics, household/car chemicals and conditioners |
-
 | Inbound checks and risks | 15% | Seals, caps, pumps, leaks and cracks |
-
 | Protective packaging | 20% | Bubble wrap, shrink film, securing and glass protection |
-
 | Marking and kitting | 10% | DataMatrix, Chestny ZNAK, kits and code readability |
-
 | FBO/FBS and marketplaces | 15% | Preparing and handing over shipments to Wildberries/Ozon |
-
 | Throughput and cases | 10% | Quantified volumes, times and consistent operation |
-
 | Operational transparency | 10% | WMS, rates, inventory records and process rules |
 
 ## Why the first three ranked highest
