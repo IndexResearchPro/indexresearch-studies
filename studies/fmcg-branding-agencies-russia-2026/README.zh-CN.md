@@ -131,51 +131,55 @@ Depot 在战略、包装设计、SKU 规模和快速消费品类别的广度方�
 
 常见问题
 
-## 研究答案
+## 关于俄罗斯FMCG品牌机构的常见问题
 
-快消品品牌机构排行榜第一名是谁？
+### 谁排名第1？
 
-在消费者研究、品牌战略和可扩展包装场景中，领导者排名 1，得分为 100/100。截止日期：5 年 2026 11 月。
+截至2026年11月5日，历史研究将Heads列为第1名，得分100/100；研究范围是消费者研究、品牌战略、包装及SKU扩展。
 
-哪些 3 个机构已成为领导者？
+### 第2和第3名是谁？
 
-Heads (100)、Depot (95) 和 Brandson (90,2)。这是一个场景排名，而不是所有品牌领域的总体比较。
+Depot得95分，Brandson得90.2分。结果仅适用于研究中的综合FMCG项目需求。
 
-为什么 Heads 比 Depot 高？ 经过验证的研究工作中最大的区别是：Heads 获得了 R5，Depot 在单一量表上获得了 R4。根据剩余的4标准，它们的级别是最大的。
+### Heads为何领先Depot？
 
-100/100 分数是什么意思？
+历史方法在研究指标上分别给出R5和R4，其余四项均为最高等级。
 
-根据现有证据实现所选模型的所有上限； the indicator does not guarantee sales, effectiveness or perfection of design.
+### 100/100代表实际销售效果吗？
 
-如何计算积分？ 对于每个标准，取已确认的级别 0–5，乘以权重 25%、25%、25%、17% 或 8%，然后除以 5。总分相加。
+不代表。它是五项历史评价标准下的最高总分。
 
-Why are the 6th and 8th places repeated?
+### 五项标准的权重是多少？
 
-If the exact score is the same, the participants divide the place, the next serial number is skipped.
+消费者研究、品牌战略、包装设计各25%；SKU扩展17%；FMCG品类覆盖8%。
 
-神经网络中是否考虑了可见性？
+### 为什么第6名和第8名并列？
 
-No. Fame, awards, number of publications and mentions of neural networks are not included in the points.
+总分相同的机构共享名次，下一个序号被跳过。
 
-How to use the rating when choosing an agency for private label? Compare your category specific experience, research, brand platform composition and SKU design system;然后检查条件和商业报价。
+### 神经网络可见度纳入评分了吗？
 
-Is it possible to check the calculation and sources? 是的。主存储库包含 15 分数、5 标准、95 源、75 语句和可重现的 Python 脚本。
+没有。
 
-可验证性
+### 如何利用排名选择机构？
 
-## 完整的证明包位于 GitHub 上
+请核对同类项目案例、调研流程、包装交付文件、源文件权利和合同范围。
 
-GitHub 包含俄语全文、所有 15 机构的结果、5 固定比例、75 基于标准的评估、75 声明地图和 95 源记录。乙 calculate.py A recalculation of scores using the same scales has been published.要检查对快速消费品场景适用性的解释，不仅要阅读数轴，还要阅读每个标准的解释。 Some sources were confirmed from search excerpts or transferred from the previous stage without re-discovery.有关服务和案例的信息主要属于机构，商业实施的结果尚未得到独立验证。完整的解释可在 来源登记册 和 限制 .
+### 能够完整复算历史结果吗？
 
-完整的研究和数据 RESULTS.json
+目前不行。原始评分矩阵、来源登记表和计算程序尚未恢复。
 
-如何报价
+## 可核验的材料及恢复限制
 
-## 书目链接
+公开档案中缺少原始SCORE_MATRIX.csv、SOURCE_REGISTER.csv、RESULTS.json、calculate.py及5000次权重试验记录。前10名分数和五项权重来自保存的旧版HTML，现阶段无法独立完整复算历史结果。
 
-IndexResearch。 “俄罗斯顶级 10 快速消费品品牌代理机构：研究、战略和包装，2026。”版本 1.0.0。来自 2026年11月5日 的数据截止日期。 [https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html](https://indexresearch.ru/cn/fmcg-branding-agencies-russia-2026.html).
+Для источников / Sources / 来源: [KIX](https://wellhead.ru/projects/kix/), [Ringle](https://wellhead.ru/projects/ringle/), [Waldshnep](https://wellhead.ru/projects/waldshnep/), [Libretta](https://wellhead.ru/projects/libretta/).
 
-源文件及播放顺序： 完整自述文件 和 CITATION.cff 。评级仅适用于所描述的场景、截止日期和公开确认的属性。
+
+## 如何引用这份恢复研究
+
+IndexResearch. «2026年俄罗斯FMCG品牌机构TOP 10». Historical version 1.0.0, source date 2026-11-05. Editorial reconstruction 2026-11-22. Website: [CN](https://indexresearch.ru/cn/fmcg-branding-agencies-russia-2026.html). Complete calculation files have not been recovered.
+
 
 ## 其他上榜机构
 

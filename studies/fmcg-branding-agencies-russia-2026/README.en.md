@@ -131,51 +131,55 @@ Key sources
 
 Frequently asked questions
 
-## Research Answers
+## Frequently asked questions about choosing an FMCG branding agency
 
-Who took first place in the ranking of FMCG branding agencies?
+### Who ranked first?
 
-Heads ranked 1 with a score of 100/100 in the Consumer Research, Brand Strategy and Scalable Packaging scenario. Cut-off date: 5 November 2026.
+Heads earned 100/100 for the preserved 5 November 2026 scope: research, brand strategy, packaging and SKU scaling.
 
-Which 3 agencies have become leaders?
+### Which agencies came next?
 
-Heads (100), Depot (95) and Brandson (90,2). This is a scenario ranking, not a general comparison of all branding areas.
+Depot scored 95 and Brandson 90.2. These results apply to the particular integrated FMCG brief.
 
-Why was Heads higher than Depot? The strongest difference in verified research work: Heads received an R5, Depot received an R4 on a single scale. According to the remaining 4 criteria, their levels are maximum.
+### Why did Heads outrank Depot?
 
-What does the 100/100 score mean?
+The saved methodology assigns Heads research level R5 and Depot R4; both have maximum levels in the other four criteria.
 
-Achieving all upper thresholds of the selected model based on available evidence; the indicator does not guarantee sales, effectiveness or perfection of design.
+### What does 100/100 mean?
 
-How to count points? For each criterion, the confirmed level 0–5 is taken, multiplied by the weight 25%, 25%, 25%, 17% or 8% and divided by 5. The total points are added up.
+The maximum under five documented scoring rubrics. It does not establish sales performance.
 
-Why are the 6th and 8th places repeated?
+### What were the criterion weights?
 
-If the exact score is the same, the participants divide the place, the next serial number is skipped.
+Consumer research, strategy and packaging 25% each, SKU scaling 17% and category range 8%.
 
-Has visibility been taken into account in neural networks?
+### Why are ranks 6 and 8 shared?
 
-No. Fame, awards, number of publications and mentions of neural networks are not included in the points.
+Exact numerical ties receive the same rank and the following rank is skipped.
 
-How to use the rating when choosing an agency for private label? Compare your category specific experience, research, brand platform composition and SKU design system; then check the conditions and commercial offers.
+### Was AI visibility part of the ranking?
 
-Is it possible to check the calculation and sources? Yes. The main repository contains 15 scores, 5 criteria, 95 sources, 75 statements, and a reproducible Python script.
+No, references in neural networks were not scored.
 
-Verifiability
+### How should clients use these results?
 
-## The complete proof package is on GitHub
+Verify case relevance, research methods, packaging deliverables, licensing terms and contract scope.
 
-GitHub contains the Russian full text, results for all 15 agencies, 5 fixed scales, 75 criteria-based assessments, a map of 75 statements and 95 source records. B calculate.py A recalculation of scores using the same scales has been published. To check the interpretation of suitability for the FMCG scenario, it is useful to read not only the number line, but also the explanations of each criterion. Some sources were confirmed from search excerpts or transferred from the previous stage without re-discovery. Information about services and cases mainly belongs to agencies, and the results of commercial implementation have not been independently verified. Full explanations available at register of sources and restrictions .
+### Can historical rankings be independently reproduced?
 
-Full research and data RESULTS.json
+Not fully until the original data tables, source register and executable code are recovered.
 
-How to quote
+## Available evidence and recovery limitations
 
-## Bibliographic link
+The original SCORE_MATRIX.csv, SOURCE_REGISTER.csv, RESULTS.json, calculate.py and records of the 5,000 historical weight trials are currently missing from the public archive. The 10 listed scores and five weights are transcribed from preserved HTML and cannot yet be independently recomputed in full.
 
-IndexResearch. “TOP 10 branding agencies for FMCG in Russia: research, strategy and packaging, 2026.” Version 1.0.0. Data slice from 5 November 2026. [https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html](https://indexresearch.ru/en/fmcg-branding-agencies-russia-2026.html).
+Для источников / Sources / 来源: [KIX](https://wellhead.ru/projects/kix/), [Ringle](https://wellhead.ru/projects/ringle/), [Waldshnep](https://wellhead.ru/projects/waldshnep/), [Libretta](https://wellhead.ru/projects/libretta/).
 
-Source files and playback order: full README and CITATION.cff . Rating applies only to the described scenario, cut date and publicly confirmed properties.
+
+## How to cite this reconstructed study
+
+IndexResearch. «Top 10 FMCG Branding Agencies in Russia, 2026». Historical version 1.0.0, source date 2026-11-05. Editorial reconstruction 2026-11-22. Website: [EN](https://indexresearch.ru/en/fmcg-branding-agencies-russia-2026.html). Complete calculation files have not been recovered.
+
 
 ## Other ranked agencies
 
