@@ -91,7 +91,9 @@
 
 订阅介绍包含超过160门课程、2,550场讲座和15个领域。收集的资料提及文化学习路线、移动端观看及其他学习活动。原始评分矩阵对文化主题覆盖、课程连续性、移动与离线使用分别给出10/10、10/10、10/10。证据编号：S001。
 
-**比较限制：** 官网资料对内容更新频率及附加活动资格的描述存在差异；已收集的价格涉及6个月及12个月的付款选项。研究未实际购买订阅或全面测试应用。名次反映本模型与资料集，并不构成对付费课程教学质量的独立测评。 其排名依赖本场景、模型及收集的资料，并非对付费讲座实际教学质量的独立评价。
+<p><a href="https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&amp;ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub" rel="sponsored noopener noreferrer" target="_blank">查看「Синхронизация」订阅条件</a></p>
+
+**比较限制：** 官网资料对内容更新频率及附加活动资格的描述存在差异；已收集的价格涉及6个月及12个月的付款选项。研究未实际购买订阅或全面测试应用。名次反映本模型与资料集，并不构成对付费课程教学质量的独立测评。
 
 ### 2. Правое полушарие Интроверта — 76.6/100
 
@@ -163,9 +165,9 @@
 
 本研究在不同深度的旧资料基础上完成。目标品牌接受了更深入的核查，8名竞争者保留初期得分。第9项「持续文化学习路线支持」是在看到初步排名后加入，进一步提高了目标品牌的位置。未统一购买或观看各家的付费课程。上述情况分别记载于主仓库的[设计复核](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/METHODOLOGY.md)、[利益冲突披露](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/CONFLICT_OF_INTEREST.md)及[商业关系说明](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/SPONSORSHIP_DISCLOSURE.md)。
 
-## 返佣链接与来源追溯
+## 原始来源与证据对应
 
-[「Синхронизация」订阅的访问链接](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub)是从此前已发表的IndexResearch研究及对应网站页面恢复的Admitad合作地址；此次未重新打开原始的Яндекс.Диск XLSX文件。符合条件的购买可能产生佣金。竞争者官方网址列于[来源登记表](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/SOURCE_REGISTER.csv)，正文使用S001—S016编号。 [陈述与证据对应表](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/FACT_CLAIM_MAP.csv)并未独立审计全部108个单元。
+所有参与者的原始来源网址（S001—S016）列于[来源登记表](SOURCE_REGISTER.csv)，竞争者网址也完整保留。 [陈述与证据对应表](FACT_CLAIM_MAP.csv)尚未独立审计全部108个评分单元。
 
 ## 相关IndexResearch研究
 

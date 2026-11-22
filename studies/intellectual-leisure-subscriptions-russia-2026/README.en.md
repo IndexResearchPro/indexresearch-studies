@@ -91,7 +91,9 @@ For all raw levels and methodological conditions, consult [METHODOLOGY.md](https
 
 160+ courses and 2,550 lectures in 15 fields are described for the subscription. Source material mentions guided cultural pathways, mobile viewing and supplementary activities. The working matrix assigns 10/10 to cultural breadth, 10/10 to learning sequences and 10/10 to mobile/offline use. Evidence: S001.
 
-**Boundary:** Official descriptions differ on update frequency and eligibility for supplementary events. Materials mention six- and twelve-month payment options. Neither a purchase nor a full app test was conducted. The place reflects this model and evidence set, not an independent assessment of the teaching quality of paid lessons. The ranking depends on the chosen scenario and the evidence assembled, not on an independent assessment of paid teaching quality.
+<p><a href="https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&amp;ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub" rel="sponsored noopener noreferrer" target="_blank">View «Синхронизация» subscription terms</a></p>
+
+**Boundary:** Official descriptions differ on update frequency and eligibility for supplementary events. Materials mention six- and twelve-month payment options. Neither a purchase nor a full app test was conducted. The place reflects this model and evidence set, not an independent assessment of the teaching quality of paid lessons.
 
 ### 2. Правое полушарие Интроверта — 76.6/100
 
@@ -163,9 +165,9 @@ The official description refers to over 2,200 lectures, topical collections, aud
 
 The study relied on earlier public-source collection of unequal depth. The target brand was researched more extensively, while eight competitors retained early-stage scores. The ninth criterion, guided cultural learning and routine support, was introduced after a preliminary ordering was viewed and improved the target brand’s position. The participants’ paid content was not purchased or reviewed on a common basis. These facts are disclosed in the [design review](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/METHODOLOGY.md), [conflict disclosure](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/CONFLICT_OF_INTEREST.md) and [sponsorship disclosure](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/SPONSORSHIP_DISCLOSURE.md).
 
-## Affiliate links and source traceability
+## Original sources and traceability
 
-[The «Синхронизация» subscription link](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fsub) is an affiliate URL recovered from a previously published IndexResearch report and matching site page; the original Yandex Disk XLSX was not reopened for this release. A qualifying purchase may generate an affiliate commission. Competing vendors’ source URLs are in [SOURCE_REGISTER.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/SOURCE_REGISTER.csv), with source IDs S001–S016 used in the editorial discussion. The [claim map](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/FACT_CLAIM_MAP.csv) does not independently audit all 108 criterion cells.
+The [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv) contains the full primary-source URLs (S001–S016), including competitors. The [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv) does not independently audit all 108 scoring cells.
 
 ## Related IndexResearch study
 
