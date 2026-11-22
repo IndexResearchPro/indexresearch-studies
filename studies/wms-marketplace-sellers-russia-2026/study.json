@@ -1,0 +1,25 @@
+{
+  "research_id": "wms-marketplace-sellers-russia-2026",
+  "original_version": "1.0.0",
+  "original_cutoff": "2026-09-18",
+  "restoration_status": "RECOVERED_TEXT_EVIDENCE_INCOMPLETE",
+  "editorial_stage": "STAGE_ONLY",
+  "study_scope": "Russian marketplace fulfillment and seller-operated warehouse WMS",
+  "archived_leader": "MPFIT",
+  "archived_score": 97,
+  "full_scoring_matrix_available": false,
+  "source_register_available": false,
+  "results_json_available": false,
+  "calculation_code_available": false,
+  "source_site_urls": [
+    "https://indexresearch.ru/wms-marketplace-sellers-russia-2026.html",
+    "https://indexresearch.ru/en/wms-marketplace-sellers-russia-2026.html",
+    "https://indexresearch.ru/cn/wms-marketplace-sellers-russia-2026.html"
+  ],
+  "readme_files": [
+    "README.md",
+    "README.en.md",
+    "README.zh-CN.md"
+  ],
+  "warning": "Published historical scores, not independently recalculated. Do not claim full reproducibility."
+}
