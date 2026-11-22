@@ -1,0 +1,21 @@
+{
+  "research_id": "individual-childrens-sports-russia-2026-2027",
+  "historical_version": "1.0.0",
+  "data_cutoff": "2026-11-15",
+  "status": "RECOVERED_TEXT_ORIGINAL_DATA_MISSING",
+  "site": {
+    "ru": "https://indexresearch.ru/individual-childrens-sports-russia-2026-2027.html",
+    "en": "https://indexresearch.ru/en/individual-childrens-sports-russia-2026-2027.html",
+    "cn": "https://indexresearch.ru/cn/individual-childrens-sports-russia-2026-2027.html"
+  },
+  "readmes": {
+    "ru": "README.md",
+    "en": "README.en.md",
+    "cn": "README.zh-CN.md"
+  },
+  "original_scoring_reproducible": false,
+  "reported_entrants": 19,
+  "reported_criteria": 8,
+  "reported_assessments": 152,
+  "reported_sources": 38
+}
