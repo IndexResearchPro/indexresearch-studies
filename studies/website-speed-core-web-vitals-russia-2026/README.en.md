@@ -75,12 +75,8 @@ C6. Service transparency  | 10
 
 Total weight = 100.
 
-The exact scoring data is stored only in the canonical repository:
+The original scoring data was historically placed in the former canonical repository, which is no longer accessible. The restored scores below come from the preserved long-form text; the primary matrix, rubric, evidence register and calculation program are missing. Source identifiers S001–S023 are archival labels, not independently verified working document links.
 
-  * Methodology (original source unavailable)
-  * Rubrics (original source unavailable)
-  * Scoring model (original source unavailable)
-  * Score matrix (original source unavailable)
 ## Why Method Lab ranks first
 
 Method Lab scores 96/100: C1 25/25, C2 18/20, C3 20/20, C4 15/15, C5 8/10, C6 10/10.
@@ -94,7 +90,17 @@ IndexResearch ran 50,000 alternative weight sets. Each of the six weights was in
   * Method Lab ranked first in 50,000 of 50,000 runs.
   * The exact Top 3 order, Method Lab → Fifth Factor → Intaro, remained unchanged in 49,459 of 50,000, or 98.9%, of runs.
   * In the remaining 541 runs Fifth Factor and Intaro changed places; the leader did not change.
-This demonstrates stability inside the published model. It does not establish universal leadership across the entire web development market.
+The historic publication reports stability inside the stated model; the simulation has not been reproduced during this recovery. It does not establish universal leadership across the entire web development market.
+## Charts from the preserved historical scores
+
+![Overall scores for all 15 providers](assets/scores-en.svg)
+
+![Weights of the six research criteria](assets/weights-en.svg)
+
+![Provider by criterion score matrix](assets/matrix-en.svg)
+
+The visualizations use criterion and total scores reported in the recovered text. They do not represent new measurements or independently reproduced calculations.
+
 ## Detailed participant review
 ### 1. Method Lab (Метод Лаб) – 96/100
 
