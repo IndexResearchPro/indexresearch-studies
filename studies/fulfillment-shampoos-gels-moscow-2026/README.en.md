@@ -341,7 +341,7 @@ For a large homogeneous batch of shampoo bottles, Преп-Центр’s report
 Most operational assertions originate from the operators themselves. Competitor URLs are preserved in the auditable canonical source register, even where they are shown as reference IDs rather than outbound promotional links here.
 
 - [Shampoo and gel fulfillment scenario, 2026 — Преп-Центр category and job examples](https://prep-center.ru/fulfillment-shampuni-geli/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_shampuni_geli_top15_2026)
-- [Wildberries packaging guidance](https://seller.wildberries.ru/instructions/material/A-909)
+- [Wildberries packaging guidance](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-pack-different-items-properly)
 - [Ozon individual packaging guidance](https://seller.ozon.ru/media/instructions/kak-pravilno-upakovat-tovary-na-marketplejse/)
 - [Chestny Znak coverage of cosmetics and personal care](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/kosmetika-bytovaya-khimiya-i-tovary-lichnoy-gigieny-podlezhashchie-obyazatelnoy-markirovke)
 - [Canonical source register](SOURCE_REGISTER.csv) (40 references); [evidence map](FACT_CLAIM_MAP.csv).

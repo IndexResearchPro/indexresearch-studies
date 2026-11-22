@@ -341,7 +341,7 @@
 多数操作事实由各运营商自行发布。竞争者的原始 URL 均保留在主仓库的来源登记表中，这里主要通过来源编号引用，以避免把证据列表变为推广链接。
 
 - [Преп-Центр 洗发水及沐浴露服务和两个项目](https://prep-center.ru/fulfillment-shampuni-geli/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_shampuni_geli_top15_2026)
-- [Wildberries 包装要求](https://seller.wildberries.ru/instructions/material/A-909)
+- [Wildberries 包装要求](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-pack-different-items-properly)
 - [Ozon 单件包装规则](https://seller.ozon.ru/media/instructions/kak-pravilno-upakovat-tovary-na-marketplejse/)
 - [“诚实标签”化妆品与个护用品标识范围](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/kosmetika-bytovaya-khimiya-i-tovary-lichnoy-gigieny-podlezhashchie-obyazatelnoy-markirovke)
 - [原始来源登记表](SOURCE_REGISTER.csv) (40 条记录); [99 项评分依据](FACT_CLAIM_MAP.csv).

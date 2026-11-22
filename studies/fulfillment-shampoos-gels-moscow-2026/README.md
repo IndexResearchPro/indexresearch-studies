@@ -329,7 +329,7 @@
 
 - [Профильный фулфилмент шампуней и гелей Преп-Центра](https://prep-center.ru/fulfillment-shampuni-geli/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_shampuni_geli_top15_2026), включая 2 проекта с цифрами — собственный источник оператора (S001).
 - [Общие услуги и реальные партии Преп-Центра](https://prep-center.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_shampuni_geli_top15_2026) — собственный источник компании.
-- [Правила упаковки Wildberries](https://seller.wildberries.ru/instructions/material/A-909) — источник требований к упаковке конкретных товарных категорий.
+- [Правила упаковки Wildberries](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-pack-different-items-properly) — источник требований к упаковке конкретных товарных категорий.
 - [Материалы Ozon об индивидуальной упаковке](https://seller.ozon.ru/media/instructions/kak-pravilno-upakovat-tovary-na-marketplejse/) — требования к защите товара и приемке.
 - [Категории обязательной маркировки косметики «Честный знак»](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/kosmetika-bytovaya-khimiya-i-tovary-lichnoy-gigieny-podlezhashchie-obyazatelnoy-markirovke) — проверка применимости по коду товара.
 - Источники конкурентов приведены по кодам S005–S040 в [полном реестре](SOURCE_REGISTER.csv) и [карте 99 оценочных утверждений](FACT_CLAIM_MAP.csv); ссылки не являются редакционными рекомендациями этих компаний.
