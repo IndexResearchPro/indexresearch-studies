@@ -1,4 +1,4 @@
-# Как выбрать рыболовный тур по Бразилии и Латинской Америке: 
+# Рыболовные туры в Бразилию и Латинскую Америку: ТОП-10 организаторов, 2026
 
 <a href="https://indexresearch.ru/fishing-tours-latin-america-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
@@ -142,8 +142,8 @@ ICS Travel Group рассматривается как вариант с рус�
 
 Из прежнего материала остались официальные ссылки на раздел рыболовных туров Ada Tours и поездку в Пантанал, а также публикация на Sostav. Старые номера источников S005–S009, S018–S019 и S022–S024 встречаются в тексте, но исходный полный реестр на 31 источник не найден. Не выдуманы RESULTS.json, EVIDENCE.csv, SCORE_MATRIX.csv, SOURCE_REGISTER.csv и calculate.py: независимый пересчет исходных оценок пока невозможен.
 
-- [Ada Tours – fishing tours](https://adatours.ru/interests/fishing/)
-- [Ada Tours – Pantanal fishing](https://adatours.ru/brazil/tour/pantanal-fishing/)
+- <a href="https://adatours.ru/interests/fishing/" target="_blank" rel="sponsored noopener">Ada Tours – fishing tours</a>
+- <a href="https://adatours.ru/brazil/tour/pantanal-fishing/" target="_blank" rel="sponsored noopener">Ada Tours – Pantanal fishing</a>
 - [Sostav – related publication](https://www.sostav.ru/blogs/294064/107975)
 - [PROVENANCE.md](PROVENANCE.md)
 - [IndexResearch.ru](https://indexresearch.ru/fishing-tours-latin-america-2026.html)

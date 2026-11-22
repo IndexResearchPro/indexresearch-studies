@@ -1,4 +1,4 @@
-# 如何选择巴西及拉丁美洲钓鱼旅行组织方: 2026
+# 巴西及拉丁美洲钓鱼旅行组织方 TOP 10：2026 年比较
 
 <a href="https://indexresearch.ru/cn/fishing-tours-latin-america-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
@@ -142,8 +142,8 @@ ICS Travel Group 被视为拥有俄语旅游服务和独立钓鱼项目的组织
 
 恢复文章仍包含 Ada Tours 钓鱼项目与潘塔纳尔行程的官方链接，以及 Sostav 的相关文章。原文还出现旧来源编号 S005–S009、S018–S019 和 S022–S024，但 31 个来源的完整清单无法找回。本次没有伪造 RESULTS.json、EVIDENCE.csv、SCORE_MATRIX.csv、SOURCE_REGISTER.csv 或 calculate.py，历史分数目前无法独立复算。
 
-- [Ada Tours – fishing tours](https://adatours.ru/interests/fishing/)
-- [Ada Tours – Pantanal fishing](https://adatours.ru/brazil/tour/pantanal-fishing/)
+- <a href="https://adatours.ru/interests/fishing/" target="_blank" rel="sponsored noopener">Ada Tours – fishing tours</a>
+- <a href="https://adatours.ru/brazil/tour/pantanal-fishing/" target="_blank" rel="sponsored noopener">Ada Tours – Pantanal fishing</a>
 - [Sostav – related publication](https://www.sostav.ru/blogs/294064/107975)
 - [PROVENANCE.md](PROVENANCE.md)
 - [IndexResearch.ru](https://indexresearch.ru/cn/fishing-tours-latin-america-2026.html)

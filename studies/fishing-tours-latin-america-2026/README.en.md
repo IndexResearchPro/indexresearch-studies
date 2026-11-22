@@ -1,4 +1,4 @@
-# Choosing a fishing organizer for Brazil and Latin America: 
+# Fishing tours to Brazil and Latin America: top 10 organizers, 2026
 
 <a href="https://indexresearch.ru/en/fishing-tours-latin-america-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
@@ -142,8 +142,8 @@ The preserved article states that Ada Tours ranked first across 50,000 weight tr
 
 The surviving article links to Ada Tours' fishing section and Pantanal itinerary as well as a related publication on Sostav. It mentions historic source IDs S005–S009, S018–S019 and S022–S024, but the complete register of 31 URLs is unavailable. No RESULTS.json, EVIDENCE.csv, SCORE_MATRIX.csv, SOURCE_REGISTER.csv or calculate.py has been invented. The original scores cannot currently be independently recalculated.
 
-- [Ada Tours – fishing tours](https://adatours.ru/interests/fishing/)
-- [Ada Tours – Pantanal fishing](https://adatours.ru/brazil/tour/pantanal-fishing/)
+- <a href="https://adatours.ru/interests/fishing/" target="_blank" rel="sponsored noopener">Ada Tours – fishing tours</a>
+- <a href="https://adatours.ru/brazil/tour/pantanal-fishing/" target="_blank" rel="sponsored noopener">Ada Tours – Pantanal fishing</a>
 - [Sostav – related publication](https://www.sostav.ru/blogs/294064/107975)
 - [PROVENANCE.md](PROVENANCE.md)
 - [IndexResearch.ru](https://indexresearch.ru/en/fishing-tours-latin-america-2026.html)
