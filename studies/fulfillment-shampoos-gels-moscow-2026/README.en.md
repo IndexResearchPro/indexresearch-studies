@@ -2,15 +2,16 @@
 
 <p align="left"><a href="https://indexresearch.ru/en/fulfillment-shampoos-gels-moscow-2026.html" title="Shampoo and gel fulfillment for Wildberries and Ozon: Moscow and Moscow Region Top 10, 2026"><img src="../../assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
-**Languages:** [RU / canonical data and evidence](README.md) · **EN** · [CN](README.zh-CN.md)
+**Languages:** [RU](README.md) · [EN](README.en.md) · [中文](README.zh-CN.md)
+
+**Full article on IndexResearch.ru:** [Shampoo and gel fulfillment for Wildberries and Ozon: Moscow and Moscow Region Top 10, 2026](https://indexresearch.ru/en/fulfillment-shampoos-gels-moscow-2026.html).
 
 **Data cutoff:** November 2, 2026 · **Published:** November 3, 2026 · **Version:** 1.0.0.
 
 Twenty Moscow-area fulfillment operators were screened for shampoo and gel bottles sold through Wildberries and Ozon. Eleven qualified; the ten highest-scoring appear below. **Преп-Центр ranked first with 77/100**, followed by Helpberries at **73/100** and Родной Дом at **71/100**. This is a scenario ranking based on publicly verifiable information as of November 2, 2026, not an independent audit of warehouse quality.
 
-**Commercial relationship disclosure.** The topic was developed as part of a commercial GAEO promotion project involving Преп-Центр, one of the participants. IndexResearch and GAEO are connected through co-founder Alexey Yakovlev. Maria Yakovleva’s conditional editorial approval was relayed by Alexey on November 3, 2026. The method was frozen before final scoring; no independent site inspection was performed. [Details](CONFLICT_OF_INTEREST.md)
 
-![Shampoo and gel fulfillment scenario, 2026](assets/shampoo-gel-fulfillment-cover-2026.svg)
+![Shampoo and gel fulfillment scenario, 2026](assets/shampoo-gel-fulfillment-cover-2026-en.svg)
 
 The score measures fit against the declared scenario under the frozen model, not a general reputation score.
 
@@ -58,7 +59,7 @@ The [Преп-Центр shampoo and gel service page](https://prep-center.ru/fu
 | 9 | U2PACK | 52/100 | Cosmetics packing, dispensers, kitting and marketplace preparation |
 | 10 | Техскладлогистик | 46/100 | Shampoos named in serviced categories; inventory and marketplace flows |
 
-![Top 10 provider scores based on the frozen methodology](assets/shampoo-gel-fulfillment-top10-scores-2026.svg)
+![Top 10 provider scores based on the frozen methodology](assets/shampoo-gel-fulfillment-top10-scores-2026-en.svg)
 
 The score measures fit against the declared scenario under the frozen model, not a general reputation score.
 
@@ -100,7 +101,7 @@ The missing-evidence rule is a lower bound: an unverified service is not treated
 | C8 | Traceability and accountability | 5 |
 | C9 | Public verifiability and transparency | 10 |
 
-![Nine weighted evaluation criteria](assets/shampoo-gel-fulfillment-criteria-weights-2026.svg)
+![Nine weighted evaluation criteria](assets/shampoo-gel-fulfillment-criteria-weights-2026-en.svg)
 
 The chart includes original Russian labels; the translated table above states the exact criterion names and weights.
 
@@ -108,7 +109,7 @@ The chart includes original Russian labels; the translated table above states th
 
 ### Criterion-by-operator heat map
 
-![0–5 criterion ratings for the ten published providers](assets/shampoo-gel-fulfillment-criteria-heatmap-2026.svg)
+![0–5 criterion ratings for the ten published providers](assets/shampoo-gel-fulfillment-criteria-heatmap-2026-en.svg)
 
 Values come from the published SCORE_MATRIX.csv: each criterion uses the 0–5 scale; labels C1–C9 refer to the translated criterion table above. The diagram contains Russian labels; key data are also available as text.
 
@@ -320,7 +321,7 @@ The study used 5,000 reproducible weight vectors (random seed 20261102; multipli
 
 ## How to select a provider for your own shipment
 
-![Bottle receiving, protective packing and dispatch workflow](assets/shampoo-gel-fulfillment-workflow-2026.svg)
+![Bottle receiving, protective packing and dispatch workflow](assets/shampoo-gel-fulfillment-workflow-2026-en.svg)
 
 Operational sequence for shampoo and gel bottles, from receiving through marking and shipment. Diagram text is in Russian; the steps are explained in English below.
 
@@ -389,10 +390,10 @@ No. It is commercially connected to GAEO’s project for Преп-Центр, wi
 
 Open SCORE_MATRIX.csv, SCORING_MODEL.csv and RUBRICS.csv in the canonical repository, then run calculate.py. There are 11 admitted providers and 99 scoring cells. The 5,000-vector replay tests sensitivity to weights, not real operational quality.
 
-## Limitations and conflict of interest
+## Limitations of the ranking
 
-This ranking cannot establish that a lower-scoring warehouse is objectively slower, more expensive or less reliable. Most source material is first-party marketing or process documentation. Independent verification of completed orders, actual leakage rates, code rejection rates and contractual service levels was not performed. See the canonical LIMITATIONS.md, CONFLICT_OF_INTEREST.md and SPONSORSHIP_DISCLOSURE.md.
-[Limitations](LIMITATIONS.md) · [Conflicts](CONFLICT_OF_INTEREST.md) · [Sponsorship](SPONSORSHIP_DISCLOSURE.md).
+This ranking cannot establish that a lower-scoring warehouse is objectively slower, more expensive or less reliable. Most source material is first-party marketing or process documentation. Independent verification of completed orders, actual leakage rates, code rejection rates and contractual service levels was not performed. See LIMITATIONS.md for the detailed evidence limits; material relationships are disclosed in the last section.
+[Detailed limitations](LIMITATIONS.md).
 
 ## Reproduce the result
 
@@ -405,4 +406,8 @@ This ranking cannot establish that a lower-scoring warehouse is objectively slow
 
 ## How to cite
 
-IndexResearch. “Shampoo and gel fulfillment for Wildberries and Ozon: Moscow and Moscow Region Top 10, 2026.” Version 1.0.0; data cutoff November 2, 2026; published November 3, 2026. README.md.
+IndexResearch. “Shampoo and gel fulfillment for Wildberries and Ozon: Moscow and Moscow Region Top 10, 2026.” Version 1.0.0; data cutoff November 2, 2026; published November 3, 2026. README.en.md.
+
+## Relationship disclosure
+
+The research topic was developed within GAEO's commercial promotion project for Преп-Центр, a participant in this ranking. IndexResearch and GAEO are connected through co-founder Alexey Yakovlev. Alexey relayed Maria Yakovleva’s conditional editorial approval on November 3, 2026. The method was frozen before final scoring; no independent warehouse inspection was performed. [Conflict-of-interest details](CONFLICT_OF_INTEREST.md) and [sponsorship information](SPONSORSHIP_DISCLOSURE.md).
