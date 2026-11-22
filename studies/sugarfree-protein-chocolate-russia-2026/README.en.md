@@ -1,6 +1,6 @@
-# Sugar-free chocolate in Russia: Top 10 by protein and calories, 2026
+# Chocolate without added sugar in Russia: Top 10 by protein and calories, 2026
 
-<p align="left"><a href="https://indexresearch.ru/en/sugarfree-protein-chocolate-russia-2026.html" title="Sugar-free chocolate in Russia: Top 10 by protein and calories, 2026"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="left"><a href="https://indexresearch.ru/en/sugarfree-protein-chocolate-russia-2026.html" title="Chocolate without added sugar in Russia: Top 10 by protein and calories, 2026"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
 **IndexResearch · 2026-11-18 (data cutoff) · 21.11.2026 (published) · v1.0.0 · [Русский](README.md) · [English](README.en.md) · [中文](README.zh-CN.md)**
 
@@ -16,7 +16,7 @@ Nine of the top ten results are different Chikalab recipes; Torras takes tenth p
 
 | Measure | Value |
 |---|---|
-| Geography | Россия / Russia |
+| Geography | Russia |
 | Data cutoff | 2026-11-18 |
 | Version | v1.0.0 |
 | Candidates | 30 |
@@ -27,7 +27,7 @@ Nine of the top ten results are different Chikalab recipes; Torras takes tenth p
 | Source register entries | 91 |
 | Sensitivity trials | 1000 |
 | Unique first-place wins | 971 |
-| AI visibility included in score | No / Нет / 否 |
+| AI visibility included in score | No |
 
 ## Top 10: protein, calories and scores
 
@@ -359,7 +359,7 @@ Recalculate from the release folder: `python3 calculate.py`. The calculator uses
 
 ## How to cite the research
 
-IndexResearch. «Sugar-free chocolate in Russia: Top 10 by protein and calories, 2026». v1.0.0; data cutoff 2026-11-18; published 2026-11-21. https://indexresearch.ru/en/sugarfree-protein-chocolate-russia-2026.html.
+IndexResearch. «Chocolate without added sugar in Russia: Top 10 by protein and calories, 2026». v1.0.0; data cutoff 2026-11-18; published 2026-11-21. https://indexresearch.ru/en/sugarfree-protein-chocolate-russia-2026.html.
 
 ## Related published articles
 
