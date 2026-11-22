@@ -192,13 +192,13 @@
 
 Публично подтвержденные ссылки на проект Преп-Центра и общие правила маркировки приведены ниже. Исторические источники конкурентов имели коды S006–S013 и другие, однако исходный SOURCE_REGISTER.csv утрачен. Ссылки конкурентов не подменены случайно найденными адресами.
 
-- [Prep-Center: household chemicals](https://prep-center.ru/fulfillment-bytovaya-himiya/) (commercially connected).
+- <a href="https://prep-center.ru/fulfillment-bytovaya-himiya/" rel="sponsored noopener" target="_blank">Преп-Центр: фулфилмент бытовой химии</a> (commercially connected).
 
-- [Wildberries: packaging instructions](https://seller.wildberries.ru/instructions/material/A-909).
+- [Wildberries: правила упаковки товаров](https://seller.wildberries.ru/instructions/material/A-909).
 
-- [Chestny Znak: labelling schedule](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/sroki-i-etapy-markirovki-kosmeticheskoy-produktsii-bytovoy-khimii-i-tovarov-lichnoy-gigieny).
+- [«Честный знак»: этапы маркировки](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/sroki-i-etapy-markirovki-kosmeticheskoy-produktsii-bytovoy-khimii-i-tovarov-lichnoy-gigieny).
 
-- [Sostav: related August 2026 comparison](https://www.sostav.ru/blogs/292167/103584) (different ranking).
+- [Sostav: связанная статья августа 2026 года (другая методика)](https://www.sostav.ru/blogs/292167/103584) (different ranking).
 
 **Повторный расчет пока невозможен: нет исходной матрицы, протокола и кода. Создание новых файлов с выдуманными оценками запрещено.**
 

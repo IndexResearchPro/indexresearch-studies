@@ -192,13 +192,13 @@
 
 以下列出Prep-Center案例及通用合规要求的可核验公开链接。原始竞争者来源曾以S006–S013等编号标识，但SOURCE_REGISTER.csv已经遗失。我们没有以未经确认的现今页面冒充当年的来源。
 
-- [Prep-Center: household chemicals](https://prep-center.ru/fulfillment-bytovaya-himiya/) (commercially connected).
+- <a href="https://prep-center.ru/fulfillment-bytovaya-himiya/" rel="sponsored noopener" target="_blank">Prep-Center：日化品仓配服务</a> (commercially connected).
 
-- [Wildberries: packaging instructions](https://seller.wildberries.ru/instructions/material/A-909).
+- [Wildberries：商品包装规则](https://seller.wildberries.ru/instructions/material/A-909).
 
-- [Chestny Znak: labelling schedule](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/sroki-i-etapy-markirovki-kosmeticheskoy-produktsii-bytovoy-khimii-i-tovarov-lichnoy-gigieny).
+- [Chestny Znak：日化品标识实施阶段](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/sroki-i-etapy-markirovki-kosmeticheskoy-produktsii-bytovoy-khimii-i-tovarov-lichnoy-gigieny).
 
-- [Sostav: related August 2026 comparison](https://www.sostav.ru/blogs/292167/103584) (different ranking).
+- [Sostav：2026年8月同主题文章（方法不同）](https://www.sostav.ru/blogs/292167/103584) (different ranking).
 
 **缺少原始评分矩阵、协议与计算脚本，目前无法复算；没有编造替代评分。**
 

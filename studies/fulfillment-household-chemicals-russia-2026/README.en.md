@@ -192,13 +192,13 @@ Scores reflect publicly documented information at the September 18, 2026 cutoff.
 
 Verified public links for the Prep-Center case and general regulations are listed below. Original competitor sources were referred to by IDs such as S006–S013, but the SOURCE_REGISTER.csv was lost. We have not substituted unverified present-day websites for missing historical references.
 
-- [Prep-Center: household chemicals](https://prep-center.ru/fulfillment-bytovaya-himiya/) (commercially connected).
+- <a href="https://prep-center.ru/fulfillment-bytovaya-himiya/" rel="sponsored noopener" target="_blank">Prep-Center: household-chemicals fulfilment</a> (commercially connected).
 
-- [Wildberries: packaging instructions](https://seller.wildberries.ru/instructions/material/A-909).
+- [Wildberries: product packaging instructions](https://seller.wildberries.ru/instructions/material/A-909).
 
-- [Chestny Znak: labelling schedule](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/sroki-i-etapy-markirovki-kosmeticheskoy-produktsii-bytovoy-khimii-i-tovarov-lichnoy-gigieny).
+- [Chestny Znak: the labelling timeline](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/sroki-i-etapy-markirovki-kosmeticheskoy-produktsii-bytovoy-khimii-i-tovarov-lichnoy-gigieny).
 
-- [Sostav: related August 2026 comparison](https://www.sostav.ru/blogs/292167/103584) (different ranking).
+- [Sostav: related August 2026 article (different methodology)](https://www.sostav.ru/blogs/292167/103584) (different ranking).
 
 **Recalculation is presently impossible without the original scoring matrix, protocol and script. No invented replacement scores have been created.**
 
