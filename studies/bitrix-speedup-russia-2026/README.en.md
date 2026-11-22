@@ -76,91 +76,91 @@ The profiles below cover every ranked provider. They summarize statements retain
 
 [Метод Лаб](https://www.methodlab.ru/price/uskorenie_sajta_na_bitrix) · Official service link recorded in the old article; connected participant.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Ask for a PHP/SQL/server/cache/load test plan with measurable acceptance criteria.
 
 ### 2. Пятый фактор · 93/100
 
 **Recorded reason.** Dedicated Bitrix speed-up service, a measurable IdealBeds case and a defined scope.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Check that the IdealBeds case is relevant to your store architecture.
 
 ### 3. ИНТЕРВОЛГА · 92/100
 
 **Recorded reason.** Bitrix technical auditing, code/database analysis and load-related work.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Clarify which code, database and load analyses are included in the audit.
 
 ### 4. Intaro · 91/100
 
 **Recorded reason.** Large online stores, complex integrations and high-load engineering.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Request comparable examples involving complex catalogs and integrations.
 
 ### 5. Ленвендо · 89/100
 
 **Recorded reason.** Scaling major Bitrix e-commerce workloads.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Validate the proposed scaling tests against your catalog size and order volume.
 
 ### 6. CDS.guru · 87/100
 
 **Recorded reason.** Dedicated Bitrix optimization: backend, frontend, MySQL, nginx and load.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Ask for separate backend, frontend, MySQL, nginx and load findings.
 
 ### 7. Тест-сервис · 87/100
 
 **Recorded reason.** Independent Bitrix performance audit with a documented outcome.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** List the technical artifacts and recommendations the audit will deliver.
 
 ### 8. ITSumma · 87/100
 
 **Recorded reason.** Database, infrastructure and performance testing expertise across a wider service portfolio.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Separate infrastructure changes from Bitrix application code work.
 
 ### 9. Интернет Системы · 85/100
 
 **Recorded reason.** Bitrix performance work involving caching and databases, with public service pricing.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Check whether publicly stated prices match the current proposal.
 
 ### 10. Битроид · 83/100
 
 **Recorded reason.** Focused Bitrix stack, including MySQL, Nginx, BitrixVM and Redis/Memcached.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Specify MySQL, Nginx, BitrixVM and Redis/Memcached improvements.
 
 ### 11. QSOFT · 81/100
 
 **Recorded reason.** Large e-commerce projects and complex system integrations.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Ask how integration, cart and checkout risks will be assessed.
 
 ### 12. Webformat · 81/100
 
 **Recorded reason.** Maintenance of Bitrix shops with speed and load testing.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Request a load-test baseline and before/after report.
 
 ### 13. Intensa · 81/100
 
 **Recorded reason.** A documented working online-store case involving code, caching and databases.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Confirm that the cited store case resembles your setup.
 
 ### 14. WebGuard.pro · 78/100
 
 **Recorded reason.** Server and PHP optimization, SQL queries and database indexes.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Discuss access to SQL queries, database indexes and PHP profiling.
 
 ### 15. Сотбит · 70/100
 
 **Recorded reason.** A ready-made front-end acceleration module; its scope is narrower than a complete diagnosis.
 
-**Decision caveat.** Verify current availability, scope and measurable cases before contracting. The original source register was lost.
+**Ask before contracting:** Rule out server-side causes before selecting a front-end-only module.
 ## Three views of the published figures
 
 ![Overall scores](assets/scores-en.svg)
