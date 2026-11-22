@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="550" viewBox="0 0 1120 550" role="img" aria-label="标准权重">
+<rect width="1120" height="550" fill="#f7fafc"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#123754">标准权重</text>
+<text x="35" y="120" font-family="sans-serif" font-size="19" fill="#1d3346">使用数据库的深度</text>
+<rect x="545" y="100" width="475" height="31" rx="5" fill="#17577d"/>
+<text x="1030" y="122" font-family="sans-serif" font-size="19" fill="#142f43">25%</text>
+<text x="35" y="179" font-family="sans-serif" font-size="19" fill="#1d3346">服务器堆栈诊断</text>
+<rect x="545" y="159" width="380" height="31" rx="5" fill="#17577d"/>
+<text x="935" y="181" font-family="sans-serif" font-size="19" fill="#142f43">20%</text>
+<text x="35" y="238" font-family="sans-serif" font-size="19" fill="#1d3346">高负荷项目的真实体验</text>
+<rect x="545" y="218" width="285" height="31" rx="5" fill="#17577d"/>
+<text x="840" y="240" font-family="sans-serif" font-size="19" fill="#142f43">15%</text>
+<text x="35" y="297" font-family="sans-serif" font-size="19" fill="#1d3346">现有项目的优化</text>
+<rect x="545" y="277" width="285" height="31" rx="5" fill="#17577d"/>
+<text x="840" y="299" font-family="sans-serif" font-size="19" fill="#142f43">15%</text>
+<text x="35" y="356" font-family="sans-serif" font-size="19" fill="#1d3346">测量技术</text>
+<rect x="545" y="336" width="190" height="31" rx="5" fill="#17577d"/>
+<text x="745" y="358" font-family="sans-serif" font-size="19" fill="#142f43">10%</text>
+<text x="35" y="415" font-family="sans-serif" font-size="19" fill="#1d3346">客户团队的结果</text>
+<rect x="545" y="395" width="190" height="31" rx="5" fill="#17577d"/>
+<text x="745" y="417" font-family="sans-serif" font-size="19" fill="#142f43">10%</text>
+<text x="35" y="474" font-family="sans-serif" font-size="19" fill="#1d3346">公开证据</text>
+<rect x="545" y="454" width="95" height="31" rx="5" fill="#17577d"/>
+<text x="650" y="476" font-family="sans-serif" font-size="19" fill="#142f43">5%</text>
+</svg>

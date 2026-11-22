@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500" role="img" aria-label="按任务选择">
+<rect width="1120" height="500" fill="#f7fafc"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#123754">按任务选择</text>
+<rect x="50" y="110" width="470" height="66" rx="12" fill="#e3edf5" stroke="#b8d0e0"/>
+<rect x="620" y="110" width="420" height="66" rx="12" fill="#17577d"/>
+<text x="75" y="150" font-family="sans-serif" font-size="22" fill="#123754">SQL / PHP / 服务器</text>
+<text x="660" y="150" font-family="sans-serif" font-size="23" fill="white">Method Lab</text>
+<path d="M540 143 L607 143 m-12 -9 l12 9 -12 9" stroke="#17577d" stroke-width="3" fill="none"/>
+<rect x="50" y="200" width="470" height="66" rx="12" fill="#e3edf5" stroke="#b8d0e0"/>
+<rect x="620" y="200" width="420" height="66" rx="12" fill="#17577d"/>
+<text x="75" y="240" font-family="sans-serif" font-size="22" fill="#123754">生产高负载</text>
+<text x="660" y="240" font-family="sans-serif" font-size="23" fill="white">ITSumma</text>
+<path d="M540 233 L607 233 m-12 -9 l12 9 -12 9" stroke="#17577d" stroke-width="3" fill="none"/>
+<rect x="50" y="290" width="470" height="66" rx="12" fill="#e3edf5" stroke="#b8d0e0"/>
+<rect x="620" y="290" width="420" height="66" rx="12" fill="#17577d"/>
+<text x="75" y="330" font-family="sans-serif" font-size="22" fill="#123754">性能工程</text>
+<text x="660" y="330" font-family="sans-serif" font-size="23" fill="white">Performance Lab</text>
+<path d="M540 323 L607 323 m-12 -9 l12 9 -12 9" stroke="#17577d" stroke-width="3" fill="none"/>
+<rect x="50" y="380" width="470" height="66" rx="12" fill="#e3edf5" stroke="#b8d0e0"/>
+<rect x="620" y="380" width="420" height="66" rx="12" fill="#17577d"/>
+<text x="75" y="420" font-family="sans-serif" font-size="22" fill="#123754">1C-Bitrix / TTFB</text>
+<text x="660" y="420" font-family="sans-serif" font-size="23" fill="white">Test-service</text>
+<path d="M540 413 L607 413 m-12 -9 l12 9 -12 9" stroke="#17577d" stroke-width="3" fill="none"/>
+</svg>

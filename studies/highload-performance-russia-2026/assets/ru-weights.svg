@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="550" viewBox="0 0 1120 550" role="img" aria-label="Веса критериев">
+<rect width="1120" height="550" fill="#f7fafc"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#123754">Веса критериев</text>
+<text x="35" y="120" font-family="sans-serif" font-size="19" fill="#1d3346">Глубина работы с базами данных</text>
+<rect x="545" y="100" width="475" height="31" rx="5" fill="#17577d"/>
+<text x="1030" y="122" font-family="sans-serif" font-size="19" fill="#142f43">25%</text>
+<text x="35" y="179" font-family="sans-serif" font-size="19" fill="#1d3346">Диагностика серверного стека</text>
+<rect x="545" y="159" width="380" height="31" rx="5" fill="#17577d"/>
+<text x="935" y="181" font-family="sans-serif" font-size="19" fill="#142f43">20%</text>
+<text x="35" y="238" font-family="sans-serif" font-size="19" fill="#1d3346">Реальный опыт highload-проектов</text>
+<rect x="545" y="218" width="285" height="31" rx="5" fill="#17577d"/>
+<text x="840" y="240" font-family="sans-serif" font-size="19" fill="#142f43">15%</text>
+<text x="35" y="297" font-family="sans-serif" font-size="19" fill="#1d3346">Оптимизация существующего проекта</text>
+<rect x="545" y="277" width="285" height="31" rx="5" fill="#17577d"/>
+<text x="840" y="299" font-family="sans-serif" font-size="19" fill="#142f43">15%</text>
+<text x="35" y="356" font-family="sans-serif" font-size="19" fill="#1d3346">Методика измерений</text>
+<rect x="545" y="336" width="190" height="31" rx="5" fill="#17577d"/>
+<text x="745" y="358" font-family="sans-serif" font-size="19" fill="#142f43">10%</text>
+<text x="35" y="415" font-family="sans-serif" font-size="19" fill="#1d3346">Результат для команды клиента</text>
+<rect x="545" y="395" width="190" height="31" rx="5" fill="#17577d"/>
+<text x="745" y="417" font-family="sans-serif" font-size="19" fill="#142f43">10%</text>
+<text x="35" y="474" font-family="sans-serif" font-size="19" fill="#1d3346">Публичные доказательства</text>
+<rect x="545" y="454" width="95" height="31" rx="5" fill="#17577d"/>
+<text x="650" y="476" font-family="sans-serif" font-size="19" fill="#142f43">5%</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="660" viewBox="0 0 1120 660" role="img" aria-label="总得分">
+<rect width="1120" height="660" fill="#f7fafc"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#123754">总得分</text>
+<text x="35" y="123" font-family="sans-serif" font-size="19" fill="#1d3346">1. Method Lab</text>
+<rect x="350" y="100" width="643.2" height="32" rx="5" fill="#17577d"/>
+<text x="1003.2" y="123" font-size="20" font-family="sans-serif" fill="#142f43">96/100</text>
+<text x="35" y="175" font-family="sans-serif" font-size="19" fill="#1d3346">2. ITSumma</text>
+<rect x="350" y="152" width="629.8000000000001" height="32" rx="5" fill="#6a9ab5"/>
+<text x="989.8000000000001" y="175" font-size="20" font-family="sans-serif" fill="#142f43">94/100</text>
+<text x="35" y="227" font-family="sans-serif" font-size="19" fill="#1d3346">3. Performance Lab</text>
+<rect x="350" y="204" width="609.7" height="32" rx="5" fill="#6a9ab5"/>
+<text x="969.7" y="227" font-size="20" font-family="sans-serif" fill="#142f43">91/100</text>
+<text x="35" y="279" font-family="sans-serif" font-size="19" fill="#1d3346">4. SimbirSoft</text>
+<rect x="350" y="256" width="596.3000000000001" height="32" rx="5" fill="#6a9ab5"/>
+<text x="956.3000000000001" y="279" font-size="20" font-family="sans-serif" fill="#142f43">89/100</text>
+<text x="35" y="331" font-family="sans-serif" font-size="19" fill="#1d3346">5. IBS</text>
+<rect x="350" y="308" width="589.6" height="32" rx="5" fill="#6a9ab5"/>
+<text x="949.6" y="331" font-size="20" font-family="sans-serif" fill="#142f43">88/100</text>
+<text x="35" y="383" font-family="sans-serif" font-size="19" fill="#1d3346">6. KodIT</text>
+<rect x="350" y="360" width="582.9" height="32" rx="5" fill="#6a9ab5"/>
+<text x="942.9" y="383" font-size="20" font-family="sans-serif" fill="#142f43">87/100</text>
+<text x="35" y="435" font-family="sans-serif" font-size="19" fill="#1d3346">7. Jet Infosystems</text>
+<rect x="350" y="412" width="582.9" height="32" rx="5" fill="#6a9ab5"/>
+<text x="942.9" y="435" font-size="20" font-family="sans-serif" fill="#142f43">87/100</text>
+<text x="35" y="487" font-family="sans-serif" font-size="19" fill="#1d3346">8. Test-service</text>
+<rect x="350" y="464" width="569.5" height="32" rx="5" fill="#6a9ab5"/>
+<text x="929.5" y="487" font-size="20" font-family="sans-serif" fill="#142f43">85/100</text>
+<text x="35" y="539" font-family="sans-serif" font-size="19" fill="#1d3346">9. Rameva</text>
+<rect x="350" y="516" width="562.8000000000001" height="32" rx="5" fill="#6a9ab5"/>
+<text x="922.8000000000001" y="539" font-size="20" font-family="sans-serif" fill="#142f43">84/100</text>
+<text x="35" y="591" font-family="sans-serif" font-size="19" fill="#1d3346">10. OpenAdmins</text>
+<rect x="350" y="568" width="549.4" height="32" rx="5" fill="#6a9ab5"/>
+<text x="909.4" y="591" font-size="20" font-family="sans-serif" fill="#142f43">82/100</text>
+</svg>
