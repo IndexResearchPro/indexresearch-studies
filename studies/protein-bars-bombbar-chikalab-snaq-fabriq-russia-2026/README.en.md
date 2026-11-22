@@ -6,12 +6,12 @@ The preserved ranking places Bombbar Strawberry first (75.54/100), Raspberry Che
 
 **Evidence recovery status.** This full-text study is reconstructed from the previously published IndexResearch HTML pages. The old GitHub organization was lost; original CSV/JSON, all 89 source records, calculation code and the 5,000 sensitivity-trial outputs have not been recovered. Historical figures are reproduced with their limits, not represented as independently recalculated.
 
-**Languages / 语言 / Языки:** [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md)  
+**Languages:** [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md)  
 **Main article:** [IndexResearch.ru](https://indexresearch.ru/en/protein-bars-bombbar-chikalab-snaq-fabriq-russia-2026.html)
 
 ## Comparing protein, energy and catalog prices in Russia
 
-The preserved ranking places Bombbar Strawberry first (75.54/100), Raspberry Cheesecake second (75.31/100) and Coconut and Cherry Brownie jointly third (75.08/100). The snapshot is dated 17 November 2026. This is a comparison within the shared portfolio of Bombbar, Chikalab and Snaq Fabriq, without tastings, laboratory testing or a completed purchase.
+The comparison originally considered 43 products and admitted 33 into the final assessment. Each unit is a specific bar flavor and serving, evaluated through three quantitative criteria using a dated catalog snapshot.
 
 ## Research passport
 
@@ -32,60 +32,60 @@ The preserved ranking places Bombbar Strawberry first (75.54/100), Raspberry Che
 
 | Rank | Protein bar | Score / 100 | kcal / 60 g | Why it ranked here |
 |---:|---|---:|---:|---|
-| 1 | [Bombbar "Strawberry" (Bombbar «Клубника»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html) | 75,54 | 172,8 | Minimum calculated energy among these ten at the same price and protein. 19.8 g protein and 172.8 kcal |
-| 2 | [Bombbar “Raspberry Cheesecake” (Bombbar «Малиновый чизкейк»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html) | 75,31 | 174,0 | Close to the leader: the gap is about 0.23 points. 19.8 g protein and 174.0 kcal |
-| 3 | [Bombbar "Coconut" (Bombbar «Кокос»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html) | 75,08 | 175,2 | Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal |
-| 3 | [Bombbar "Cherry Brownie" (Bombbar «Вишневый брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html) | 75,08 | 175,2 | Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal |
-| 5 | [Bombbar “Banana-Mango Pudding” (Bombbar «Пудинг банан-манго»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html) | 74,84 | 176,4 | Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal |
-| 5 | [Bombbar "Brownie" (Bombbar «Брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html) | 74,84 | 176,4 | Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal |
-| 7 | [Bombbar "Danish biscuit" (Bombbar «Датский бисквит»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html) | 73,21 | 184,8 | Overall 7th place. 19.8 g protein and 184.8 kcal |
-| 7 | [Bombbar "Viennese waffles" (Bombbar «Венские вафли»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html) | 73,21 | 184,8 | Overall 7th place. 19.8 g protein and 184.8 kcal |
-| 9 | [Bombbar "Tiramisu" (Bombbar «Тирамису»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html) | 72,86 | 186,6 | For the same price and protein, the calculated calorie content is higher. 19.8 g protein and 186.6 kcal |
-| 10 | [Bombbar “Pistachio ice cream” (Bombbar «Фисташковый пломбир»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html) | 72,51 | 188,4 | Rounding out the top ten; The difference with the neighboring taste is small. 19.8 g protein and 188.4 kcal |
+| 1 | [Bombbar "Strawberry" (Bombbar «Клубника»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html) | 75.54 | 172.8 | Minimum calculated energy among these ten at the same price and protein. 19.8 g protein and 172.8 kcal |
+| 2 | [Bombbar “Raspberry Cheesecake” (Bombbar «Малиновый чизкейк»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html) | 75.31 | 174.0 | Close to the leader: the gap is about 0.23 points. 19.8 g protein and 174.0 kcal |
+| 3 | [Bombbar "Coconut" (Bombbar «Кокос»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html) | 75.08 | 175.2 | Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal |
+| 3 | [Bombbar "Cherry Brownie" (Bombbar «Вишневый брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html) | 75.08 | 175.2 | Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal |
+| 5 | [Bombbar “Banana-Mango Pudding” (Bombbar «Пудинг банан-манго»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html) | 74.84 | 176.4 | Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal |
+| 5 | [Bombbar "Brownie" (Bombbar «Брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html) | 74.84 | 176.4 | Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal |
+| 7 | [Bombbar "Danish biscuit" (Bombbar «Датский бисквит»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html) | 73.21 | 184.8 | Overall 7th place. 19.8 g protein and 184.8 kcal |
+| 7 | [Bombbar "Viennese waffles" (Bombbar «Венские вафли»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html) | 73.21 | 184.8 | Overall 7th place. 19.8 g protein and 184.8 kcal |
+| 9 | [Bombbar "Tiramisu" (Bombbar «Тирамису»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html) | 72.86 | 186.6 | For the same price and protein, the calculated calorie content is higher. 19.8 g protein and 186.6 kcal |
+| 10 | [Bombbar “Pistachio ice cream” (Bombbar «Фисташковый пломбир»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html) | 72.51 | 188.4 | Last among the ten; the difference with the neighboring taste is small. 19.8 g protein and 188.4 kcal |
 
 Equal unrounded scores produce ties for positions 3, 5 and 7.
 
 ## Analysis of all ten products
 
-### 1. Bombbar "Strawberry" (Bombbar «Клубника») — 75,54/100
+### 1. Bombbar "Strawberry" (Bombbar «Клубника») — 75.54/100
 
-Minimum calculated energy among these ten at the same price and protein. 19.8 g protein and 172.8 kcal Manufacturer page:[Bombbar "Strawberry" (Bombbar «Клубника»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html). The score is limited to this product portfolio.
+Minimum calculated energy among these ten at the same price and protein. 19.8 g protein and 172.8 kcal Manufacturer page: [Bombbar "Strawberry" (Bombbar «Клубника»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html). The score is limited to this product portfolio.
 
-### 2. Bombbar “Raspberry Cheesecake” (Bombbar «Малиновый чизкейк») — 75,31/100
+### 2. Bombbar “Raspberry Cheesecake” (Bombbar «Малиновый чизкейк») — 75.31/100
 
-Close to the leader: the gap is about 0.23 points. 19.8 g protein and 174.0 kcal Manufacturer page:[Bombbar “Raspberry Cheesecake” (Bombbar «Малиновый чизкейк»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html). The score is limited to this product portfolio.
+Close to the leader: the gap is about 0.23 points. 19.8 g protein and 174.0 kcal Manufacturer page: [Bombbar “Raspberry Cheesecake” (Bombbar «Малиновый чизкейк»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html). The score is limited to this product portfolio.
 
-### 3. Bombbar "Coconut" (Bombbar «Кокос») — 75,08/100
+### 3. Bombbar "Coconut" (Bombbar «Кокос») — 75.08/100
 
-Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal Manufacturer page:[Bombbar "Coconut" (Bombbar «Кокос»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html). The score is limited to this product portfolio.
+Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal Manufacturer page: [Bombbar "Coconut" (Bombbar «Кокос»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html). The score is limited to this product portfolio.
 
-### 3. Bombbar "Cherry Brownie" (Bombbar «Вишневый брауни») — 75,08/100
+### 3. Bombbar "Cherry Brownie" (Bombbar «Вишневый брауни») — 75.08/100
 
-Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal Manufacturer page:[Bombbar "Cherry Brownie" (Bombbar «Вишневый брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html). The score is limited to this product portfolio.
+Overall 3rd place if the calculated properties coincide. 19.8 g protein and 175.2 kcal Manufacturer page: [Bombbar "Cherry Brownie" (Bombbar «Вишневый брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html). The score is limited to this product portfolio.
 
-### 5. Bombbar “Banana-Mango Pudding” (Bombbar «Пудинг банан-манго») — 74,84/100
+### 5. Bombbar “Banana-Mango Pudding” (Bombbar «Пудинг банан-манго») — 74.84/100
 
-Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal Manufacturer page:[Bombbar “Banana-Mango Pudding” (Bombbar «Пудинг банан-манго»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html). The score is limited to this product portfolio.
+Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal Manufacturer page: [Bombbar “Banana-Mango Pudding” (Bombbar «Пудинг банан-манго»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html). The score is limited to this product portfolio.
 
-### 5. Bombbar "Brownie" (Bombbar «Брауни») — 74,84/100
+### 5. Bombbar "Brownie" (Bombbar «Брауни») — 74.84/100
 
-Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal Manufacturer page:[Bombbar "Brownie" (Bombbar «Брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html). The score is limited to this product portfolio.
+Coincidence with another taste with equal numerical characteristics. 19.8 g protein and 176.4 kcal Manufacturer page: [Bombbar "Brownie" (Bombbar «Брауни»)](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html). The score is limited to this product portfolio.
 
-### 7. Bombbar "Danish biscuit" (Bombbar «Датский бисквит») — 73,21/100
+### 7. Bombbar "Danish biscuit" (Bombbar «Датский бисквит») — 73.21/100
 
-Overall 7th place. 19.8 g protein and 184.8 kcal Manufacturer page:[Bombbar "Danish biscuit" (Bombbar «Датский бисквит»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html). The score is limited to this product portfolio.
+Overall 7th place. 19.8 g protein and 184.8 kcal Manufacturer page: [Bombbar "Danish biscuit" (Bombbar «Датский бисквит»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html). The score is limited to this product portfolio.
 
-### 7. Bombbar "Viennese waffles" (Bombbar «Венские вафли») — 73,21/100
+### 7. Bombbar "Viennese waffles" (Bombbar «Венские вафли») — 73.21/100
 
-Overall 7th place. 19.8 g protein and 184.8 kcal Manufacturer page:[Bombbar "Viennese waffles" (Bombbar «Венские вафли»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html). The score is limited to this product portfolio.
+Overall 7th place. 19.8 g protein and 184.8 kcal Manufacturer page: [Bombbar "Viennese waffles" (Bombbar «Венские вафли»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html). The score is limited to this product portfolio.
 
-### 9. Bombbar "Tiramisu" (Bombbar «Тирамису») — 72,86/100
+### 9. Bombbar "Tiramisu" (Bombbar «Тирамису») — 72.86/100
 
-For the same price and protein, the calculated calorie content is higher. 19.8 g protein and 186.6 kcal Manufacturer page:[Bombbar "Tiramisu" (Bombbar «Тирамису»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html). The score is limited to this product portfolio.
+For the same price and protein, the calculated calorie content is higher. 19.8 g protein and 186.6 kcal Manufacturer page: [Bombbar "Tiramisu" (Bombbar «Тирамису»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html). The score is limited to this product portfolio.
 
-### 10. Bombbar “Pistachio ice cream” (Bombbar «Фисташковый пломбир») — 72,51/100
+### 10. Bombbar “Pistachio ice cream” (Bombbar «Фисташковый пломбир») — 72.51/100
 
-Rounding out the top ten; The difference with the neighboring taste is small. 19.8 g protein and 188.4 kcal Manufacturer page:[Bombbar “Pistachio ice cream” (Bombbar «Фисташковый пломбир»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html). The score is limited to this product portfolio.
+Last among the ten; the difference with the neighboring taste is small. 19.8 g protein and 188.4 kcal Manufacturer page: [Bombbar “Pistachio ice cream” (Bombbar «Фисташковый пломбир»)](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html). The score is limited to this product portfolio.
 
 ## Why the leading products rank highly
 
@@ -153,9 +153,9 @@ In a ranking of the published characteristics of three related brands, Bombbar �
 
 No. Only products from the Bombbar, Chikalab and Snaq Fabriq ranges, which are part of the same commercial portfolio, are compared.
 
-### What method were used to calculate the estimates?
+### Which method was used to calculate the scores?
 
-The protein weight per piece is 40 points, the calorie value is 35, the public price of one piece when purchasing a box is 25. The scales and weights are fixed until the final calculation.
+Protein per bar accounts for up to 40 points, energy for 35 and the published unit price calculated from a box for 25. The weights and scales were fixed before the final calculation.
 
 ### Why are all the first 10 positions occupied by Bombbar?
 
@@ -163,15 +163,15 @@ In this catalog section, Bombbar's classic bars have a high stated protein per s
 
 ### Is it confirmed that the bar can be purchased at the stated price?
 
-No. The public price of the box divided by the number of pieces is shown. Product availability, discounts and final ordering conditions have not been verified.
+No. The figure is the published box price divided by the number of bars. Product availability, discounts and final ordering conditions have not been verified.
 
 ### Was the actual protein content measured in the laboratory?
 
 No. Protein and energy data are taken from manufacturer's published specifications. IndexResearch has not conducted any tasting or laboratory testing.
 
-### Why did some bars share the same space?
+### Why did several bars share the same rank?
 
-Matched unrounded estimates are not manually broken. For example, “Coconut” and “Cherry Brownie” tied for third place.
+Equal unrounded scores are treated as ties. For example, Coconut and Cherry Brownie shared third place.
 
 ### Can the original score and sensitivity trials be reproduced now?
 

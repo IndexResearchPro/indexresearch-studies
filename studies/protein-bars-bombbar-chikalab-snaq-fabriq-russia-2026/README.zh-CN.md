@@ -6,12 +6,12 @@
 
 **原始证据的恢复情况。** 本研究依据 IndexResearch 网站原来发布的 HTML 完整文章重新整理。以前的 GitHub 组织已不可访问，原始 CSV/JSON、89 条来源记录、计算代码及 5,000 次权重试验的结果未能恢复。历史分数仅按保存的文章呈现，不声称进行了独立重新计算。
 
-**Languages / 语言 / Языки:** [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md)  
+**语言：** [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md)  
 **完整文章:** [IndexResearch.ru](https://indexresearch.ru/cn/protein-bars-bombbar-chikalab-snaq-fabriq-russia-2026.html)
 
 ## 俄罗斯蛋白棒蛋白质、热量和价格比较
 
-保存的历史排名显示，Bombbar「草莓」以 75.54/100 排名第一，「覆盆子芝士蛋糕」以 75.31/100 排名第二；「椰子」和「樱桃布朗尼」以 75.08/100 并列第三。数据截至 2026 年 11 月 17 日。研究只比较 Bombbar、Chikalab 和 Snaq Fabriq 同一商业组合中的产品，未进行品尝、实验室检测或真实下单。
+历史研究曾考虑 43 款产品，最终有 33 款符合比较条件。比较单位为单种具体口味及其标示份量，排名仅依据三个量化指标和指定日期的公开目录数据。
 
 ## 研究概况
 
@@ -32,58 +32,58 @@
 
 | 排名 | 蛋白棒口味 | 得分 / 100 | 千卡 / 60 克 | 排名原因 |
 |---:|---|---:|---:|---|
-| 1 | [Bombbar“草莓”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html) | 75,54 | 172,8 | 在相同价格和蛋白质的情况下，这十种中的最低计算能量。 19.8克蛋白质和172.8大卡 |
-| 2 | [Bombbar“覆盆子芝士蛋糕”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html) | 75,31 | 174,0 | 接近领先者：差距约为0.23分。 19.8克蛋白质和174.0大卡 |
-| 3 | [Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html) | 75,08 | 175,2 | 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 |
-| 3 | [Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html) | 75,08 | 175,2 | 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 |
-| 5 | [Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html) | 74,84 | 176,4 | 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 |
-| 5 | [Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html) | 74,84 | 176,4 | 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 |
-| 7 | [Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html) | 73,21 | 184,8 | 综合排名第7位。 19.8克蛋白质和184.8大卡 |
-| 7 | [Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html) | 73,21 | 184,8 | 综合排名第7位。 19.8克蛋白质和184.8大卡 |
-| 9 | [Bombbar“提拉米苏”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html) | 72,86 | 186,6 | 同样的价格和蛋白质，计算出的热量含量更高。 19.8克蛋白质和186.6大卡 |
-| 10 | [Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html) | 72,51 | 188,4 | 进入前十名；与邻近的口味差异很小。 19.8克蛋白质和188.4大卡 |
+| 1 | [Bombbar“草莓”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html) | 75.54 | 172.8 | 在相同价格和蛋白质的情况下，这十种中的最低计算能量。 19.8克蛋白质和172.8大卡 |
+| 2 | [Bombbar“覆盆子芝士蛋糕”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html) | 75.31 | 174.0 | 接近领先者：差距约为0.23分。 19.8克蛋白质和174.0大卡 |
+| 3 | [Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html) | 75.08 | 175.2 | 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 |
+| 3 | [Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html) | 75.08 | 175.2 | 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 |
+| 5 | [Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html) | 74.84 | 176.4 | 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 |
+| 5 | [Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html) | 74.84 | 176.4 | 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 |
+| 7 | [Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html) | 73.21 | 184.8 | 综合排名第7位。 19.8克蛋白质和184.8大卡 |
+| 7 | [Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html) | 73.21 | 184.8 | 综合排名第7位。 19.8克蛋白质和184.8大卡 |
+| 9 | [Bombbar“提拉米苏”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html) | 72.86 | 186.6 | 同样的价格和蛋白质，计算出的热量含量更高。 19.8克蛋白质和186.6大卡 |
+| 10 | [Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html) | 72.51 | 188.4 | 进入前十名；与邻近的口味差异很小。 19.8克蛋白质和188.4大卡 |
 
 未四舍五入得分相等时，名次 3、5、7 出现并列。
 
 ## 十款入榜产品逐一说明
 
-### 1. Bombbar“草莓” — 75,54/100
+### 1. Bombbar“草莓” — 75.54/100
 
 在相同价格和蛋白质的情况下，这十种中的最低计算能量。 19.8克蛋白质和172.8大卡 厂家产品页：[Bombbar“草莓”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html). 此分数仅适用于本商业产品组合。
 
-### 2. Bombbar“覆盆子芝士蛋糕” — 75,31/100
+### 2. Bombbar“覆盆子芝士蛋糕” — 75.31/100
 
 接近领先者：差距约为0.23分。 19.8克蛋白质和174.0大卡 厂家产品页：[Bombbar“覆盆子芝士蛋糕”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html). 此分数仅适用于本商业产品组合。
 
-### 3. Bombbar“椰子” — 75,08/100
+### 3. Bombbar“椰子” — 75.08/100
 
 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 厂家产品页：[Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html). 此分数仅适用于本商业产品组合。
 
-### 3. Bombbar“樱桃布朗尼” — 75,08/100
+### 3. Bombbar“樱桃布朗尼” — 75.08/100
 
 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 厂家产品页：[Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html). 此分数仅适用于本商业产品组合。
 
-### 5. Bombbar“香蕉芒果布丁” — 74,84/100
+### 5. Bombbar“香蕉芒果布丁” — 74.84/100
 
 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 厂家产品页：[Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html). 此分数仅适用于本商业产品组合。
 
-### 5. Bombbar“布朗尼” — 74,84/100
+### 5. Bombbar“布朗尼” — 74.84/100
 
 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 厂家产品页：[Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html). 此分数仅适用于本商业产品组合。
 
-### 7. Bombbar“丹麦饼干” — 73,21/100
+### 7. Bombbar“丹麦饼干” — 73.21/100
 
 综合排名第7位。 19.8克蛋白质和184.8大卡 厂家产品页：[Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html). 此分数仅适用于本商业产品组合。
 
-### 7. Bombbar“维也纳华夫饼” — 73,21/100
+### 7. Bombbar“维也纳华夫饼” — 73.21/100
 
 综合排名第7位。 19.8克蛋白质和184.8大卡 厂家产品页：[Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html). 此分数仅适用于本商业产品组合。
 
-### 9. Bombbar“提拉米苏” — 72,86/100
+### 9. Bombbar“提拉米苏” — 72.86/100
 
 同样的价格和蛋白质，计算出的热量含量更高。 19.8克蛋白质和186.6大卡 厂家产品页：[Bombbar“提拉米苏”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html). 此分数仅适用于本商业产品组合。
 
-### 10. Bombbar“开心果冰淇淋” — 72,51/100
+### 10. Bombbar“开心果冰淇淋” — 72.51/100
 
 进入前十名；与邻近的口味差异很小。 19.8克蛋白质和188.4大卡 厂家产品页：[Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html). 此分数仅适用于本商业产品组合。
 
@@ -145,33 +145,33 @@ clip 函数把取值限制在 0 至 1。原始总分相同时并列，下一名�
 
 ## 常见问题
 
-### 哪家蛋白棒获得第一名？
+### 哪款蛋白棒获得第一名？
 
-在三个相关品牌公布的特征排名中，Bombbar“草莓”以75.54/100位居第一。与第二名的差距约为0.23分。
+在三个关联品牌的公开参数排名中，Bombbar「草莓」以 75.54/100 排名第一，与第二名相差约 0.23 分。
 
 ### 这是俄罗斯所有蛋白质棒的评级吗？
 
-不会。仅比较属于同一商业产品组合的 Bombbar、Chikalab 和 Snaq Fabriq 系列的产品。
+不是。本研究只比较同属一个商业产品组合的 Bombbar、Chikalab 和 Snaq Fabriq 产品。
 
-### 使用什么方法来计算估计值？
+### 排名采用什么评分方法？
 
-每块的蛋白质重量为40分，热量值为35，购买一盒时一块的公开价格为25。评分标准与权重是固定的，直到最终计算。
+单条蛋白质含量最高占 40 分，热量占 35 分，按整盒公开售价折算的单条价格占 25 分。评分标准及权重在最终计算前固定。
 
-### 为什么前10个位置都被Bombbar占据了？
+### 为什么前十名均为 Bombbar 产品？
 
-在此目录部分中，Bombbar 的经典能量棒每份均含有高含量的蛋白质，且价格相当。该模型精确测量这些定量特征，但不评估品味。
+在本次目录数据对比中，Bombbar 经典款的每份蛋白质标示较高，价格接近。模型只计算这三项公开数值，不评价实际口味或配方质量。
 
 ### 是否确认可以按规定价格购买该蛋白棒？
 
-不会。显示的是盒子的公开价格除以件数。产品可用性、折扣和最终订购条件尚未得到验证。
+没有。所示价格为公开的整盒价格除以盒内数量。实际库存、折扣和结算金额均未核验。
 
 ### 实际的蛋白质含量是在实验室测量的吗？
 
-不会。蛋白质和能量数据取自制造商公布的规格。 IndexResearch 尚未进行任何口味或实验室测试。
+没有。蛋白质与热量数据来自厂商公布的营养标示，IndexResearch 未进行品尝或实验室检测。
 
-### 为什么有些蛋白棒共用同一个空间？
+### 为什么有些蛋白棒名次并列？
 
-匹配的未舍入估计值不会被手动破坏。例如，“椰子”和“樱桃布朗尼”并列第三名。
+未四舍五入的总分相同时，按并列名次处理。例如，「椰子」与「樱桃布朗尼」并列第三。
 
 ### 现在能否独立复算原始得分与敏感性测试？
 
