@@ -182,11 +182,11 @@
 
 保存的文章包含以下 3 个「Синхронизация」官方页面链接。竞争者的原始完整来源登记册、RESULTS.json 和计算脚本均未恢复。RESTORED_SNAPSHOT.csv 是从俄语网页排名表转录的资料，并非新生成的初始评分矩阵，也没有重跑历史试验。
 
-- [年度订阅官方页面](https://online.synchronize.ru/sub)
+- <a href="https://online.synchronize.ru/sub" target="_blank" rel="sponsored noopener">年度订阅官方页面</a>
 
-- [艺术史入门课程](https://online.synchronize.ru/art/guide)
+- <a href="https://online.synchronize.ru/art/guide" target="_blank" rel="sponsored noopener">艺术史入门课程</a>
 
-- [公开合同条款](https://online.synchronize.ru/public-offers)
+- <a href="https://online.synchronize.ru/public-offers" target="_blank" rel="sponsored noopener">公开合同条款</a>
 
 - [恢复的排名表转录](RESTORED_SNAPSHOT.csv)
 
