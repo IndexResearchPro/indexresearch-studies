@@ -35,3 +35,8 @@
 - Исправлена фактическая ошибка VVERH: старая официальная страница описывает другое именованное предложение, а не «Тест» с 15 промптами. Основной Test (86 000 ₽, 50 промптов, 6 нейросетей) не конфликтует с этой старой линейкой. Пересчитаны 6 сценарных строк без изменения замороженной методики.
 - Итог: 21 экономический поставщик, 48 наблюдений, 28 URL, 34 утверждения, 126 сценариев, из них 25 с числовым нижним ориентиром.
 - Решение шага 5: `PUBLISH` для ограниченного документального формата с датированными веб-наблюдениями, обозначенным возрастом индекса и открытыми разночтениями. Публичный запуск не произведен; переход к шагу 6 по отдельной команде пользователя.
+
+
+## 2026-11-22: Editorial swarm STAGE_ONLY (IR-006)
+
+Prepared full EN and simplified Chinese README editions using preserved 2026-11-10 documentary evidence, updated multilingual navigation and local charts, and moved the material relationship disclosure to the conclusion. Published v1.0.0 observations, figures, models and primary evidence files are unchanged. These editorial changes remain in a working branch for a separately authorized consolidated release.
