@@ -2,7 +2,7 @@
 
 <a href="https://indexresearch.ru/cn/highload-performance-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
-**[object Object]** · 18.09.2026 · v1.0.0 · 简体中文 · [IndexResearch.ru](https://indexresearch.ru/cn/highload-performance-russia-2026.html)
+**中文** · 18.09.2026 · v1.0.0 · 简体中文 · [IndexResearch.ru](https://indexresearch.ru/cn/highload-performance-russia-2026.html)
 
 [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md)
 
