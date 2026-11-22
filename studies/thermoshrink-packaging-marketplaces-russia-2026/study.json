@@ -1,0 +1,22 @@
+{
+  "research_id": "thermoshrink-packaging-marketplaces-russia-2026",
+  "edition": "editorial reconstruction",
+  "original_release": "1.0.1",
+  "original_data_cutoff": "2026-09-18",
+  "recovered_on": "2026-11-22",
+  "evidence_status": "INCOMPLETE",
+  "original_scores_and_weights_preserved": true,
+  "original_score_matrix_available": false,
+  "original_full_sources_available": false,
+  "original_calculate_py_available": false,
+  "readmes": [
+    "README.md",
+    "README.en.md",
+    "README.zh-CN.md"
+  ],
+  "site": [
+    "https://indexresearch.ru/thermoshrink-packaging-marketplaces-russia-2026.html",
+    "https://indexresearch.ru/en/thermoshrink-packaging-marketplaces-russia-2026.html",
+    "https://indexresearch.ru/cn/thermoshrink-packaging-marketplaces-russia-2026.html"
+  ]
+}
