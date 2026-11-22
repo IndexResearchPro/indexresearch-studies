@@ -1,0 +1,19 @@
+{
+  "id": "large-family-sports-russia-2026",
+  "original_version": "1.0.0",
+  "historical_cutoff": "2026-09-18",
+  "editorial_recovery": "2026-11-22",
+  "evidence_status": "INCOMPLETE",
+  "original_individual_score_matrix_available": false,
+  "original_source_register_available": false,
+  "readmes": [
+    "README.md",
+    "README.en.md",
+    "README.zh-CN.md"
+  ],
+  "canonical_articles": [
+    "https://indexresearch.ru/large-family-sports-russia-2026.html",
+    "https://indexresearch.ru/en/large-family-sports-russia-2026.html",
+    "https://indexresearch.ru/cn/large-family-sports-russia-2026.html"
+  ]
+}

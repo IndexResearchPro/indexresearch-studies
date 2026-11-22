@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="401" viewBox="0 0 1120 401" role="img" aria-label="各标准权重">
+<rect width="1120" height="401" rx="18" fill="#f6f7f9"/>
+<text x="25" y="43" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#24344b">各标准权重</text>
+<text x="25" y="97" font-family="Arial,sans-serif" font-size="18" fill="#23374b">同一场地与上课时间协调</text>
+<rect x="285" y="80" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="80" rx="6" width="525" height="23" fill="#1d7180"/>
+<text x="927" y="98" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">25%</text>
+<text x="25" y="140" font-family="Arial,sans-serif" font-size="18" fill="#23374b">不同年龄与性别的兼容性</text>
+<rect x="285" y="123" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="123" rx="6" width="420" height="23" fill="#569ab0"/>
+<text x="927" y="141" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">20%</text>
+<text x="25" y="183" font-family="Arial,sans-serif" font-size="18" fill="#23374b">日常课程费用</text>
+<rect x="285" y="166" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="166" rx="6" width="315" height="23" fill="#569ab0"/>
+<text x="927" y="184" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">15%</text>
+<text x="25" y="226" font-family="Arial,sans-serif" font-size="18" fill="#23374b">器材与更新费用</text>
+<rect x="285" y="209" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="209" rx="6" width="210" height="23" fill="#569ab0"/>
+<text x="927" y="227" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">10%</text>
+<text x="25" y="269" font-family="Arial,sans-serif" font-size="18" fill="#23374b">赛事能否共用一个场地</text>
+<rect x="285" y="252" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="252" rx="6" width="315" height="23" fill="#569ab0"/>
+<text x="927" y="270" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">15%</text>
+<text x="25" y="312" font-family="Arial,sans-serif" font-size="18" fill="#23374b">训练安排的灵活性</text>
+<rect x="285" y="295" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="295" rx="6" width="210" height="23" fill="#569ab0"/>
+<text x="927" y="313" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">10%</text>
+<text x="25" y="355" font-family="Arial,sans-serif" font-size="18" fill="#23374b">最小孩子参与的可能性</text>
+<rect x="285" y="338" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="285" y="338" rx="6" width="105" height="23" fill="#569ab0"/>
+<text x="927" y="356" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">5%</text>
+</svg>
