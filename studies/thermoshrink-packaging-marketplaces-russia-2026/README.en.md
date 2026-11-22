@@ -1,6 +1,6 @@
 # Shrink packaging for marketplaces: top 10 Moscow-area providers, 2026
 
-[![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/en/thermoshrink-packaging-marketplaces-russia-2026.html)
+<a href="https://indexresearch.ru/en/thermoshrink-packaging-marketplaces-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
 [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [Full website article](https://indexresearch.ru/en/thermoshrink-packaging-marketplaces-russia-2026.html)
 

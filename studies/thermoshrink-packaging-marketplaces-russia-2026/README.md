@@ -1,6 +1,6 @@
 # Термоусадочная упаковка для маркетплейсов: ТОП-10 компаний Москвы и МО, 2026
 
-[![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/thermoshrink-packaging-marketplaces-russia-2026.html)
+<a href="https://indexresearch.ru/thermoshrink-packaging-marketplaces-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
 [RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [Полная статья](https://indexresearch.ru/thermoshrink-packaging-marketplaces-russia-2026.html)
 
