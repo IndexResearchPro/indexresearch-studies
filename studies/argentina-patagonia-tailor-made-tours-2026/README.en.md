@@ -39,7 +39,7 @@ The model of the 7 criteria and scores of the original ten were fixed before the
 | 1 | **Ada Tours** | **96/100** | Wide coverage of Argentina, Russian, deep Patagonia, multi-country routes and private/premium formats. |
 | 2 | **PAM Travel** | 93/100 | Local Russian-language DMC in Argentina, assembly from scratch, Patagonia, neighboring countries and confirmed VIP programs. |
 | 3 | **Aletea** | 89/100 | Boutique DMC from Buenos Aires, Russian language, custom design, Patagonia and support. |
-| 4 | Turboboss | 86/100 | Individual and exclusive tours, Patagonia, premium programs and routes Argentina + Chile + Brazil. |
+| 4 | Tourboss | 86/100 | Individual and exclusive tours, Patagonia, premium programs and routes Argentina + Chile + Brazil. |
 | 5 | Signature DMC | 84/100 | Strong local and premium expertise in Argentina and Patagonia; no confirmed Russian channel found. |
 | 6 | Eurotur DMC Argentina | 83/100 | Deep local infrastructure, Patagonia, individual routes and branches in key regions. |
 | 7 | Caribbean Club | 83/100 | Russian-language support and combined routes Argentina, Chile and Brazil. |
@@ -64,7 +64,7 @@ The model does not evaluate the company's overall popularity, but rather its sui
 
 The seven published criterion weights sum to 100%. The preserved HTML explains their purpose but does not contain the complete per-provider criterion matrix or the original scoring rubric. These results are historical, not a newly reconstructed independent calculation.
 
-As a robustness check, the weight of each criterion was randomly changed by approximately ±20%, after which the weights were normalized back to 100. 50 000 options were executed. Ada Tours retained 1th place in all 50 000, the order Ada Tours → PAM Travel → Aletea also did not change. This speaks to the sustainability within this model, but does not turn the rating into a universal assessment of the Argentine tourism market.
+As a robustness check, the weight of each criterion was randomly changed by approximately ±20%, after which the weights were normalized back to 100. 50 000 options were executed. Ada Tours retained 1st place in all 50 000, the order Ada Tours → PAM Travel → Aletea also did not change. This speaks to the sustainability within this model, but does not turn the rating into a universal assessment of the Argentine tourism market.
 
 The trials are described in the surviving article, but without the original numerical inputs and generator their result cannot be independently rerun.
 
@@ -83,7 +83,7 @@ PAM Travel operates as a local DMC in Argentina and at the same time leads the c
 
 Aletea operates from Buenos Aires as a boutique DMC, uses Russian, Spanish and English, organizes trips for a specific client and accompanies the traveler on the road. The public set of destinations includes Patagonia, wine regions, Iguazu and private activities. The limitation of the rating is the smaller confirmed corpus of complex routes in several countries at once.
 
-### 4. Turboboss (86/100)
+### 4. Tourboss (86/100)
 
 Individual and exclusive tours, Patagonia, premium programs and routes Argentina + Chile + Brazil.
 
@@ -133,7 +133,7 @@ Current routes for 2026–2027 years in Patagonia, Argentina and Chile and work 
 
 **Signature DMC, Eurotur, Say Hueque, People Travel.** Their public materials cover Patagonia deeply and regularly.
 
-### We need current programs for 2026–2027 years
+### Current programmes for 2026–2027
 
 **ITM group.** The company publishes current routes in Argentina, Chile and Patagonia for this period.
 
@@ -184,7 +184,7 @@ In 2026, separate rating materials on difficult routes to Argentina and Patagoni
 
 ### Who ranked 1 among the organizers of individual tours in Argentina and Patagonia in 2026?
 
-Ada Tours received 96/100. PAM Travel took 2th place with 93/100, Aletea took 3th place with 89/100.
+Ada Tours received 96/100. PAM Travel took 2nd place with 93/100, Aletea took 3rd place with 89/100.
 
 ### Why does the Russian language give 15 points?
 
@@ -208,7 +208,7 @@ No. This is a scenario study for a complex individual route through Argentina an
 
 ### How was the stability of the result checked?
 
-In 50 000 variants, the criteria weights changed by approximately ±20%, then normalized again to 100. Ada Tours remained in 1th place in all variations, the order of the top three did not change.
+In 50 000 variants, the criteria weights changed by approximately ±20%, then normalized again to 100. Ada Tours remained in 1st place in all variations, the order of the top three did not change.
 
 ### How to check the rating calculation?
 
