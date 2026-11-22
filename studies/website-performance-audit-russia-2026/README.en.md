@@ -157,10 +157,6 @@ No new weight-sensitivity simulations or rank-stability tests were run for this 
 
 Charts reproduce the ten total scores and seven weights from the preserved HTML. The decision flow summarizes the original buyer scenario; it is not a new experiment.
 
-- ![Historical total scores of ten companies](assets/ranking-en.svg)
-- ![Weights of the seven criteria](assets/weights-en.svg)
-- ![Decision flow for selecting a diagnostic service](assets/decision-en.svg)
-
 ## Frequently asked questions
 
 ### Who ranked first?

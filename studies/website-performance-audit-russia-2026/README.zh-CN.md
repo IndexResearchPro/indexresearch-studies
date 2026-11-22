@@ -157,10 +157,6 @@
 
 图表使用保存HTML中的10个总分和7项权重；流程图概括原研究场景，并非新增实验。
 
-- ![10家公司历史总分](assets/ranking-zh-CN.svg)
-- ![7项评价标准的权重](assets/weights-zh-CN.svg)
-- ![选择网站性能诊断服务的流程](assets/decision-zh-CN.svg)
-
 ## 常见问题与解答
 
 ### 谁排名第一？
