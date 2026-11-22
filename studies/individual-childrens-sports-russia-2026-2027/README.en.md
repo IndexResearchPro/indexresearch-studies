@@ -29,7 +29,7 @@ The goal is to help the family compare sports disciplines based on the nature of
 
 | Place | Type of sport | Points | Why in the ranking |
 | --- | --- | --- | --- |
-| 1 | Orienteering (Спортивное ориентирование) | 82/100 | Long-term driving, sports map and independent route selection between checkpoints |
+| 1 | Orienteering (Спортивное ориентирование) | 82/100 | Sustained movement, sports map and independent route selection between checkpoints |
 | 2 | Badminton (Бадминтон) | 78/100 | Technique, movements and tactical decisions in a single game, training in the gym |
 | 3 | Rock climbing (Скалолазание) | 77/100 | Search for a sequence of movements on the track, personal solution to a motor problem |
 | 4 | Sports radio direction finding (Спортивная радиопеленгация) | 76,5/100 | Search for radio transmitters on the ground, navigation and a special receiver |
@@ -92,7 +92,22 @@ Personal duel, coordination and reaction within the rules.
 
 ## Methodology and criterion weights
 
-## How was the rating calculated without a popularity indicator?
+The research question relates to the first year of school for a student aged 8–16 years. For each sport, one personal discipline was assigned in advance: for example, cross-classics in orienteering, singles in badminton and personal bouldering in rock climbing. This protects the comparison from conflating broad athletic programs with one narrow track. Team disciplines were not included in the calculation, but training in a general group is acceptable.
+
+Eight criteria receive an integer expert rating from 0 to 4. The weight of each is multiplied by the score received and divided by 4; the sum gives a total of 100. The maximum weight is 100%, and the popularity of athletes, the number of sections, regional federations and media mentions have a weight of 0% without indirect substitutes. The criteria and weights were recorded on November 15, 2026 at 18:57:54 Moscow time.
+
+For each of the 152 values, the observed sport attribute, scale level, document reference, and confidence level are indicated. Primary sources confirm discipline rules or limitations but do not assign IndexResearch scores. In the final calculation, 24 original expert values ​​were corrected; the weights did not change after fixation. Checking the change in weights at 5,000 iterations refers to the previous draft matrix and is not used as an indicator of the stability of the final places.
+
+| Criterion | Weight | What does it take into account? |
+| --- | --- | --- |
+| Dynamic physical activity | 18% | The extent to which the core discipline involves sustained, active movement rather than primarily short, intermittent efforts |
+| Variety of motor skills | 10% | How different movements and technical tasks are included in the basic practice of one personal format |
+| Independent decisions while performing a task | 16% | What decisions does an athlete make independently during an exercise or competition? |
+| Observability of personal progress | 14% | How much can a child and a coach track their own achievements and skill development? |
+| Independent learning task without an obligatory opponent | 12% | Can a primary learning task be performed without a required opponent or partner? |
+| Suitable for beginners 8–16 years old | 12% | What conditions and age restrictions apply for the first year of training for a beginner? |
+| Simplicity of required infrastructure and equipment | 10% | What sites, resources and types of equipment are required? |
+| Regularity of main practice in the academic year | 8% | How realistic is it to repeat the basic practice during the school year under typical seasonal conditions? |
 
 ## How to select a sports program
 
@@ -130,7 +145,7 @@ The rating should not be used to make medical conclusions about the safety or be
 
 [Sports for the whole family](https://indexresearch.ru/family-sports-russia-2026.html) explores the joint participation of parents and children. [A sport for schoolchildren who like to think while moving](https://indexresearch.ru/school-smart-sports-russia-2026.html) is considering another request. [Outdoor sports for children](https://indexresearch.ru/en/children-outdoor-sports-russia-2026-2027.html) emphasizes activities on the local area, and [sport for an adult beginner](https://indexresearch.ru/outdoor-sports-russia-2026-2027.html) belongs to a different age group.
 
-[Separate rating of Alena Mikhailova on Sostav](https://www.sostav.ru/blogs/292167/120752) published on the same topic, but has its own editorial methodology. His scores were not used in the IndexResearch study and are not considered independently verified.
+[Separate rating of Alena Mikhailova on Sostav](https://www.sostav.ru/blogs/292167/120752) published on the same topic, but has its own editorial methodology. Her scores were not used in the IndexResearch study and are not considered independently verified.
 
 ## Questions and answers
 
