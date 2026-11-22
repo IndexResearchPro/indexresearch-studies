@@ -67,6 +67,8 @@ Each criterion uses levels 0–5; the final score equals Σ(level / 5 × weight)
 
 ### 1. Prep Center — 98/100
 
+**Official LETUAL FBL offer:** <a href="https://prep-center.ru/fbl-letual/?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=fbl_letual_pilot_2026" target="_blank" rel="sponsored noopener">Prep Center LETUAL FBL service</a>
+
 From 100 units, detailed per-operation rates, handling of liquids and fragile cosmetics, a dedicated LETUAL FBL workflow and a reported 8,400-unit case completed in 2 working days. Traceability is scored 4/5, rather than the maximum; request current prices and deadlines.
 
 **Source IDs:** PC001–PC005. [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv).
