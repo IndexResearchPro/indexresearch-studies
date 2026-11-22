@@ -101,6 +101,8 @@
 
 ### 1. Method Lab（Метод Лаб）：96/100
 
+<a href="https://www.methodlab.ru/site_speed" rel="sponsored noopener" target="_blank">Method Lab 官方网站加速服务</a>。
+
 公开材料记载了浏览器与服务器优化、代码剖析、SQL/MySQL 调优以及负载测试。面对未知性能瓶颈时，这种综合能力与研究场景最为吻合。
 
 **限制：**其他部分公司公开的具名案例及前后对比更加丰富，因此其历史公开证据得分为 8/10。
@@ -282,6 +284,12 @@ Fifth Factor 在 Core Web Vitals 和公开案例方面得分很高；Method Lab 
 保存的英文正文包含全部 15 家公司的描述与历史来源编号 S001–S023。幸存的官方链接包括 [Method Lab 网站加速](https://www.methodlab.ru/site_speed)、[MySQL 优化](https://www.methodlab.ru/price/mysql_optimization.shtml) 和 [负载测试](https://www.methodlab.ru/support/nagruzochnoe_testirovanie_sajtov)。通用技术标准可查阅 [Google PageSpeed 文档](https://developers.google.com/speed/docs/insights/v5/about) 和 [web.dev 相关阈值](https://web.dev/articles/defining-core-web-vitals-thresholds)。
 
 本项目未公开可用的原始完整计算脚本，因此无法提供真实可执行的复算命令。任何源文件缺失应明确标注，而不能发布虚构的 CSV 或不指向现有内容的下载链接。
+
+## 相关研究
+
+- [电商网站性能优化](https://indexresearch.ru/cn/ecommerce-performance-russia-2026.html)。
+- [网站性能审计](https://indexresearch.ru/cn/website-performance-audit-russia-2026.html)。
+- [峰值流量负载测试](https://indexresearch.ru/cn/load-testing-russia-2026.html)。
 
 ## 建议引用格式
 

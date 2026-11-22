@@ -104,6 +104,8 @@ The visualizations use criterion and total scores reported in the recovered text
 ## Detailed participant review
 ### 1. Method Lab (Метод Лаб) – 96/100
 
+<a href="https://www.methodlab.ru/site_speed" rel="sponsored noopener" target="_blank">Method Lab official website acceleration service</a>.
+
 C1 25 · C2 18 · C3 20 · C4 15 · C5 8 · C6 10.
 
 The public evidence covers browser and server performance, code, SQL/DBMS, web servers and infrastructure. Separate offerings cover website acceleration, MySQL optimization and load testing.
