@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1340" height="900" viewBox="0 0 1340 900" role="img"><rect width="1340" height="900" fill="#ffffff"/>
+<text x="58" y="70" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="700" fill="#0E3455" text-anchor="start">Criteria and weights</text>
+<text x="58" y="114" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#4A6572" text-anchor="start">9 criteria • total weight 100 • leak protection has the highest weight</text>
+<text x="56" y="180" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Bottle specialization</text>
+<rect x="470" y="151" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="151" width="355.0" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="180" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">10%</text>
+<text x="56" y="256" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Incoming inspection</text>
+<rect x="470" y="227" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="227" width="532.5" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="256" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">15%</text>
+<text x="56" y="332" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="start">Leak protection</text>
+<rect x="470" y="303" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="303" width="710.0" height="36" fill="#127D8D" rx="8" />
+<text x="1232" y="332" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">20%</text>
+<text x="56" y="408" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Post-pack labeling</text>
+<rect x="470" y="379" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="379" width="532.5" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="408" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">15%</text>
+<text x="56" y="484" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">WB / Ozon workflow</text>
+<rect x="470" y="455" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="455" width="355.0" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="484" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">10%</text>
+<text x="56" y="560" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Measured project results</text>
+<rect x="470" y="531" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="531" width="355.0" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="560" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">10%</text>
+<text x="56" y="636" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Published cost details</text>
+<rect x="470" y="607" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="607" width="177.5" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="636" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">5%</text>
+<text x="56" y="712" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Tracking and liability</text>
+<rect x="470" y="683" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="683" width="177.5" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="712" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">5%</text>
+<text x="56" y="788" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="400" fill="#0E3455" text-anchor="start">Public verifiability</text>
+<rect x="470" y="759" width="710" height="36" fill="#EBF1F4" rx="8" />
+<rect x="470" y="759" width="355.0" height="36" fill="#739CAC" rx="8" />
+<text x="1232" y="788" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="end">10%</text>
+<text x="58" y="870" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#4A6572" text-anchor="start">Source: SCORING_MODEL.csv</text>
+</svg>
