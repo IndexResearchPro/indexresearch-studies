@@ -150,7 +150,7 @@ Scenario inclusion follows fixed logical filters: (1) an agency-facing Russian-l
 
 - Russian-language communication: E — The DMC page explicitly lists the Russian language specifically for B2B queries; language of guides and emergency assistance is unknown
 
-- Routes across the border: E — The operator publishes multi-country programs, including 13-day Argentina with the Brazilian side Iguazu; legal and ground responsibility for...
+- Routes across the border: E — The operator publishes multi-country programs, including 13-day Argentina with the Brazilian side Iguazu; contracting and local operating responsibilities for each itinerary leg were not established from the reviewed sources
 
 **Matched scenarios:** Russian-speaking B2B coordination; Structured travel-agency procedures; Argentina plus a neighboring country
 
