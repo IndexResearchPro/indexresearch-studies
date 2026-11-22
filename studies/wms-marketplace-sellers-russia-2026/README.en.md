@@ -20,7 +20,7 @@ These counts come from the preserved site article; they do not represent a new s
 
 | Indicator | Value |
 | --- | --- |
-| Products considered | 9 |
+| Products considered | 19 |
 | Ranked products | 10 |
 | Criteria | 10 |
 | Historical scored cells | 190 |
@@ -60,7 +60,7 @@ The surviving fragment of the original GitHub README preserved the names and his
 | 6 | InStock WMS | 74 |
 | 7 | SmartFulfill | 72 |
 | 8 | AS WMS | 71 |
-| 19 | SEVCO WMS | 63 |
+| 9 | SEVCO WMS | 63 |
 
 ## Profiles of all ten products
 
