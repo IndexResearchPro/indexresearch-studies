@@ -1,0 +1,18 @@
+{
+  "research_id": "business-travel-brazil-russia-2026",
+  "original_version": "1.0.0",
+  "historical_data_cutoff": "2026-09-18",
+  "editorial_recovery_date": "2026-11-22",
+  "evidence_status": "INCOMPLETE_ORIGINAL_INPUTS_LOST",
+  "recalculated": false,
+  "site": {
+    "ru": "https://indexresearch.ru/business-travel-brazil-russia-2026.html",
+    "en": "https://indexresearch.ru/en/business-travel-brazil-russia-2026.html",
+    "zh_CN": "https://indexresearch.ru/cn/business-travel-brazil-russia-2026.html"
+  },
+  "readmes": [
+    "README.md",
+    "README.en.md",
+    "README.zh-CN.md"
+  ]
+}
