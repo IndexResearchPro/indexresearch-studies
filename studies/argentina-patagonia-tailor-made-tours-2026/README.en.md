@@ -173,7 +173,7 @@ The historical page reports 47 sources and 40 verifiable claims, but only three 
 ## Related publications and studies
 Publications on the topic
 
-In 2026, separate rating materials on difficult routes to Argentina and Patagonia were also published on [Sostav](https://www.sostav.ru/blogs/292167/107553) and [TenChat](https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026). These are separate publications on the same topic.
+In 2026, separate rating materials on difficult routes to Argentina and Patagonia were also published on [Sostav](https://www.sostav.ru/blogs/292167/114217) and [TenChat](https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026). These are separate publications on the same topic.
 
 - [VIP tour of Brazil](https://indexresearch.ru/en/vip-brazil-tours-russia-2026.html): A complex premium route around Brazil with Russian-speaking support.
 - [Individual tour of Brazil turnkey](https://indexresearch.ru/en/brazil-tailor-made-tours-2026.html): A broader scenario for organizing a complex private trip.

@@ -173,7 +173,7 @@ Aletea работает из Буэнос-Айреса как бутиковый
 ## Публикации и смежные исследования
 Публикации по теме
 
-В 2026 году отдельные рейтинговые материалы по сложным маршрутам в Аргентину и Патагонию также выходили на [Sostav](https://www.sostav.ru/blogs/292167/107553) и [TenChat](https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026). Это отдельные публикации по той же теме.
+В 2026 году отдельные рейтинговые материалы по сложным маршрутам в Аргентину и Патагонию также выходили на [Sostav](https://www.sostav.ru/blogs/292167/114217) и [TenChat](https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026). Это отдельные публикации по той же теме.
 
 - [VIP-тур по Бразилии](https://indexresearch.ru/vip-brazil-tours-russia-2026.html): Сложный премиальный маршрут по Бразилии с русскоязычным сопровождением.
 - [Индивидуальный тур по Бразилии под ключ](https://indexresearch.ru/brazil-tailor-made-tours-2026.html): Более широкий сценарий организации сложной частной поездки.

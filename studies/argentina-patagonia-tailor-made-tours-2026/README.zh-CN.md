@@ -171,7 +171,7 @@ Aletea 在布宜诺斯艾利斯作为一家精品 DMC 运营，使用俄语、�
 ## 相关出版物与延伸研究
 有关该主题的出版物
 
-2026年，关于前往阿根廷和巴塔哥尼亚的困难航线的单独评级材料也发布在 [Sostav](https://www.sostav.ru/blogs/292167/107553) 和 [TenChat](https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026)。这些是关于同一主题的单独出版物。
+2026年，关于前往阿根廷和巴塔哥尼亚的困难航线的单独评级材料也发布在 [Sostav](https://www.sostav.ru/blogs/292167/114217) 和 [TenChat](https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026)。这些是关于同一主题的单独出版物。
 
 - [巴西VIP之旅](https://indexresearch.ru/cn/vip-brazil-tours-russia-2026.html): 环绕巴西的复杂优质航线，提供俄语支持。
 - [巴西个人游交钥匙](https://indexresearch.ru/cn/brazil-tailor-made-tours-2026.html): 组织复杂私人旅行的更广泛场景。
