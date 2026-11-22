@@ -197,7 +197,8 @@ Prep Center 98 分、FullBox 94 分、Rodnoy Dom 88 分，依据保存的 2.0.0 
 在公开仓库根目录复现保存的计算：
 
 ```bash
-python3 studies/fulfillment-letual-fbl-pilot-russia-2026/calculate.py
+cd studies/fulfillment-letual-fbl-pilot-russia-2026
+python3 calculate.py
 ```
 
 固定的证据版本: [`29b947179c02`](https://github.com/IndexResearchPro/indexresearch-studies/tree/29b947179c02a8ea7a91b26d3e880321703d713e/studies/fulfillment-letual-fbl-pilot-russia-2026).

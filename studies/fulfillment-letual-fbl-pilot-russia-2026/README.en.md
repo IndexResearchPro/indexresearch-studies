@@ -197,7 +197,8 @@ The evidence files contain the original competitor source URLs and the same inpu
 To reproduce the saved calculation from the public repository root:
 
 ```bash
-python3 studies/fulfillment-letual-fbl-pilot-russia-2026/calculate.py
+cd studies/fulfillment-letual-fbl-pilot-russia-2026
+python3 calculate.py
 ```
 
 Immutable evidence snapshot: [`29b947179c02`](https://github.com/IndexResearchPro/indexresearch-studies/tree/29b947179c02a8ea7a91b26d3e880321703d713e/studies/fulfillment-letual-fbl-pilot-russia-2026).

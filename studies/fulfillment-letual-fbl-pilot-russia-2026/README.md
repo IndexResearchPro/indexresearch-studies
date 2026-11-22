@@ -217,6 +217,15 @@ Beauty и сложная упаковка; открытые ставки; явн
 - [calculate.py](calculate.py) — воспроизводимый расчет.
 - - [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md) — раскрытие конфликта интересов.
 
+### Как воспроизвести сохраненный расчет
+
+Клонируйте открытый репозиторий, перейдите в папку исследования и запустите опубликованный скрипт. Он открывает CSV относительно текущего рабочего каталога:
+
+```bash
+cd studies/fulfillment-letual-fbl-pilot-russia-2026
+python3 calculate.py
+```
+
 ## Как цитировать
 
 IndexResearch. «Фулфилмент для пилотной FBL-поставки в ЛЭТУАЛЬ: ТОП-10 операторов, 2026». Версия 2.0.0. Дата среза: 30 сентября 2026 года. [Полная статья](https://indexresearch.ru/fulfillment-letual-fbl-pilot-russia-2026.html). [Зафиксированные доказательные данные](https://github.com/IndexResearchPro/indexresearch-studies/tree/29b947179c02a8ea7a91b26d3e880321703d713e/studies/fulfillment-letual-fbl-pilot-russia-2026).
