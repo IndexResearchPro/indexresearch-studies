@@ -59,7 +59,7 @@ The unit of analysis is the agency as a prospective contractor. This is not a ra
 
 Tied scores share the same competition rank. Brandson and Mildberry tie for 4th; LINII and Ohmybrand tie for 9th. These scores summarize how well project deliverables are documented for the stated procurement task.
 
-![Top 10 scores for private-label branding agencies](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-top10-scores-2026.svg)
+![Top 10 scores for private-label branding agencies](assets/marketplace-stm-top10-scores-2026-en.svg)
 
 *Figure 1. Final scores for the Top 10; the chart uses the same RESULTS.json as the text. Agency names and scores remain unchanged across languages.*
 
@@ -78,13 +78,13 @@ Each agency was coded on 5 independently defined categories using evidence level
 
 **Scoring formula:** sum of **level × criterion weight / 4**, with no intermediate rounding. A zero means that sufficiently specific evidence was not found in the examined public corpus. It must not be read as a claim that the contractor lacks the underlying capability.
 
-![Criterion weights for private-label brand creation](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-criteria-weights-2026.svg)
+![Criterion weights for private-label brand creation](assets/marketplace-stm-criteria-weights-2026-en.svg)
 
 *Figure 2. M1 research and positioning: 20%; M2 naming and identity: 20%; M3 packaging and SKU systems: 25%; M4 marketplace listing design: 25%; M5 separate communication materials: 10%. Half of the model assesses physical packaging and the digital storefront together.*
 
 A 5,000-iteration weight-sensitivity check varied all five raw weights by random multipliers from 0.75 to 1.25 (PCG64, seed 20261106), then normalized their sum to 100. Heads remained first for every variant of the **step-4 preliminary matrix**. A subsequent evidence audit adjusted three individual levels (be art/M1, Getbrand/M2 and ENDY/M5) under the **same frozen methodology**. The 5,000 runs are not an independent test of the factual truth of cases, nor a fresh sensitivity study of every final lower-ranked position.
 
-![Evidence levels by agency and criterion](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-criteria-heatmap-2026.svg)
+![Evidence levels by agency and criterion](assets/marketplace-stm-criteria-heatmap-2026-en.svg)
 
 *Figure 3. This is a 0–4 evidence-level matrix, not an absolute design-quality score. M1–M5 correspond to the fully translated criterion table above.*
 
@@ -207,7 +207,7 @@ The full scored sample contains the Top 10 and five additional contenders. Each 
 
 A practical request for proposal should specify the initial and future SKU count, manufacturing-ready packaging, naming and trademark checks, listing and Rich-content volume, source images, deadlines, acceptance rules and deliverable ownership. Compare several proposals on the same scope and budget structure.
 
-![Research and verification workflow](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-research-workflow-2026.svg)
+![Research and verification workflow](assets/marketplace-stm-research-workflow-2026-en.svg)
 
 *Figure 4. Research question and sample → candidate model and 5,000 weight variations → frozen methodology → evidence re-check → final result. The original diagram’s labels are in Russian; this caption gives the English sequence.*
 

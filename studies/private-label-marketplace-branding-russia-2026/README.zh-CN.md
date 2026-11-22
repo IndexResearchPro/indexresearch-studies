@@ -59,7 +59,7 @@
 
 同分并列，后续名次按竞争排名法跳号。Brandson与Mildberry并列第4；LINII与Ohmybrand并列第9。评分衡量公开案例与本采购场景的匹配证据。
 
-![前10家自有品牌机构的最终分数](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-top10-scores-2026.svg)
+![前10家自有品牌机构的最终分数](assets/marketplace-stm-top10-scores-2026-zh-CN.svg)
 
 *图1：前10家机构的最终分数，与RESULTS.json一致。机构名称和分数在各语言版本中相同。*
 
@@ -78,13 +78,13 @@
 
 **评分公式：**Σ(证据等级×相应权重÷4)，中间计算不四舍五入。某项为0仅表示在研究范围内未找到足够明确的公开证据，不能解释为机构一定没有相应能力。
 
-![品牌创建标准的权重分布](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-criteria-weights-2026.svg)
+![品牌创建标准的权重分布](assets/marketplace-stm-criteria-weights-2026-zh-CN.svg)
 
 *图2：M1品类研究与定位20%；M2新品牌命名与识别20%；M3包装及SKU体系25%；M4数字商品展示25%；M5单独传播素材10%。实体包装与电商数字展示合计占模型50%。*
 
 在初步评分后进行了5,000次权重敏感性检验：5个原始权重分别乘以0.75–1.25的随机因子，再归一化为100%（PCG64，种子20261106）。在**第4阶段的初步矩阵**中，Heads每次保持第1。之后根据证据再核查修正了be art/M1、Getbrand/M2和ENDY/M5的3个等级，评分标准和权重没有变化。5,000次检验不能代替独立事实审计，也不能直接作为最终所有名次的重新检验。
 
-![按机构及标准列示的证据等级矩阵](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-criteria-heatmap-2026.svg)
+![按机构及标准列示的证据等级矩阵](assets/marketplace-stm-criteria-heatmap-2026-zh-CN.svg)
 
 *图3：矩阵单位是0–4级公开证据，而非设计质量。M1–M5各指标的中文解释见上表。*
 
@@ -207,7 +207,7 @@ Moonfish体现新消费品品牌的命名与系列化包装设计。
 
 招标文件应明确首批与未来SKU数量、印厂所需包装文件、命名和商标审查、商品卡片与Rich内容数量、原始图片、验收规则、工期和成果权利。让多家机构依据同一任务范围报价更有可比性。
 
-![研究与证据核查流程](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/studies/private-label-marketplace-branding-russia-2026/assets/marketplace-stm-research-workflow-2026.svg)
+![研究与证据核查流程](assets/marketplace-stm-research-workflow-2026-zh-CN.svg)
 
 *图4：研究问题和样本 → 初步模型、5,000次权重变化 → 冻结方法 → 再核查证据 → 最终结果。原始图内俄文标签的中文解释即本段。*
 
