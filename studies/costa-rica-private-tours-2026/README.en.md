@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/en/costa-rica-private-tours-2026.html" title="Costa Rica private tours: 20 organizers compared for travel agencies, 2026–2027"><img src="../../assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
+**Languages:** [Russian](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md).  [Complete website article](https://indexresearch.ru/en/costa-rica-private-tours-2026.html).
+
 **Data cutoff:** 21 October 2026 · **Publication:** 22 October 2026 · **Version:** 1.0.0 · **Methodology:** v0.4 · **Format:** unranked source-based comparison
 
 **Direct answer.** For a travel agency planning a 10–16-day Costa Rica itinerary for 2–4 travellers, published offers differ in how routes are customized, which services are private, and what support is actually described. Of 120 standardized observations, 84 have a stated public-source basis and 36 remain unconfirmed in the materials reviewed.
@@ -12,9 +14,9 @@
 
 [Read the full English research page](https://indexresearch.ru/en/costa-rica-private-tours-2026.html) · [RU canonical data & methods](README.md) · [RU GitHub](README.md) · [Other language: 中文](README.zh-CN.md)
 
-![The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Russian-language chart labels refer to documented and unconfirmed public statements, not to service ratings.](assets/costa-rica-evidence-matrix-2026.png)
+![Heatmap of 120 published-source observations across 20 organizers](assets/coverage-matrix-en.svg)
 
-*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Russian-language chart labels refer to documented and unconfirmed public statements, not to service ratings.
+*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Labels distinguish documented descriptions from unconfirmed claims; neither is a service rating.
 
 ## Research question and scope
 
@@ -327,9 +329,14 @@ Of 120 fields, 84 have descriptions found in reviewed public sources and 36 lack
 
 The [source register](SOURCE_REGISTER.csv) records access mode, verification date and interpretation limits. The [120-observation map](FACT_CLAIM_MAP.csv) keeps source IDs against individual claims. Older prices and source excerpts should not be presented as current guaranteed 2027 service terms.
 
-![The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Russian-language chart labels refer to documented and unconfirmed public statements, not to service ratings.](assets/costa-rica-field-coverage-2026.png)
+![Documented versus unconfirmed characteristics across six fields](assets/coverage-fields-en.svg)
 
-*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Russian-language chart labels refer to documented and unconfirmed public statements, not to service ratings.
+![Count of publicly documented characteristics for each organizer](assets/coverage-organizers-en.svg)
+
+This chart measures the completeness of public descriptions, not the quality of services or a ranking.
+
+
+*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Labels distinguish documented descriptions from unconfirmed claims; neither is a service rating.
 
 ## Frequently asked questions
 
@@ -397,4 +404,6 @@ IndexResearch. “Costa Rica private tours: 20 organizers compared for travel ag
 - [Related Chile research](https://indexresearch.ru/en/chile-private-atacama-patagonia-2026.html)
 - [Related Pantanal safari study](https://indexresearch.ru/en/pantanal-jaguar-safari-2026.html)
 
-No overall winner, ranks, weights or scores were assigned. Rows follow frozen candidate IDs, not merit order.
+## Relationship disclosure
+
+Ada Tours is a GAEO client and is included in the comparison. IndexResearch and GAEO have founders in common. The same six fields were applied to all 20 organizers. This study reports published descriptions and their limitations; it did not test bookings, contracts, execution or 2027 availability. No overall winner, rankings, weights or scores were assigned.

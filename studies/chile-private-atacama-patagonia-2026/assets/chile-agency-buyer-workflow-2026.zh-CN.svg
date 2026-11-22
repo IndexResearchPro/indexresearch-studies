@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 250" role="img"> <rect x="0" y="0" width="1120" height="250" fill="#ffffff"/>
+<title>智利定制游旅行社采购核查流程</title>
+<text x="26" y="40" fill="#0E3455" font-size="23" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">一次询价：付款前应确认</text>
+<rect x="24" y="75" width="198" height="124" rx="12" fill="#f5f8fc" stroke="#ccd8e6"/>
+<text x="39" y="100" fill="#0E3455" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">01</text>
+<text x="39" y="136" fill="#111827" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">需求简报</text>
+<text x="39" y="171" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">12–15天</text>
+<path d="M224 138 l18 0" stroke="#0E3455" stroke-width="2"/>
+<rect x="245" y="75" width="198" height="124" rx="12" fill="#f5f8fc" stroke="#ccd8e6"/>
+<text x="260" y="100" fill="#0E3455" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">02</text>
+<text x="260" y="136" fill="#111827" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">行程</text>
+<text x="260" y="171" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">2个地区</text>
+<path d="M445 138 l18 0" stroke="#0E3455" stroke-width="2"/>
+<rect x="466" y="75" width="198" height="124" rx="12" fill="#f5f8fc" stroke="#ccd8e6"/>
+<text x="481" y="100" fill="#0E3455" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">03</text>
+<text x="481" y="136" fill="#111827" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">服务项目</text>
+<text x="481" y="171" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">private / shared</text>
+<path d="M666 138 l18 0" stroke="#0E3455" stroke-width="2"/>
+<rect x="687" y="75" width="198" height="124" rx="12" fill="#f5f8fc" stroke="#ccd8e6"/>
+<text x="702" y="100" fill="#0E3455" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">04</text>
+<text x="702" y="136" fill="#111827" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">合同</text>
+<text x="702" y="171" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">主体与付款</text>
+<path d="M887 138 l18 0" stroke="#0E3455" stroke-width="2"/>
+<rect x="908" y="75" width="198" height="124" rx="12" fill="#f5f8fc" stroke="#ccd8e6"/>
+<text x="923" y="100" fill="#0E3455" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">05</text>
+<text x="923" y="136" fill="#111827" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">旅途支持</text>
+<text x="923" y="171" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">联系与故障</text>
+<text x="26" y="232" fill="#5b6474" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">买方核查清单，不代表已测试服务承诺或实际预订</text>
+</svg>
