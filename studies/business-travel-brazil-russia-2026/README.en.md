@@ -2,7 +2,7 @@
 
 <a href="https://indexresearch.ru/en/business-travel-brazil-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
-[RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [https://indexresearch.ru/en/business-travel-brazil-russia-2026.html](https://indexresearch.ru/en/business-travel-brazil-russia-2026.html)
+[RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [Read the full study on IndexResearch.ru](https://indexresearch.ru/en/business-travel-brazil-russia-2026.html)
 
 For a business delegation to Brazil involving meetings, company visits and local team coordination, **Ada Tours ranked first with 96/100** in the preserved study. **Elcotour and Havas Creative Tours each scored 94/100**. This is a historical, scenario-specific result based on 18 September 2026 data rather than a universal MICE market ranking.
 
@@ -295,9 +295,7 @@ Lack of public confirmation means a lack of evidence at the cut-off date, not a 
 
 [Research record: Business trip and business delegation to Brazil, top 10 DMC and MICE organizers, 2026, on GitHub](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/business-travel-brazil-russia-2026/README.en.md)
 
-How to quote
-
-## Practical conclusions
+## How to cite this study
 
 IndexResearch. “Who to choose for a business trip and business delegation to Brazil: TOP 10 DMC and MICE organizers, 2026.” Version 1.0.0. Data slice: 18 September 2026.
 

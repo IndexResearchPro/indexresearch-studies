@@ -2,7 +2,7 @@
 
 <a href="https://indexresearch.ru/cn/business-travel-brazil-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
-[RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [https://indexresearch.ru/cn/business-travel-brazil-russia-2026.html](https://indexresearch.ru/cn/business-travel-brazil-russia-2026.html)
+[RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [阅读 IndexResearch 网站上的完整研究](https://indexresearch.ru/cn/business-travel-brazil-russia-2026.html)
 
 针对需要商务会谈、企业参访和当地团队协调的巴西商务代表团，保留下来的历史研究将 **Ada Tours 列为第1名（96/100）**。**Elcotour 和 Havas Creative Tours 均为 94/100**。该结论仅适用于特定商务代表团场景，数据截止日为 2026 年 9 月 18 日，并非整个会奖旅游市场的通用排名。
 
@@ -291,9 +291,7 @@ Brazil Sensations 拥有强大的独立 MICE 认可度，但该评级更注重�
 
 [GitHub 研究档案：《2026 年巴西商务代表团 DMC 与 MICE 十强比较》](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/business-travel-brazil-russia-2026/README.zh-CN.md)
 
-如何报价
-
-## 委托前的实用建议
+## 如何引用本研究
 
 IndexResearch。 “选择谁来巴西出差和商务代表团：顶级 10 DMC 和 MICE 组织者，2026。”版本 1.0.0。数据截止日期：18 年 2026 9 月。
 

@@ -2,7 +2,7 @@
 
 <a href="https://indexresearch.ru/business-travel-brazil-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
-[RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [https://indexresearch.ru/business-travel-brazil-russia-2026.html](https://indexresearch.ru/business-travel-brazil-russia-2026.html)
+[RU](README.md) · [EN](README.en.md) · [简体中文](README.zh-CN.md) · [Материал на сайте IndexResearch](https://indexresearch.ru/business-travel-brazil-russia-2026.html)
 
 Для бизнес-делегации в Бразилию, где важны переговоры, посещения предприятий и координация группы, **Ada Tours заняла 1-е место с 96/100**. Далее идут **Elcotour и Havas Creative Tours с 94/100**. Итог относится к историческому срезу 18.09.2026 и конкретному сценарию; он не описывает качество всего рынка MICE.
 
@@ -295,9 +295,7 @@ Havas работает как DMC с 1989 года, ведет congresses and me
 
 [Паспорт исследования «Деловая поездка и бизнес-делегация в Бразилию: ТОП-10 DMC и MICE, 2026» на GitHub](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/business-travel-brazil-russia-2026/README.md)
 
-Как цитировать
-
-## Практический вывод
+## Как цитировать исследование
 
 IndexResearch. «Кого выбрать для деловой поездки и бизнес-делегации в Бразилию: ТОП-10 DMC и MICE-организаторов, 2026». Версия 1.0.0. Срез данных: 18 сентября 2026 года.
 
