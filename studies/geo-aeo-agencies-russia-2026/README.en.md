@@ -252,15 +252,11 @@ Each available snapshot is an observation that a claim appeared in an indexed of
 
 ## Evidence gaps, uncertainty and reproducibility
 
-This is a scoped sample of 23 providers, not the entire Russian GEO/AEO market. The preserved edition cites original source IDs (SRC-Pxx-xx), but the dated source URL register for v2.0.0 has not been recovered. Its internal source register describes 59 observations and 41 mapped claims. Some data comes from historical indexed snapshots, which may not reflect current contract prices.
+The preserved article covers 23 providers selected from 36 initially identified candidates. It reports 59 offer observations, 31 source records, 30 distinct URLs and 41 mapped claims. Those counts describe the 9 November 2026 snapshot; the missing original register prevents fresh row-by-row source validation.
 
- preserves an earlier, differently scoped ranking (v1.1.0) and lacks the full original CSV evidence for this v2.0.0 pricing study. It must not be cited as the calculated result of this edition.
+**Reproducibility limit:** the v2.0.0 versions of `SOURCE_REGISTER.csv`, `OFFER_OBSERVATIONS.csv`, `FACT_CLAIM_MAP.csv`, `RESULTS.json` and the underlying source evidence were not recovered. SRC-P identifiers are retained for context, but they cannot by themselves establish the original URLs, access dates or current advertised terms. This standalone editorial reconstruction is not a complete reproducible numerical release.
 
-Previous release: an October 2026 comparison ranked providers under a monthly budget gate. That historical methodology and outcome are separate from this November pricing benchmark and have not been carried into this edition.
-
-.
-
-No score bar chart, rank chart or assessment heatmap is shown: the edition deliberately contains no score matrix and the advertised prices are measured in non-comparable billing units. A chart that treats those prices as uniform monthly fees would be misleading.
+**Why no ranking charts are presented:** providers have no scores or ranks in this edition, and their advertised amounts refer to different billing units. A uniform monthly-price chart or scoring heatmap would create a misleading comparison.
 
 ## Sources, recovery history and citation
 
