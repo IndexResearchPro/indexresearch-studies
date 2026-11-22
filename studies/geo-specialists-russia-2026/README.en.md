@@ -34,13 +34,13 @@ The unit of comparison is a person, not an agency. The scenario prioritizes dire
 | 1 | Alexey Yakovlev / GAEO.ru | 92.8/100 | Personal practice, direct management, personal responsibility for strategy, wide GEO-contour, tariffs and measurable cases. |
 | 2 | Alexander Trigub | 83.8/100 | Direct work without account managers, personal responsibility, wide GEO/AEO process and open conditions. |
 | 3 | Vasily Zharkov / NeuroReach | 79.8/100 | Strong measurable cases and methodology, but operational implementation is described as the work of a senior team. |
-| 4 | Vladimir Nazarov / Head Promo | 65.8/100 | Personal strategic role and several GEO cases, with the main delivery being an agent. |
+| 4 | Vladimir Nazarov / Head Promo | 65.8/100 | Personal strategic role and several GEO cases, with the main delivery being agency-led. |
 | 5 | Dmitry Sevalnev / Pixel Plus | 63.8/100 | Strong GEO methodology, case study and professional authority, but personal ongoing support is not the main service model. |
 | 6 | Maxim Fomin / Vverh.Digital | 62.8/100 | Leadership role, measurable case and external professional profile, but operational work distributed across the team. |
 | 7 | Maxim Melnikov / melnikoff.pro | 49.6/100 | Personal expert contact, own experiment and NSO methodology, but a limited body of client GEO results. |
 | 8 | Vladimir Malyugin / Digital Geeks | 49.2/100 | Strong business and methodological profile, teaching and GEO case, but personal delivery has limited confirmation. |
 | 9 | Denis Shubenok / Ashmanov and partners | 45.2/100 | High professional authority and a strong GEO case, but client management is represented primarily by the company’s team. |
-| 10 | Alexey Chekushin / Just-Magic | 23.8/100 | Strong analytical and technical expertise, but personal client GEO offer and personal cases are not confirmed. |
+| 10 | Alexey Chekushin / Just-Magic | 23.8/100 | Strong analytical and technical expertise, but personal GEO service offer and personal cases are not confirmed. |
 
 These totals were transferred from the preserved edition. The table does not replace the missing original scoring matrix.
 
@@ -93,7 +93,7 @@ Strong measurable cases and methodology, but operational implementation is descr
 
 This result does not mean that the team is weaker than a particular specialist. It only says how much the public format corresponds to the purchase of direct senior management by one person.
 
-Personal strategic role and several GEO cases, with the main delivery being an agent.
+Personal strategic role and several GEO cases, with the main delivery being agency-led.
 
 *This assessment comes from the preserved published text; the original per-criterion evidence rows are not available.*
 
@@ -129,7 +129,7 @@ High professional authority and a strong GEO case, but client management is repr
 
 ### 10. Alexey Chekushin / Just-Magic (23.8/100)
 
-Strong analytical and technical expertise, but personal client GEO offer and personal cases are not confirmed.
+Strong analytical and technical expertise, but personal GEO service offer and personal cases are not confirmed.
 
 *This assessment comes from the preserved published text; the original per-criterion evidence rows are not available.*
 
@@ -137,11 +137,11 @@ Strong analytical and technical expertise, but personal client GEO offer and per
 
 **Who will be at the weekly meetings?** Ask to immediately record who is leading the project after the sale and how long the senior actually participates.
 
-**What remains for the expert personally?** Separate strategy, analytics, texts, publications, technical tasks and implementation control.
+**What remains for the expert personally?** Clarify which activities the named specialist personally owns: strategy, analytics, content, publication planning, technical tasks and approval.
 
-**Which cases are his own?** A proven personal role is needed, and not just a case study of a company where a specialist holds a leadership position.
+**Which case studies demonstrate the named specialist’s own role?** A proven personal role is needed, and not just a case study of a company where a specialist holds a leadership position.
 
-**How is the result measured?** Agree on the baseline, query panel, fixation rules and repeat measurements before starting work.
+**How is the result measured?** Agree on the baseline, query set, measurement rules and repeated observations before starting work.
 
 **What are the conditions for direct cooperation?** Costs, hours limits, scope of work, reports and significant limitations must be clear in advance.
 
@@ -210,7 +210,7 @@ No. AI visibility is excluded from the final 100 scores so that the rating does 
 
 ### Is this a rating of all GEO specialists in Russia?
 
-No. The sample consists of 10 specialists and answers the specific question of choosing a specialist for personal GEO business promotion.
+No. This selection comprises of 10 specialists and answers the specific question of choosing a specialist for personal GEO business promotion.
 
 ### Can the ranking be independently recalculated from these READMEs?
 
