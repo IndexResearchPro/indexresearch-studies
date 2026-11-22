@@ -487,7 +487,6 @@ GAEO 支付了 BrandFound 的费用并提出了问题。 没有独立的科学�
 - [恢复的界面汇总 CSV](PROVIDERS_RECOVERED_FROM_HTML.csv)
 - [汇总算术核验（不代表原始回答复算）](check_recovered_aggregates.py)
 - [资料恢复来源与缺失证据](RECOVERY_PROVENANCE.md)
-- [Klerk: related editorial analysis](https://www.klerk.ru/user/2721035/716592/)
 - [Workspace: related editorial analysis](https://workspace.ru/blog/geo-specialisty-rossii-v-otvetah-neyrosetey-74-imeni-110-otvetov-i-2-pokazatelya-reyting-2026/)
 
 相关编辑文章不构成对 110 条原始回答的独立复核。

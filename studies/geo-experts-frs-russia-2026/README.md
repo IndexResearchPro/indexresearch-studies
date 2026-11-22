@@ -483,7 +483,6 @@ BMR считает любое упоминание имени в ответе, F
 - [Таблица по 11 интерфейсам, снятая с HTML](PROVIDERS_RECOVERED_FROM_HTML.csv)
 - [Проверка арифметики агрегатов (это не первичный пересчет)](check_recovered_aggregates.py)
 - [Происхождение редакционного восстановления](RECOVERY_PROVENANCE.md)
-- [Klerk: related editorial analysis](https://www.klerk.ru/user/2721035/716592/)
 - [Workspace: related editorial analysis](https://workspace.ru/blog/geo-specialisty-rossii-v-otvetah-neyrosetey-74-imeni-110-otvetov-i-2-pokazatelya-reyting-2026/)
 
 Редакционные пересказы не являются независимыми подтверждениями исходных 110 ответов.

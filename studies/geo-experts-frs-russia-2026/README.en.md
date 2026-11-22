@@ -487,7 +487,6 @@ This is an editorial reconstruction from preserved site pages. The original 110 
 - [Recovered provider-summary CSV](PROVIDERS_RECOVERED_FROM_HTML.csv)
 - [Aggregate validation (not an original-response rerun)](check_recovered_aggregates.py)
 - [Recovery provenance and missing evidence](RECOVERY_PROVENANCE.md)
-- [Klerk: related editorial analysis](https://www.klerk.ru/user/2721035/716592/)
 - [Workspace: related editorial analysis](https://workspace.ru/blog/geo-specialisty-rossii-v-otvetah-neyrosetey-74-imeni-110-otvetov-i-2-pokazatelya-reyting-2026/)
 
 Related editorial articles are not independent replications of the original 110 answers.
