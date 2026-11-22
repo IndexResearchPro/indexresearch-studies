@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f6f6f6"/><rect x="60" y="50" width="1080" height="575" rx="24" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="95" y="108" font-family="Arial" font-size="30" font-weight="700">评分标准权重：100 分</text>
+<text x="95" y="142" font-family="Arial" font-size="18">当地运营、俄语服务与 VIP 服务合计 60 分</text>
+<text x="95" y="203" font-family="Arial" font-size="17">C1 · 巴西当地运营</text>
+<rect x="625" y="185" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="185" width="360.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="204" font-family="Arial" font-size="17" font-weight="700">20</text>
+<text x="95" y="259" font-family="Arial" font-size="17">C2 · 行程中的俄语陪同</text>
+<rect x="625" y="241" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="241" width="360.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="260" font-family="Arial" font-size="17" font-weight="700">20</text>
+<text x="95" y="315" font-family="Arial" font-size="17">C3 · VIP 与高端服务</text>
+<rect x="625" y="297" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="297" width="360.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="316" font-family="Arial" font-size="17" font-weight="700">20</text>
+<text x="95" y="371" font-family="Arial" font-size="17">C4 · 私人路线定制</text>
+<rect x="625" y="353" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="353" width="270.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="372" font-family="Arial" font-size="17" font-weight="700">15</text>
+<text x="95" y="427" font-family="Arial" font-size="17">C5 · 巴西及区域交通</text>
+<rect x="625" y="409" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="409" width="180.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="428" font-family="Arial" font-size="17" font-weight="700">10</text>
+<text x="95" y="483" font-family="Arial" font-size="17">C6 · 途中支持与责任</text>
+<rect x="625" y="465" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="465" width="180.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="484" font-family="Arial" font-size="17" font-weight="700">10</text>
+<text x="95" y="539" font-family="Arial" font-size="17">C7 · 公开证据质量</text>
+<rect x="625" y="521" width="360" height="24" rx="12" fill="#eeeeee"/>
+<rect x="625" y="521" width="90.0" height="24" rx="12" fill="#111111"/>
+<text x="1010" y="540" font-family="Arial" font-size="17" font-weight="700">5</text>
+<text x="95" y="596" font-family="Arial" font-size="16">各标准 0–5 分 · 细则见 RUBRICS.csv</text></svg>

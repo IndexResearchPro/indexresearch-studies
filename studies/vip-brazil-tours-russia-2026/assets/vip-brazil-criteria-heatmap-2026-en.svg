@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f6f6f6"/><rect x="45" y="42" width="1110" height="590" rx="24" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="75" y="92" font-family="Arial" font-size="28" font-weight="700">Top 10 compared across seven criteria</text>
+<text x="75" y="124" font-family="Arial" font-size="17">0–5 · darker means stronger recorded evidence</text>
+<text x="556.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C1</text>
+<text x="638.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C2</text>
+<text x="720.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C3</text>
+<text x="802.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C4</text>
+<text x="884.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C5</text>
+<text x="966.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C6</text>
+<text x="1048.0" y="151" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700">C7</text>
+<text x="75" y="187" font-family="Arial" font-size="16">1. Ada Tours</text>
+<rect x="515" y="160" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="553.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="597" y="160" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="635.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="679" y="160" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="717.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="761" y="160" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="799.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="843" y="160" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="160" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="963.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="1007" y="160" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="1045.0" y="185" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="75" y="230" font-family="Arial" font-size="16">2. LATAM-CLUB</text>
+<rect x="515" y="203" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="553.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="597" y="203" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="635.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="679" y="203" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="717.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="761" y="203" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="799.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="843" y="203" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="203" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="963.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="1007" y="203" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="1045.0" y="228" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="75" y="273" font-family="Arial" font-size="16">3. Machete Tour</text>
+<rect x="515" y="246" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="553.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="597" y="246" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="635.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="679" y="246" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="717.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="761" y="246" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="799.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="843" y="246" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="246" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="963.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="1007" y="246" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="1045.0" y="271" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="75" y="316" font-family="Arial" font-size="16">4. Sodis</text>
+<rect x="515" y="289" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="289" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="635.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="679" y="289" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="717.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="761" y="289" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="799.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="843" y="289" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="289" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="963.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="1007" y="289" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="1045.0" y="314" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="75" y="359" font-family="Arial" font-size="16">5. Mikhail Kozhukhov Travel Club</text>
+<rect x="515" y="332" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="332" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="635.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="679" y="332" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="717.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="761" y="332" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="799.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="843" y="332" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="881.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="925" y="332" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="963.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="1007" y="332" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="1045.0" y="357" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="75" y="402" font-family="Arial" font-size="16">6. ART-TOUR</text>
+<rect x="515" y="375" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="375" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="635.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="679" y="375" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="717.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="761" y="375" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="799.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="843" y="375" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="881.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="925" y="375" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="963.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="1007" y="375" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="1045.0" y="400" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="75" y="445" font-family="Arial" font-size="16">7. MITS</text>
+<rect x="515" y="418" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="418" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="635.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="679" y="418" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="717.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="761" y="418" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="799.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="843" y="418" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="418" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="963.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="1007" y="418" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="1045.0" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="75" y="488" font-family="Arial" font-size="16">8. Oriental Discovery</text>
+<rect x="515" y="461" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="461" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="635.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="679" y="461" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="717.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="761" y="461" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="799.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="843" y="461" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="461" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="963.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="1007" y="461" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="1045.0" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="75" y="531" font-family="Arial" font-size="16">9. DeluxeVoyage.Club</text>
+<rect x="515" y="504" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="504" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="635.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="679" y="504" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="717.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="761" y="504" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="799.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="843" y="504" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="881.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="925" y="504" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="963.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="1007" y="504" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="1045.0" y="529" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="75" y="574" font-family="Arial" font-size="16">10. Caribbean Club</text>
+<rect x="515" y="547" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="553.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="597" y="547" width="76" height="37" rx="6" fill="#6f6f6f" stroke="#999"/>
+<text x="635.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">4</text>
+<rect x="679" y="547" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="717.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="761" y="547" width="76" height="37" rx="6" fill="#a8a8a8" stroke="#999"/>
+<text x="799.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="843" y="547" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="881.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<rect x="925" y="547" width="76" height="37" rx="6" fill="#cfcfcf" stroke="#999"/>
+<text x="963.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#111">2</text>
+<rect x="1007" y="547" width="76" height="37" rx="6" fill="#111111" stroke="#999"/>
+<text x="1045.0" y="572" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="75" y="610" font-family="Arial" font-size="15">C1 Brazil · C2 Russian · C3 VIP · C4 custom · C5 logistics · C6 support · C7 evidence</text></svg>

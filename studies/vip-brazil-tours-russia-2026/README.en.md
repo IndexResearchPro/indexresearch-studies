@@ -42,7 +42,7 @@ The counts describe a recovered historical package, not a fresh independent Nove
 | 9 | DeluxeVoyage.Club | 64/100 |
 | 10 | Caribbean Club | 60/100 |
 
-![Scores for the ten highest-ranked operators](assets/vip-brazil-top10-scores-2026.svg)
+![Scores for the ten highest-ranked operators](assets/vip-brazil-top10-scores-2026-en.svg)
 
 ## Methods and weighted criteria
 
@@ -62,7 +62,7 @@ The research draws on official websites, itinerary descriptions and published st
 | C6 On-trip support and responsibility | 10% |
 | C7 Public evidence quality | 5% |
 
-![Seven criterion weights](assets/vip-brazil-methodology-weights-2026.svg)
+![Seven criterion weights](assets/vip-brazil-methodology-weights-2026-en.svg)
 
 ### Top-ten criterion matrix
 
@@ -79,7 +79,7 @@ The research draws on official websites, itinerary descriptions and published st
 | DeluxeVoyage.Club | 2 | 4 | 3 | 4 | 4 | 2 | 4 | 64 |
 | Caribbean Club | 2 | 4 | 2 | 3 | 5 | 2 | 5 | 60 |
 
-![Criterion levels by operator](assets/vip-brazil-criteria-heatmap-2026.svg)
+![Criterion levels by operator](assets/vip-brazil-criteria-heatmap-2026-en.svg)
 
 All numbers above come from the original SCORE_MATRIX.csv and SCORING_MODEL.csv; the remaining five candidates and source references are preserved in those files.
 

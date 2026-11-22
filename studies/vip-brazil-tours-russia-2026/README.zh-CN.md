@@ -42,7 +42,7 @@
 | 9 | DeluxeVoyage.Club | 64/100 |
 | 10 | Caribbean Club | 60/100 |
 
-![前十名运营商总分图](assets/vip-brazil-top10-scores-2026.svg)
+![前十名运营商总分图](assets/vip-brazil-top10-scores-2026-zh-CN.svg)
 
 ## 方法与权重
 
@@ -62,7 +62,7 @@
 | C6 途中支持与责任 | 10% |
 | C7 公开证据质量 | 5% |
 
-![7 项标准权重](assets/vip-brazil-methodology-weights-2026.svg)
+![7 项标准权重](assets/vip-brazil-methodology-weights-2026-zh-CN.svg)
 
 ### 前十名标准得分矩阵
 
@@ -79,7 +79,7 @@
 | DeluxeVoyage.Club | 2 | 4 | 3 | 4 | 4 | 2 | 4 | 64 |
 | Caribbean Club | 2 | 4 | 2 | 3 | 5 | 2 | 5 | 60 |
 
-![公司与标准评分热力图](assets/vip-brazil-criteria-heatmap-2026.svg)
+![公司与标准评分热力图](assets/vip-brazil-criteria-heatmap-2026-zh-CN.svg)
 
 以上数字来自原始 SCORE_MATRIX.csv 和 SCORING_MODEL.csv；其余 5 家候选公司及来源可在文件中核对。
 
