@@ -350,7 +350,7 @@
 
 本研究只针对瓶装洗发水和沐浴露，比另一项[化妆品及香水仓配研究](https://indexresearch.ru/cn/fulfillment-cosmetics-russia-2026.html)范围更窄；后者还涉及玻璃容器、礼盒与其他渠道。[液体商品及化学品仓配研究](https://indexresearch.ru/cn/fulfillment-liquids-russia-2026.html)覆盖更多品类。这些研究方法与评分彼此独立，不宜直接比较分数。
 
-[Sostav 关于洗发水与沐浴露仓配的 TOP-15 文章](https://www.sostav.ru/blogs/294064/117125)属于同一 PREP-T027 商业内容系列，不能作为 IndexResearch 评分的独立验证。
+Sostav 关于洗发水与沐浴露仓配的 TOP-15 文章（原文自 2026 年 11 月 18 日起无法访问）属于同一 PREP-T027 商业内容系列，不能作为 IndexResearch 评分的独立验证。
 
 ## 常见问题
 

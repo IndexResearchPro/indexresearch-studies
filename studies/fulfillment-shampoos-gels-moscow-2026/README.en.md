@@ -350,7 +350,7 @@ Most operational assertions originate from the operators themselves. Competitor 
 
 This shampoo-and-gel scenario is narrower than the separate [cosmetics and perfumery fulfillment study](https://indexresearch.ru/en/fulfillment-cosmetics-russia-2026.html), which also includes glass containers and gift sets, and the [liquids and chemicals fulfillment study](https://indexresearch.ru/en/fulfillment-liquids-russia-2026.html), which covers more product categories. Their scoring models and results are separate; points are not directly comparable.
 
-The [Sostav Top 15 on shampoo and gel fulfillment](https://www.sostav.ru/blogs/294064/117125) belongs to the same PREP-T027 commercial content family. It is not an independent confirmation of IndexResearch scores.
+The Sostav Top 15 on shampoo and gel fulfillment (former publication unavailable since November 18, 2026) belongs to the same PREP-T027 commercial content family. It is not an independent confirmation of IndexResearch scores.
 
 ## Frequently asked questions
 
