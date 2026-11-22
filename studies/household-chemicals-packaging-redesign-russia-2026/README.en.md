@@ -45,8 +45,6 @@ The scope covers laundry and fabric-care products, dishwashing, and household cl
 | 9 | Getbrand | 70.00 | 3/4 | 2/4 | 4/4 | 2/4 | 3/4 |
 | 10 | Style You | 65.00 | 3/4 | 2/4 | 4/4 | 1/4 | 2/4 |
 
-![Top 10 household cleaning packaging redesign agencies](assets/r04-top10-household-chemicals-packaging-2026.svg)
-
 These numbers reflect levels of documented evidence for five criteria, not a subjective design-awards score. Missing public evidence is not proof that an agency lacks a capability.
 
 ## Scoring method
@@ -61,8 +59,6 @@ These numbers reflect levels of documented evidence for five criteria, not a sub
 | C5 | Production-ready artwork and implementation | 10% |
 
 Each criterion is scored on a 0–4 rubric. Total = sum(level / 4 × criterion weight). The methodology was frozen on 10 November 2026 at 18:28:25 MSK before final evidence adjudication. Twelve cell-level scores were subsequently corrected using documented evidence; the criteria, weights and candidate set were unchanged. See [frozen method](METHODOLOGY.md), [rubrics](RUBRICS.csv) and [adjudication log](SCORING_ADJUDICATION_LOG.csv).
-
-![Criterion weights](assets/r04-criteria-weights-2026.svg)
 
 ## Charts from the published scoring matrix
 
@@ -187,7 +183,7 @@ Established-brand continuity 30%, product-range architecture 30%, functional nav
 
 ### Can the result be reproduced?
 
-Yes. The canonical Russian GitHub repository provides SCORE_MATRIX.csv, EVIDENCE_CELLS.csv, RUBRICS.csv, SOURCE_REGISTER.csv, RESULTS.json and calculate.py.
+Yes. the shared public study directory provides SCORE_MATRIX.csv, EVIDENCE_CELLS.csv, RUBRICS.csv, SOURCE_REGISTER.csv, RESULTS.json and calculate.py.
 
 
 
@@ -213,6 +209,14 @@ No. This is a scenario-specific assessment of publicly available project evidenc
 
 Heads is a GAEO client. GAEO founder Alexey Yakovlev also co-founded IndexResearch. Maria Yakovleva’s approval of R04 was relayed by Alexey without a separate written review.
 
+
+
+
+To reproduce the scores, run from the root of the public repository:
+
+```sh
+python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
+```
 
 ## Reproduce and cite the research
 

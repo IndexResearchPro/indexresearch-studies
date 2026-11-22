@@ -45,8 +45,6 @@
 | 9 | Getbrand | 70.00 | 3/4 | 2/4 | 4/4 | 2/4 | 3/4 |
 | 10 | Style You | 65.00 | 3/4 | 2/4 | 4/4 | 1/4 | 2/4 |
 
-![家用清洁用品包装改版机构TOP 10](assets/r04-top10-household-chemicals-packaging-2026.svg)
-
 成绩反映5项标准下可公开核查的证据水平，不是对包装“美观程度”的主观打分。缺少公开资料不等于机构没有相关能力。
 
 ## 评分方法
@@ -61,8 +59,6 @@
 | C5 | 印刷交付与实施准备 | 10% |
 
 每个标准按0–4等级计分；总分=Σ(标准等级÷4×标准权重)。方法于2026年11月10日莫斯科时间18:28:25冻结，之后依据补充证据对12个分项评分进行了有记录的修订，标准、权重和候选名单没有变化。详见[方法](METHODOLOGY.md)、[量表](RUBRICS.csv)和[评分修订记录](SCORING_ADJUDICATION_LOG.csv)。
-
-![评分标准权重](assets/r04-criteria-weights-2026.svg)
 
 ## 公开评分数据图表
 
@@ -80,61 +76,61 @@
 
 Heads公开了为LAB Industries旗下现有品牌Vernel（Вернель）和LOSK（ЛОСК）开展的包装改版项目。案例说明了品牌识别元素的延续、多条系列的统一设计、按产品用途和香型区分的色彩导航，以及品牌规范和印刷母版。消费者测试由机构自行陈述，完整测试报告未公开。
 
-**来源ID：** [S001](SOURCE_REGISTER.csv), [S003](SOURCE_REGISTER.csv), [S002](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S001](SOURCE_REGISTER.csv), [S003](SOURCE_REGISTER.csv), [S002](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 2. DDVB: 90.00/100
 
 DDVB介绍了面向俄罗斯市场的5个Reckitt知名家清品牌改版：Finish/Signum、Vanish/Resolve、Calgon/Salgent、Cillit Bang/Brillit Blast及Tiret/Xtormer。保留品牌线索、协调不同用途的包装是其主要证据。未找到独立公开的详细消费者测试报告。
 
-**来源ID：** [S050](SOURCE_REGISTER.csv), [S034](SOURCE_REGISTER.csv), [S053](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S050](SOURCE_REGISTER.csv), [S034](SOURCE_REGISTER.csv), [S053](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 3. Tsoi Studio: 85.00/100
 
 WHITE GROUP项目涉及多个家居用品品类。工作室自述覆盖40多条产品系列、300个以上SKU，并展示Bimbo、Lotos等品牌的更新实例。规模数据主要来自机构自身；消费者导航和测试的公开细节较少。
 
-**来源ID：** [S015](SOURCE_REGISTER.csv), [S016](SOURCE_REGISTER.csv), [S032](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S015](SOURCE_REGISTER.csv), [S016](SOURCE_REGISTER.csv), [S032](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 4. Depot: 82.50/100
 
 Depot的历史BAGI案例涉及现有品牌20多款产品，包含统一的标签设计规则、颜色编码和图形符号。项目开展于2017年，但评分未因年代而自动扣分。现有公开证据没有提供独立的包装效果测试。
 
-**来源ID：** [S049](SOURCE_REGISTER.csv), [S033](SOURCE_REGISTER.csv), [S012](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S049](SOURCE_REGISTER.csv), [S033](SOURCE_REGISTER.csv), [S012](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 5. Uprise Branding: 80.00/100
 
 在Expel品牌重新上市项目中，Uprise描述了保留原有识别特征、统一多种家清品类的视觉规则、用途提示以及消费者感知研究。完整研究方案并未公开。
 
-**来源ID：** [S039](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S039](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 6. GORYANIN BROTHERS: 77.50/100
 
 OCTO项目展示了多种规格的家用清洁用品包装，采用图形符号、功能色彩导航、信息层级及区分不同用途的设计规则。
 
-**来源ID：** [S021](SOURCE_REGISTER.csv), [S036](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S021](SOURCE_REGISTER.csv), [S036](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 7. Pemberley: 75.00/100
 
 Sanfor项目说明了现有品牌包装更新的多个阶段，涵盖马桶清洁产品、10合1产品和喷雾产品。案例显示用途标签、图形提示与系列设计原则，但尚不能确认整个品牌组合的全面落地规模。
 
-**来源ID：** [S038](SOURCE_REGISTER.csv), [S055](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S038](SOURCE_REGISTER.csv), [S055](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 8. Антрэ: 72.50/100
 
 «Антрэ»为BAGI现有品牌提供洗衣品类包装设计及包含统一规则的品牌规范。案例支持其系列化工作能力，但已证实的品类覆盖小于大型跨品类项目。
 
-**来源ID：** [S037](SOURCE_REGISTER.csv), [S045](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S037](SOURCE_REGISTER.csv), [S045](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 9. Getbrand: 70.00/100
 
 Clean Ocean和Vash GOLD案例涉及既有产品的包装更新，其中洗碗机清洁片的信息层级及用途导航有较详细说明。部分系列扩展仍属于计划，而非已核实的实施成果。
 
-**来源ID：** [S019](SOURCE_REGISTER.csv), [S035](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S019](SOURCE_REGISTER.csv), [S035](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ### 10. Style You: 65.00/100
 
 工作室展示了«Хозяйские хитрости»的包装项目和ACE改版。标签上的功能信息图形与使用说明较为充分；广泛工业化落地的公开证据有限。
 
-**来源ID：** [S022](SOURCE_REGISTER.csv), [S054](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见俄文主仓库[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
+**来源ID：** [S022](SOURCE_REGISTER.csv), [S054](SOURCE_REGISTER.csv)。全部URL、评分依据和适用范围见本研究公开文件夹[来源登记](SOURCE_REGISTER.csv)和[分项证据](EVIDENCE_CELLS.csv)。
 
 ## 权重敏感性与证据局限
 
@@ -187,7 +183,7 @@ DDVB以90.00/100分位居第2；Tsoi Studio以85.00分位居第3，分别以Reck
 
 ### 能否自行复算成绩？
 
-可以。俄文主仓库公开SCORE_MATRIX.csv、EVIDENCE_CELLS.csv、RUBRICS.csv、SOURCE_REGISTER.csv、RESULTS.json及calculate.py。
+可以。本研究公开文件夹公开SCORE_MATRIX.csv、EVIDENCE_CELLS.csv、RUBRICS.csv、SOURCE_REGISTER.csv、RESULTS.json及calculate.py。
 
 
 
@@ -214,9 +210,17 @@ DDVB以90.00/100分位居第2；Tsoi Studio以85.00分位居第3，分别以Reck
 Heads是GAEO客户，而GAEO创始人Alexey Yakovlev也是IndexResearch联合创始人。Maria对R04的同意由Alexey转述，没有独立书面审阅记录。
 
 
+
+
+如需复算，请在公开仓库根目录运行：
+
+```sh
+python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
+```
+
 ## 复算与引用
 
-俄文主仓库提供完整证据与可复算结果：
+本研究公开文件夹提供完整证据与可复算结果：
 - [RESULTS.json](RESULTS.json)
 - [SCORE_MATRIX.csv](SCORE_MATRIX.csv)
 - [EVIDENCE_CELLS.csv](EVIDENCE_CELLS.csv)
