@@ -184,7 +184,7 @@ The World's End 为穿越阿根廷和智利的15天或18天向导行程，配有
 
 [RECOVERED_RESULTS.csv](RECOVERED_RESULTS.csv) · [RECOVERY_PROVENANCE.md](RECOVERY_PROVENANCE.md)
 
-[Ada Tours: Brazil itineraries](https://adatours.ru/interests/adventure/tours/brazil/) · [Ada Tours: company](https://adatours.ru/about/) · [MotoQuest: Brazil Surf and Turf Explorer](https://motoquest.com/motorcycle-tours/brazil-surf-and-turf-explorer/)
+[Ada Tours: Brazil itineraries](https://adatours.ru/interests/motorcycle-tours/) · [Ada Tours: company](https://adatours.ru/about/) · [MotoQuest: Brazil Surf and Turf Explorer](https://motoquest.com/motorcycle-tours/brazil-surf-and-turf-explorer/)
 
 ## 引用方式
 
