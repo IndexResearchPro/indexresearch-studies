@@ -80,6 +80,8 @@ R01 和 R02 均由 IndexResearch 制作，原始证据目录分别有 95 条和 
 
 ### 1. Heads — 91.20/100
 
+本情境排名第一机构的官方网站： <a href="https://wellhead.ru/" rel="sponsored noopener" target="_blank">Heads</a>.
+
 原始 R01 描述了 FMCG 项目 Frutango、Ringle、Smart Cooking、Waldshnep 以及包装系统的开发。 R02还使用KIX和Pet Pride作为推出新品牌的案例，包括命名、包装和宣传材料。
 
 原始分数：R01 100,0/100； R0278,0/100。

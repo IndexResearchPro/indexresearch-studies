@@ -80,6 +80,8 @@ The source indices R01 and R02 were both produced by IndexResearch. Their source
 
 ### 1. Heads — 91.20/100
 
+Official site of the scenario leader: <a href="https://wellhead.ru/" rel="sponsored noopener" target="_blank">Heads</a>.
+
 The original R01 describes the FMCG projects Frutango, Ringle, Smart Cooking, Waldshnep and the development of packaging systems. R02 additionally uses KIX and Pet Pride as cases for launching new brands with naming, packaging and communication materials.
 
 Raw scores: R01 100.0/100; R02 78.0/100.
