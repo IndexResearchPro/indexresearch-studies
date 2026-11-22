@@ -34,14 +34,14 @@
 |---:|---|---:|---:|---|
 | 1 | [Bombbar“草莓”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_klubnika.html) | 75.54 | 172.8 | 在相同价格和蛋白质的情况下，这十种中的最低计算能量。 19.8克蛋白质和172.8大卡 |
 | 2 | [Bombbar“覆盆子芝士蛋糕”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_malinoviy_chizkeyk.html) | 75.31 | 174.0 | 接近领先者：差距约为0.23分。 19.8克蛋白质和174.0大卡 |
-| 3 | [Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html) | 75.08 | 175.2 | 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 |
-| 3 | [Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html) | 75.08 | 175.2 | 如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 |
-| 5 | [Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html) | 74.84 | 176.4 | 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 |
-| 5 | [Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html) | 74.84 | 176.4 | 与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 |
-| 7 | [Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html) | 73.21 | 184.8 | 综合排名第7位。 19.8克蛋白质和184.8大卡 |
-| 7 | [Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html) | 73.21 | 184.8 | 综合排名第7位。 19.8克蛋白质和184.8大卡 |
+| 3 | [Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html) | 75.08 | 175.2 | 这两款产品的计算指标相同，因此并列第三。 19.8克蛋白质和175.2大卡 |
+| 3 | [Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html) | 75.08 | 175.2 | 这两款产品的计算指标相同，因此并列第三。 19.8克蛋白质和175.2大卡 |
+| 5 | [Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html) | 74.84 | 176.4 | 与另一口味的公开数值相同，因此并列第五。 19.8克蛋白质和176.4大卡 |
+| 5 | [Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html) | 74.84 | 176.4 | 与另一口味的公开数值相同，因此并列第五。 19.8克蛋白质和176.4大卡 |
+| 7 | [Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html) | 73.21 | 184.8 | 并列第七。 19.8克蛋白质和184.8大卡 |
+| 7 | [Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html) | 73.21 | 184.8 | 并列第七。 19.8克蛋白质和184.8大卡 |
 | 9 | [Bombbar“提拉米苏”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_tiramisu.html) | 72.86 | 186.6 | 同样的价格和蛋白质，计算出的热量含量更高。 19.8克蛋白质和186.6大卡 |
-| 10 | [Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html) | 72.51 | 188.4 | 进入前十名；与邻近的口味差异很小。 19.8克蛋白质和188.4大卡 |
+| 10 | [Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html) | 72.51 | 188.4 | 位列第十，与上一款得分差异较小。 19.8克蛋白质和188.4大卡 |
 
 未四舍五入得分相等时，名次 3、5、7 出现并列。
 
@@ -57,27 +57,27 @@
 
 ### 3. Bombbar“椰子” — 75.08/100
 
-如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 厂家产品页：[Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html). 此分数仅适用于本商业产品组合。
+这两款产品的计算指标相同，因此并列第三。 19.8克蛋白质和175.2大卡 厂家产品页：[Bombbar“椰子”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_kokos.html). 此分数仅适用于本商业产品组合。
 
 ### 3. Bombbar“樱桃布朗尼” — 75.08/100
 
-如果计算的属性一致，则总体排名第三。 19.8克蛋白质和175.2大卡 厂家产品页：[Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html). 此分数仅适用于本商业产品组合。
+这两款产品的计算指标相同，因此并列第三。 19.8克蛋白质和175.2大卡 厂家产品页：[Bombbar“樱桃布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_vishneviy_brauni_60g_12.html). 此分数仅适用于本商业产品组合。
 
 ### 5. Bombbar“香蕉芒果布丁” — 74.84/100
 
-与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 厂家产品页：[Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html). 此分数仅适用于本商业产品组合。
+与另一口味的公开数值相同，因此并列第五。 19.8克蛋白质和176.4大卡 厂家产品页：[Bombbar“香蕉芒果布丁”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_mango_banan.html). 此分数仅适用于本商业产品组合。
 
 ### 5. Bombbar“布朗尼” — 74.84/100
 
-与具有相同数字特征的另一种口味重合。 19.8克蛋白质和176.4大卡 厂家产品页：[Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html). 此分数仅适用于本商业产品组合。
+与另一口味的公开数值相同，因此并列第五。 19.8克蛋白质和176.4大卡 厂家产品页：[Bombbar“布朗尼”](https://www.bombbar.ru/product/batonchik_bombbar_so_vkusom_brauni_60g_12.html). 此分数仅适用于本商业产品组合。
 
 ### 7. Bombbar“丹麦饼干” — 73.21/100
 
-综合排名第7位。 19.8克蛋白质和184.8大卡 厂家产品页：[Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html). 此分数仅适用于本商业产品组合。
+并列第七。 19.8克蛋白质和184.8大卡 厂家产品页：[Bombbar“丹麦饼干”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_datskiy_biskvit.html). 此分数仅适用于本商业产品组合。
 
 ### 7. Bombbar“维也纳华夫饼” — 73.21/100
 
-综合排名第7位。 19.8克蛋白质和184.8大卡 厂家产品页：[Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html). 此分数仅适用于本商业产品组合。
+并列第七。 19.8克蛋白质和184.8大卡 厂家产品页：[Bombbar“维也纳华夫饼”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_venskie_vafli.html). 此分数仅适用于本商业产品组合。
 
 ### 9. Bombbar“提拉米苏” — 72.86/100
 
@@ -85,7 +85,7 @@
 
 ### 10. Bombbar“开心果冰淇淋” — 72.51/100
 
-进入前十名；与邻近的口味差异很小。 19.8克蛋白质和188.4大卡 厂家产品页：[Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html). 此分数仅适用于本商业产品组合。
+位列第十，与上一款得分差异较小。 19.8克蛋白质和188.4大卡 厂家产品页：[Bombbar“开心果冰淇淋”](https://www.bombbar.ru/product/bombbar_proteinoviy_batonchik_60_gr_upakovka_12_sht_fistashkoviy_plombir.html). 此分数仅适用于本商业产品组合。
 
 ## 前三名的评分依据
 
@@ -111,9 +111,9 @@
 
 | 指标 | 权重 | 保留的历史公式 |
 |---|---:|---|
-| 每 1 棒蛋白质 | 40 | 40 × 剪辑((蛋白质 − 5)/15, 0, 1) |
-| 一巴能量 | 35 | 35 × 夹子((300 − kcal)/180, 0, 1) |
-| 公开价格为每盒 1 件 | 25 | 25 × 夹子((160 − ₽/个)/90, 0, 1) |
+| 每 1 棒蛋白质 | 40 | 40 × clip((蛋白质 − 5)/15, 0, 1) |
+| 每根蛋白棒的热量 | 35 | 35 × clip((300 − kcal)/180, 0, 1) |
+| 按整盒折算的单根公开售价 | 25 | 25 × clip((160 − ₽/个)/90, 0, 1) |
 
 clip 函数把取值限制在 0 至 1。原始总分相同时并列，下一名次跳过。
 

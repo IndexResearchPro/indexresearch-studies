@@ -135,7 +135,7 @@ The clip function restricts its input to the 0–1 interval. Equal unrounded tot
 
 **If you need a protein snack while managing your energy,** compare the number of kcal per individual bar. According to the publication of the catalog, “Strawberry” contains 172.8 kcal, “Raspberry cheesecake” - 174, “Pistachio ice cream” - 188.4. The difference is small, but it is reflected in the model with an energy weight of 35 points.
 
-**If the main goal is to increase protein,** pay attention to the serving weight. For all the classic flavors shown in this section, the manufacturer lists 33 g of protein per 100 g, which gives 19.8 g per 60 g piece. When the protein is the same, the rating will not help you choose a flavor; It is more useful to read the ingredients and check the tolerance of the product.
+**If the main goal is to increase protein,** pay attention to the serving weight. For all the classic flavors shown in this section, the manufacturer lists 33 g of protein per 100 g, which gives 19.8 g per 60 g piece. When the protein is the same, the rating will not help you choose a flavor; it is more useful to read the ingredients and check the tolerance of the product.
 
 **If you want to replace a sweet dessert,** the Chikalab and Snaq Fabriq range deserve special consideration. These products differ in format, amount of protein and energy density. Their absence in the top ten of our model speaks only about the assessment of 3 numerical indicators, not about the taste or quality of chocolate.
 
