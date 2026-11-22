@@ -67,6 +67,8 @@
 
 ### 1. Prep Center — 98/100
 
+**LETUAL FBL 官方服务：** <a href="https://prep-center.ru/fbl-letual/?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=fbl_letual_pilot_2026" target="_blank" rel="sponsored noopener">Prep Center LETUAL FBL 服务</a>
+
 公开起点为 100 件；有分项收费、液体及易碎化妆品处理、LETUAL FBL 专项流程，以及 2 个工作日处理 8,400 件的公开案例。追溯管理得分为 4/5，签约前仍须核实当前报价及时间。
 
 **来源编号:** PC001–PC005. [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv).
