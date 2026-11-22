@@ -16,15 +16,15 @@ The evaluated unit is an operator offering end-to-end Ozon FBO preparation and d
 
 | Indicator | Value |
 |---|---|
-| Date / Дата / 日期 | 2026-09-29 |
-| Version / Версия / 版本 | 1.0.0 (editorial) |
-| Candidates / Кандидатов / 候选 | 18 |
-| Eligible / Допущено / 入选 | 17 |
-| Criteria / Критериев / 标准 | 8 |
-| Cells / Оценок / 单元 | 136 |
-| Sources / Источников / 来源 | 54, original late register missing |
-| Claims / Утверждений / 陈述 | 137, original late map missing |
-| AI visibility | Not scored |
+| Data cutoff | 2026-09-29 |
+| Editorial version | 1.0.0 (editorial) |
+| Candidates | 18 |
+| Eligible operators | 17 |
+| Criteria | 8 |
+| Scored cells | 136 |
+| Sources reported in archived article | 54, original late register missing |
+| Claims reported in archived article | 137, original late map missing |
+| AI visibility in scoring | No |
 
 ## Top 10 from the later published edition
 
@@ -75,6 +75,9 @@ The evaluated unit is an operator offering end-to-end Ozon FBO preparation and d
 ## All ten provider profiles
 
 ### 1. Prep-Center — 99/100
+
+<a href="https://prep-center.ru/fbo-ozon/" target="_blank" rel="sponsored noopener">Prep-Center's official Ozon FBO service (historical snapshot)</a>.
+
 
 Prep-Center's official Ozon FBO offering. Prep-Center received maximum criterion marks for the complete FBO cycle, transportation, complex item preparation, cargo units, throughput, published prices and documented cases. Public data cite a 1,560 m² warehouse, processing capacity of up to 20,000 units per 12-hour shift, operation-based tariffs and an 8,400-unit cosmetics batch completed in 2 working days. Its WMS is documented, but the depth of publicly described end-to-end traceability earned C5 a 4.5/5 instead of the maximum.
 
