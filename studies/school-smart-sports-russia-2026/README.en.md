@@ -28,18 +28,18 @@ The study addresses Russian families with school-age children. Ten physical disc
 
 
 
-| Place | Type of sport | Point | Why is it high / what is limiting |
+| Place | Type of sport | Score | What explains the position / limitations |
 | --- | --- | --- | --- |
-| 1 | Orienteering | 95/100 | Mapping, position control and route selection occur simultaneously with running; high cognitive and physical saturation. |
-| 2 | Table tennis | 92/100 | Very convenient for the school schedule, requires a quick reading of the opponent's serve, spin and actions. |
-| 3 | Badminton | 91/100 | High speed of decisions, trajectory forecast and strong physical component with good household input. |
-| 4 | Basketball | 90/100 | Constant reading of partners and opponents, quick decisions and high physical activity. |
-| 5 | rock climbing | 90/100 | The route needs to be analyzed and rebuilt along the way; the physical load is high, but the infrastructure is less accessible. |
-| 6 | Fencing | 89/100 | Very high speed of reading the opponent and making decisions, but more expensive and more difficult to use for everyday use. |
-| 7 | Judo | 88/100 | Constant reaction to the opponent’s actions and high workload, but the start and competitive environment are more demanding. |
-| 8 | Football | 86/100 | Strong open-skill environment: space, partners and rivals constantly change decisions; lower in school compatibility. |
-| 9 | Tennis | 86/100 | Requires prediction of the opponent and trajectory, but is inferior to football in terms of C2 and has a higher everyday threshold. |
-| 10 | Cross-country skiing | 83/100 | Maximum physical activity and a good start at school age, but the situation is less variable for C2. |
+| 1 | Orienteering | 95/100 | Reading the map, tracking position and selecting a route while running combine cognitive decisions with substantial physical activity. |
+| 2 | Table tennis | 92/100 | Compatible with a school-week schedule; players anticipate serves, spin and opponents' moves. |
+| 3 | Badminton | 91/100 | Fast responses, trajectory anticipation and physical effort; beginners need access to a suitable hall. |
+| 4 | Basketball | 90/100 | Players monitor teammates and opponents while making rapid decisions and moving continuously. |
+| 5 | rock climbing | 90/100 | Climbers plan and adjust routes as they move; physical demands are high, but suitable facilities may be harder to find. |
+| 6 | Fencing | 89/100 | Rapid interpretation of the opponent's actions; equipment and training access can create additional barriers. |
+| 7 | Judo | 88/100 | Frequent responses to an opponent and substantial exertion; beginners need appropriate supervision and safe practice. |
+| 8 | Football | 86/100 | Players adapt to changing space, teammates and opponents; fitting team training around school may be difficult. |
+| 9 | Tennis | 86/100 | Anticipating an opponent and the ball's trajectory is central; its historical C2 score was below football's, with higher practical entry costs. |
+| 10 | Cross-country skiing | 83/100 | High physical demands and a potential school-age start, with less variety of real-time decisions under the historical C2 criterion. |
 
 
 
@@ -69,9 +69,9 @@ Both typed 90/100, but solve the problem differently. Basketball is stronger in 
 
 | Criterion | Weight | What does it check? |
 | --- | --- | --- |
-| Compatibility with school timetable | 30% | How realistic is it to combine classes with the school week, travel and homework? |
+| Compatibility with school timetable | 30% | Can training fit school hours, travel and homework? |
 | Decision-making during movement | 25% | New information, forecasting, action selection, reading the opponent or environment in real time. |
-| Physical activity | 20% | How much a sport requires full physical work, and not just precision or concentration. |
+| Physical activity | 20% | How much sustained physical effort does the sport require? |
 | Availability of starting at school age | 15% | Is it possible to start at 10–14 years without the mandatory years of early training. |
 | Practical accessibility | 10% | Infrastructure, equipment and practical entry threshold for a family. |
 
@@ -85,43 +85,43 @@ Complete technique and rule for resolving equality
 
 ### 1. Orienteering · 95/100
 
-Mapping, position control and route selection occur simultaneously with running; high cognitive and physical saturation. The international federation describes navigation and route choice while running; clubs and events vary by region.
+Reading the map, tracking position and selecting a route while running combine cognitive decisions with substantial physical activity. The international federation describes navigation and route choice while running; clubs and events vary by region.
 
 ### 2. Table tennis · 92/100
 
-Very convenient for the school schedule, requires a quick reading of the opponent's serve, spin and actions. The preserved rationale emphasizes spin, serve anticipation and scheduling; check the actual local timetable.
+Compatible with a school-week schedule; players anticipate serves, spin and opponents' moves. The preserved rationale emphasizes spin, serve anticipation and scheduling; check the actual local timetable.
 
 ### 3. Badminton · 91/100
 
-High speed of decisions, trajectory forecast and strong physical component with good household input. Fast anticipation of shuttle trajectories requires regular play and access to a suitable sports hall.
+Fast responses, trajectory anticipation and physical effort; beginners need access to a suitable hall. Fast anticipation of shuttle trajectories requires regular play and access to a suitable sports hall.
 
 ### 4. Basketball · 90/100
 
-Constant reading of partners and opponents, quick decisions and high physical activity. Players respond to changing teammates and opponents; consider weekly training hours.
+Players monitor teammates and opponents while making rapid decisions and moving continuously. Players respond to changing teammates and opponents; consider weekly training hours.
 
 ### 5. Climbing · 90/100
 
-The route needs to be analyzed and rebuilt along the way; the physical load is high, but the infrastructure is less accessible. Route planning while climbing is cognitively demanding; access to gyms is location-dependent.
+Climbers plan and adjust routes as they move; physical demands are high, but suitable facilities may be harder to find. Route planning while climbing is cognitively demanding; access to gyms is location-dependent.
 
 ### 6. Fencing · 89/100
 
-Very high speed of reading the opponent and making decisions, but more expensive and more difficult to use for everyday use. Rapid responses to an opponent come with equipment and safe-training considerations.
+Rapid interpretation of the opponent's actions; equipment and training access can create additional barriers. Rapid responses to an opponent come with equipment and safe-training considerations.
 
 ### 7. Judo · 88/100
 
-Constant reaction to the opponent’s actions and high workload, but the start and competitive environment are more demanding. Opponent-dependent responses require suitable beginner groups and safeguarding.
+Frequent responses to an opponent and substantial exertion; beginners need appropriate supervision and safe practice. Opponent-dependent responses require suitable beginner groups and safeguarding.
 
 ### 8. Football · 86/100
 
-Strong open-skill environment: space, partners and rivals constantly change decisions; lower in school compatibility. A dynamic open-skill sport; school-week compatibility scored lower in the historical scenario.
+Players adapt to changing space, teammates and opponents; fitting team training around school may be difficult. A dynamic open-skill sport; school-week compatibility scored lower in the historical scenario.
 
 ### 9. Tennis · 86/100
 
-Requires prediction of the opponent and trajectory, but is inferior to football in terms of C2 and has a higher everyday threshold. Tied with football on 86 points; the original C2 tie-break put tennis lower at 22/25 versus 23/25.
+Anticipating an opponent and the ball's trajectory is central; its historical C2 score was below football's, with higher practical entry costs. Tied with football on 86 points; the original C2 tie-break put tennis lower at 22/25 versus 23/25.
 
 ### 10. Cross-country skiing · 83/100
 
-Maximum physical activity and a good start at school age, but the situation is less variable for C2. High physical workload but less situational variability under the original C2; conditions are seasonal.
+High physical demands and a potential school-age start, with less variety of real-time decisions under the historical C2 criterion. High physical workload but less situational variability under the original C2; conditions are seasonal.
 
 ## Practical choices for families
 
@@ -143,11 +143,11 @@ For 12–14 years old, it is important to be able to enter at an amateur level w
 
 School timetable
 
-A section that is theoretically suitable, but requires 5 evenings a week and a long commute, loses out in the practical scenario.
+A club requiring five evenings a week or a long commute may not fit the school-life scenario.
 
 A trial lesson is more important than a table
 
-The rating helps to select the 2–3 format, but the child’s motivation and the quality of a particular coach are often more important than the difference of a few points.
+The ranking helps shortlist two or three options, but the child’s motivation and the quality of a particular coach are often more important than the difference of a few points.
 
 Not to be confused with “development of intelligence”
 
@@ -223,7 +223,7 @@ Orientation received a maximum of 25/25 for the intellectual component and 19/20
 
 ### Is it possible to start such a sport at 12–14 years old?
 
-For the amateur level and first-time competitions in many sports, this is realistic. A high sports result depends on the discipline, the child and the section program.
+For the amateur level and initial competitions in many sports, this is realistic. Competitive progress depends on the specific sport, the child and the club's training programme.
 
 ### Why is football higher than tennis with the same 86 scores?
 
