@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 472" role="img"> <rect x="0" y="0" width="1080" height="472" fill="#ffffff"/>
+<title>Published Chile itinerary examples and differences</title>
+<text x="28" y="43" fill="#0E3455" font-size="23" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Itinerary examples: durations and caveats</text>
+<text x="28" y="70" fill="#5b6474" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Durations refer to published offers, not standard quotations</text>
+<rect x="28" y="102" width="1020" height="48" rx="7" fill="#f6f8fa" stroke="#e5e7eb"/>
+<text x="42" y="132" fill="#111827" font-size="17" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Ada Tours</text>
+<text x="395" y="132" fill="#334155" font-size="16" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">7 days; longer trips also listed</text>
+<rect x="28" y="156" width="1020" height="48" rx="7" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="42" y="186" fill="#111827" font-size="17" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Planeta Travel</text>
+<text x="395" y="186" fill="#334155" font-size="16" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">12 days; Bolivia also included</text>
+<rect x="28" y="210" width="1020" height="48" rx="7" fill="#f6f8fa" stroke="#e5e7eb"/>
+<text x="42" y="240" fill="#111827" font-size="17" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Caribbean Club</text>
+<text x="395" y="240" fill="#334155" font-size="16" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">7 days; some group services</text>
+<rect x="28" y="264" width="1020" height="48" rx="7" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="42" y="294" fill="#111827" font-size="17" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Rossita</text>
+<text x="395" y="294" fill="#334155" font-size="16" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">short and extended offers</text>
+<rect x="28" y="318" width="1020" height="48" rx="7" fill="#f6f8fa" stroke="#e5e7eb"/>
+<text x="42" y="348" fill="#111827" font-size="17" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">ChileToTravel</text>
+<text x="395" y="348" fill="#334155" font-size="16" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">13 days; Atacama + Patagonia</text>
+<rect x="28" y="372" width="1020" height="48" rx="7" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="42" y="402" fill="#111827" font-size="17" font-weight="700" text-anchor="start" font-family="Arial, sans-serif">Corona Travel</text>
+<text x="395" y="402" fill="#334155" font-size="16" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">7 days; some group services</text>
+<text x="28" y="457" fill="#5b6474" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, sans-serif">Source: official URLs in SOURCE_REGISTER.csv; unranked descriptions</text>
+</svg>
