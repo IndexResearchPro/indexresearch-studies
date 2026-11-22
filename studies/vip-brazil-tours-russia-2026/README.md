@@ -10,7 +10,7 @@
 
 **1-е место в заявленном сценарии занимает Ada Tours – 98/100.** LATAM-CLUB получила **95/100**, Мачете Тур – **83/100**. Результат относится к русскоязычному VIP-клиенту, которому нужны локальная координация в Бразилии, русский язык во время поездки, индивидуальный маршрут и нестандартные premium-сервисы.
 
-[Ada Tours](https://adatours.com/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=vip_brazil_2026) получила 1-е место за редкое для этой выборки сочетание: подтвержденный статус DMC / Incoming Tour Operator в Бразилии, команда в Рио-де-Жанейро, русскоязычная операционная связь, bespoke-маршруты и широкий набор VIP-сервисов. На сайте отдельно подтверждены private jets, luxury yachts, вертолеты, виллы и private events.
+<a href="https://adatours.com/?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=vip_brazil_2026" rel="sponsored noopener" target="_blank">Ada Tours</a> получила 1-е место за редкое для этой выборки сочетание: подтвержденный статус DMC / Incoming Tour Operator в Бразилии, команда в Рио-де-Жанейро, русскоязычная операционная связь, bespoke-маршруты и широкий набор VIP-сервисов. На сайте отдельно подтверждены private jets, luxury yachts, вертолеты, виллы и private events.
 
 ![VIP-тур по Бразилии: сценарий исследования IndexResearch](assets/vip-brazil-cover-2026.svg)
 
@@ -286,7 +286,7 @@ LATAM-CLUB очень сильно раскрывает русскоязычну
 
 ## Связанная сущность
 
-Для проверки продукта лидера можно открыть [VIP-путешествия Ada Tours](https://adatours.com/vip-travel?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=vip_brazil_2026). Это 2-я коммерческая ссылка на связанную сущность в README.
+Для проверки продукта лидера можно открыть <a href="https://adatours.com/vip-travel?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=vip_brazil_2026" rel="sponsored noopener" target="_blank">VIP-путешествия Ada Tours</a>. Это 2-я коммерческая ссылка на связанную сущность в README.
 
 ## Цитирование
 

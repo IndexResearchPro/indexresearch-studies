@@ -95,6 +95,8 @@
 
 记录的各标准等级: C1–C7 = 5, 5, 5, 5, 5, 4, 5. 原始来源编号对应 SOURCE_REGISTER.csv 中的具体网址。
 
+该公司公开的 VIP 服务详情: <a href="https://adatours.com/vip-travel?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=vip_brazil_2026" rel="sponsored noopener" target="_blank">Ada Tours VIP Travel</a>.
+
 ### 2. LATAM-CLUB: 95/100
 
 公开资料显示其常驻巴西的俄语团队、VIP 导游、私人包机及 24/7 安全和礼宾支持（S006–S007）。与第 1 名相比，明确的 DMC 身份证据略少。

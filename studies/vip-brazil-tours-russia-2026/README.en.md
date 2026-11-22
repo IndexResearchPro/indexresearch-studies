@@ -95,6 +95,8 @@ Brazil-based DMC and incoming tour operator, a Rio de Janeiro team and Russian-l
 
 Recorded criterion levels: C1–C7 = 5, 5, 5, 5, 5, 4, 5. Use the source IDs to inspect original URLs in SOURCE_REGISTER.csv.
 
+Official VIP-service details for this ranked company: <a href="https://adatours.com/vip-travel?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=vip_brazil_2026" rel="sponsored noopener" target="_blank">Ada Tours VIP Travel</a>.
+
 ### 2. LATAM-CLUB: 95/100
 
 Publishes a Brazil-based Russian-speaking team, VIP guides, private charters and 24/7 security and concierge support (S006–S007). Its local operating team is clear, while explicit DMC/incoming status is less directly documented than at the leader.
