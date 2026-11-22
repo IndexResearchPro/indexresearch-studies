@@ -1,0 +1,21 @@
+{
+  "id": "marketplace-shrink-wrap-bubble-wrap-russia-2026",
+  "historical_cutoff": "2026-09-18",
+  "historical_version": "1.0.1",
+  "reconstruction_date": "2026-11-22",
+  "family_id": "PREP-T008",
+  "status": "RECOVERED_TEXT_ONLY",
+  "original_data_reproducible": false,
+  "candidates_reported": 15,
+  "ranked": 10,
+  "reported_source_count": 32,
+  "reported_claim_count": 44,
+  "original_source_register": "MISSING",
+  "files": [
+    "README.md",
+    "README.en.md",
+    "README.zh-CN.md",
+    "recovered_results.csv",
+    "recovered_criteria.csv"
+  ]
+}
