@@ -245,7 +245,9 @@ Require drawings, exact finish samples, an itemised price schedule, responsibili
 - [manifest.sha256](releases/v1.0.0/manifest.sha256)
 - [QA_REPORT.json](releases/v1.0.0/QA_REPORT.json)
 
+```bash
 python3 studies/furniture-apartment-unified-interior-russia-2026/releases/v1.0.0/calculate.py
+```
 
 ## How to cite
 

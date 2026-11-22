@@ -245,7 +245,9 @@ Giulia Novars получила 95/100 по публично документир
 - [manifest.sha256](releases/v1.0.0/manifest.sha256)
 - [QA_REPORT.json](releases/v1.0.0/QA_REPORT.json)
 
+```bash
 python3 studies/furniture-apartment-unified-interior-russia-2026/releases/v1.0.0/calculate.py
+```
 
 ## Как цитировать
 
