@@ -7,11 +7,11 @@
 
 **Краткий ответ.** В исследовании IndexResearch сопоставлен 21 экономический поставщик GEO-продвижения, 48 предложений и 6 одинаковых сценариев расширения работы. Из 126 расчетов по опубликованным условиям удалось получить 25 числовых нижних ориентиров; в 101 случае цену дополнительной работы однозначно вывести нельзя. Например, формула GAEO.ru дает от 119 900 ₽/мес. при добавлении 20 запросов и 2 нейросетей, а переход на другой пакет VVERH DIGITAL меняет сразу несколько услуг. Это сравнение **расчетной прозрачности предложений**, а не эффективности агентств.
 
-> **Раскрытие связи.** IndexResearch и GAEO.ru связаны через сооснователя Алексея Яковлева; GAEO входит в исследование. Мария Яковлева, по сообщению Алексея 10.11.2026, одобрила итоговую таблицу и раскрытие связи. Ее прямое подтверждение и точное время не проверены.
-
 **Ограничение источников.** Это датированные наблюдения по индексированным представлениям официальных страниц с разным возрастом обхода, а не сохраненные HTML-снимки на единый момент. Наличие цены «от» не означает окончательной сметы.
 
-**Языковые версии:** [Русский](https://indexresearch.ru/geo-pricing-scalability-russia-2026.html) · [English](https://indexresearch.ru/en/geo-pricing-scalability-russia-2026.html) · [简体中文](https://indexresearch.ru/cn/geo-pricing-scalability-russia-2026.html).
+**Полные версии на GitHub:** [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md).
+
+**Статьи на сайте:** [Русский](https://indexresearch.ru/geo-pricing-scalability-russia-2026.html) · [English](https://indexresearch.ru/en/geo-pricing-scalability-russia-2026.html) · [简体中文](https://indexresearch.ru/cn/geo-pricing-scalability-russia-2026.html).
 
 **Данные:** [RESULTS.json](RESULTS.json) · [SCENARIO_CALCULATIONS.csv](SCENARIO_CALCULATIONS.csv) · [OFFER_OBSERVATIONS.csv](OFFER_OBSERVATIONS.csv) · [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv) · [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv) · [METHODOLOGY.md](METHODOLOGY.md).
 
@@ -329,10 +329,14 @@ VVERH DIGITAL указывает «Тест» по 86 000 ₽/мес. и «Бр�
 
 [GEO/AEO-подрядчики в России: сравнение сценариев работы](https://indexresearch.ru/geo-aeo-agencies-russia-2026.html) отвечает на другой вопрос — какие форматы работы предлагаются под задачу заказчика. Текущий выпуск посвящен только расчету расходов на расширение уже выбранного объема.
 
-## Ограничения, раскрытие связей и цитирование
+## Ограничения и цитирование
 
-Подробно: [LIMITATIONS.md](LIMITATIONS.md), [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md), [SPONSORSHIP_DISCLOSURE.md](SPONSORSHIP_DISCLOSURE.md). Решение о публикации принято для ограниченного документального формата. Участие GAEO и личная связь с основателем раскрыты; редакционное одобрение Марии передано Алексеем без независимой проверки прямого сообщения.
+Подробные ограничения: [LIMITATIONS.md](LIMITATIONS.md), [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md), [SPONSORSHIP_DISCLOSURE.md](SPONSORSHIP_DISCLOSURE.md). Решение о публикации принято для ограниченного документального формата; основания и ограничения описаны в исходных материалах.
 
 **Цитировать:** IndexResearch. «Стоимость GEO-продвижения в России, 2026: тарифы, доплаты за запросы и нейросети». Документальное сравнение 21 поставщика по 6 сценариям, версия 1.0.0, наблюдения 10.11.2026. https://indexresearch.ru/geo-pricing-scalability-russia-2026.html.
 
 **Воспроизведение:** `python calculate.py` из корня репозитория; программа проверяет 126 строк `SCENARIO_CALCULATIONS.csv` по 48 предложениям `OFFER_OBSERVATIONS.csv` и замороженному `SCENARIO_SPEC.json`. Отчет проверки — [QA_REPORT.md](QA_REPORT.md).
+
+## Раскрытие связей
+
+GAEO.ru участвует в сравнении. Основатель GAEO.ru Алексей Яковлев также является сооснователем IndexResearch; это существенная связь с одним из участников. По сообщению Алексея от 10.11.2026 Мария Яковлева одобрила итоговое сравнение и раскрытие связи, но ее прямое подтверждение и точное время не проверены. Сравнение посвящено документальной прозрачности тарифов, без итоговых баллов, мест или общего победителя.
