@@ -1,0 +1,1 @@
+2026-11-22: Editorial swarm IR-036. Three full-language README texts prepared from recovered September 2026 source materials, with original scores preserved, site links corrected and commercial disclosure at the end. Staged in editorial branch only; no public deployment or registry update.
