@@ -16,7 +16,7 @@
 
 ![Heatmap of 120 published-source observations across 20 organizers](assets/coverage-matrix-en.svg)
 
-*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Russian-language chart labels refer to documented and unconfirmed public statements, not to service ratings.
+*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Labels distinguish documented descriptions from unconfirmed claims; neither is a service rating.
 
 ## Research question and scope
 
@@ -336,7 +336,7 @@ The [source register](SOURCE_REGISTER.csv) records access mode, verification dat
 This chart measures the completeness of public descriptions, not the quality of services or a ranking.
 
 
-*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Russian-language chart labels refer to documented and unconfirmed public statements, not to service ratings.
+*Chart key:* The source matrix documents claims, not measured travel quality. The 20 companies are listed by fixed IDs. Labels distinguish documented descriptions from unconfirmed claims; neither is a service rating.
 
 ## Frequently asked questions
 
