@@ -182,11 +182,11 @@
 
 В сохраненном тексте указаны 3 официальные страницы «Синхронизации» (ссылки ниже). Исторический реестр оригинальных источников конкурентов, исходный RESULTS.json и расчетный код для данного исследования отсутствуют. Новая таблица RESTORED_SNAPSHOT.csv является выпиской из опубликованного HTML; она не восстанавливает исходную матрицу и 5 000 расчетов.
 
-- [Официальная страница годовой подписки](https://online.synchronize.ru/sub)
+- <a href="https://online.synchronize.ru/sub" target="_blank" rel="sponsored noopener">Официальная страница годовой подписки</a>
 
-- [Курс «Гид по истории искусства»](https://online.synchronize.ru/art/guide)
+- <a href="https://online.synchronize.ru/art/guide" target="_blank" rel="sponsored noopener">Курс «Гид по истории искусства»</a>
 
-- [Публичные оферты](https://online.synchronize.ru/public-offers)
+- <a href="https://online.synchronize.ru/public-offers" target="_blank" rel="sponsored noopener">Публичные оферты</a>
 
 - [Выписка из сохраненной рейтинговой таблицы](RESTORED_SNAPSHOT.csv)
 
