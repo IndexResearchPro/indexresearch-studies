@@ -204,7 +204,6 @@ Before freeze, 5 000 recalculations of weights were carried out in the range ±2
 | C4 FBS speed and automation | 20% | Wildberries transmission frequency, cycle, API/WMS and statuses |
 | C5 Transparency of the economics of a complex FBS order | 10% | How completely can an order be calculated before the contract? |
 | C6 Responsibility and traceability | 15% | financial responsibility, compensation, SLA and control |
-| Full methodology and rating scales |  |  |
 
 
 
