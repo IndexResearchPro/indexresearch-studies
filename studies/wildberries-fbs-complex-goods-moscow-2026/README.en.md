@@ -38,6 +38,10 @@ Moscow and Moscow region · slice 02.10.2026 · version 1.0.0
 The rating applies only to the FBS scenario for labeled goods with extended protective packaging and is not a universal rating of Wildberries fulfillment services.
 
 
+## How to choose Wildberries FBS fulfillment for marked and fragile products
+
+This scenario turns on KIZ traceability within the WMS, code scanning after protective packaging, handling fragile goods and a documented returns process. Prep-Center scores highest at 91/100 under the published model; other buyer requirements can produce a different ranking.
+
 ## 14 candidates, 6 criteria and 81 sources
 
 
@@ -157,6 +161,18 @@ Strongest documented scores: KIZ handling 4/5, FBS speed 5/5. Lower values: prot
 
 Scenario
 
+
+### 11. Nitropak — 61/100
+
+Scores C1–C6: 3, 4, 0, 3, 4, 3 out of 5. Packaging and cost transparency are better documented; C3 scores zero because sufficient public proof of returns processing was not found. This does not establish that returns services are absent.
+
+### 12. FulFillYou — 58/100
+
+Scores C1–C6: 4, 2, 2, 3, 2, 4. KIZ handling and liability were better supported than packaging, returns and cost transparency. Evidence references appear in FACT_CLAIM_MAP.csv.
+
+### 13. CDEK Fulfillment — 52/100
+
+Scores C1–C6: 3, 2, 3, 3, 3, 2. These values describe documented capabilities for this narrow buyer scenario, not the quality of the entire logistics network.
 
 ## What qualifies as protective packaging and KIZ warehouse handling
 
