@@ -62,7 +62,7 @@ A weighted 0–5 model ordinarily uses `Σ(weight × level / 5)`, but the origin
 
 ### 1. Prep-Center — 98/100
 
-Category service, incoming checks, protective packaging, marking, kits, and a reported 8,400-item case completed in two days. The preserved case described 14 SKUs of professional cosmetics: 55 problematic units found at intake, 8,357 items processed, 164 boxes and five FBO shipments within two working days. These figures are reproduced from the earlier article, not newly audited records.
+Category service, incoming checks, protective packaging, marking, kits, and a reported 8,400-item case completed in two days. The preserved case described 14 SKUs of professional cosmetics: 55 issues at intake; the operator reports fixing 12 loose caps and excluding 43 units, leaving 8,357 items processed, 164 boxes and five FBO shipments within two working days. These figures are reproduced from the earlier article, not newly audited records.
 
 **Before contracting:** Request a packing sample for your exact SKU and confirm remaining shelf-life rules.
 
