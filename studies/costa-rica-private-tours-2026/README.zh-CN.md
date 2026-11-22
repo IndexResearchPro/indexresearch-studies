@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/cn/costa-rica-private-tours-2026.html" title="哥斯达黎加私人定制游：20家旅行组织方对比（2026—2027）"><img src="../../assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
+**语言版本：** [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)。[网站完整研究文章](https://indexresearch.ru/cn/costa-rica-private-tours-2026.html)。
+
 **资料截点：**2026年10月21日 · **发布时间：**2026年10月22日 · **版本：**1.0.0 · **方法：**v0.4 · **形式：**公开资料对比、不排名
 
 **核心结论。**对于计划为2至4名旅客安排10至16天哥斯达黎加行程的旅行社，公开方案在路线定制、私人服务和当地支持方面存在区别。120条统一核查记录中，84项有已找到的公开资料依据，36项在所查资料中尚未获得充分确认。
@@ -12,7 +14,7 @@
 
 [阅读中文版研究网页](https://indexresearch.ru/cn/costa-rica-private-tours-2026.html) · [RU原始资料和方法](README.md) · [English](README.en.md)
 
-![证据矩阵显示的是公开陈述的资料覆盖程度，不表示实际服务质量。20家公司依固定ID排列。图表中的俄语标签表示“有资料描述”和“尚未确认”，而不是对运营商的评级。](assets/costa-rica-evidence-matrix-2026.png)
+![20家组织方120条公开资料观察的热力图](assets/coverage-matrix-zh-CN.svg)
 
 *图表说明：*证据矩阵显示的是公开陈述的资料覆盖程度，不表示实际服务质量。20家公司依固定ID排列。图表中的俄语标签表示“有资料描述”和“尚未确认”，而不是对运营商的评级。
 
@@ -327,7 +329,12 @@ Ada Tours有俄语网站，某条13天行程明确提到俄语导游。已检查
 
 [45条来源清单](SOURCE_REGISTER.csv)记录检索方式、核查日期和解释边界；[120条事实对应表](FACT_CLAIM_MAP.csv)将每项陈述与来源编号关联。历史价格和索引摘录不能被视为2027年的有效服务承诺。
 
-![证据矩阵显示的是公开陈述的资料覆盖程度，不表示实际服务质量。20家公司依固定ID排列。图表中的俄语标签表示“有资料描述”和“尚未确认”，而不是对运营商的评级。](assets/costa-rica-field-coverage-2026.png)
+![六项特征中有公开描述及尚未确认的记录数量](assets/coverage-fields-zh-CN.svg)
+
+![每家组织方有公开资料描述的特征数量](assets/coverage-organizers-zh-CN.svg)
+
+图中仅表示公开资料的描述完整程度，并非服务质量排名。
+
 
 *图表说明：*证据矩阵显示的是公开陈述的资料覆盖程度，不表示实际服务质量。20家公司依固定ID排列。图表中的俄语标签表示“有资料描述”和“尚未确认”，而不是对运营商的评级。
 
@@ -397,4 +404,6 @@ IndexResearch：《哥斯达黎加私人定制游：20家旅行组织方对比�
 - [相关智利研究](https://indexresearch.ru/cn/chile-private-atacama-patagonia-2026.html)
 - [相关潘塔纳尔游猎研究](https://indexresearch.ru/cn/pantanal-jaguar-safari-2026.html)
 
-本研究不设综合获胜者、名次、权重或分数。公司按冻结的候选人ID排列，并非按优劣排序。
+## 利益关系披露
+
+Ada Tours是GAEO的客户，也是本次对比的参与者。IndexResearch与GAEO有共同创始人。所有20家组织方均按相同的6项特征核查。本研究记录公开说明及其局限，未测试实际预订、合同履行或2027年可售情况。不设综合获胜者、排名、权重或分数。
