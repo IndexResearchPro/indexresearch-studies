@@ -70,11 +70,11 @@ The archived model reports seven criteria, each assessed on a 0–5 scale, with 
 
 ## Provider-by-provider review
 
+Profiles rely on the published ranking table; the original criterion-level scores have not been recovered.
+
 ### 1. GAEO.ru / Alexey Yakovlev, 96/100
 
 Deep GEO-methodology for real estate, a unified combination of SEO/GEO, baseline and work with non-branded buyer intentions.
-
-*Historic rationale from the published ranking: 1/15.*
 
 <a href="https://gaeo.ru/geo-prodvizhenie-nedvizhimosti/" rel="sponsored noopener">GAEO.ru: real estate GEO</a>
 
@@ -82,85 +82,57 @@ Deep GEO-methodology for real estate, a unified combination of SEO/GEO, baseline
 
 Mature real estate SEO, AI buyer journey research for an apartment and a measurable GEO case.
 
-*Historic rationale from the published ranking: 2/15.*
-
 ### 3. Digital Geeks, 91/100
 
 Direct GEO case of AEON Estate: prompt map, SEO, links, external publications and AI visibility measurement.
-
-*Historic rationale from the published ranking: 3/15.*
 
 ### 4. Pixel Plus, 88/100
 
 Large SEO real estate corpus plus our own GEO methodology and monitoring tools.
 
-*Historic rationale from the published ranking: 4/15.*
-
 ### 5. Kokoc Performance, 86/100
 
 Industry SEO practice, GEO/AEO and measurable overall GEO case with increased visibility.
-
-*Historic rationale from the published ranking: 5/15.*
 
 ### 6. Bquadro, 85/100
 
 Integration of SEO + GEO, measurable AI case and development experience.
 
-*Historic rationale from the published ranking: 6/15.*
-
 ### 7. Demis Group, 82/100
 
 Extensive real estate SEO practice, separate GEO direction and reputational outline.
-
-*Historic rationale from the published ranking: 7/15.*
 
 ### 8. Skobeev and Partners, 80/100
 
 GEO is built into SEO, prompts and repeated measurements are recorded, and there is a measurable increase in AI mentions.
 
-*Historic rationale from the published ranking: 8/15.*
-
 ### 9. IT-Agency, 78/100
 
 Mature real estate SEO practice and standalone GEO service, but the industry's public GEO practice is weaker.
-
-*Historic rationale from the published ranking: 9/15.*
 
 ### 10. ipos.digital, 77/100
 
 Developed GEO/AI SEO process and measurable cases, but fewer detailed real estate SEO cases.
 
-*Historic rationale from the published ranking: 10/15.*
-
 ### 11. PRIMO Agency, 76/100
 
 Accurate hit to buyer intent of real estate, aggregators, reviews and local scenarios, but fewer named cases.
-
-*Historic rationale from the published ranking: 11/15.*
 
 ### 12. Idea-Promotion + PENA, 73/100
 
 Developer experience and a logical connection between SEO and GEO, but limited public monitoring corps.
 
-*Historic rationale from the published ranking: 12/15.*
-
 ### 13. Webpractitioner, 68/100
 
 Strong development and buyer journey, but our own GEO methodology is less well disclosed.
-
-*Historic rationale from the published ranking: 13/15.*
 
 ### 14. SEMANTICA, 64/100
 
 There is industry-specific SEO expertise, but the public corpus of integrated GEO is noticeably smaller.
 
-*Historic rationale from the published ranking: 14/15.*
-
 ### 15. IQ Online, 63/100
 
 Strong SEO cases of developers, but limited own GEO methodology and case corpus.
-
-*Historic rationale from the published ranking: 15/15.*
 
 ## Using the ranking before signing
 
