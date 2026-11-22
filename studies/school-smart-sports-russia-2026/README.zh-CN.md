@@ -45,7 +45,7 @@
 
 在 86/100 相等的情况下，根据预定规则，足球高于网球：足球 23/25 为 C2，网球 22/25。点数没有改变。
 
-## 为什么第一个 3 项运动获得最高评分
+## 前三名的具体优势与限制
 
 1。定向运动 · 95/100
 
@@ -61,9 +61,9 @@
 
 为什么篮球和攀岩的排名较低？
 
-两者都输入了 90/100，但解决问题的方式不同。篮球在C2方面更强，攀岩在学校兼容性方面更强。如果抢七局结果相同，则篮球更胜一筹。
+两者都输入了 90/100，但解决问题的方式不同。篮球在C2方面更强，攀岩在学校兼容性方面更强。如果同分排序规则结果相同，则篮球更胜一筹。
 
-## 5“移动时思考”标准
+## 运动中思考与决策的5项评分标准
 
 
 
@@ -173,7 +173,7 @@
 
 - [儿童青少年开放式技能培训的荟萃分析](https://pubmed.ncbi.nlm.nih.gov/39967690/) ——效果的异质性和解释的局限性。
 
-- [International Orienteering Federation: Orienteering](https://orienteering.sport/orienteering/) — 驾驶时的耐力运动、地图阅读和路线选择。
+- [International Orienteering Federation: Orienteering](https://orienteering.sport/orienteering/) — 运动时的耐力运动、地图阅读和路线选择。
 
 - [乒乓球研究](https://pubmed.ncbi.nlm.nih.gov/40992678/) — 旋转和进给方向的预测。
 
@@ -187,15 +187,15 @@
 
 ## 如果选择运动的任务不同
 
-[最适合全家人的运动](/cn/family-sports-russia-2026.html)
+[最适合全家人的运动](https://indexresearch.ru/cn/family-sports-russia-2026.html)
 
 当父母也想自己参加一场运动会时。
 
-[适合大家庭的运动](/cn/large-family-sports-russia-2026.html)
+[适合大家庭的运动](https://indexresearch.ru/cn/large-family-sports-russia-2026.html)
 
 当为几个孩子调整部分、日历和费用更重要时。
 
-[所有IndexResearch](/cn/ratings/)
+[所有IndexResearch](https://indexresearch.ru/cn/ratings/)
 
 其他基于场景的体育赛事评分等等。
 
@@ -227,7 +227,7 @@
 
 ### 为什么在 86 分数相同的情况下，足球比网球更高？
 
-根据预先公布的抢七局，C2 较高的运动排名较高。足球有 23/25，网球有 22/25。
+根据预先公布的同分排序规则，C2 较高的运动排名较高。足球有 23/25，网球有 22/25。
 
 ### 是否考虑了科学文献？
 

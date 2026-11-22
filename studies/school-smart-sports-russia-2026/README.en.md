@@ -24,7 +24,7 @@ The study addresses Russian families with school-age children. Ten physical disc
 | Original code and calculation | Unavailable |
 | Monte Carlo trials | Not verified |
 
-## Full TOP-10 physical sports
+## Complete ranking of 10 physical sports
 
 
 
@@ -39,13 +39,13 @@ The study addresses Russian families with school-age children. Ten physical disc
 | 7 | Judo | 88/100 | Constant reaction to the opponent’s actions and high workload, but the start and competitive environment are more demanding. |
 | 8 | Football | 86/100 | Strong open-skill environment: space, partners and rivals constantly change decisions; lower in school compatibility. |
 | 9 | Tennis | 86/100 | Requires prediction of the opponent and trajectory, but is inferior to football in terms of C2 and has a higher everyday threshold. |
-| 10 | Ski racing | 83/100 | Maximum physical activity and a good start at school age, but the situation is less variable for C2. |
+| 10 | Cross-country skiing | 83/100 | Maximum physical activity and a good start at school age, but the situation is less variable for C2. |
 
 
 
 With equal 86/100, football is higher than tennis according to a predetermined rule: C2 for football 23/25, for tennis 22/25. The points did not change.
 
-## Why the first 3 sports received maximum ratings
+## Why orienteering, table tennis and badminton scored highest
 
 1. Orienteering · 95/100
 
@@ -63,17 +63,17 @@ Why are basketball and rock climbing lower?
 
 Both typed 90/100, but solve the problem differently. Basketball is stronger in C2, rock climbing is stronger in school compatibility. If the tie-break results are equal, basketball is higher.
 
-## 5 "think while moving" criteria
+## Five weighted criteria for thinking while moving
 
 
 
 | Criterion | Weight | What does it check? |
 | --- | --- | --- |
-| School compatible | 30% | How realistic is it to combine classes with the school week, travel and homework? |
-| Intelligence while driving | 25% | New information, forecasting, action selection, reading the opponent or environment in real time. |
+| Compatibility with school timetable | 30% | How realistic is it to combine classes with the school week, travel and homework? |
+| Decision-making during movement | 25% | New information, forecasting, action selection, reading the opponent or environment in real time. |
 | Physical activity | 20% | How much a sport requires full physical work, and not just precision or concentration. |
 | Availability of starting at school age | 15% | Is it possible to start at 10–14 years without the mandatory years of early training. |
-| Household availability | 10% | Infrastructure, equipment and practical entry threshold for a family. |
+| Practical accessibility | 10% | Infrastructure, equipment and practical entry threshold for a family. |
 
 
 
@@ -187,15 +187,15 @@ In September 2026 of the year, separate materials on this topic were published o
 
 ## If the task of choosing a sport is different
 
-[The best sports for the whole family](/en/family-sports-russia-2026.html)
+[The best sports for the whole family](https://indexresearch.ru/en/family-sports-russia-2026.html)
 
 When parents also want to participate in one sports day themselves.
 
-[Sports for large families](/en/large-family-sports-russia-2026.html)
+[Sports for large families](https://indexresearch.ru/en/large-family-sports-russia-2026.html)
 
 When it is more important to scale sections, calendar and expenses for several children.
 
-[All Index Research](/en/ratings/)
+[All Index Research](https://indexresearch.ru/en/ratings/)
 
 Other scenario-based sports ratings and more.
 
