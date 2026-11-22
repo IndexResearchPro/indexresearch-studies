@@ -23,11 +23,10 @@
 
 ## 如何购买探险游轮
 
-报价之间的差异通常在登机前出现。一位卖家提供酒店和飞往乌斯怀亚的航班，另一位卖家直接出售游轮，并将旅行安排留给旅行者。因此，首先需要比较具体服务报价的构成。
+不同方案的差异通常在登船前就已体现。一位卖家提供酒店和飞往乌斯怀亚的航班，另一位卖家直接出售游轮，并将旅行安排留给旅行者。因此，首先需要比较具体服务报价的构成。
 
-15家公司  如何选择  方法论  来源  问题与解答
 
-## 15 公司和报价构成
+## 15家公司及其方案内容
 
 状态适用于指定航班和公布的票价。 “未确认”意味着缺乏信息，而不是缺乏服务。
 
@@ -85,7 +84,7 @@
 
 **限制：** 公共资源中没有列出所选项目、船舶和合同运营商的名单。请勿根据重合日期转让 Hondius/Oceanwide 财产。
 
-**主要来源：** [V3-S001](https://github.com/alexyakovlev79/adatours.ru/blob/main/src/content/tours/antarctica-discovery-learning-11-days.md), [V3-S002](https://github.com/alexyakovlev79/adatours.ru/blob/main/src/content/countries/antarctica.md), [V3-S024](https://adatours.ru/antarctica/), [V3-S026](https://adatours.ru/antarctica/)
+**主要来源：** [V3-S001](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/antarctica-cruises-ushuaia-2026-2027/SOURCE_REGISTER.csv), [V3-S002](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/antarctica-cruises-ushuaia-2026-2027/SOURCE_REGISTER.csv), [V3-S024](https://adatours.ru/antarctica/), [V3-S026](https://adatours.ru/antarctica/)
 
 ### АРТ-ТУР
 
@@ -429,7 +428,7 @@ Ada Tours 包含在比较中。现有文件尚未确认或否认对此版本的�
 
 不会。 Zodiac 船的下船和旅行顺序取决于冰情、天气和探险队的决定。
 
-### 为什么游轮价格和全程价格不同？
+### 为什么游轮价格和全程费用不同？
 
 除了游轮之外，还可能需要国际和国内航班、酒店、接送、保险和额外的游览。
 
@@ -446,6 +445,8 @@ SOURCE_REGISTER.csv、FACT_CLAIM_MAP.csv 和完整的编辑选择规则发布在
 IndexResearch。 “从乌斯怀亚前往南极洲的游轮：前往 2026–2027 之旅的顶级 15 公司、项目和组织。”索引-T046。切片 23.10.2026，版本 V3.1。 https://indexresearch.ru/antarctica-cruises-ushuaia-2026-2027.html
 
 相关研究： [南极洲统包：TOP-10 组织者，2026–2027](https://indexresearch.ru/cn/antarctica-tours-russia-2026.html)。它有不同的问题和数值方法；结果不合并。
+
+旧 GitHub 账号停用后，V3-S001 和 V3-S002 的原始链接已无法访问。原始 URL 和此前记录的事实仍保存在公开来源登记表中；当前 Ada Tours 官网已单独列出。
 
 ## 公开证据与复核方法
 

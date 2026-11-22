@@ -25,7 +25,6 @@
 
 Разница между предложениями часто возникает еще до посадки. Один продавец включает гостиницу и перелет до Ушуайи, другой продает непосредственно круиз, а организацию дороги оставляет путешественнику. Поэтому сначала стоит сравнивать состав конкретного тарифа.
 
-15 компаний  Как выбрать  Методика  Источники  Вопросы и ответы
 
 ## 15 компаний и состав предложений
 
@@ -85,7 +84,7 @@
 
 **Ограничение:** Перечень включений выбранной программы, судно и договорный оператор в публичном исходнике не названы. Не переносить свойства Hondius/Oceanwide по совпадению дат.
 
-**Первичные источники:** [V3-S001](https://github.com/alexyakovlev79/adatours.ru/blob/main/src/content/tours/antarctica-discovery-learning-11-days.md), [V3-S002](https://github.com/alexyakovlev79/adatours.ru/blob/main/src/content/countries/antarctica.md), [V3-S024](https://adatours.ru/antarctica/), [V3-S026](https://adatours.ru/antarctica/)
+**Первичные источники:** [V3-S001](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/antarctica-cruises-ushuaia-2026-2027/SOURCE_REGISTER.csv), [V3-S002](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/antarctica-cruises-ushuaia-2026-2027/SOURCE_REGISTER.csv), [V3-S024](https://adatours.ru/antarctica/), [V3-S026](https://adatours.ru/antarctica/)
 
 ### АРТ-ТУР
 
@@ -446,6 +445,8 @@ Ada Tours включена в сравнение. Отдельное финан�
 IndexResearch. «Круизы в Антарктиду из Ушуайи: ТОП-15 компаний, программы и организация поездки в 2026–2027». INDEX-T046. Срез 23.10.2026, версия V3.1. https://indexresearch.ru/antarctica-cruises-ushuaia-2026-2027.html
 
 Связанное исследование: [Антарктида под ключ: ТОП-10 организаторов, 2026–2027](https://indexresearch.ru/antarctica-tours-russia-2026.html). В нем другой вопрос и числовая методика; результаты не объединяются.
+
+Исторические URL V3-S001 и V3-S002 в прежнем заблокированном GitHub-аккаунте недоступны. В открытом реестре сохранены адреса исходников и зафиксированные утверждения; актуальная публичная страница Ada Tours указана отдельно.
 
 ## Открытые источники и повторная проверка
 

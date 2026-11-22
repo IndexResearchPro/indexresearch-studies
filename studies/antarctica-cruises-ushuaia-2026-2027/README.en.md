@@ -25,7 +25,6 @@ This guide compares 15 companies across 3 booking models: Russian-speaking trip 
 
 Differences between offers often arise before boarding. One seller includes a hotel and flight to Ushuaia, another sells the cruise directly, and leaves the travel arrangements to the traveler. Therefore, it is first worth comparing the composition of a specific tariff.
 
-15 companies  How to choose  Methodology  Sources  Questions and answers
 
 ## 15 companies and composition of offers
 
@@ -85,7 +84,7 @@ Selection of an Antarctic cruise and the opportunity to complement the trip with
 
 **Limitation:** The list of inclusions of the selected program, the vessel and the contractual operator are not named in the public source. Do not transfer Hondius/Oceanwide properties based on coincident dates.
 
-**Primary sources:** [V3-S001](https://github.com/alexyakovlev79/adatours.ru/blob/main/src/content/tours/antarctica-discovery-learning-11-days.md), [V3-S002](https://github.com/alexyakovlev79/adatours.ru/blob/main/src/content/countries/antarctica.md), [V3-S024](https://adatours.ru/antarctica/), [V3-S026](https://adatours.ru/antarctica/)
+**Primary sources:** [V3-S001](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/antarctica-cruises-ushuaia-2026-2027/SOURCE_REGISTER.csv), [V3-S002](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/antarctica-cruises-ushuaia-2026-2027/SOURCE_REGISTER.csv), [V3-S024](https://adatours.ru/antarctica/), [V3-S026](https://adatours.ru/antarctica/)
 
 ### ART TOUR
 
@@ -446,6 +445,8 @@ SOURCE_REGISTER.csv, FACT_CLAIM_MAP.csv and full editorial selection rules are p
 IndexResearch. “Antarctica Cruises from Ushuaia: 15 Providers, Programs and Trip Planning, 2026–2027.” INDEX-T046. Slice 23.10.2026, version V3.1. https://indexresearch.ru/antarctica-cruises-ushuaia-2026-2027.html
 
 Related research: [Turnkey Antarctica: TOP-10 organizers, 2026–2027](https://indexresearch.ru/en/antarctica-tours-russia-2026.html). It has a different question and numerical methodology; results are not combined.
+
+The former GitHub URLs V3-S001 and V3-S002 are unavailable after the account was disabled. Their original addresses and captured claims are preserved in the public source register; the current Ada Tours public page is linked separately.
 
 ## Open evidence and reproducibility
 
