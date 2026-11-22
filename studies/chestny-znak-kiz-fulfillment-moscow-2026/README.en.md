@@ -31,6 +31,33 @@ Model batch: 1 000–10 000 physical units, 1–5 SKU. The unit of comparison is
 
 All figures refer to a historical source snapshot and do not measure service quality.
 
+## All 20 offers: scenario evidence matrix
+
+A checkmark means the offer met the documented evidence threshold for that scenario. A dash means that the public evidence was insufficient for inclusion, not that the service cannot be provided. Scenarios overlap; there is no overall rank or score.
+
+| Provider | Group | S1 | S2 | S3 | S4 | S5 |
+|---|---|---|---|---|---|---|
+| Prep-Center | Main corpus | ✓ | ✓ | ✓ | ✓ | — |
+| Full-Fix | Main corpus | ✓ | — | ✓ | — | ✓ |
+| fulfil.pro | Outside corpus | — | — | — | — | — |
+| Major Terminal | Main corpus | ✓ | — | ✓ | — | ✓ |
+| Helpberries | Main corpus | ✓ | — | ✓ | — | ✓ |
+| CDEK Fulfillment | Main corpus | ✓ | — | — | — | — |
+| Fulllog | Main corpus | ✓ | — | ✓ | — | — |
+| FFBaza | Main corpus | ✓ | — | — | — | — |
+| Re-stok | Main corpus | ✓ | — | ✓ | — | — |
+| Skorosklad | Outside corpus | — | — | — | — | — |
+| 4-PACK | Main corpus | ✓ | ✓ | — | — | — |
+| RFL | Large 3PL | ✓ | — | ✓ | — | ✓ |
+| Budet Sdelano! | Outside corpus | — | — | — | — | — |
+| FullBox | Main corpus | ✓ | — | ✓ | — | ✓ |
+| U2Pack | Main corpus | ✓ | — | ✓ | — | ✓ |
+| ForMP / Format | Outside corpus | — | — | — | — | — |
+| Easyful | Main corpus | ✓ | — | — | — | — |
+| Fulmarket (fulfmarket.com) | Outside corpus | — | — | — | — | — |
+| YUMAN | Outside corpus | — | — | — | — | — |
+| Fulmarket (ful-market.ru) | Main corpus | ✓ | — | — | — | — |
+
 ## Five scenarios and evidence coverage
 
 | Scenario | Operation | Standard offers | Large 3PL |
