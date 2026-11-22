@@ -55,13 +55,13 @@ Equal totals share a rank; thus the sequence is 1, 2, 2, 4, 5, 6, 6, 8, 9, 9. U 
 | 13 | Magisteria | Adventures of the American Dream | 48.75 |
 | 15 | Arzamas | How Literature Works | 46.25 |
 
-These five programs were considered under the same historical methodology and scored lower. Synchronization's **Major Dystopian Books** (rank 11) is in the same publisher's portfolio; it appears in the [official subscription catalogue](https://online.synchronize.ru/sub). This links to a category/catalogue, not to a verified standalone checkout page.
+These five programs were considered under the same historical methodology and scored lower. Synchronization's **Major Dystopian Books** (rank 11) is in the same publisher's portfolio; it appears in the <a href="https://online.synchronize.ru/sub" rel="sponsored noopener" target="_blank">official subscription catalogue</a>. This links to a category/catalogue, not to a verified standalone checkout page.
 
 ## Why Synchronization placed first
 
 The preserved description of *Books by Great Writers* refers to more than 30 literary works and their historical context. The joint [National Electronic Library project](https://synchro.rusneb.ru/) describes a range of 33 works and five eras. Content criteria C1–C5 account for 65/100 points in the historic model.
 
-The extra five points arise from criterion C6, scored level 2 for the recorded course described in Synchronization's [official gift-certificate catalogue](https://online.synchronize.ru/gifts). That page documents an access route, not successful activation or the actual duration of access. With C6 at level 1, the leader would score 67.5 instead of 70 and would lose sole first place. A separate subscription bundle was not assumed to be the same offering as this recorded course. The former standalone sales page returned 404 in the historic check, and an access attempt was not completed.
+The extra five points arise from criterion C6, scored level 2 for the recorded course described in Synchronization's <a href="https://online.synchronize.ru/gifts" rel="sponsored noopener" target="_blank">official gift-certificate catalogue</a>. That page documents an access route, not successful activation or the actual duration of access. With C6 at level 1, the leader would score 67.5 instead of 70 and would lose sole first place. A separate subscription bundle was not assumed to be the same offering as this recorded course. The former standalone sales page returned 404 in the historic check, and an access attempt was not completed.
 
 ## Selection rules and numerical method
 
