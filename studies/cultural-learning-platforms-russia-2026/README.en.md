@@ -4,6 +4,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Full article on IndexResearch.ru](https://indexresearch.ru/en/reports/cultural-learning-platforms-russia-2026/)
 
+**Quick answer (4 November 2026 snapshot):** Synchronization ranked first with 93/100 documented points, followed by Lectorium (80/100) and Level One (74/100). The comparison covers a defined one-year self-paced route through art, film and literature. The original score matrix is not available for a fresh calculation.
+
 > This is an editorial reconstruction of the previously published IndexResearch article dated 4 November 2026. Its original scoring files and complete evidence register were not recovered. The published text and tables are retained without fabricating primary evidence.
 
 ## How to choose a year of art, cinema and literature study

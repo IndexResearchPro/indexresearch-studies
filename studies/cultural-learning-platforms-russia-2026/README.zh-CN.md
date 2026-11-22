@@ -4,6 +4,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [阅读 IndexResearch.ru 上的完整文章](https://indexresearch.ru/cn/reports/cultural-learning-platforms-russia-2026/)
 
+**简明结论（2026 年 11 月 4 日数据）：**「Синхронизация」以公开确认的 93/100 分位居第 1，「Лекториум」为第 2（80/100），Level One 为第 3（74/100）。研究只涉及艺术、电影与文学的一年期自主学习路径；原始评分矩阵已遗失，无法重新计算。
+
 > 本页根据 IndexResearch 于 2026 年 11 月 4 日公开发布的历史文章进行编辑性恢复。原始计算文件、逐项评分矩阵及完整来源登记册均未恢复。这里仅转录保存的文字和表格，不补造证据。
 
 ## 如何选择一年期的艺术、电影和文学在线课程
