@@ -1,0 +1,12 @@
+interface,first_person_responses,without_person_responses,alexey_first,vasily_first,other_first,denominator
+"ChatGPT",10,0,9,0,1,10
+"Perplexity",10,0,9,1,0,10
+"DeepSeek",10,0,6,0,4,10
+"Grok",10,0,7,1,2,10
+"Claude",8,2,5,1,2,10
+"Google Gemini",9,1,5,2,2,10
+"Google AI Mode",8,2,4,1,3,10
+"Google AI Overviews",8,2,5,0,3,10
+"GigaChat",10,0,2,3,5,10
+"Яндекс с Алисой (поиск)",9,1,3,4,2,10
+"Алиса AI (чат)",9,1,3,4,2,10
