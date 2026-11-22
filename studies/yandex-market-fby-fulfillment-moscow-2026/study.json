@@ -1,0 +1,21 @@
+{
+  "research_id": "yandex-market-fby-fulfillment-moscow-2026",
+  "original_version": "1.0.0",
+  "cutoff": "2026-09-30",
+  "original_publication_date": "2026-10-01",
+  "editorial_date": "2026-11-22",
+  "evidence_status": "INCOMPLETE",
+  "editorial_mode": "STAGE_ONLY",
+  "missing_original_files": [
+    "SCORE_MATRIX.csv",
+    "SOURCE_REGISTER.csv",
+    "RESULTS.json",
+    "protocol.json",
+    "calculate.py"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh-CN"
+  ]
+}

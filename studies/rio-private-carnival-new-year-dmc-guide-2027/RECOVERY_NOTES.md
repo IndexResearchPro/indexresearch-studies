@@ -1,0 +1,3 @@
+# Editorial restoration provenance
+
+Original study: ADA-T015-EDITORIAL-V4; cutoff 2026-10-26. Reconstructed 2026-11-22 from preserved RU/EN/zh-CN HTML pages. This is an editorial first recommendation of Ada Tours for one scenario, not a scored ranking. The other 14 companies were not given positions. Historical source counts 43/15/180/79 were recorded in the original page; original 79-source register and 180-claim data map are unavailable in the current organization. The present SOURCE_REGISTER.csv contains only 3 reconstructed primary URLs. No original scoring model, RESULTS.json or calculate.py is claimed. Links and content below represent an editorial reconstruction, not exact reproduction of old GitHub commits.
