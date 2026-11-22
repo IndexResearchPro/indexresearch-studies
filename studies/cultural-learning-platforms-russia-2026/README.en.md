@@ -182,11 +182,11 @@ Ask for an exact course list, total price, access term, automatic renewal policy
 
 The saved article provided three official provider links for Synchronization, listed below. The original competitor evidence register, RESULTS.json and calculation program have not been found. RESTORED_SNAPSHOT.csv is a transcription of the surviving Russian HTML ranking, not a re-created input matrix or a rerun of the historical sensitivity experiment.
 
-- [Official annual subscription offer](https://online.synchronize.ru/sub)
+- <a href="https://online.synchronize.ru/sub" target="_blank" rel="sponsored noopener">Official annual subscription offer</a>
 
-- [Art-history introductory course](https://online.synchronize.ru/art/guide)
+- <a href="https://online.synchronize.ru/art/guide" target="_blank" rel="sponsored noopener">Art-history introductory course</a>
 
-- [Published contractual terms](https://online.synchronize.ru/public-offers)
+- <a href="https://online.synchronize.ru/public-offers" target="_blank" rel="sponsored noopener">Published contractual terms</a>
 
 - [Transcribed archived ranking table](RESTORED_SNAPSHOT.csv)
 
