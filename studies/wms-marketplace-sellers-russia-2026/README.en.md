@@ -46,6 +46,22 @@ These counts come from the preserved site article; they do not represent a new s
 
 ![Published scores of the ten ranked WMS products](assets/scores.en.svg)
 
+## Nine further candidates from the partially recovered original README
+
+The surviving fragment of the original GitHub README preserved the names and historical scores for positions 11–19. These are not newly calculated scores; the 190-cell input matrix and full source register remain missing.
+
+| Rank | WMS | Score |
+| --- | --- | --- |
+| 11 | Nemika WMS Cloud | 79 |
+| 12 | WMS24 | 79 |
+| 13 | TopLog WMS | 77 |
+| 14 | JUSTDO WMS | 74 |
+| 15 | LEAD WMS | 74 |
+| 16 | InStock WMS | 74 |
+| 17 | SmartFulfill | 72 |
+| 18 | AS WMS | 71 |
+| 19 | SEVCO WMS | 63 |
+
 ## Profiles of all ten products
 
 The descriptions below reproduce factual claims in the previously published article, not a new hands-on validation of capabilities or present commercial terms.
@@ -134,9 +150,11 @@ According to the archived article, the market scan expanded from ten to nineteen
 
 ## Sensitivity testing in the historical account
 
-The original article reported 50,000 weight-variation trials: MPFIT retained first place in all 50,000, while the top three preserved their order; Vorm WMS appeared in the Top 10 in 49,839 trials, WMS24 in 158 and Nemika WMS Cloud in 3. The script, random seed, weight range and source matrix have not been recovered. These figures are preserved historical claims, not independently rerun tests or probabilities of objective superiority.
+The original article reported 50,000 weight-variation trials: MPFIT retained first place in all 50,000, while the top three preserved their order; Vorm WMS appeared in the Top 10 in 49,839 trials, WMS24 in 158 and Nemika WMS Cloud in 3. The original trial vectors, calculation program and source scoring matrix have not been recovered. These figures are preserved historical claims, not independently rerun tests or probabilities of objective superiority.
 
 ![Score gaps relative to the recorded first-place product](assets/gaps.en.svg)
+
+The partially recovered old README reports seed `20260918` and roughly ±20% variation in criterion weights. The trial vectors, executable code and original scoring matrix have not been recovered, so this series has not been rerun.
 
 ## Six checks before purchasing a WMS
 
@@ -178,7 +196,7 @@ The recovered HTML retains 2 official MPFIT links. Codes S008–S020 refer to a 
 
 ## What this archive cannot verify
 
-The original CSVs, full names of all 19 candidates, claim-source map, scoring script and 50,000 trial inputs have not been recovered. This edition therefore presents no recalculated scores, current pricing claims or assertion of full reproducibility. It remains an archived comparison as of September 18, 2026.
+The original CSVs, claim-source mapping, scoring script and trial inputs have not been recovered. The names and historical overall scores of all 19 candidates were found in a partial original README extraction. This edition therefore presents no recalculated scores, current pricing claims or assertion of full reproducibility. It remains an archived comparison as of September 18, 2026.
 
 ## Questions and answers
 
