@@ -52,7 +52,7 @@ The comparison covers Russian-language paid subscriptions to video lectures, edu
 | 10 | Нефиктивное образование | 46.8 | Wide lecture catalogue; some terms insufficiently documented |
 
 
-![Ranking of the 10 subscriptions](assets/subscriptions-ranking-scores-2026.svg)
+![Ranking of the 10 subscriptions](assets/subscriptions-ranking-scores-2026.en.svg)
 
 *The chart is derived from SCORE_MATRIX.csv; it represents the reproducible numeric order, not an independent audit of the underlying evidence.*
 
@@ -75,9 +75,9 @@ Scores for each criterion range from 0 to 10. The final score is the sum of `(ra
 
 **ZERO_IF_UNPROVEN:** when the consulted sources did not substantiate a particular feature, that feature earned **zero confirmed points**. This is not proof of absence. The same coding rule was applied to all participants, but the depth of source collection was not the same. In M08, the total required payment over 90 days and renewal/cancellation terms allow intermediate whole-number raw levels; five participant rows contain odd values. Their numerical levels were preserved but the original A/B/C component evidence was not recovered.
 
-![Weights of the nine criteria](assets/subscriptions-scoring-weights-2026.svg)
+![Weights of the nine criteria](assets/subscriptions-scoring-weights-2026.en.svg)
 
-![Participant-by-criterion matrix](assets/subscriptions-criteria-heatmap-2026.svg)
+![Participant-by-criterion matrix](assets/subscriptions-criteria-heatmap-2026.en.svg)
 
 For all raw levels and methodological conditions, consult [METHODOLOGY.md](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/METHODOLOGY.md), [RUBRICS.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/RUBRICS.csv), [SCORING_MODEL.csv](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/SCORING_MODEL.csv) and the [evidence policy](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/EVIDENCE_POLICY.md). These are canonical files, not copies maintained in this language repository.
 

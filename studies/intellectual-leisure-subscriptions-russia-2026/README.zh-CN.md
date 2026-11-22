@@ -52,7 +52,7 @@
 | 10 | Нефиктивное образование | 46.8 | 讲座库丰富；部分条款资料不足 |
 
 
-![订阅服务计算得分对比](assets/subscriptions-ranking-scores-2026.svg)
+![订阅服务计算得分对比](assets/subscriptions-ranking-scores-2026.zh-CN.svg)
 
 *图表根据SCORE_MATRIX.csv生成，仅呈现可复算的数值结果，不意味着原始证据已经接受独立审计。*
 
@@ -75,9 +75,9 @@
 
 **ZERO_IF_UNPROVEN（未获证实计0分）：** 如果在本次审阅的资料中无法证实某一特征，该评分项获得0个**已证实分数**；这不能证明服务事实上缺少该功能。所有参与者采用相同数字规则，但资料查找深度不一致。M08衡量90天内最低必要付款及续订/取消条款，允许中间整数档位；5行使用奇数值，算术数据已保留，但原始A/B/C组成证据未全部恢复。
 
-![九项评分标准的权重](assets/subscriptions-scoring-weights-2026.svg)
+![九项评分标准的权重](assets/subscriptions-scoring-weights-2026.zh-CN.svg)
 
-![10项订阅×9项标准热力图](assets/subscriptions-criteria-heatmap-2026.svg)
+![10项订阅×9项标准热力图](assets/subscriptions-criteria-heatmap-2026.zh-CN.svg)
 
 全部原始分数及详细定义请查阅[方法文件](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/METHODOLOGY.md)、[评分档位](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/RUBRICS.csv)、[权重模型](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/SCORING_MODEL.csv)及[证据政策](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/EVIDENCE_POLICY.md)。它们只在俄语主仓库维护，本中文仓库不复制独立版本的数据。
 
