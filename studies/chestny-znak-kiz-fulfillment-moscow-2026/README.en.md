@@ -45,225 +45,225 @@ All figures refer to a historical source snapshot and do not measure service qua
 
 ## Scenario-by-scenario provider analysis
 
-### S1. Applying individual KIZ codes
+## S1. Applying individual KIZ codes
 
-Ready-made unique codes for a specific product; The contract specifies the materials and status of the code.
+The operator works with pre-issued unique codes for the specified products. Materials and code status must be agreed in the contract.
 
-#### 4-PACK
+### 4-PACK
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S001](SOURCE_REGISTER.csv).
 
-Printing and physical application of Data Matrix are highlighted in a specific service and price list.
+4-PACK lists printing and physically applying Data Matrix codes as a dedicated service with its own pricing.
 
-#### Easyful
+### Easyful
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S003](SOURCE_REGISTER.csv).
 
-Easyful identifies KIZ sticking from 4 ₽ and KIZ scanning from 2 ₽ as different tariff operations; scan results are not documented.
+Easyful separately lists KIZ label application from ₽4 and KIZ scanning from ₽2. A sample of the scanning output was not publicly documented.
 
-#### FFBaza
+### FFBaza
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S005](SOURCE_REGISTER.csv).
 
-The application and scanning of KIZ, batch conditions and 2 pair of tariff lines are publicly described.
+FFBaza describes applying and scanning KIZ codes, batch conditions and two pairs of tariff entries.
 
-#### Full-Fix
+### Full-Fix
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S010](SOURCE_REGISTER.csv).
 
-The main page states the acceptance, physical marking and shipment of goods with codes.
+Full-Fix states on its homepage that it receives, physically marks and dispatches products carrying codes.
 
-#### FullBox
+### FullBox
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S012](SOURCE_REGISTER.csv).
 
-Data Matrix application, scanning and a separate warehouse service are described in detail.
+FullBox provides detailed descriptions of Data Matrix application, scanning and a dedicated warehouse service.
 
-#### Fulllog
+### Fulllog
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S013](SOURCE_REGISTER.csv).
 
-For 8 ₽/unit. stated printing and physical application of the KIZ in the warehouse.
+Fulllog advertises printing and applying KIZ codes at its warehouse for ₽8 per unit.
 
-#### Fulmarket (ful-market.ru; distinct from fulfmarket.com)
+### Fulmarket (ful-market.ru; distinct from fulfmarket.com)
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S007](SOURCE_REGISTER.csv).
 
-The official price list indicates the physical sticker attached to the product, including the “Honest Mark”. This is a direct statement about the service, but the company has not disclosed or independently verified how the codes uniquely match the units.
+Fulmarket's official price list includes applying stickers, including Chestny Znak labels. The operator does not explain how a unique code is matched to each individual unit; no independent verification was found.
 
-#### Helpberries
+### Helpberries
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S014](SOURCE_REGISTER.csv).
 
-The company describes receiving the file, printing and physically applying the Data Matrix in warehouse processing.
+Helpberries describes receiving the code file, printing Data Matrix codes and applying them during warehouse handling.
 
-#### Major Terminal
+### Major Terminal
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S016](SOURCE_REGISTER.csv).
 
-There is a specialized service for applying Data Matrix to goods in our warehouse.
+Major Terminal advertises a dedicated service for applying Data Matrix codes to products at its own warehouse.
 
-#### Prep Center
+### Prep Center
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S022](SOURCE_REGISTER.csv).
 
-Printing/application of finished CIZs for 7 ₽ and separate physical processing of the batch are published.
+Prep-Center publishes a rate of ₽7 for printing and applying supplied KIZ codes, alongside physical batch handling.
 
 <a href="https://prep-center.ru/chestnyy-znak/" rel="sponsored noopener">Prep-Center official service information</a>
 
-#### Re-stok
+### Re-stok
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S023](SOURCE_REGISTER.csv).
 
-Re-stok separately indicates the application of the previously provided “Honest Sign” code per unit for 9 ₽; not to be confused with the general "double labeling" of conventional labels.
+Re-stok lists applying a previously supplied Chestny Znak code for ₽9 per unit. This is distinct from ordinary duplication of marketplace labels.
 
-#### SDEK Fulfillment
+### SDEK Fulfillment
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S004](SOURCE_REGISTER.csv).
 
-SDEK Fulfillment directly offers the application of “Honest Sign” codes to goods according to technical specifications. Separate reports on individual KIZ and transport aggregation by source have not been established.
+CDEK Fulfillment offers application of Chestny Znak codes according to a client's specification. Separate item-level KIZ reports and transport-aggregation reports were not established from the checked source.
 
-#### U2Pack
+### U2Pack
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S029](SOURCE_REGISTER.csv).
 
-The U2Pack page describes the physical application of marking codes for the submitted task.
+U2Pack describes physically applying marking codes under the customer's specification.
 
-#### RFL
+### RFL
 
 **Group:** Large 3PL, separate contract. **Source identifiers in the evidence register:** [S025](SOURCE_REGISTER.csv).
 
-The page describes physical application, reconciliation and processing in the warehouse stock.
+RFL describes physical code application, reconciliation and handling of marked stock at its warehouse.
 
-### S2. Duplicate of the original KIZ for individual protective packaging
+## S2. Duplicate of the original KIZ for individual protective packaging
 
 The same code for one product item; This is not a separate code for the package.
 
-#### 4-PACK
+### 4-PACK
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S001](SOURCE_REGISTER.csv).
 
-Four Pack explicitly describes the transfer of the original Data Matrix to the outer individual packaging of the same unit and separates it from the multi-item shipping carton.
+4-PACK explicitly describes transferring the original Data Matrix code to the external protective packaging of the same item. It distinguishes this from a transport carton containing several products.
 
-#### Prep Center
+### Prep Center
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S021](SOURCE_REGISTER.csv).
 
-The service describes an external duplicate of the same code and its own case with a batch of 3 186 rinses; there is no external verification.
+Prep-Center describes duplicating the same code on outer individual packaging and cites its own case involving 3,186 bottles of mouthwash. This case was not independently tested.
 
 <a href="https://prep-center.ru/cases/agregatsiya-kiz-naborov-wms/" rel="sponsored noopener">Prep-Center official service information</a>
 
-### S3. Scanning of individual KIZs and code reporting
+## S3. Scanning of individual KIZs and code reporting
 
 It is necessary to verify the upload format to the client; general WMS is not equal to the file by codes.
 
-#### Full-Fix
+### Full-Fix
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S011](SOURCE_REGISTER.csv).
 
-The scheme of two-stage scanning “product → KIZ” and code verification is described on the WMS page. A log of operations with KIZ and monitoring in its own WMS is indicated; client export must be confirmed.
+Full-Fix describes two-stage scanning ('product → KIZ') and code checking on its WMS page. It reports a KIZ operations log and WMS monitoring, but a client-facing export needs confirmation.
 
-#### FullBox
+### FullBox
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S012](SOURCE_REGISTER.csv).
 
-Control of the readability/status of the KIZ upon acceptance and after application is described. The company declares the transfer of information to the ChZ and the preparation of the UPD; credentials are not separately verified.
+FullBox describes checking KIZ readability and status on receipt and after application. It also states that data can be submitted to Chestny Znak and universal transfer documents prepared; the required legal authority was not independently checked.
 
-#### Fulllog
+### Fulllog
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S013](SOURCE_REGISTER.csv).
 
-Code control during application is indicated, without a public sample of the result. It is stated that the codes applied must be taken into account individually and that the goods will be returned to stock; check the report separately.
+Fulllog states that codes are checked during application and that applied codes are tracked per item before goods return to stock. A sample of the resulting report was not found.
 
-#### Helpberries
+### Helpberries
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S014](SOURCE_REGISTER.csv).
 
-The steps for scanning upon acceptance and verifying the correctness of the codes are given. Claimed comparison with documents and accounting of codes, without a confirmed sample of the batch register.
+Helpberries describes scanning during goods receipt and checking code validity, including matching codes to documents. No verified sample of a batch-level code register was available.
 
-#### Major Terminal
+### Major Terminal
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S015](SOURCE_REGISTER.csv).
 
-Reading, verification and application of codes are described separately. A report on the applied codes, own WMS and interaction with the client are declared.
+Major Terminal describes code reading, verification and application as separate steps. It also advertises applied-code reporting, a proprietary WMS and client communications.
 
-#### Prep Center
+### Prep Center
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S022](SOURCE_REGISTER.csv), [S020](SOURCE_REGISTER.csv).
 
-Piece scanning, code verification and recording of stages in WMS are described on the service page. Technological example of a company: WMS links attachments and dialing code, a correspondence file is available to the client; the source code export has not been publicly verified.
+Prep-Center describes unit-level scanning, code checks and process tracking in its WMS. In its own example, WMS connects component codes to a retail-set code and makes a mapping file available; a source export was not independently verified.
 
 <a href="https://prep-center.ru/chestnyy-znak/" rel="sponsored noopener">Prep-Center official service information</a>
 
-#### Re-stok
+### Re-stok
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S023](SOURCE_REGISTER.csv), [S024](SOURCE_REGISTER.csv).
 
-Separate scanning for 3 ₽, check during acceptance/assembly. Filing/Status Update Claimed, Contractual Authority and Report Unknown.
+Re-stok lists a separate scanning operation for ₽3 and checks at goods receipt and picking. The company states that it submits information or updates statuses; contractual authority and output reports remain unconfirmed.
 
-#### U2Pack
+### U2Pack
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S029](SOURCE_REGISTER.csv).
 
-Scanning codes for aggregation is named, monitoring the status of each unit is not disclosed. Formation of a link file and exchange of documents are announced; No specific example is provided.
+U2Pack mentions scanning for aggregation, but does not detail status checking for every unit. It states that it prepares mapping files and exchanges documents; no concrete example was published.
 
-#### RFL
+### RFL
 
 **Group:** Large 3PL, separate contract. **Source identifiers in the evidence register:** [S025](SOURCE_REGISTER.csv).
 
-There is reconciliation and control of labeling in the warehouse chain. The register of units and fixation of codes when processing batches are described.
+RFL describes reconciliation and control of marking throughout warehouse handling, including an aggregate register and records of processed codes.
 
-### S4. Marked retail sets: component-code mapping
+## S4. Marked retail sets: component-code mapping
 
 A separate consumer set, not a KITU; registration in GIS MT does not follow from WMS.
 
-#### Prep Center
+### Prep Center
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S020](SOURCE_REGISTER.csv).
 
-The Prep Center case describes scanning KIZ 2 attachments, linking them to the recruitment code in WMS MPFIT and issuing a correspondence file. Registration of the set in GIS MT remains on the client; The volume of the consignment is unknown.
+Prep-Center's own case describes scanning KIZ codes on two components, linking them to the retail-set code in MPFIT WMS and supplying a mapping file. Registration of the set in GIS MT remains the client's responsibility; the total batch size is not reported.
 
 <a href="https://prep-center.ru/cases/agregatsiya-kiz-naborov-wms/" rel="sponsored noopener">Prep-Center official service information</a>
 
-### S5. Transport aggregation by KITU/SSCC
+## S5. Transport aggregation by KITU/SSCC
 
 Relationship between attachment codes and box/pallet; transfer of information to GIS MT is agreed upon separately.
 
-#### Full-Fix
+### Full-Fix
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S011](SOURCE_REGISTER.csv).
 
-WMS states the aggregation of KIZ by carton/pallet levels; the fact of transfer of the document to GIS MT has not been separately proven.
+Full-Fix states that its WMS aggregates KIZ codes at carton and pallet level. Successful submission of the resulting documents to GIS MT was not independently demonstrated.
 
-#### FullBox
+### FullBox
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S012](SOURCE_REGISTER.csv).
 
-FullBox states the aggregation of individual Data Matrix into transport boxes and pallets; the site itself does not replace independent confirmation of the download and acceptance of GIS MT documents.
+FullBox states that it groups individual Data Matrix codes into transport cartons and pallets. Its website alone cannot confirm that the documents were uploaded to and accepted by GIS MT.
 
-#### Helpberries
+### Helpberries
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S014](SOURCE_REGISTER.csv).
 
-The aggregation of individual codes into transport boxes is described.
+Helpberries describes aggregating individual product codes into transport cartons.
 
-#### Major Terminal
+### Major Terminal
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S015](SOURCE_REGISTER.csv).
 
-Warehouse aggregate transport handling and group packaging are directly described, especially for footwear.
+Major Terminal explicitly describes warehouse transport aggregation and grouped packages, primarily in the footwear category.
 
-#### U2Pack
+### U2Pack
 
 **Group:** Standard service group. **Source identifiers in the evidence register:** [S029](SOURCE_REGISTER.csv).
 
-U2Pack expressly states the association of SGTIN with SSCC and the preparation of transport aggregation files; conditions for sending to GIS MT must be agreed upon separately.
+U2Pack explicitly describes linking SGTIN identifiers to SSCC and preparing transport-aggregation files. Terms for submitting information to GIS MT must be agreed separately.
 
-#### RFL
+### RFL
 
 **Group:** Large 3PL, separate contract. **Source identifiers in the evidence register:** [S025](SOURCE_REGISTER.csv).
 
-Boxes/pallets with code aggregation in the warehouse have been announced.
+RFL advertises warehouse aggregation of marked products into coded cartons and pallets.
 
 ![Scenario evidence by provider](assets/kiz-scenario-matrix-2026.en.svg)
 
