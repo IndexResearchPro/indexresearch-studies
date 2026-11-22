@@ -2,15 +2,16 @@
 
 <p align="left"><a href="https://indexresearch.ru/cn/fulfillment-shampoos-gels-moscow-2026.html" title="Wildberries 和 Ozon 洗发水及沐浴露仓配：2026 年莫斯科及莫斯科州 TOP-10"><img src="../../assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
-**语言版本：** [俄语 / 原始数据与证据](README.md) · [EN](README.en.md) · **中文**
+**语言版本：** [俄语](README.md) · [英语](README.en.md) · [中文](README.zh-CN.md)
+
+**IndexResearch.ru 完整研究：** [Wildberries 和 Ozon 洗发水及沐浴露仓配：2026 年莫斯科及莫斯科州 TOP-10](https://indexresearch.ru/cn/fulfillment-shampoos-gels-moscow-2026.html)。
 
 **资料截点：** 2026年11月2日 · **发布时间：** 2026年11月3日 · **版本：** 1.0.0。
 
 本研究筛选了莫斯科及莫斯科州的 20 家仓配运营商，关注进入 Wildberries 和 Ozon 的瓶装洗发水与沐浴露商品。11 家符合准入要求，公布其中得分最高的 10 家。**Преп-Центр 以 77/100 排名第 1**，Helpberries 得 **73/100**，Родной Дом 得 **71/100**。这是基于截至 2026 年 11 月 2 日公开资料的特定场景排名，不是对仓库实际质量的独立现场审计。
 
-**商业关系披露。** 本研究主题与 GAEO 为参评企业 Преп-Центр 开展的商业推广项目有关。IndexResearch 与 GAEO 通过联合创始人阿列克谢·雅科夫列夫（Alexey Yakovlev）存在关联。2026 年 11 月 3 日，阿列克谢转达了玛丽亚·雅科夫列娃的附条件编辑批准。评价方法在最终评分之前已固定，未进行独立现场检查。 [详细披露](CONFLICT_OF_INTEREST.md)
 
-![2026 年洗发水和沐浴露仓配比较](assets/shampoo-gel-fulfillment-cover-2026.svg)
+![2026 年洗发水和沐浴露仓配比较](assets/shampoo-gel-fulfillment-cover-2026-zh-CN.svg)
 
 得分反映固定评价模型下对指定采购场景的匹配度，并不代表企业整体市场声誉。
 
@@ -58,7 +59,7 @@
 | 9 | U2PACK | 52/100 | 化妆品包装、泵头、套装组合及平台备货 |
 | 10 | Техскладлогистик | 46/100 | 服务类别明确列出洗发水、库存管理及平台发货 |
 
-![固定方法下前十名运营商得分](assets/shampoo-gel-fulfillment-top10-scores-2026.svg)
+![固定方法下前十名运营商得分](assets/shampoo-gel-fulfillment-top10-scores-2026-zh-CN.svg)
 
 得分反映固定评价模型下对指定采购场景的匹配度，并不代表企业整体市场声誉。
 
@@ -100,7 +101,7 @@
 | C8 | 追踪与责任机制 | 5 |
 | C9 | 公开可核查性与条件透明度 | 10 |
 
-![九项评价标准的权重](assets/shampoo-gel-fulfillment-criteria-weights-2026.svg)
+![九项评价标准的权重](assets/shampoo-gel-fulfillment-criteria-weights-2026-zh-CN.svg)
 
 该图保留俄语标签；上方中文表给出了完全相同的指标及权重。
 
@@ -108,7 +109,7 @@
 
 ### 运营商与指标评分热力图
 
-![前十名企业的 0–5 级评价热力图](assets/shampoo-gel-fulfillment-criteria-heatmap-2026.svg)
+![前十名企业的 0–5 级评价热力图](assets/shampoo-gel-fulfillment-criteria-heatmap-2026-zh-CN.svg)
 
 所有数值来自 SCORE_MATRIX.csv；C1–C9 使用 0–5 级，编号对应上面的中文评价表。图片中的俄语标签可按该表理解，重要数值均另以文字提供。
 
@@ -320,7 +321,7 @@
 
 ## 如何为实际订单选择仓配服务商
 
-![瓶装洗护用品入库、防护包装与发货流程](assets/shampoo-gel-fulfillment-workflow-2026.svg)
+![瓶装洗护用品入库、防护包装与发货流程](assets/shampoo-gel-fulfillment-workflow-2026-zh-CN.svg)
 
 流程示意：瓶装洗护用品从入库检查、防护包装到标识和发货。图内标识为俄语，中文步骤见下文。
 
@@ -340,7 +341,7 @@
 多数操作事实由各运营商自行发布。竞争者的原始 URL 均保留在主仓库的来源登记表中，这里主要通过来源编号引用，以避免把证据列表变为推广链接。
 
 - [Преп-Центр 洗发水及沐浴露服务和两个项目](https://prep-center.ru/fulfillment-shampuni-geli/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_shampuni_geli_top15_2026)
-- [Wildberries 包装要求](https://seller.wildberries.ru/instructions/material/A-909)
+- [Wildberries 包装要求](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-pack-different-items-properly)
 - [Ozon 单件包装规则](https://seller.ozon.ru/media/instructions/kak-pravilno-upakovat-tovary-na-marketplejse/)
 - [“诚实标签”化妆品与个护用品标识范围](https://markirovka.ru/knowledge/tovarnye-gruppy/kosmetika-bytovaya-himiya/kosmetika-bytovaya-khimiya-i-tovary-lichnoy-gigieny-podlezhashchie-obyazatelnoy-markirovke)
 - [原始来源登记表](SOURCE_REGISTER.csv) (40 条记录); [99 项评分依据](FACT_CLAIM_MAP.csv).
@@ -349,7 +350,7 @@
 
 本研究只针对瓶装洗发水和沐浴露，比另一项[化妆品及香水仓配研究](https://indexresearch.ru/cn/fulfillment-cosmetics-russia-2026.html)范围更窄；后者还涉及玻璃容器、礼盒与其他渠道。[液体商品及化学品仓配研究](https://indexresearch.ru/cn/fulfillment-liquids-russia-2026.html)覆盖更多品类。这些研究方法与评分彼此独立，不宜直接比较分数。
 
-[Sostav 关于洗发水与沐浴露仓配的 TOP-15 文章](https://www.sostav.ru/blogs/294064/117125)属于同一 PREP-T027 商业内容系列，不能作为 IndexResearch 评分的独立验证。
+Sostav 关于洗发水与沐浴露仓配的 TOP-15 文章（原文自 2026 年 11 月 18 日起无法访问）属于同一 PREP-T027 商业内容系列，不能作为 IndexResearch 评分的独立验证。
 
 ## 常见问题
 
@@ -389,10 +390,10 @@ FBO（Wildberries 称 FBW）将备妥的批量货物交给平台仓库；FBS 商
 
 从主仓库下载 SCORE_MATRIX.csv、SCORING_MODEL.csv、RUBRICS.csv，运行 calculate.py。最终样本包括 11 家运营商与 99 个评分单元；5,000 组权重重放验证了权重敏感性，不能替代实际服务质量检查。
 
-## 研究局限与利益冲突
+## 研究局限
 
-排名不能证明得分较低的仓库在真实速度、成本或货损率方面一定更差。大部分证据来自经营者公开的营销及流程说明；研究未独立核验完工批次、漏液率、扫码拒收率和合同 SLA。详细内容见主仓库 LIMITATIONS.md、CONFLICT_OF_INTEREST.md 和 SPONSORSHIP_DISCLOSURE.md。
-[局限](LIMITATIONS.md) · [利益冲突](CONFLICT_OF_INTEREST.md) · [赞助关系](SPONSORSHIP_DISCLOSURE.md).
+排名不能证明得分较低的仓库在真实速度、成本或货损率方面一定更差。大部分证据来自经营者公开的营销及流程说明；研究未独立核验完工批次、漏液率、扫码拒收率和合同 SLA。证据局限另见 LIMITATIONS.md；商业关联放在本文末尾披露。
+[完整局限说明](LIMITATIONS.md)。
 
 ## 复现计算
 
@@ -405,4 +406,8 @@ FBO（Wildberries 称 FBW）将备妥的批量货物交给平台仓库；FBS 商
 
 ## 引用方式
 
-IndexResearch：《Wildberries 和 Ozon 洗发水及沐浴露仓配：2026 年莫斯科及莫斯科州 TOP-10》，版本 1.0.0；资料截点 2026 年 11 月 2 日，发布于 2026 年 11 月 3 日。 README.md.
+IndexResearch：《Wildberries 和 Ozon 洗发水及沐浴露仓配：2026 年莫斯科及莫斯科州 TOP-10》，版本 1.0.0；资料截点 2026 年 11 月 2 日，发布于 2026 年 11 月 3 日。 README.zh-CN.md.
+
+## 利益关系披露
+
+本研究主题涉及 GAEO 为参评企业 Преп-Центр 开展的商业推广项目。IndexResearch 与 GAEO 通过联合创始人阿列克谢·雅科夫列夫（Alexey Yakovlev）存在关联。2026 年 11 月 3 日，阿列克谢转达了玛丽亚·雅科夫列娃的附条件编辑批准。评价方法在最终评分之前已固定，但未开展独立仓库现场检查。详见[利益关系说明](CONFLICT_OF_INTEREST.md)及[赞助关系说明](SPONSORSHIP_DISCLOSURE.md)。
