@@ -20,7 +20,7 @@ These counts come from the preserved site article; they do not represent a new s
 
 | Indicator | Value |
 | --- | --- |
-| Products considered | 19 |
+| Products considered | 9 |
 | Ranked products | 10 |
 | Criteria | 10 |
 | Historical scored cells | 190 |
@@ -31,7 +31,7 @@ These counts come from the preserved site article; they do not represent a new s
 
 ## Complete Top 10 and scores
 
-| Rank | WMS | Score | Explanation preserved in the article |
+| Position in recovered list | WMS | Score | Explanation preserved in the article |
 | --- | --- | --- | --- |
 | 1 | MPFIT | 97/100 | One physical stock pool, FBO/FBS, automated rules, handheld scanning, client price lists, invoices and public pricing. |
 | 2 | OrderAdmin | 95/100 | Deep marketplace integrations, real-time billing, branded client portal and a mature e-commerce WMS. |
@@ -46,20 +46,20 @@ These counts come from the preserved site article; they do not represent a new s
 
 ![Published scores of the ten ranked WMS products](assets/scores.en.svg)
 
-## Nine further candidates from the partially recovered original README
+## Nine further candidates listed in the partially recovered README
 
-The surviving fragment of the original GitHub README preserved the names and historical scores for positions 11–19. These are not newly calculated scores; the 190-cell input matrix and full source register remain missing.
+The surviving fragment of the original GitHub README preserved the names and historical scores for nine other candidates outside the Top 10. Their list order does not establish precise ranks when scores are tied. These are not newly calculated scores; the 190-cell input matrix and full source register remain missing.
 
 | Rank | WMS | Score |
 | --- | --- | --- |
-| 11 | Nemika WMS Cloud | 79 |
-| 12 | WMS24 | 79 |
-| 13 | TopLog WMS | 77 |
-| 14 | JUSTDO WMS | 74 |
-| 15 | LEAD WMS | 74 |
-| 16 | InStock WMS | 74 |
-| 17 | SmartFulfill | 72 |
-| 18 | AS WMS | 71 |
+| 1 | Nemika WMS Cloud | 79 |
+| 2 | WMS24 | 79 |
+| 3 | TopLog WMS | 77 |
+| 4 | JUSTDO WMS | 74 |
+| 5 | LEAD WMS | 74 |
+| 6 | InStock WMS | 74 |
+| 7 | SmartFulfill | 72 |
+| 8 | AS WMS | 71 |
 | 19 | SEVCO WMS | 63 |
 
 ## Profiles of all ten products
