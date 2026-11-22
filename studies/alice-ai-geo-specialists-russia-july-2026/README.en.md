@@ -44,7 +44,6 @@ On September 18, 2026, each name was also checked against its current public pro
 | 8 | Anna Vikhlyaeva | Digital Geeks | GEO/AI activity confirmed; the format is agency-based. |
 | 9 | Roman Kovalev | Kovalevy agency | GEO expertise confirmed; the format is tied to an agency practice. |
 | 10 | Vitaly Isakov | private SEO/GEO practice | Hands-on format and a dedicated GEO/AEO service confirmed; exact match to the filter. |
-| Editorial verification |  |  |  |
 
 ## How closely Yandex Alice followed the “not agencies” constraint
 
@@ -210,8 +209,6 @@ Rescoring would create a new editorial ranking rather than document the observed
 
 1 out of 10, Alexey Yakovlev. The prompts differed.
 
-
-
 ## Visual summaries of the observed answer
 
 ### Editorial groups: 3 + 3 + 2 + 2
@@ -226,12 +223,12 @@ Rescoring would create a new editorial ranking rather than document the observed
 
 ![Overlap between snapshots: 1 of 10](assets/overlap.en.svg)
 
-## The full evidence package is on GitHub
+## Recovered evidence and reproducibility limits
 
 This page publishes the full observed Top 10, editorial classification, current recheck, comparisons with ChatGPT and INDEX-T001, and key sources. These files and the source register were described in the original release but have not been recovered in this public repository.
 
 The main limitation is simple: one query and one answer do not support a valid calculation of BMR, Share of Voice or Recommendation Rate.
-*Full English research (original source missing)*[Canonical data and evidence](https://indexresearch.ru/repositories/alice-ai-geo-specialists-russia-july-2026/)*RESULTS.json (original source missing)*
+The initial article referenced more original evidence files. Those files remain unrecovered; see the preserved Russian source text and recovery provenance below.
 
 How to cite
 
