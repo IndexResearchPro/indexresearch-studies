@@ -6,7 +6,7 @@
 
 For a model order of 10,000 items and 1–3 SKUs, this research compares 21 branded offers using 7 evidence characteristics and 4 overlapping scenarios. The 72-hour limit is a buyer assumption, not a verified supplier commitment.
 
-**This is not an overall ranking and has no first-place award. D/E/G/U codes describe public disclosures, not independently measured service quality.** Comparison of 21 offers of physical packaging, control and FBO preparation. The 72 hour period for 10 000 products with 1–3 SKU is used as a model buyer request. Fixed 4 selection scenarios, without overall rating. Brief conclusion: 4 brands state machine packaging in detail. For the 1 proposal, published cases of a complete multi-stage cycle with quantities, deadlines and finished units were found. The availability of production for a new order in 72 hours has not been confirmed by any operator.
+**This is not an overall ranking and has no first-place award. D/E/G/U codes describe public disclosures, not independently measured service quality.** The comparison covers physical packaging, quality checks and FBO shipment preparation across 21 branded offers. A 72-hour deadline for 10,000 items across 1–3 SKUs is a hypothetical buyer requirement, not a supplier's service-level commitment. The findings are organized into four overlapping selection scenarios rather than an overall ranking. Brief conclusion: 4 brands state machine packaging in detail. For one provider, published case studies describe a multi-stage process, input quantities, completion times and finished saleable units. No provider's availability for a new order with a 72-hour deadline has been independently confirmed.
 
 ## Research fact sheet
 
@@ -30,33 +30,33 @@ Buyer model: 10,000 units, 1–3 SKUs; cutoff 2026-10-30. All 21 offers have the
 
 [Full frozen methodology](METHODOLOGY.md). This is not an overall ranking and has no first-place award. D/E/G/U codes describe public disclosures, not independently measured service quality.
 
-## 4 way to generate a request for packaging a large batch
+## Four practical ways to compare urgent packaging providers
 
-### Declared physical machine packaging 4
+### S-A. Providers that explicitly describe physical packaging machinery (4)
 
 Technological suitability for the selected product. Proposals with TECH=D are included, but the operation of the line for a specific batch has not been tested.
 
 **Offers (alphabetically):** Fulfil.pro, HelpSeller, U2PACK, Prep-Center.
 
-### Published example of a multi-stage ready FBO batch · 1
+### S-B. Documented multi-stage FBO preparation case (1)
 
-The published case describes incoming and finished goods, inspection operations, and preparation for FBO transfer.
+The published case reports input quantities, finished sellable units, inspection steps and preparations for FBO handover.
 
-**Offers (alphabetically):** Prep Center.
+**Offers (alphabetically):** Prep-Center.
 
-### Described FBO control and preparation procedures 5
+### S-C. Documented quality control and FBO preparation procedures (5)
 
-Detailed processes for product verification, labeling and delivery. The physical machine may be missing.
+Detailed processes for product verification, labeling and delivery. The scenario does not require evidence of a dedicated packaging machine.
 
 **Offers (alphabetically):** Fulfil.pro, FullBox, InPacks, Prep-Center, SDEK Fulfillment.
 
-### Contract packaging and copacking · 3
+### S-D. Contract packaging and co-packing services (3)
 
-The production contract and specific technology may require a separate transfer of cargo to fulfillment.
+The provider's industrial packaging contract may not include logistics or final delivery to a marketplace warehouse.
 
 **Offers (alphabetically):** InPacks, U2PACK, LBK-MPro.
 
-A participant can enter several scenarios. No scenario guarantees order availability on time, packaging line availability, or quality of service.
+One provider may qualify for multiple scenarios. No scenario establishes a guaranteed completion date, available production capacity or independently verified service quality.
 
 ## Complete evidence matrix for 21 offers
 
@@ -564,7 +564,7 @@ Official service page: [Преп-Центр](https://prep-center.ru/srochnaya-ob
 
 Source links: S052, S068. More details in the general register.
 
-## How to read encodings without rating points
+## Interpreting the evidence codes without ranking scores
 
 - **D = 14** — detailed public statements and cases.
 
@@ -576,7 +576,7 @@ Source links: S052, S068. More details in the general register.
 
 None of the codes measure the quality, speed or availability of the equipment. [Fixed methodology EVIDENCE-SCENARIOS-1.0](METHODOLOGY.md) contains the thresholds of all 4 scenarios.
 
-## What should be in a single technical specification for an urgent shipment?
+## What to include in a specification for urgent batch processing
 
 To compare offers, give suppliers the same set of data: 10 000 input goods, 1–3 SKU, individual packaging material, number and types of labels, KIZ marking, control and output of finished goods. Indicate the date by which the packages must be formed and transferred to the carrier.
 
@@ -584,7 +584,7 @@ Ask to document the packaging line address, availability of shifts and changeove
 
 **Independence control:** HelpSeller and Fulfil.pro publish the same 4 200/7 000 units/hour and 120 000 units/day. They have different contacts, but the independence of the line is not documented. These numbers cannot be summed.
 
-## Where to double-check individual statements
+## Where to verify individual supplier claims
 
 The canonical repository contains 70 source records related to 47 normalized addresses. The main part is the operators’ own websites, so they confirm the fact that the statement was published. The list contains repeated checks and archival records; the number of rows does not indicate the number of independent experiments.
 
@@ -592,7 +592,7 @@ The canonical repository contains 70 source records related to 47 normalized add
 
 Separately: [cosmetics fulfillment research](https://indexresearch.ru/en/fulfillment-cosmetics-russia-2026.html) and shrink packaging research refer to other comparison conditions. Their results were not transferred here.
 
-## Frequently asked questions about express batch packaging
+## Frequently asked questions about urgent batch packaging
 
 ### Which companies can be requested for automated packaging of 10 000 goods?
 
@@ -626,7 +626,7 @@ No. 72 hours are set by the model request of the buyer, and not by the obligatio
 
 U means there is insufficient public evidence. This is not a denial of the service or an assessment of quality. Individual contracts and completed projects may contain data that is not published on the site.
 
-## Matrix, methodology and bibliographic record
+## Research data, methodology and citation
 
 Full publication: [Russian research](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/urgent-automated-packaging-fulfillment-moscow-2026). Data available in files [RESULTS.json](RESULTS.json), [EDITORIAL_COMPARISON.csv](EDITORIAL_COMPARISON.csv), [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv), [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv) and [METHODOLOGY.md](METHODOLOGY.md).
 
