@@ -79,7 +79,7 @@ Both typed 90/100, but solve the problem differently. Basketball is stronger in 
 
 The term “smart sport” is used only as a household wording. The scientific literature on open-skill and closed-skill exercises helps explain the type of cognitive demands, but research results are mixed and do not promise gains in IQ or school performance.
 
-Complete technique and rule for resolving equality
+The original calculation is unavailable: the 50 underlying criterion scores and code were not recovered.
 
 ## All ten sports: how to interpret their ranking
 
