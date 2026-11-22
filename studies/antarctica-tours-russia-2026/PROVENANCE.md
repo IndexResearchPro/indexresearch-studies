@@ -1,0 +1,3 @@
+# Editorial reconstruction, 2026-11-22
+
+The RU/EN/zh-CN site articles dated 2026-09-18 have preserved the historical Top 10 and seven criteria. The original 105 score cells, 28-source register, original calculation script, 50,000-trial model and prior Git history are missing. No replacement raw data or source links have been fabricated. The new README files are editorial reconstructions, not copies of authenticated historical GitHub publications. This study has a commercial relationship with Ada Tours / GAEO, disclosed at the end of each reader-facing edition. The archived rankings are not a fresh market measurement.

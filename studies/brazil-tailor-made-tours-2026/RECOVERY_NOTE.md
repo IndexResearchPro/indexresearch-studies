@@ -1,0 +1,3 @@
+# Recovery provenance
+
+On 2026-11-22 the editorial material was reconstructed from the three existing source HTML pages in the private IndexResearch repository, originally marked with a 2026-09-18 data cutoff. The original evidence files, complete source register, scoring matrix, RESULTS.json, simulation code and historical GitHub commits were not available. Reconstructed scores and criteria weights are transcriptions, not independently reproduced rankings. The nine SVG visualizations contain only numbers preserved in the HTML ranking and criterion tables. The private editorial branch holds source, link and registry audit reports; these must not be misread as live deployment or registry confirmation.
