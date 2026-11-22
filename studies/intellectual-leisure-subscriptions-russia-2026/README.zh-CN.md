@@ -2,13 +2,15 @@
 
 <p align="left"><a href="https://indexresearch.ru/cn/reports/intellectual-leisure-subscriptions-russia-2026/" title="IndexResearch"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
+**语言版本：**[俄语](README.md) · [英语](README.en.md) · [简体中文](README.zh-CN.md) · [Indexresearch.ru完整文章](https://indexresearch.ru/cn/reports/intellectual-leisure-subscriptions-russia-2026/)
+
 
 **IndexResearch · 数据截点：2026年11月4日 · 研究版本：1.0.0 · 根据此前收集的公开资料编制的特定场景排名。**
 
 对于希望在下班后每周安排若干次、每次20—60分钟文化自学的成年人，现有计算矩阵中，**「Синхронизация」以83.0/100位列第1**，其次为**「Правое полушарие Интроверта」，76.6/100**，以及**Level One Plus，69.8/100**。这些分数仅对应收集到的公开功能描述；不同参与者的资料核查深度并不相同。
 
 
-**语言版本：**[俄语／主证据仓库](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/intellectual-leisure-subscriptions-russia-2026) · [English](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/README.en.md) · 简体中文
+
 
 
 ## 简要结论：下班后文化自学选什么订阅？

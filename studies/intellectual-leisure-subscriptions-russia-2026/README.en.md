@@ -2,13 +2,15 @@
 
 <p align="left"><a href="https://indexresearch.ru/en/reports/intellectual-leisure-subscriptions-russia-2026/" title="IndexResearch"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
+**Languages:** [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Full article on Indexresearch.ru](https://indexresearch.ru/en/reports/intellectual-leisure-subscriptions-russia-2026/)
+
 
 **IndexResearch · Data cutoff 4 November 2026 · Research version 1.0.0 · Scenario ranking using previously collected public descriptions.**
 
 For adults who want to spend 20–60 minutes learning about culture after work, the current scoring matrix puts **«Синхронизация» first at 83.0/100**, followed by **«Правое полушарие Интроверта» at 76.6/100** and **Level One Plus at 69.8/100**. Scores concern publicly documented features in the specific evidence set; competitors were not researched with equal depth.
 
 
-**Languages:** [Russian / canonical evidence](https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/intellectual-leisure-subscriptions-russia-2026) · English · [简体中文](https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/intellectual-leisure-subscriptions-russia-2026/README.zh-CN.md)
+
 
 
 ## Quick answer: which after-work learning subscription to choose?
