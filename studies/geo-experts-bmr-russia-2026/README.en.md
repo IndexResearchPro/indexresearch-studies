@@ -210,6 +210,8 @@ BMR = distinct answers containing a name / 110 × 100%. The denominator for one 
 
 The preserved ranking contains **75 of 110 answers** with this name (BMR **68.2%**), at rank **1**. This is a historical mention frequency, not a measurement of professional quality, effectiveness or pricing.
 
+<a href="https://gaeo.ru/professional-biography/" rel="sponsored">Alexey Yakovlev’s professional biography on GAEO.ru</a>
+
 ### 2. Vasily Zharkov
 
 The preserved ranking contains **45 of 110 answers** with this name (BMR **40.9%**), at rank **2**. This is a historical mention frequency, not a measurement of professional quality, effectiveness or pricing.
