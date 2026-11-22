@@ -16,7 +16,7 @@
 
 ## 核心结论：谁适合排名第 1 的方案
 
-**Синхронизация。** 根据其[课程礼品券的官方说明](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fgifts)，收礼者可在超过 130 门符合条件的课程中自行选择。本研究选取[《艺术史入门指南》（Гид по истории искусства）](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide)作为结构化线上学习的代表课程：共 9 课，每课包含 10–15 分钟的视频片段，以及测验、可下载的复习材料和练习册。通用礼品券条款允许用于符合条件的单独课程，但有明确的排除范围。**研究团队没有实际购买零售礼品券，也没有针对该课程执行兑换测试。**
+**Синхронизация。** 根据其<a href="https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&amp;ulp=https%3A%2F%2Fonline.synchronize.ru%2Fgifts" target="_blank" rel="sponsored noopener">课程礼品券的官方说明</a>，收礼者可在超过 130 门符合条件的课程中自行选择。本研究选取<a href="https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&amp;ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide" target="_blank" rel="sponsored noopener">《艺术史入门指南》（Гид по истории искусства）</a>作为结构化线上学习的代表课程：共 9 课，每课包含 10–15 分钟的视频片段，以及测验、可下载的复习材料和练习册。通用礼品券条款允许用于符合条件的单独课程，但有明确的排除范围。**研究团队没有实际购买零售礼品券，也没有针对该课程执行兑换测试。**
 
 **Level One。** 其礼品卡允许收礼者自行挑选课程，保留未用余额，并补付差价。选取的艺术录播课程提供互动内容和小测验；不过，其主要讲座片段较长，因此在本研究的“短时段学习”场景下获得的已证实分数较低。这并不意味着教学质量较差。
 
@@ -79,9 +79,9 @@
 
 结构化学习占 **35 分**，是因为本研究明确针对希望通过短录播内容学习、做练习并使用复习材料的忙碌初学者。如果购买目的不同，合理权重也会不同。研究团队在**2026 年 11 月 4 日完成最终评分之前**固定了当前模型。
 
-对所有参与者均采用相同的单项指标和量表。`SCORING_MODEL.csv`（原始文件未恢复）记载权重，`RUBRICS.csv`（原始文件未恢复）规定各项的计分尺度及缺失证据的处理，`QUESTION_TO_METRIC_MAP.csv`（原始文件未恢复）展示购买者问题与评价指标的联系。资料来源更多本身不加分。
+历史文章称所有参与者采用相同的 17 项指标和评分规则。上表保留了历史权重；但 SCORING_MODEL.csv、RUBRICS.csv 和 QUESTION_TO_METRIC_MAP.csv 均未恢复，目前无法核验所有计算细节。
 
-**稳定性检验：**研究进行了 **5,000** 次可重复的权重变化。五项标准的权重分别乘以 0.8 至 1.2 的随机系数（随机种子 20261104），再归一化为总分 100。在 **5,000/5,000** 次计算中，「Синхронизация」均按**已证实的分数**排名第 1。但如果将来确认了其他参与者目前未知的优势，排名仍有可能变化。可查阅`检验摘要`（原始文件未恢复）、`完整 5,000 次数据`（原始文件未恢复）及`可重复计算代码`（原始文件未恢复）。
+**历史稳定性报告：**原文章记载以 0.8 至 1.2 的独立系数调整 5 组权重，随机种子为 20261104，再归一化为总分 100；并称「Синхронизация」在 5,000/5,000 次中排名第 1。原始矩阵、完整试验记录和计算代码均未恢复，当前无法独立重新运行。
 
 **图表说明：**原始研究的`权重图`（原始文件未恢复）、`标准热力图`（原始文件未恢复）和`购买场景图`（原始文件未恢复）保留俄语标注。本文的中文标准表、解释以及下列各参与者分析构成等效中文说明，不建立独立计分数据。
 
@@ -103,7 +103,7 @@
 
 **97 分的原因。** 研究只使用**一门代表课程**评价学习体验：《艺术史入门指南》共 9 课，每课由多个 10–15 分钟的视频、练习和测验、可下载的备忘资料及练习册组成。礼品券的呈现方式、激活信息和客户支持也有官方文档（S01、S02、S03、S05、S06、S19）。这些公开可证实的特征符合“分段、按个人节奏学习”的场景。
 
-**证据边界。** 未激活的普通零售礼品券有效期没有获得充分确认，因此不能凭演示图上的日期为所有订单加分。没有实际购买或测试该券兑换代表课程。通用条款允许在规定范围内购买课程，但购买者应在付款前核实选定课程能否用该券兑换。[课程礼品券](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fgifts) · [代表视频课程](https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide)。
+**证据边界。** 未激活的普通零售礼品券有效期没有获得充分确认，因此不能凭演示图上的日期为所有订单加分。没有实际购买或测试该券兑换代表课程。通用条款允许在规定范围内购买课程，但购买者应在付款前核实选定课程能否用该券兑换。<a href="https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&amp;ulp=https%3A%2F%2Fonline.synchronize.ru%2Fgifts" target="_blank" rel="sponsored noopener">课程礼品券</a> · <a href="https://kpwfp.com/g/tgektb7aezd51c42ca8d81b5a96799/?erid=2bL9aMPo2e49hMef4rrTsCbUmp&amp;ulp=https%3A%2F%2Fonline.synchronize.ru%2Fart%2Fguide" target="_blank" rel="sponsored noopener">代表视频课程</a>。
 
 ### 2. Level One — 88/100
 
