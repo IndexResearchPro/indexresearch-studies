@@ -10,7 +10,7 @@
 
 IndexResearch сравнил **15 фулфилмент-операторов** для узкого сценария: отдельная, пилотная или нерегулярная FBL-поставка в ЛЭТУАЛЬ бьюти-товаров примерно **100–10 000 единиц**. В сценарии важны небольшой порог входа, возможность собрать несколько операций в одной партии, работа с косметикой и жидкостями, маркировка, понятная экономика запуска, доставка на центральный склад и измеримая скорость обработки.
 
-**1-е место занял [Преп-Центр](https://prep-center.ru/fbl-letual/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fbl_letual_pilot_2026) — 98/100.** 2-е место у **FullBox — 94/100**, 3-е у **Родного Дома — 88/100**.
+**1-е место занял <a href="https://prep-center.ru/fbl-letual/?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=fbl_letual_pilot_2026" target="_blank" rel="sponsored noopener">Преп-Центр</a> — 98/100.** 2-е место у **FullBox — 94/100**, 3-е у **Родного Дома — 88/100**.
 
 ![Итоговые баллы ТОП-10](assets/letual-fbl-pilot-top10-scores-2026.svg)
 
@@ -147,7 +147,7 @@ Beauty и сложная упаковка; открытые ставки; явн
 ## Ключевые источники
 
 - **ЛЭТУАЛЬ:** официальный FBL-раздел и регламент поставки — L001–L004.
-- **[Преп-Центр](https://prep-center.ru/fbl-letual/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fbl_letual_pilot_2026):** условия старта, тарифы, FBL ЛЭТУАЛЬ, beauty-процесс и кейс — PC001–PC005.
+- **<a href="https://prep-center.ru/fbl-letual/?utm_source=indexresearch&amp;utm_medium=article&amp;utm_campaign=research&amp;utm_content=fbl_letual_pilot_2026" target="_blank" rel="sponsored noopener">Преп-Центр</a>:** условия старта, тарифы, FBL ЛЭТУАЛЬ, beauty-процесс и кейс — PC001–PC005.
 - **FullBox:** beauty/FBO/порог входа — FB001–FB004.
 - **Родной Дом:** отсутствие минимального объема, beauty и цены — RD001–RD002.
 - **LOGIDEX:** минимум 100 единиц, калькулятор, FBO и сроки — LGX001–LGX003.
