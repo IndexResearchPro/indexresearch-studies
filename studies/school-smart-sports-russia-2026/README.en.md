@@ -201,7 +201,7 @@ Other scenario-based sports ratings and more.
 
 ## Answers by rating
 
-### Which sport ranked 1th for the student who likes to think while moving?
+### Which sport ranked first for the student who likes to think while moving?
 
 Orienteering received 95/100. Table tennis - 92/100, badminton - 91/100.
 
