@@ -38,7 +38,7 @@ Moscow and Moscow region · slice 02.10.2026 · version 1.0.0
 The rating applies only to the FBS scenario for labeled goods with extended protective packaging and is not a universal rating of Wildberries fulfillment services.
 
 
-## 14 candidates, 6 criteria and 81 source
+## 14 candidates, 6 criteria and 81 sources
 
 
 For admission, it was necessary to simultaneously confirm Wildberries FBS, a warehouse in Moscow / Moscow Region, storage and the basic FBS process, real warehouse work with KIZ and specific additional protective packaging. 13 operators passed the final test and received a final score.
@@ -68,7 +68,7 @@ The scoring model was frozen before final calculation; the scores match the reco
 Result
 
 
-## TOP 10 fulfillment services for Wildberries FBS with KIZ and complex packaging
+## Top 10 Wildberries FBS fulfillment operators with KIZ handling and protective packaging
 
 
 
@@ -98,26 +98,20 @@ Fulfilment-E did not receive a final score: the final check did not confirm the 
 Leaders
 
 
-## Why did the first 3 operator get these places
+## Why the top three operators ranked as they did
 
 
 ### 1. Prep Center — 91/100
 
-
-Maximum scores were obtained for work with CID, protective packaging and economic transparency. The accounting and linking of KIZ in WMS, scan control, bubble wrap, heat shrink, work with liquid goods, cosmetics, household and auto chemicals, as well as a detailed price list have been publicly confirmed. Returns, speed and liability are estimated at 4/5, so the total is not the maximum. Official Prep-Center service.
-
+Prep-Center scores highest on KIZ traceability in WMS, protective packaging, category-specific experience and pricing transparency. Documented measures include code scanning, bubble wrap, heat shrink and processes for liquids, cosmetics and household or automotive chemicals. Returns, FBS speed and liability score 4/5 each, resulting in 91/100.
 
 ### 2. WBBK — 89/100
 
-
-KIZ, FBS speed and automation, economics and responsibility are rated as highly as possible. Publicly announced up to 3 000 FBS orders per day, average cycle about 13 hours, API/WMS and several order transfers per day. The limitation is the return cycle: it is confirmed weaker than other blocks.
-
+WBBK's public documents support high scores for KIZ handling, FBS speed, automation, pricing transparency and liability. The company states capacity of up to 3,000 FBS orders per day, an average processing cycle of about 13 hours and API/WMS integration. The returns dimension is less fully documented, scoring 2/5.
 
 ### 3. LOGIDEX — 85/100
 
-
-A strong result was given by KIZ in the FBS process, 2 shipments per day, a cycle of about 12 hours, API/CRM and a detailed return process for tagged categories. 2 fell below the first places primarily in terms of responsibility and public detail of the compensation mechanism.
-
+LOGIDEX documents KIZ handling in FBS operations, two daily handovers, an approximately 12-hour processing cycle and API/CRM connections. Its return processes are comparatively well supported; evidence concerning liability and compensation is less complete, with C6 scoring 3/5.
 
 ### 4. Будет сделано! — 80/100
 
@@ -164,7 +158,7 @@ Strongest documented scores: KIZ handling 4/5, FBS speed 5/5. Lower values: prot
 Scenario
 
 
-## What is considered complex packaging and working with “Honest Sign”
+## What qualifies as protective packaging and KIZ warehouse handling
 
 
 Complex packaging in this study is a specific operation beyond the standard package and order sticker: bubble wrap, heat shrink, custom case, leak proof, insert, fix, repack, or comparable process. A general promise “we will package according to the requirements of the marketplace” is not enough.
@@ -174,7 +168,7 @@ Working with Honest Sign should be a warehouse operation. Confirmation can be pr
 Methodology
 
 
-## 6 criteria and 100 points
+## Six criteria and a 100-point scoring scale
 
 
 Each criterion is scored on a 0–5 scale. The weighted score is equal to the original score divided by 5 and multiplied by the criterion weight. The total is rounded to the nearest whole number.
@@ -253,7 +247,7 @@ On this research page, direct competitors of the Prep Center do not receive the 
 On topic
 
 
-## Related Research IndexResearch
+## Related IndexResearch studies
 
 
 Research published for wider FBS scenario [FBS on Wildberries and Ozon from one warehouse](/en/fbs-fulfillment-wildberries-ozon-russia-2026.html). Ratings available separately [FBW (FBO) Wildberries](/en/wildberries-fbw-fulfillment-moscow-2026.html), comparison [fulfillment services for liquid goods and chemicals](/en/fulfillment-liquids-russia-2026.html) and research Heat shrink and bubble wrap for marketplaces. They have different research questions, so placements do not carry over between issues.

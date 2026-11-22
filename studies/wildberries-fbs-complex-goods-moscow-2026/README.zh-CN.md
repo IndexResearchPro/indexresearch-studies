@@ -23,7 +23,7 @@ IndexResearch·研究·2026
 Wildberries FBS：“诚实标志”+复杂的保护包装
 
 
-莫斯科和莫斯科地区 · 切片 02.10.2026 · 版本 1.0.0
+莫斯科和莫斯科地区 · 数据截止 02.10.2026 · 版本 1.0.0
 
 
 - Prep-Center 91/100
@@ -41,7 +41,7 @@ Wildberries FBS：“诚实标志”+复杂的保护包装
 ## 14 个候选者、6 个标准和 81 个来源
 
 
-入场时，需要同时确认莫斯科/莫斯科地区的 Wildberries FBS 仓库、存储和基本 FBS 流程、与 KIZ 的实际仓库工作以及特定的附加保护包装。 13 操作员通过了最终测试并获得了最终分数。
+入场时，需要同时确认莫斯科/莫斯科地区的 Wildberries FBS 仓库、存储和基本 FBS 流程、与 KIZ 的实际仓库工作以及特定的附加保护包装。 13 服务商通过了最终测试并获得了最终分数。
 
 
 
@@ -68,7 +68,7 @@ Wildberries FBS：“诚实标志”+复杂的保护包装
 结果
 
 
-## TOP 10 为带有 KIZ 和复杂包装的 Wildberries FBS 提供的仓配履约服务
+## Wildberries FBS：KIZ 标识与复杂防护包装服务商 TOP 10
 
 
 
@@ -78,10 +78,10 @@ Wildberries FBS：“诚实标志”+复杂的保护包装
 | 1 | Prep-Center | 91 | WMS 内的 KIZ 标识追踪、复杂包装、类别和完整价目表 |
 | 2 | WBBK | 89 | 快速 FBS、API/WMS、KIZ、经济性和责任 |
 | 3 | LOGIDEX | 85 | KIZ，每天 2 发货量、API/CRM、退货和费率 |
-| 4 | “一定会做到的！” | 80 | 根据所有 6 标准，平滑轮廓 4/5 |
+| 4 | «Будет сделано!» | 80 | 根据所有 6 标准，各项均为 4/5，能力比较均衡 |
 | 5 | fulfil.pro | 80 | 坚固的包装、快速的 FBS 和财务责任 |
 | 6 | Helpberries | 78 | 复杂包装、液体、退货和赔偿 |
-| 7 | 全盒/全盒 | 77 | 与 KIZ 深入合作，包装和退货流程 |
+| 7 | FullBox | 77 | 与 KIZ 深入合作，包装和退货流程 |
 | 8 | Full-Fix | 74 | 两步扫描 KIZ、退货和责任 |
 | 9 | Fulllog | 70 | 包装、退货、透明价格和 SLA |
 | 10 | Yunu | 69 | 3 Wildberry 每天的交接批次、API/WMS 和标签 |
@@ -89,7 +89,7 @@ Wildberries FBS：“诚实标志”+复杂的保护包装
 
 
 
-“一定会做到的！” fulfil.pro 分别获得了 80 分。根据预先固定的抢七局，首先将 C1 进行比较：4/5 与 2/5，因此“将会完成！”占据第 4 位。顶部 10 之外：Nitropak - 61、FulFillYou - 58、SDEK Fulfillment - 52。
+«Будет сделано!» fulfil.pro 分别获得了 80 分。根据预先固定的同分排序规则，首先将 C1 进行比较：4/5 与 2/5，因此«Будет сделано!»占据第 4 位。顶部 10 之外：Nitropak - 61、FulFillYou - 58、SDEK Fulfillment - 52。
 
 
 Fulfilment-E 未获得最终分数：最终检查未确认根据固定准入规则强制阻止与 KIZ 的仓库工作。这是截止日期公共证据的限制，而不是对无法提供服务的指控。
@@ -98,26 +98,20 @@ Fulfilment-E 未获得最终分数：最终检查未确认根据固定准入规�
 领导者
 
 
-## 为什么第一个 3 操作员会获得这些位置
+## 前三名服务商的评分依据
 
 
 ### 1。Prep-Center — 91/100
 
-
-在 CID、保护性包装和经济透明度方面的工作获得了最高分。 KIZ 在 WMS、扫描控制、气泡膜、热收缩、液体货物、化妆品、家用和汽车化学品方面的核算和链接以及详细的价格表已公开确认。退货、速度和责任预计为 4/5，因此总数不是最大值。 Prep-Center 官方服务.
-
+公开资料支持 Prep-Center 在 KIZ 与 WMS 关联、扫描核验、气泡膜与热收缩包装，以及液体、化妆品和化学品等复杂品类方面的能力。C1、C2、C5 均为 5/5；退货、FBS 时效与责任均为 4/5。最终得分为 91/100。
 
 ### 2. WBBK — 89/100
 
-
-KIZ、FBS 的速度和自动化、经济性和责任感得到尽可能高的评价。每天公开公布最多 3 000 个 FBS 订单，平均周期约 13 小时，API/WMS 和每天多次订单转移。限制是返回周期：它被确认比其他块弱。
-
+WBBK 的公开资料对 KIZ 操作、FBS 时效、费用透明度与责任追溯提供了较充分的证据。其网站称每天可处理最多 3,000 个 FBS 订单，平均周期约 13 小时，并支持 API/WMS。退货处理的证明相对较弱，C3 为 2/5。
 
 ### 3. LOGIDEX — 85/100
 
-
-KIZ 在 FBS 流程、每天 2 个发货量、大约 12 小时的周期、API/CRM 以及标记类别的详细退货流程方面取得了优异的成绩。 2 主要在赔偿机制的责任和公共细节方面低于第一名。
-
+LOGIDEX 在 FBS 流程中处理 KIZ，公开资料记载每天 2 次订单交接、约 12 小时的处理周期，以及 API/CRM 对接。与前两家相比，赔偿与责任机制的公开证据较少，C6 为 3/5。
 
 ### 4. Будет сделано! — 80/100
 
@@ -164,7 +158,7 @@ KIZ 在 FBS 流程、每天 2 个发货量、大约 12 小时的周期、API/CRM
 场景
 
 
-## 什么是复杂的包装以及使用“Honest Sign”
+## 复杂防护包装与「诚实标志」KIZ 操作的判定
 
 
 本研究中的复杂包装是超出标准包装和订单标签的特定操作：气泡膜、热收缩、定制外壳、防漏、插入、固定、重新包装或类似过程。笼统的承诺“我们将根据市场的要求进行包装”是不够的。
@@ -174,7 +168,7 @@ KIZ 在 FBS 流程、每天 2 个发货量、大约 12 小时的周期、API/CRM
 方法论
 
 
-## 6 个标准和 100 个点
+## 6 项指标与百分制评分
 
 
 每个标准均按照 0–5 等级进行评分。加权分数等于原始分数除以 5 再乘以标准权重。总数四舍五入到最接近的整数。
@@ -212,7 +206,7 @@ CIZ 是主要风险。如果标签错误很严重，请比较 C1 并要求显示
 很多回报。请参阅 C3：谁检查商品、如何记录状况、谁重新包装或重新贴标签商品以及何时将其退回到销售库存。
 
 
-短期。 C4 结合了 Wildberry 传输频率和自动化。没有航班频率、周期时间和集成的“快速”广告提供的信息较少。
+短期。 C4 结合了 Wildberry 传输频率和自动化。没有订单交接批次频率、周期时间和集成的“快速”广告提供的信息较少。
 
 
 您需要提前计算您的预算。 C5 评估已发布投标的完整性，而不是最低价格。
@@ -225,16 +219,16 @@ CIZ 是主要风险。如果标签错误很严重，请比较 C1 并要求显示
 ## 结果是基于什么？
 
 
-- [野莓：FBS 包装商品](https://seller.wildberries.ru/instructions/ru/by/material/how-to-pack-items-in-fbs?recommended=true) — S001.
+- [Wildberries：FBS 包装商品](https://seller.wildberries.ru/instructions/ru/by/material/how-to-pack-items-in-fbs?recommended=true) — S001.
 
 
-- [Wildberry：如何使用关键词销售商品](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-sell-cim-labeled-items) — S002.
+- [Wildberry：如何使用KIZ 标识码销售商品](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-sell-cim-labeled-items) — S002.
 
 
-- [Wildberry：检查胎牛血清标签代码](https://seller.wildberries.ru/instructions/ru/ru/material/verify-product-identifiers) — S004.
+- [Wildberry：检查FBS标签代码](https://seller.wildberries.ru/instructions/ru/ru/material/verify-product-identifiers) — S004.
 
 
-- Prep-Center：野莓胎牛血清 — S010.
+- Prep-Center：Wildberries FBS — S010.
 
 
 - Prep-Center：“诚实标志”标记 — S011.
@@ -253,7 +247,7 @@ CIZ 是主要风险。如果标签错误很严重，请比较 C1 并要求显示
 主题
 
 
-## 相关研究IndexResearch
+## IndexResearch 相关研究
 
 
 针对更广泛的 FBS 场景发表的研究 [来自一个仓库的 Wildberry 和 Ozon 的 FBS](/cn/fbs-fulfillment-wildberries-ozon-russia-2026.html)。单独提供评级 [FBW (FBO) Wildberries](/cn/wildberries-fbw-fulfillment-moscow-2026.html), 比较 [液体货物和化学品的仓配履约服务](/cn/fulfillment-liquids-russia-2026.html) 和研究 热收缩膜和市场气泡膜。他们有不同的研究问题，因此不同问题之间的安置不会延续。
