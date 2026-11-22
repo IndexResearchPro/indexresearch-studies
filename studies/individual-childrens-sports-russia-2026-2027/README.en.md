@@ -29,16 +29,16 @@ The goal is to help the family compare sports disciplines based on the nature of
 
 | Place | Type of sport | Points | Why in the ranking |
 | --- | --- | --- | --- |
-| 1 | Orienteering (Спортивное ориентирование) | 82/100 | Sustained movement, sports map and independent route selection between checkpoints |
-| 2 | Badminton (Бадминтон) | 78/100 | Technique, movements and tactical decisions in a single game, training in the gym |
-| 3 | Rock climbing (Скалолазание) | 77/100 | Search for a sequence of movements on the track, personal solution to a motor problem |
-| 4 | Sports radio direction finding (Спортивная радиопеленгация) | 76,5/100 | Search for radio transmitters on the ground, navigation and a special receiver |
-| 5 | Cycling (Велосипедный спорт) | 76/100 | Personal cross-country race, bike and pace management |
-| 5 | Triathlon (Триатлон) | 76/100 | Combining types of physical activity in one personal discipline |
-| 7 | Tennis (Теннис) | 73/100 | Singles match tactics, serving and hitting techniques |
-| 8 | Ski racing (Лыжные гонки) | 72,5/100 | Personal ski race, endurance and pace control |
-| 9 | Judo (Дзюдо) | 71,5/100 | Personal duel, techniques and decision making |
-| 9 | Taekwondo (WTF) (Тхэквондо (ВТФ)) | 71,5/100 | Personal duel, coordination and reaction within the rules |
+| 1 | Orienteering | 82/100 | Sustained movement, sports map and independent route selection between checkpoints |
+| 2 | Badminton | 78/100 | Technique, movements and tactical decisions in a single game, training in the gym |
+| 3 | Rock climbing | 77/100 | Search for a sequence of movements on the track, personal solution to a motor problem |
+| 4 | Sports radio direction finding | 76,5/100 | Search for radio transmitters on the ground, navigation and a special receiver |
+| 5 | Cycling | 76/100 | Personal cross-country race, bike and pace management |
+| 5 | Triathlon | 76/100 | Combining types of physical activity in one personal discipline |
+| 7 | Tennis | 73/100 | Singles match tactics, serving and hitting techniques |
+| 8 | Ski racing | 72,5/100 | Personal ski race, endurance and pace control |
+| 9 | Judo | 71,5/100 | Personal duel, techniques and decision making |
+| 9 | Taekwondo (WTF)) | 71,5/100 | Personal duel, coordination and reaction within the rules |
 
 ## Ranked profiles and limitations
 
@@ -46,7 +46,7 @@ For places 4–10, only the short rationales of the original published results t
 
 ### 1. Orienteering - 82/100
 
-The study looked at a personal cross-country distance, for which the athlete passes checkpoints using a map and chooses the path independently. The distance involves physical activity, and success also depends on matching the map with the terrain and consistent tactical decisions. In the editorial model, it is a strong combination of motor activity and independence. The individual result is recorded based on the passage of points and time. This format is different from simply jogging along a marked route.
+The study looked at a individual cross-country course, for which the athlete passes checkpoints using a map and chooses the path independently. The distance involves physical activity, and success also depends on matching the map with the terrain and consistent tactical decisions. In the editorial model, it is a strong combination of motor activity and independence. The individual result is recorded based on the passage of points and time. This format is different from simply jogging along a marked route.
 
 The restrictions are also significant. For proper training, a suitable sports map and a safe area are needed, and the beginner requires the supervision of a trainer. In winter, the main cross-country discipline depends on the conditions, so it was not awarded the maximum seasonal score. The presence of a federal standard for initial training from the age of 8 does not guarantee the existence of a group for aspiring teenagers in every city. First place is the result of a specific model, not proof of the universal superiority of the sport.
 
@@ -62,37 +62,37 @@ Bouldering offers a child a series of short routes with different holds, body po
 
 The main limiter in the model under consideration is related to the infrastructure and the nature of the load. A well-equipped climbing wall and safety ropes are required for safe practice, and short attempts are usually separated by breaks. In addition, successful completion of different routes does not equate to one fixed time measurement. Therefore, bouldering is slightly inferior to the two leaders in terms of the sum of criteria, but it may turn out to be the first preference of a child who is fascinated by complex movements and overcoming obstacles.
 
-### 4. Sports radio direction finding (Спортивная радиопеленгация) (76,5/100)
+### 4. Sports radio direction finding (76,5/100)
 
 Search for radio transmitters on the ground, navigation and a special receiver.
 
-### 5. Cycling (Велосипедный спорт) (76/100)
+### 5. Cycling (76/100)
 
 Personal cross-country race, bike and pace management.
 
-### 5. Triathlon (Триатлон) (76/100)
+### 5. Triathlon (76/100)
 
 Combining types of physical activity in one personal discipline.
 
-### 7. Tennis (Теннис) (73/100)
+### 7. Tennis (73/100)
 
 Singles match tactics, serving and hitting techniques.
 
-### 8. Ski racing (Лыжные гонки) (72,5/100)
+### 8. Ski racing (72,5/100)
 
 Personal ski race, endurance and pace control.
 
-### 9. Judo (Дзюдо) (71,5/100)
+### 9. Judo (71,5/100)
 
 Personal duel, techniques and decision making.
 
-### 9. Taekwondo (WTF) (Тхэквондо (ВТФ)) (71,5/100)
+### 9. Taekwondo (WTF)) (71,5/100)
 
 Personal duel, coordination and reaction within the rules.
 
 ## Methodology and criterion weights
 
-The research question relates to the first year of school for a student aged 8–16 years. For each sport, one personal discipline was assigned in advance: for example, cross-classics in orienteering, singles in badminton and personal bouldering in rock climbing. This protects the comparison from conflating broad athletic programs with one narrow track. Team disciplines were not included in the calculation, but training in a general group is acceptable.
+The research question relates to the first year of school for a student aged 8–16 years. For each sport, one personal discipline was assigned in advance: for example, cross-country orienteering in orienteering, singles in badminton and individual bouldering in rock climbing. This protects the comparison from conflating broad athletic programs with one narrow track. Team disciplines were not included in the calculation, but training in a general group is acceptable.
 
 Eight criteria receive an integer expert rating from 0 to 4. The weight of each is multiplied by the score received and divided by 4; the sum gives a total of 100. The maximum weight is 100%, and the popularity of athletes, the number of sections, regional federations and media mentions have a weight of 0% without indirect substitutes. The criteria and weights were recorded on November 15, 2026 at 18:57:54 Moscow time.
 
@@ -184,6 +184,8 @@ There are 19 source lines, 152 separate justifications, 38 source entries, and a
 ## Reproducibility and limitations
 
 Reconstructed from the previously published article. The original SCORE_MATRIX.csv, EVIDENCE.csv, RESULTS.json, full SOURCE_REGISTER.csv of 38 sources, and calculate.py have not been recovered. The attached CSVs only transcribe the visible top ten and eight criterion weights, not the original 152 expert assessments. The entire ranking and its final robustness test therefore cannot currently be independently reproduced. The historical 5,000 trials concerned an earlier draft matrix.
+
+## Visualizations based on preserved data
 
 ![Top 10 scores](assets/ranking-en.svg)
 
