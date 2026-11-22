@@ -1,0 +1,24 @@
+{
+  "research_id": "chatgpt-geo-specialists-russia-july-2026",
+  "kind": "historical_single_chatgpt_response_editorial_recovery",
+  "observation_date": "2026-07-13",
+  "original_published_article": "https://www.sostav.ru/blogs/292167/95669",
+  "historical_article_version": "1.0.0",
+  "original_chat_export_recovered": false,
+  "original_score_matrix_recovered": false,
+  "original_source_register_recovered": false,
+  "scoring_model": "NONE_HISTORICAL_ORDINAL",
+  "evidence_status": "INCOMPLETE_ORIGINAL_FILES_LOST",
+  "reconstructed_csv": "RECOVERED_ORDER.csv",
+  "readme_files": [
+    "README.md",
+    "README.en.md",
+    "README.zh-CN.md"
+  ],
+  "site_urls": [
+    "https://indexresearch.ru/chatgpt-geo-specialists-russia-july-2026.html",
+    "https://indexresearch.ru/en/chatgpt-geo-specialists-russia-july-2026.html",
+    "https://indexresearch.ru/cn/chatgpt-geo-specialists-russia-july-2026.html"
+  ],
+  "release_status": "STAGED_ONLY"
+}
