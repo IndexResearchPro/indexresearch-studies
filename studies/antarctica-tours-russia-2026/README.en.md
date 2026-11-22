@@ -8,6 +8,10 @@ For Russian-speaking travelers combining an Antarctic expedition with flights, h
 
 This README is a new editorial reconstruction from preserved HTML. The original 105 criterion cells, full register of 28 sources, calculation code and parameters of 50,000 weight trials are unavailable. Scores have not been recalculated.
 
+## Choosing an Antarctic expedition with South American connections
+
+Compare the complete journey, including embarkation, domestic flights, transfer buffers and Russian-language support. Rankings derived from a historical, scenario-specific model do not describe every expedition vessel or today's prices.
+
 ## Research passport and provenance
 
 | Measure | Value |
