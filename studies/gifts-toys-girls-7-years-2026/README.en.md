@@ -36,11 +36,11 @@ This is an editorial gift-selection guide based on a preserved list. Item #1 is 
 
 ## Top three for different interests
 
-**[Junion Villa Alba dollhouse](https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY)**. For established dollhouse play, provided there is space for a 118 cm-high structure and an adult can assemble it.
+**<a href="https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY" target="_blank" rel="sponsored nofollow noopener">Junion Villa Alba dollhouse</a>**. For established dollhouse play, provided there is space for a 118 cm-high structure and an adult can assemble it.
 
-**[SLUBAN House with Pool, M38-B0868](https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ)**. For a child who enjoys construction: the assembly process is part of the gift, not merely preparation for it.
+**<a href="https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ" target="_blank" rel="sponsored nofollow noopener">SLUBAN House with Pool, M38-B0868</a>**. For a child who enjoys construction: the assembly process is part of the gift, not merely preparation for it.
 
-**[Junion Beauty Box pretend-play kit](https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs)**. For playing stylist without installing a dressing table; the accessories can be put back in the bag afterwards.
+**<a href="https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs" target="_blank" rel="sponsored nofollow noopener">Junion Beauty Box pretend-play kit</a>**. For playing stylist without installing a dressing table; the accessories can be put back in the bag afterwards.
 
 ## The complete shortlist
 
@@ -91,7 +91,7 @@ An uncomplicated first activity is to decide together what each room will be, th
 - Check the height of the dolls the child already owns. The house accommodates figures around 30 cm tall, but furniture and unusually large dolls should still be measured.
 - Follow the assembly and placement instructions rather than expecting the child to move a heavy structure alone.
 
-[View product: Junion Villa Alba dollhouse](https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY). erid: 5jtCeReNx12oak2tUdcHCUY.
+<a href="https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY" target="_blank" rel="sponsored nofollow noopener">View product: Junion Villa Alba dollhouse</a>. erid: 5jtCeReNx12oak2tUdcHCUY.
 
 Fact and photo sources: Junion [S01].
 
@@ -121,7 +121,7 @@ A tray makes the loose pieces easier to manage. It also helps to reserve a surfa
 - Read the age label and small-parts warnings on the actual box.
 - Do not assume compatibility with every other construction brand without separate confirmation.
 
-[View product: SLUBAN House with Pool, M38-B0868](https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ). erid: 5jtCeReNx12oak2tUdgh9tQ.
+<a href="https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ" target="_blank" rel="sponsored nofollow noopener">View product: SLUBAN House with Pool, M38-B0868</a>. erid: 5jtCeReNx12oak2tUdgh9tQ.
 
 Fact and photo sources: Детский мир / Detsky Mir [S06].
 
@@ -151,7 +151,7 @@ Choose it for a child who already enjoys this kind of role-play. Curiosity about
 - Confirm whether batteries are needed and whether they are supplied for the sound function.
 - Treat the objects as toys, not genuine cosmetics or household equipment; follow their instructions.
 
-[View product: Junion Beauty Box pretend-play kit](https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs). erid: 5jtCeReNx12oak2tUddmXcs.
+<a href="https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs" target="_blank" rel="sponsored nofollow noopener">View product: Junion Beauty Box pretend-play kit</a>. erid: 5jtCeReNx12oak2tUddmXcs.
 
 Fact and photo sources: Junion [S05].
 
@@ -181,7 +181,7 @@ The seller listing describes two garages, a balcony, openable shutters and three
 - Check the height of current dolls against the stated 22 cm floor clearance.
 - Confirm the actual included accessories instead of assuming cars or furniture come with the offer.
 
-[View product: Little Wood Home Villa dollhouse with slide and balcony](https://market.yandex.ru/cc/BUbUGy?erid=5jtCeReNx12oak2tUddjAsD). erid: 5jtCeReNx12oak2tUddjAsD.
+<a href="https://market.yandex.ru/cc/BUbUGy?erid=5jtCeReNx12oak2tUddjAsD" target="_blank" rel="sponsored nofollow noopener">View product: Little Wood Home Villa dollhouse with slide and balcony</a>. erid: 5jtCeReNx12oak2tUddjAsD.
 
 Fact and photo sources: Little Wood Home / Team Yandex Store [S02].
 
@@ -211,7 +211,7 @@ Articulated knees, advanced posing and independent standing are not promised. Fe
 - Allow for the doll not standing independently.
 - Check the fit of existing clothing separately because Barbie body types and garment sizes vary.
 
-[View product: Barbie with shoes and accessories, FVJ42](https://market.yandex.ru/cc/BUbrhR?erid=5jtCeReNx12oak2tUddjWxV). erid: 5jtCeReNx12oak2tUddjWxV.
+<a href="https://market.yandex.ru/cc/BUbrhR?erid=5jtCeReNx12oak2tUddjWxV" target="_blank" rel="sponsored nofollow noopener">View product: Barbie with shoes and accessories, FVJ42</a>. erid: 5jtCeReNx12oak2tUddjWxV.
 
 Fact and photo sources: Mattel; Детский мир / Detsky Mir [S03].
 
@@ -241,7 +241,7 @@ Before arranging a surprise, it is worth quietly checking the character name and
 - Confirm accessories in the actual box rather than relying only on a marketed surprise count.
 - Some manufacturer information comes from an indexed page; its former live address returned 404 during direct checking.
 
-[View product: L.O.L. Surprise! Tweens Freshest, Core 542582](https://market.yandex.ru/cc/BUcUqg?erid=5jtCeReNx12oak2tUddkrMJ). erid: 5jtCeReNx12oak2tUddkrMJ.
+<a href="https://market.yandex.ru/cc/BUcUqg?erid=5jtCeReNx12oak2tUddkrMJ" target="_blank" rel="sponsored nofollow noopener">View product: L.O.L. Surprise! Tweens Freshest, Core 542582</a>. erid: 5jtCeReNx12oak2tUddkrMJ.
 
 Fact and photo sources: MGA; Детский мир / Detsky Mir [S04].
 
@@ -271,7 +271,7 @@ The small format can work as a compact gift in its own right or an addition to a
 - Check that the offer is for one ball of the intended series.
 - Plan storage for small accessories and follow the package restrictions, including around younger children.
 
-[View product: L.O.L. Surprise! Hello Kitty & Friends, 523840](https://market.yandex.ru/cc/BUt6XW?erid=5jtCeReNx12oak2tUk9ohpc). erid: 5jtCeReNx12oak2tUk9ohpc.
+<a href="https://market.yandex.ru/cc/BUt6XW?erid=5jtCeReNx12oak2tUk9ohpc" target="_blank" rel="sponsored nofollow noopener">View product: L.O.L. Surprise! Hello Kitty &amp; Friends, 523840</a>. erid: 5jtCeReNx12oak2tUk9ohpc.
 
 Fact and photo sources: MGA [S11].
 
@@ -301,7 +301,7 @@ The identified Russian seller lists a 208-piece pink Art assortment. The photogr
 - Inspect the exact included paper, brushes and paints and do not assume professional quality.
 - Allow space for the unfolded case and protect the work surface where needed.
 
-[View product: Avel Art 208-piece pink drawing kit with easel](https://market.yandex.ru/cc/BUspoW?erid=5jtCeReNx12oak2tUk9oMex). erid: 5jtCeReNx12oak2tUk9oMex.
+<a href="https://market.yandex.ru/cc/BUspoW?erid=5jtCeReNx12oak2tUk9oMex" target="_blank" rel="sponsored nofollow noopener">View product: Avel Art 208-piece pink drawing kit with easel</a>. erid: 5jtCeReNx12oak2tUk9oMex.
 
 Fact and photo sources: Авель Art / Team Yandex Store; Zaffary comparative photo [S08].
 
@@ -331,7 +331,7 @@ The input title referred to sequins, but the exact brand description specifies g
 - Check folder dimensions, compartment layout and fastener convenience.
 - Do not treat the moulded back or FIT name as a guarantee of a medical outcome.
 
-[View product: BRAUBERG FIT Golden Butterflies school bag, 274383](https://market.yandex.ru/cc/BUt4qF?erid=5jtCeReNx12oak2tUk9ohfk). erid: 5jtCeReNx12oak2tUk9ohfk.
+<a href="https://market.yandex.ru/cc/BUt4qF?erid=5jtCeReNx12oak2tUk9ohfk" target="_blank" rel="sponsored nofollow noopener">View product: BRAUBERG FIT Golden Butterflies school bag, 274383</a>. erid: 5jtCeReNx12oak2tUk9ohfk.
 
 Fact and photo sources: BRAUBERG [S10].
 
@@ -361,7 +361,7 @@ Two to five players can take part, and a round typically lasts around 30 minutes
 - It is designed for two to five players.
 - Allow around 30 minutes per session, and a little longer while everyone learns the game.
 
-[View product: GaGa Games Bolshaya Brodilka board game](https://market.yandex.ru/cc/BUqfoK?erid=5jtCeReNx12oak2tUk6qP6E). erid: 5jtCeReNx12oak2tUk6qP6E.
+<a href="https://market.yandex.ru/cc/BUqfoK?erid=5jtCeReNx12oak2tUk6qP6E" target="_blank" rel="sponsored nofollow noopener">View product: GaGa Games Bolshaya Brodilka board game</a>. erid: 5jtCeReNx12oak2tUk6qP6E.
 
 Fact and photo sources: GaGa Games [S07].
 
@@ -391,7 +391,7 @@ This gift only fits where an adult actively wants to do the craft and can contro
 - Keep uncured resin and UV equipment away from the child; follow skin and eye protection, ventilation and disposal guidance.
 - Do not transfer instructions or safety assurances from another resin kit.
 
-[View product: LampStory Magic Keychains UV-resin craft set](https://market.yandex.ru/cc/BUsrYb?erid=5jtCeReNx12oak2tUk9oMxV). erid: 5jtCeReNx12oak2tUk9oMxV.
+<a href="https://market.yandex.ru/cc/BUsrYb?erid=5jtCeReNx12oak2tUk9oMxV" target="_blank" rel="sponsored nofollow noopener">View product: LampStory Magic Keychains UV-resin craft set</a>. erid: 5jtCeReNx12oak2tUk9oMxV.
 
 Fact and photo sources: LampStory (manufacturer) [S09].
 

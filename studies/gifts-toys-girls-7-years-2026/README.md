@@ -36,11 +36,11 @@
 
 ## ТОП-3 для разных интересов
 
-**[Junion «Вилла Альба»](https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY)**. Для большой сюжетной игры, если ребенок уже любит кукольные истории, а дома есть место для конструкции высотой 118 см.
+**<a href="https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY" target="_blank" rel="sponsored nofollow noopener">Junion «Вилла Альба»</a>**. Для большой сюжетной игры, если ребенок уже любит кукольные истории, а дома есть место для конструкции высотой 118 см.
 
-**[SLUBAN «Дом с бассейном», M38-B0868](https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ)**. Для любительницы конструкторов: подарок ценен самим процессом сборки, а готовая модель остается для игры.
+**<a href="https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ" target="_blank" rel="sponsored nofollow noopener">SLUBAN «Дом с бассейном», M38-B0868</a>**. Для любительницы конструкторов: подарок ценен самим процессом сборки, а готовая модель остается для игры.
 
-**[Junion «Бьюти-бокс»](https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs)**. Для игры в стилиста без отдельного трюмо: предметы можно собрать в сумку после окончания сюжета.
+**<a href="https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs" target="_blank" rel="sponsored nofollow noopener">Junion «Бьюти-бокс»</a>**. Для игры в стилиста без отдельного трюмо: предметы можно собрать в сумку после окончания сюжета.
 
 ## Вся подборка коротко
 
@@ -91,7 +91,7 @@
 - Ориентируйтесь на рост любимых кукол: дом удобен для моделей примерно до 30 см, но отдельную крупную куклу и мебель лучше сопоставить по размеру.
 - Сборку и размещение выполняйте по инструкции; не обещайте ребенку самостоятельное перемещение тяжелой конструкции.
 
-[Посмотреть товар: Junion «Вилла Альба»](https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY). erid: 5jtCeReNx12oak2tUdcHCUY.
+<a href="https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: Junion «Вилла Альба»</a>. erid: 5jtCeReNx12oak2tUdcHCUY.
 
 Источники фактов и фото: Junion [S01].
 
@@ -121,7 +121,7 @@
 - Проверьте возрастную маркировку и мелкие детали на конкретной коробке.
 - Не рассчитывайте на совместимость с любым другим конструктором без отдельного подтверждения.
 
-[Посмотреть товар: SLUBAN «Дом с бассейном», M38-B0868](https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ). erid: 5jtCeReNx12oak2tUdgh9tQ.
+<a href="https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: SLUBAN «Дом с бассейном», M38-B0868</a>. erid: 5jtCeReNx12oak2tUdgh9tQ.
 
 Источники фактов и фото: Детский мир / Detsky Mir [S06].
 
@@ -151,7 +151,7 @@
 - Уточните необходимость и наличие батареек для звуковой функции.
 - Не используйте игровые предметы как настоящую косметику или бытовую технику; ориентируйтесь на инструкцию.
 
-[Посмотреть товар: Junion «Бьюти-бокс»](https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs). erid: 5jtCeReNx12oak2tUddmXcs.
+<a href="https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: Junion «Бьюти-бокс»</a>. erid: 5jtCeReNx12oak2tUddmXcs.
 
 Источники фактов и фото: Junion [S05].
 
@@ -181,7 +181,7 @@
 - Проверить высоту любимых кукол: промежуток между этажами заявлен около 22 см.
 - Уточнить в конкретном предложении состав мебели и машинок: они не должны предполагаться автоматически.
 
-[Посмотреть товар: Little Wood Home «Вилла» с горкой и балконом](https://market.yandex.ru/cc/BUbUGy?erid=5jtCeReNx12oak2tUddjAsD). erid: 5jtCeReNx12oak2tUddjAsD.
+<a href="https://market.yandex.ru/cc/BUbUGy?erid=5jtCeReNx12oak2tUddjAsD" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: Little Wood Home «Вилла» с горкой и балконом</a>. erid: 5jtCeReNx12oak2tUddjAsD.
 
 Источники фактов и фото: Little Wood Home / Team Yandex Store [S02].
 
@@ -211,7 +211,7 @@
 - Учитывайте, что кукла не стоит самостоятельно.
 - Совместимость с уже имеющейся одеждой проверьте отдельно: у Barbie различаются типы тела и посадка вещей.
 
-[Посмотреть товар: Barbie с обувью и аксессуарами, FVJ42](https://market.yandex.ru/cc/BUbrhR?erid=5jtCeReNx12oak2tUddjWxV). erid: 5jtCeReNx12oak2tUddjWxV.
+<a href="https://market.yandex.ru/cc/BUbrhR?erid=5jtCeReNx12oak2tUddjWxV" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: Barbie с обувью и аксессуарами, FVJ42</a>. erid: 5jtCeReNx12oak2tUddjWxV.
 
 Источники фактов и фото: Mattel; Детский мир / Detsky Mir [S03].
 
@@ -241,7 +241,7 @@
 - Уточните аксессуары именно выбранной коробки и не ориентируйтесь только на число «сюрпризов».
 - Сведения производителя найдены в том числе в индексированной версии страницы; ее прежний адрес при прямой проверке возвращал 404.
 
-[Посмотреть товар: L.O.L. Surprise! Tweens Freshest, Core 542582](https://market.yandex.ru/cc/BUcUqg?erid=5jtCeReNx12oak2tUddkrMJ). erid: 5jtCeReNx12oak2tUddkrMJ.
+<a href="https://market.yandex.ru/cc/BUcUqg?erid=5jtCeReNx12oak2tUddkrMJ" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: L.O.L. Surprise! Tweens Freshest, Core 542582</a>. erid: 5jtCeReNx12oak2tUddkrMJ.
 
 Источники фактов и фото: MGA; Детский мир / Detsky Mir [S04].
 
@@ -271,7 +271,7 @@
 - Проверьте, что предложение относится к одному шару нужной серии.
 - Для мелких аксессуаров выделите место хранения; учитывайте ограничения на упаковке и младших детей.
 
-[Посмотреть товар: L.O.L. Surprise! Hello Kitty & Friends, 523840](https://market.yandex.ru/cc/BUt6XW?erid=5jtCeReNx12oak2tUk9ohpc). erid: 5jtCeReNx12oak2tUk9ohpc.
+<a href="https://market.yandex.ru/cc/BUt6XW?erid=5jtCeReNx12oak2tUk9ohpc" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: L.O.L. Surprise! Hello Kitty &amp; Friends, 523840</a>. erid: 5jtCeReNx12oak2tUk9ohpc.
 
 Источники фактов и фото: MGA [S11].
 
@@ -301,7 +301,7 @@
 - Посмотреть, какие листы, краски и кисти реально входят в комплект; не рассчитывать на выдуманные профессиональные свойства.
 - Рассчитать место для раскрытого чемодана и при необходимости защитить поверхность при работе с красками.
 
-[Посмотреть товар: Розовый набор для рисования «Авель Art», 208 предметов](https://market.yandex.ru/cc/BUspoW?erid=5jtCeReNx12oak2tUk9oMex). erid: 5jtCeReNx12oak2tUk9oMex.
+<a href="https://market.yandex.ru/cc/BUspoW?erid=5jtCeReNx12oak2tUk9oMex" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: Розовый набор для рисования «Авель Art», 208 предметов</a>. erid: 5jtCeReNx12oak2tUk9oMex.
 
 Источники фактов и фото: Авель Art / Team Yandex Store; Zaffary comparative photo [S08].
 
@@ -331,7 +331,7 @@
 - Проверьте размеры нужных папок, организацию отделений и удобство застежек.
 - Не считайте формованную спинку или название FIT гарантией медицинского результата.
 
-[Посмотреть товар: BRAUBERG FIT «Золотые бабочки», 274383](https://market.yandex.ru/cc/BUt4qF?erid=5jtCeReNx12oak2tUk9ohfk). erid: 5jtCeReNx12oak2tUk9ohfk.
+<a href="https://market.yandex.ru/cc/BUt4qF?erid=5jtCeReNx12oak2tUk9ohfk" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: BRAUBERG FIT «Золотые бабочки», 274383</a>. erid: 5jtCeReNx12oak2tUk9ohfk.
 
 Источники фактов и фото: BRAUBERG [S10].
 
@@ -361,7 +361,7 @@
 - Учитывайте состав компании: одновременно могут играть 2–5 человек.
 - Партия обычно длится около 30 минут, но при знакомстве с правилами может занять больше времени.
 
-[Посмотреть товар: GaGa Games «Большая Бродилка»](https://market.yandex.ru/cc/BUqfoK?erid=5jtCeReNx12oak2tUk6qP6E). erid: 5jtCeReNx12oak2tUk6qP6E.
+<a href="https://market.yandex.ru/cc/BUqfoK?erid=5jtCeReNx12oak2tUk6qP6E" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: GaGa Games «Большая Бродилка»</a>. erid: 5jtCeReNx12oak2tUk6qP6E.
 
 Источники фактов и фото: GaGa Games [S07].
 
@@ -391,7 +391,7 @@
 - Не позволяйте ребенку работать с жидкой смолой и УФ-лампой. Взрослому необходимо соблюдать требования к защите кожи и глаз, проветриванию и утилизации.
 - У разных наборов смолы могут различаться состав и правила работы; ориентируйтесь на инструкцию LampStory.
 
-[Посмотреть товар: LampStory «Волшебные брелоки», набор с УФ-смолой](https://market.yandex.ru/cc/BUsrYb?erid=5jtCeReNx12oak2tUk9oMxV). erid: 5jtCeReNx12oak2tUk9oMxV.
+<a href="https://market.yandex.ru/cc/BUsrYb?erid=5jtCeReNx12oak2tUk9oMxV" target="_blank" rel="sponsored nofollow noopener">Посмотреть товар: LampStory «Волшебные брелоки», набор с УФ-смолой</a>. erid: 5jtCeReNx12oak2tUk9oMxV.
 
 Источники фактов и фото: LampStory (manufacturer) [S09].
 

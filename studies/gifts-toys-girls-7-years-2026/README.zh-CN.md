@@ -36,11 +36,11 @@
 
 ## 按不同兴趣选择的TOP-3
 
-**[Junion“Вилла Альба”娃娃屋](https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY)**. 适合已经喜欢娃娃故事的孩子，前提是家中有容纳118厘米高房屋的空间，并有成人负责组装。
+**<a href="https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY" target="_blank" rel="sponsored nofollow noopener">Junion“Вилла Альба”娃娃屋</a>**. 适合已经喜欢娃娃故事的孩子，前提是家中有容纳118厘米高房屋的空间，并有成人负责组装。
 
-**[SLUBAN泳池别墅积木，M38-B0868](https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ)**. 适合喜欢积木的孩子，拼搭过程本身就是礼物的一部分，而不只是开始玩之前的准备。
+**<a href="https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ" target="_blank" rel="sponsored nofollow noopener">SLUBAN泳池别墅积木，M38-B0868</a>**. 适合喜欢积木的孩子，拼搭过程本身就是礼物的一部分，而不只是开始玩之前的准备。
 
-**[Junion“Бьюти-бокс”美容角色扮演包](https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs)**. 适合扮演造型师而又不需要单独梳妆台的家庭，游戏后可把物品收回包里。
+**<a href="https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs" target="_blank" rel="sponsored nofollow noopener">Junion“Бьюти-бокс”美容角色扮演包</a>**. 适合扮演造型师而又不需要单独梳妆台的家庭，游戏后可把物品收回包里。
 
 ## 完整精选速览
 
@@ -91,7 +91,7 @@
 - 先比较家里娃娃的高度。房屋大致适用于30厘米及以下的玩偶，尺寸特别大的款式及家具仍应单独测量。
 - 按说明完成组装和摆放，不应期待孩子独自搬动较重结构。
 
-[查看商品: Junion“Вилла Альба”娃娃屋](https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY). erid: 5jtCeReNx12oak2tUdcHCUY.
+<a href="https://market.yandex.ru/cc/BUafat?erid=5jtCeReNx12oak2tUdcHCUY" target="_blank" rel="sponsored nofollow noopener">查看商品: Junion“Вилла Альба”娃娃屋</a>. erid: 5jtCeReNx12oak2tUdcHCUY.
 
 事实与照片来源: Junion [S01].
 
@@ -121,7 +121,7 @@
 - 查看具体包装上的适龄标签和小零件提示。
 - 没有额外证据时，不应默认与所有其他品牌积木兼容。
 
-[查看商品: SLUBAN泳池别墅积木，M38-B0868](https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ). erid: 5jtCeReNx12oak2tUdgh9tQ.
+<a href="https://market.yandex.ru/cc/BUf5QB?erid=5jtCeReNx12oak2tUdgh9tQ" target="_blank" rel="sponsored nofollow noopener">查看商品: SLUBAN泳池别墅积木，M38-B0868</a>. erid: 5jtCeReNx12oak2tUdgh9tQ.
 
 事实与照片来源: Детский мир / Detsky Mir [S06].
 
@@ -151,7 +151,7 @@
 - 询问声音功能是否需要电池，以及是否随套装提供。
 - 按照说明把物品作为玩具使用，不作为真实化妆品或家用设备。
 
-[查看商品: Junion“Бьюти-бокс”美容角色扮演包](https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs). erid: 5jtCeReNx12oak2tUddmXcs.
+<a href="https://market.yandex.ru/cc/BUczMF?erid=5jtCeReNx12oak2tUddmXcs" target="_blank" rel="sponsored nofollow noopener">查看商品: Junion“Бьюти-бокс”美容角色扮演包</a>. erid: 5jtCeReNx12oak2tUddmXcs.
 
 事实与照片来源: Junion [S05].
 
@@ -181,7 +181,7 @@
 - 用现有娃娃的高度与22厘米的层间高度比较。
 - 确认实际购买套装是否附家具或汽车，不应自行假设。
 
-[查看商品: Little Wood Home“Вилла”带滑道与阳台娃娃屋](https://market.yandex.ru/cc/BUbUGy?erid=5jtCeReNx12oak2tUddjAsD). erid: 5jtCeReNx12oak2tUddjAsD.
+<a href="https://market.yandex.ru/cc/BUbUGy?erid=5jtCeReNx12oak2tUddjAsD" target="_blank" rel="sponsored nofollow noopener">查看商品: Little Wood Home“Вилла”带滑道与阳台娃娃屋</a>. erid: 5jtCeReNx12oak2tUddjAsD.
 
 事实与照片来源: Little Wood Home / Team Yandex Store [S02].
 
@@ -211,7 +211,7 @@
 - 考虑到娃娃不能自行站立。
 - 已有服装的尺寸和版型需另行确认，同品牌也存在不同身体类型。
 
-[查看商品: Barbie鞋履与配件套装，FVJ42](https://market.yandex.ru/cc/BUbrhR?erid=5jtCeReNx12oak2tUddjWxV). erid: 5jtCeReNx12oak2tUddjWxV.
+<a href="https://market.yandex.ru/cc/BUbrhR?erid=5jtCeReNx12oak2tUddjWxV" target="_blank" rel="sponsored nofollow noopener">查看商品: Barbie鞋履与配件套装，FVJ42</a>. erid: 5jtCeReNx12oak2tUddjWxV.
 
 事实与照片来源: Mattel; Детский мир / Detsky Mir [S03].
 
@@ -241,7 +241,7 @@ Freshest最明确的购买理由是角色认同：孩子点名想要她、在朋
 - 确认所购买盒子的配件，不只看宣传中的“惊喜数量”。
 - 部分厂家信息来自已被搜索引擎收录的页面；原页面地址直接检查时曾返回404。
 
-[查看商品: L.O.L. Surprise! Tweens Freshest，Core 542582](https://market.yandex.ru/cc/BUcUqg?erid=5jtCeReNx12oak2tUddkrMJ). erid: 5jtCeReNx12oak2tUddkrMJ.
+<a href="https://market.yandex.ru/cc/BUcUqg?erid=5jtCeReNx12oak2tUddkrMJ" target="_blank" rel="sponsored nofollow noopener">查看商品: L.O.L. Surprise! Tweens Freshest，Core 542582</a>. erid: 5jtCeReNx12oak2tUddkrMJ.
 
 事实与照片来源: MGA; Детский мир / Detsky Mir [S04].
 
@@ -271,7 +271,7 @@ Freshest最明确的购买理由是角色认同：孩子点名想要她、在朋
 - 检查报价是否为所需系列的一个球。
 - 为小配件安排收纳，遵守包装限制，并注意家中更小的孩子。
 
-[查看商品: L.O.L. Surprise! Hello Kitty & Friends，523840](https://market.yandex.ru/cc/BUt6XW?erid=5jtCeReNx12oak2tUk9ohpc). erid: 5jtCeReNx12oak2tUk9ohpc.
+<a href="https://market.yandex.ru/cc/BUt6XW?erid=5jtCeReNx12oak2tUk9ohpc" target="_blank" rel="sponsored nofollow noopener">查看商品: L.O.L. Surprise! Hello Kitty &amp; Friends，523840</a>. erid: 5jtCeReNx12oak2tUk9ohpc.
 
 事实与照片来源: MGA [S11].
 
@@ -301,7 +301,7 @@ Freshest最明确的购买理由是角色认同：孩子点名想要她、在朋
 - 检查配套纸张、颜料和画笔的实际数量。
 - 为展开的画箱与颜料操作留出适合清理的桌面。
 
-[查看商品: Авель Art粉色208件绘画箱（带画架）](https://market.yandex.ru/cc/BUspoW?erid=5jtCeReNx12oak2tUk9oMex). erid: 5jtCeReNx12oak2tUk9oMex.
+<a href="https://market.yandex.ru/cc/BUspoW?erid=5jtCeReNx12oak2tUk9oMex" target="_blank" rel="sponsored nofollow noopener">查看商品: Авель Art粉色208件绘画箱（带画架）</a>. erid: 5jtCeReNx12oak2tUk9oMex.
 
 事实与照片来源: Авель Art / Team Yandex Store; Zaffary comparative photo [S08].
 
@@ -331,7 +331,7 @@ FIT 274383采用成型结构并设有两个分区。应放到真实的学校使�
 - 核对文件夹尺寸、内部布局和扣件操作是否方便。
 - 不要把成型背板或FIT名称当作医学效果保证。
 
-[查看商品: BRAUBERG FIT“Золотые бабочки”书包，274383](https://market.yandex.ru/cc/BUt4qF?erid=5jtCeReNx12oak2tUk9ohfk). erid: 5jtCeReNx12oak2tUk9ohfk.
+<a href="https://market.yandex.ru/cc/BUt4qF?erid=5jtCeReNx12oak2tUk9ohfk" target="_blank" rel="sponsored nofollow noopener">查看商品: BRAUBERG FIT“Золотые бабочки”书包，274383</a>. erid: 5jtCeReNx12oak2tUk9ohfk.
 
 事实与照片来源: BRAUBERG [S10].
 
@@ -361,7 +361,7 @@ FIT 274383采用成型结构并设有两个分区。应放到真实的学校使�
 - 同时支持2至5名玩家。
 - 单局通常约30分钟，初次学习时可能更久。
 
-[查看商品: GaGa Games《Большая Бродилка》家庭桌游](https://market.yandex.ru/cc/BUqfoK?erid=5jtCeReNx12oak2tUk6qP6E). erid: 5jtCeReNx12oak2tUk6qP6E.
+<a href="https://market.yandex.ru/cc/BUqfoK?erid=5jtCeReNx12oak2tUk6qP6E" target="_blank" rel="sponsored nofollow noopener">查看商品: GaGa Games《Большая Бродилка》家庭桌游</a>. erid: 5jtCeReNx12oak2tUk6qP6E.
 
 事实与照片来源: GaGa Games [S07].
 
@@ -391,7 +391,7 @@ LampStory官方介绍列有100克UV树脂、21个模具、UV灯和各种装饰�
 - 未固化树脂及UV灯由成人操作，并按说明采取皮肤、眼部与通风防护。
 - 不要套用其他树脂产品的安全说明。
 
-[查看商品: LampStory“Волшебные брелоки”UV树脂钥匙扣手工套装](https://market.yandex.ru/cc/BUsrYb?erid=5jtCeReNx12oak2tUk9oMxV). erid: 5jtCeReNx12oak2tUk9oMxV.
+<a href="https://market.yandex.ru/cc/BUsrYb?erid=5jtCeReNx12oak2tUk9oMxV" target="_blank" rel="sponsored nofollow noopener">查看商品: LampStory“Волшебные брелоки”UV树脂钥匙扣手工套装</a>. erid: 5jtCeReNx12oak2tUk9oMxV.
 
 事实与照片来源: LampStory (manufacturer) [S09].
 
