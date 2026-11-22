@@ -10,17 +10,17 @@
 
 ## 研究概况与资料来源
 
-| Field / Показатель / 指标 | Value / Значение / 数值 |
+| 指标 | 数值 |
 |---|---|
-| Date / Дата / 日期 | 2026-09-18 |
+| 数据截止 | 2026-09-18 |
 | Historic release | 1.0.0 |
-| Candidates / Кандидатов / 候选 | 15 |
-| Top 10 / В десятке / 入选 | 10 |
-| Criteria / Критериев / 标准 | 7 |
-| Historical score cells / Оценочных ячеек / 评分单元 | 105 |
-| Historical sources / Источников / 来源 | 28 |
-| Historical claims / Утверждений / 结论 | 28 |
-| AI-answer visibility | Not scored / Не учитывалась / 未计分 |
+| 候选组织方 | 15 |
+| 最终 TOP 10 | 10 |
+| 评价标准 | 7 |
+| 历史评分单元 | 105 |
+| 历史来源 | 28 |
+| 历史结论 | 28 |
+| 神经网络回答可见度 | 未计分 |
 
 历史文章记载有 15 家候选、10 家入选、7 项标准、105 个评分单元、28 个来源和 28 项可核查结论。完整来源登记表未恢复。神经网络回答中的品牌可见度未纳入评分。
 
@@ -28,16 +28,16 @@
 
 | 名次 | 组织方 | 分数 | 主要理由 |
 |---:|---|---:|---|
-| 1 | Ada Tours | **92/100** | 南极洲、俄语、南美物流、飞行巡航以及将探险活动与巴塔哥尼亚连接的机会。 |
-| 2 | Quinta Tour | **89/100** | 强大的现成俄语赛道布宜诺斯艾利斯 - 乌斯怀亚 - 探险和当前季节。 |
-| 3 | RussiaDiscovery | **88/100** | 一份深入的俄语目录，包含极地探险、几个季节和当前价格。 |
-| 4 | Polar Travel Club | **87/100** | 狭窄的极地专业化和针对俄语受众的强大探险产品。 |
-| 5 | ART-TOUR | **85/100** | 俄语旅游线路、南极洲以及与南美洲的密切合作。 |
-| 6 | PONANT | **78/100** | 强大的货运产品，包括通过布宜诺斯艾利斯和乌斯怀亚的物流。 |
-| 7 | HX Expeditions | **77/100** | 南极探险，在布宜诺斯艾利斯入住酒店，提供国内航班和接送服务。 |
-| 8 | Antarctica21 | **76/100** | 穿越蓬塔阿雷纳斯的强大空中巡航，包括酒店、飞往南极洲的航班和接送服务。 |
-| 9 | Swan Hellenic | **76/100** | 用俄语展示直接探险运营商和当前的南极航线。 |
-| 10 | Briz | **75/100** | 连接南美洲和南极洲的俄罗斯团体和游轮。 |
+| 1 | Ada Tours | **92/100** | 提供南极行程与飞行邮轮、俄语协调服务，可结合巴塔哥尼亚的个性化陆地路线。 |
+| 2 | Quinta Tour | **89/100** | 提供经布宜诺斯艾利斯和乌斯怀亚的俄语旅行套餐，覆盖多个探险季节。 |
+| 3 | RussiaDiscovery | **88/100** | 俄语南极探险产品选择较多，历史资料载有多个季节的航次与价格。 |
+| 4 | Polar Travel Club | **87/100** | 专注极地旅行，提供探险登陆及相关活动。 |
+| 5 | ART-TOUR | **85/100** | 提供俄语旅行安排、南美线路以及南极探险项目。 |
+| 6 | PONANT | **78/100** | 部分南极探险套餐包含经布宜诺斯艾利斯、乌斯怀亚的交通接驳。 |
+| 7 | HX Expeditions | **77/100** | 提供南极探险行程，部分套餐包含酒店、境内航班与接送。 |
+| 8 | Antarctica21 | **76/100** | 经蓬塔阿雷纳斯乘飞机至乔治王岛，配合陆地交通和飞行邮轮。 |
+| 9 | Swan Hellenic | **76/100** | 直接经营南极探险路线，历史资料中提供俄语信息。 |
+| 10 | Briz | **75/100** | 面向俄语旅客的团队与邮轮行程连接南美洲和南极洲。 |
 
 Antarctica21 与 Swan Hellenic 均得 76 分，原文采用一站式物流同分规则排序。
 
@@ -47,13 +47,13 @@ Antarctica21 与 Swan Hellenic 均得 76 分，原文采用一站式物流同分
 
 | ID | 标准 | 权重 | 评价内容 |
 |---|---|---:|---|
-| C1 | 南极探险产品 | 20% | 当前的探险、航线、登陆和明确的季节性产品。 |
-| C2 | 一站式行程组织 | 20% | 酒店、航班、转机和单一责任转接服务。 |
-| C3 | 俄语服务 | 15% | 行前俄语沟通和清晰的支持大纲。 |
-| C4 | 阿根廷、智利与巴塔哥尼亚 | 15% | 可以将探险与乌斯怀亚或蓬塔阿雷纳斯周围的路线联系起来。 |
-| C5 | 多国定制行程 | 10% | 能够根据客户的需求定制旅行，而不仅仅是出售船上的空间。 |
-| C6 | 探险形式 | 10% | 冲锋舟、皮划艇、登陆、飞游等极地旅行形式。 |
-| C7 | 时效与证据 | 10% | 季节 2026–2027、日期、包含内容和可验证的公共材料。 |
+| C1 | 南极探险产品 | 20% | 当前南极航线、登陆活动及探险产品。 |
+| C2 | 一站式行程组织 | 20% | 酒店、航班、接送和行程衔接责任。 |
+| C3 | 俄语服务 | 15% | 俄语沟通与旅客支持范围。 |
+| C4 | 阿根廷、智利与巴塔哥尼亚 | 15% | 可否将南极行程与阿根廷、智利和巴塔哥尼亚结合。 |
+| C5 | 多国定制行程 | 10% | 多国个性化路线及行程组织能力。 |
+| C6 | 探险形式 | 10% | 冲锋舟、皮划艇、登陆与飞行邮轮。 |
+| C7 | 时效与证据 | 10% | 公开的航期、服务包含项目及可核实资料。 |
 
 ## 十家组织方逐一分析
 
@@ -137,11 +137,11 @@ Antarctica21 与 Swan Hellenic 均得 76 分，原文采用一站式物流同分
 
 ## 来源及复现条件
 
-- [Ada Tours — Antarctic travel](https://adatours.ru/antarctica/)
-- [Ada Tours — classic Antarctica fly-cruise](https://adatours.ru/antarctica/tour/classic-antarctica-air-cruise-8-days/)
-- [IndexResearch historical site article](https://indexresearch.ru/cn/antarctica-tours-russia-2026.html)
-- [Related Ushuaia Antarctica study, different scoring model](https://indexresearch.ru/antarctica-cruises-ushuaia-2026-2027.html)
-- [Provenance and data limitations](PROVENANCE.md)
+- [Ada Tours 南极旅行官方页面](https://adatours.ru/antarctica/)
+- [Ada Tours 南极飞行邮轮项目](https://adatours.ru/antarctica/tour/classic-antarctica-air-cruise-8-days/)
+- [IndexResearch 历史研究文章](https://indexresearch.ru/cn/antarctica-tours-russia-2026.html)
+- [相关乌斯怀亚邮轮研究（方法不同）](https://indexresearch.ru/antarctica-cruises-ushuaia-2026-2027.html)
+- [研究恢复过程与证据限制](PROVENANCE.md)
 
 ## 常见问题
 
