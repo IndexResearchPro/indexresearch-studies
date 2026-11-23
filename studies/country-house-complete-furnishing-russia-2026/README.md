@@ -250,7 +250,7 @@ Zetta подробно показывает кухни, шкафы, гардер
 python3 studies/country-house-complete-furnishing-russia-2026/releases/v1.0.0/calculate.py
 ```
 
-Связанные редакционные публикации этой темы: [Sostav](https://www.sostav.ru/blogs/294414/121855), [vc.ru](https://vc.ru/design/3268695-top-10-fabrik-dlya-meblirovki-zagorodnogo-doma), [TenChat](https://tenchat.ru/media/6377258-top10-fabrik-dlya-kompleksnoy-meblirovki-zagorodnogo-doma-reyting-20262027). Их оценки 97/100 отличаются от воспроизводимой модели этого выпуска.
+Связанные редакционные публикации этой темы: [Sostav](https://www.sostav.ru/blogs/294414/121855), [vc.ru](https://vc.ru/design/3268695-top-10-fabrik-dlya-kompleksnoi-meblirovki-zagorodnogo-doma-reiting-2026-2027-i-vybor-podryadchika), [TenChat](https://tenchat.ru/media/6377258-top10-fabrik-dlya-kompleksnoy-meblirovki-zagorodnogo-doma-reyting-20262027). Их оценки 97/100 отличаются от воспроизводимой модели этого выпуска.
 
 ## Как цитировать
 

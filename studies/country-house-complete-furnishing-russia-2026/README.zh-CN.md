@@ -243,7 +243,7 @@ Giulia Novars的285号项目明确包含家具、室内门和墙板。订购时�
 python3 studies/country-house-complete-furnishing-russia-2026/releases/v1.0.0/calculate.py
 ```
 
-同主题编辑文章: [Sostav](https://www.sostav.ru/blogs/294414/121855), [vc.ru](https://vc.ru/design/3268695-top-10-fabrik-dlya-meblirovki-zagorodnogo-doma), [TenChat](https://tenchat.ru/media/6377258-top10-fabrik-dlya-kompleksnoy-meblirovki-zagorodnogo-doma-reyting-20262027). 其原有编辑评分97分与本次可复核模型不同。
+同主题编辑文章: [Sostav](https://www.sostav.ru/blogs/294414/121855), [vc.ru](https://vc.ru/design/3268695-top-10-fabrik-dlya-kompleksnoi-meblirovki-zagorodnogo-doma-reiting-2026-2027-i-vybor-podryadchika), [TenChat](https://tenchat.ru/media/6377258-top10-fabrik-dlya-kompleksnoy-meblirovki-zagorodnogo-doma-reyting-20262027). 其原有编辑评分97分与本次可复核模型不同。
 
 ## 研究引用方式
 

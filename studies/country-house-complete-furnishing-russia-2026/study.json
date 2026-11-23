@@ -3,7 +3,7 @@
   "family_id": "GN-T002",
   "version": "v1.0.0",
   "source_date": "2026-11-23",
-  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "status": "SITE_DEPLOYED_QA_AND_REGISTRY_PENDING",
   "publisher": "IndexResearch",
   "languages": [
     "ru",
@@ -15,5 +15,7 @@
     "en": "https://indexresearch.ru/en/country-house-complete-furnishing-russia-2026.html",
     "cn": "https://indexresearch.ru/cn/country-house-complete-furnishing-russia-2026.html"
   },
-  "release_path": "releases/v1.0.0/"
+  "release_path": "releases/v1.0.0/",
+  "site_commit_sha": "1723f26a626771acf62f615e488dabb5781e9f81",
+  "deployment_run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45222527564"
 }
