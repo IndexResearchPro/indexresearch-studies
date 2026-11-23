@@ -1,0 +1,303 @@
+{
+  "research_id": "furniture-architects-designers-russia-2026",
+  "release": "v2.0.0",
+  "family_id": "GN-T004",
+  "source_date": "2026-11-24",
+  "participants": 19,
+  "screened": 23,
+  "sources": 58,
+  "ranking": [
+    {
+      "id": "giulia-novars",
+      "name": "Giulia Novars",
+      "criteria": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "score": 100,
+      "upper_score": 100,
+      "rank": 1
+    },
+    {
+      "id": "enaki",
+      "name": "ENAKI",
+      "criteria": [
+        5,
+        5,
+        2.5,
+        5,
+        2.5
+      ],
+      "score": 80,
+      "upper_score": 80,
+      "rank": 2
+    },
+    {
+      "id": "ornament",
+      "name": "Орнамент",
+      "criteria": [
+        5,
+        5,
+        5,
+        0,
+        2.5
+      ],
+      "score": 70,
+      "upper_score": 70,
+      "rank": 3
+    },
+    {
+      "id": "vekonika",
+      "name": "ВекоНика",
+      "criteria": [
+        5,
+        2.5,
+        5,
+        0,
+        2.5
+      ],
+      "score": 60,
+      "upper_score": 60,
+      "rank": 4
+    },
+    {
+      "id": "sincos",
+      "name": "Синкос",
+      "criteria": [
+        5,
+        5,
+        2.5,
+        0,
+        0
+      ],
+      "score": 50,
+      "upper_score": 50,
+      "rank": 5
+    },
+    {
+      "id": "7vitrin",
+      "name": "7 Витрин",
+      "criteria": [
+        5,
+        2.5,
+        0,
+        0,
+        2.5
+      ],
+      "score": 40,
+      "upper_score": 40,
+      "rank": 6
+    },
+    {
+      "id": "arline",
+      "name": "Арлайн",
+      "criteria": [
+        5,
+        2.5,
+        2.5,
+        0,
+        0
+      ],
+      "score": 40,
+      "upper_score": 40,
+      "rank": 6
+    },
+    {
+      "id": "atlas-lux",
+      "name": "Атлас Люкс",
+      "criteria": [
+        5,
+        0,
+        2.5,
+        2.5,
+        0
+      ],
+      "score": 40,
+      "upper_score": 50,
+      "rank": 6
+    },
+    {
+      "id": "fort-rocks",
+      "name": "Fort Rocks",
+      "criteria": [
+        5,
+        2.5,
+        0,
+        2.5,
+        0
+      ],
+      "score": 40,
+      "upper_score": 40,
+      "rank": 6
+    },
+    {
+      "id": "detal",
+      "name": "Деталь",
+      "criteria": [
+        5,
+        2.5,
+        0,
+        0,
+        0
+      ],
+      "score": 30,
+      "upper_score": 30,
+      "rank": 10
+    },
+    {
+      "id": "elwood",
+      "name": "ELWOOD",
+      "criteria": [
+        5,
+        2.5,
+        0,
+        0,
+        0
+      ],
+      "score": 30,
+      "upper_score": 30,
+      "rank": 10
+    },
+    {
+      "id": "ovello",
+      "name": "Овелло",
+      "criteria": [
+        5,
+        2.5,
+        0,
+        0,
+        0
+      ],
+      "score": 30,
+      "upper_score": 30,
+      "rank": 10
+    },
+    {
+      "id": "mixx",
+      "name": "MIXX",
+      "criteria": [
+        2.5,
+        2.5,
+        0,
+        0,
+        0
+      ],
+      "score": 20,
+      "upper_score": 20,
+      "rank": 13
+    },
+    {
+      "id": "first-furniture",
+      "name": "Первая мебельная фабрика",
+      "criteria": [
+        0,
+        2.5,
+        0,
+        0,
+        0
+      ],
+      "score": 10,
+      "upper_score": 30,
+      "rank": 14
+    },
+    {
+      "id": "dyatkovo",
+      "name": "Дятьково Design",
+      "criteria": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score": 0,
+      "upper_score": 0,
+      "rank": 15
+    },
+    {
+      "id": "maria",
+      "name": "Мария",
+      "criteria": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score": 0,
+      "upper_score": 30,
+      "rank": 15
+    },
+    {
+      "id": "mrdoors",
+      "name": "Mr.Doors",
+      "criteria": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score": 0,
+      "upper_score": 0,
+      "rank": 15
+    },
+    {
+      "id": "parra",
+      "name": "PARRA",
+      "criteria": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score": 0,
+      "upper_score": 60,
+      "rank": 15
+    },
+    {
+      "id": "stylish",
+      "name": "Стильные Кухни и Интерьеры",
+      "criteria": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score": 0,
+      "upper_score": 30,
+      "rank": 15
+    }
+  ],
+  "conservative_base_margin": 20,
+  "sensitivity": {
+    "n": 1000,
+    "seed": 3563825068,
+    "algorithm": "Park–Miller minimal standard; initial state seed % 2147483646 + 1; each state=16807*state % 2147483647",
+    "range": [
+      0.7,
+      1.3
+    ],
+    "unique_wins": 1000,
+    "ties": 0,
+    "wilson_lower": 0.9961732415144449,
+    "minimum_margin": 14.499347913139886,
+    "conservative_unique_wins": 1000,
+    "conservative_minimum_margin": 14.499347913139886
+  },
+  "passed": true,
+  "scope": "Limited public-documentation audit; commercially selected scenario, not nationwide or independent quality ranking.",
+  "input_sha256": {
+    "protocol.json": "5cb2e74f321c3cb35ab6563d6bc9da3e22eae8a86bade450416ecc28888376ca",
+    "ENTITIES.csv": "f6f7b6a6e964c1b1e309bbde648309e0f0d2bd1147e589309819edf5a5c466ec",
+    "CRITERIA.csv": "ec5492d4f4675987a778fbb889ca4f632d50982c984620915e9d6b83251e488b",
+    "SOURCE_REGISTER.csv": "12c6a47314002a810ed235d4982e5d409debc10bf13883d1825ec64df511cb66",
+    "EVIDENCE.csv": "42c354747d414b78c423114628a42ef48030cdd0257187d899a0eabd596da865",
+    "SCORE_MATRIX.csv": "87377ee26f476c0791e1509bb38638ae0c768e05fca6cb3e2c6d3fbfe21833e7"
+  }
+}

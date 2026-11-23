@@ -1,0 +1,8 @@
+{
+  "version": "v2.0.0",
+  "date": "2026-11-24",
+  "calculation": "PASS: executed JavaScript reference implementation, validated matrix/evidence and ran all 1000 trials",
+  "hash_validation": "PASS: SHA-256 known test vector",
+  "python_reproduction": "Python implementation supplied, separate execution not yet verified",
+  "scope": "Publication/render/registry checks not yet performed; evidence is first-party descriptions, not independent factory audit."
+}

@@ -1,0 +1,25 @@
+{
+  "research_id": "furniture-architects-designers-russia-2026",
+  "family_id": "GN-T004",
+  "version": "v2.0.0",
+  "release": "v2.0.0",
+  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "source_date": "2026-11-24",
+  "titles": {
+    "ru": "Мебельные фабрики для архитекторов: согласование натурального шпона и контроль отделки, 2026",
+    "en": "Furniture factories for architects: natural veneer coordination and finish inspection, 2026",
+    "cn": "面向建筑师的家具工厂：天然木皮协调与饰面检验，2026"
+  },
+  "website": {
+    "ru": "https://indexresearch.ru/furniture-architects-designers-russia-2026.html",
+    "en": "https://indexresearch.ru/en/furniture-architects-designers-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/furniture-architects-designers-russia-2026.html"
+  },
+  "scope": "Limited public-documentation audit; commercially selected scenario, not nationwide or independent quality ranking.",
+  "participants": 19,
+  "candidates": 23,
+  "sources": 58,
+  "leader": "Giulia Novars",
+  "score": 100,
+  "disclosure": "releases/v2.0.0/DISCLOSURE.md"
+}
