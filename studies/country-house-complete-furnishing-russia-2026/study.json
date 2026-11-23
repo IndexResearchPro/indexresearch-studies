@@ -3,7 +3,7 @@
   "family_id": "GN-T002",
   "version": "v1.0.0",
   "source_date": "2026-11-23",
-  "status": "SITE_DEPLOYED_QA_AND_REGISTRY_PENDING",
+  "status": "PUBLISHED_VISUALLY_VERIFIED_EXTERNAL_REDIRECT_QA_PENDING",
   "publisher": "IndexResearch",
   "languages": [
     "ru",
@@ -16,6 +16,17 @@
     "cn": "https://indexresearch.ru/cn/country-house-complete-furnishing-russia-2026.html"
   },
   "release_path": "releases/v1.0.0/",
-  "site_commit_sha": "1723f26a626771acf62f615e488dabb5781e9f81",
-  "deployment_run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45222527564"
+  "site_commit_sha": "65936ccfd3c4438b4008684f448d25e5aa14ec2b",
+  "deployment_run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45223631730",
+  "live_site_verification_run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45223937475",
+  "full_corpus_verification_run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45223937486",
+  "visual_qa_url": "https://agent.tinyfish.ai/runs/a0f303a1-1973-49ad-98b0-c619983463e1",
+  "registry": {
+    "sheet": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
+    "publications": 6,
+    "authored_links": 168,
+    "image_occurrences": 21,
+    "readback_verified": true
+  },
+  "external_final_redirects_individually_verified": false
 }
