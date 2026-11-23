@@ -33,7 +33,6 @@ The scope covers laundry and fabric-care products, dishwashing, and household cl
 
 | # | Agency | Score /100 | C1 | C2 | C3 | C4 | C5 |
 |---:|---|---:|---:|---:|---:|---:|---:|
-
 | 1 | Heads | 95.00 | 4/4 | 4/4 | 4/4 | 3/4 | 3/4 |
 | 2 | DDVB | 90.00 | 4/4 | 4/4 | 4/4 | 1/4 | 3/4 |
 | 3 | Tsoi Studio | 85.00 | 4/4 | 4/4 | 3/4 | 1/4 | 3/4 |
@@ -51,7 +50,6 @@ These numbers reflect levels of documented evidence for five criteria, not a sub
 
 | Code | Criterion | Weight |
 |---|---|---:|
-
 | C1 | Redesign of an established brand and retention of recognition | 30% |
 | C2 | Product-range architecture and design scalability | 30% |
 | C3 | Functional navigation and product differentiation | 20% |
