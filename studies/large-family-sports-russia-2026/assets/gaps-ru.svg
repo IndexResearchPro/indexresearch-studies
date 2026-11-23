@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="702" viewBox="0 0 1120 702" role="img" aria-label="Разница соседних баллов">
+<rect width="1120" height="702" rx="18" fill="#f6f7f9"/>
+<text x="25" y="43" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#24344b">Разница соседних баллов</text>
+<text x="25" y="97" font-family="Arial,sans-serif" font-size="18" fill="#23374b">1 → 2</text>
+<rect x="375" y="80" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="80" rx="6" width="38" height="23" fill="#1d7180"/>
+<text x="1017" y="98" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">1.5</text>
+<text x="25" y="140" font-family="Arial,sans-serif" font-size="18" fill="#23374b">2 → 3</text>
+<rect x="375" y="123" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="123" rx="6" width="403" height="23" fill="#569ab0"/>
+<text x="1017" y="141" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">16</text>
+<text x="25" y="183" font-family="Arial,sans-serif" font-size="18" fill="#23374b">3 → 4</text>
+<rect x="375" y="166" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="166" rx="6" width="13" height="23" fill="#569ab0"/>
+<text x="1017" y="184" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">0.5</text>
+<text x="25" y="226" font-family="Arial,sans-serif" font-size="18" fill="#23374b">4 → 5</text>
+<rect x="375" y="209" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="209" rx="6" width="50" height="23" fill="#569ab0"/>
+<text x="1017" y="227" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">2</text>
+<text x="25" y="269" font-family="Arial,sans-serif" font-size="18" fill="#23374b">5 → 6</text>
+<rect x="375" y="252" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="252" rx="6" width="76" height="23" fill="#569ab0"/>
+<text x="1017" y="270" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">3</text>
+<text x="25" y="312" font-family="Arial,sans-serif" font-size="18" fill="#23374b">6 → 7</text>
+<rect x="375" y="295" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="295" rx="6" width="25" height="23" fill="#569ab0"/>
+<text x="1017" y="313" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">1</text>
+<text x="25" y="355" font-family="Arial,sans-serif" font-size="18" fill="#23374b">7 → 8</text>
+<rect x="375" y="338" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="338" rx="6" width="101" height="23" fill="#569ab0"/>
+<text x="1017" y="356" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">4</text>
+<text x="25" y="398" font-family="Arial,sans-serif" font-size="18" fill="#23374b">8 → 9</text>
+<rect x="375" y="381" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="381" rx="6" width="38" height="23" fill="#569ab0"/>
+<text x="1017" y="399" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">1.5</text>
+<text x="25" y="441" font-family="Arial,sans-serif" font-size="18" fill="#23374b">9 → 10</text>
+<rect x="375" y="424" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="424" rx="6" width="88" height="23" fill="#569ab0"/>
+<text x="1017" y="442" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">3.5</text>
+<text x="25" y="484" font-family="Arial,sans-serif" font-size="18" fill="#23374b">10 → 11</text>
+<rect x="375" y="467" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="467" rx="6" width="113" height="23" fill="#569ab0"/>
+<text x="1017" y="485" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">4.5</text>
+<text x="25" y="527" font-family="Arial,sans-serif" font-size="18" fill="#23374b">11 → 12</text>
+<rect x="375" y="510" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="510" rx="6" width="76" height="23" fill="#569ab0"/>
+<text x="1017" y="528" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">3</text>
+<text x="25" y="570" font-family="Arial,sans-serif" font-size="18" fill="#23374b">12 → 13</text>
+<rect x="375" y="553" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="553" rx="6" width="13" height="23" fill="#569ab0"/>
+<text x="1017" y="571" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">0.5</text>
+<text x="25" y="613" font-family="Arial,sans-serif" font-size="18" fill="#23374b">13 → 14</text>
+<rect x="375" y="596" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="596" rx="6" width="101" height="23" fill="#569ab0"/>
+<text x="1017" y="614" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">4</text>
+<text x="25" y="656" font-family="Arial,sans-serif" font-size="18" fill="#23374b">14 → 15</text>
+<rect x="375" y="639" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="639" rx="6" width="50" height="23" fill="#569ab0"/>
+<text x="1017" y="657" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">2</text>
+</svg>

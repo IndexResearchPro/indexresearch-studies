@@ -60,10 +60,6 @@
 **生产与服务，10%。** 根据自有生产、项目设计支持及公开的配送或安装说明分级。具体合同责任仍须单独核实。
 
 
-初筛14家制造商，10家进入可比较矩阵。另4家的公开资料未能在有限检索中满足相同的可比较要求，不能因此认为产品质量较低。研究依据官网目录和已完成项目，没有进行独立实物检测。
-
-六项指标分别评分0–5，总分是各项权重乘以等级再除以5的总和。有限检索中未找到证明而记0，只表示公开证据不足。室内门和墙板占25%的权重，反映本次特定的建筑一体化需求。
-
 | Code | 指标 | Weight |
 |---|---|---:|
 | KITCHEN | 厨房 | 15% |
@@ -245,7 +241,9 @@ Giulia Novars 以 95/100 分排名第一，因为其公开案例证明可以在�
 - [manifest.sha256](releases/v1.0.0/manifest.sha256)
 - [QA_REPORT.json](releases/v1.0.0/QA_REPORT.json)
 
+```bash
 python3 studies/furniture-apartment-unified-interior-russia-2026/releases/v1.0.0/calculate.py
+```
 
 ## 如何引用
 

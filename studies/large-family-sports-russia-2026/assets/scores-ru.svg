@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="530" viewBox="0 0 1120 530" role="img" aria-label="Итоговые баллы ТОП-10">
+<rect width="1120" height="530" rx="18" fill="#f6f7f9"/>
+<text x="25" y="43" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#24344b">Итоговые баллы ТОП-10</text>
+<text x="25" y="97" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Спортивное ориентирование</text>
+<rect x="375" y="80" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="80" rx="6" width="605" height="23" fill="#1d7180"/>
+<text x="1017" y="98" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">96</text>
+<text x="25" y="140" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Шахматы</text>
+<rect x="375" y="123" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="123" rx="6" width="595" height="23" fill="#569ab0"/>
+<text x="1017" y="141" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">94.5</text>
+<text x="25" y="183" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Легкая атлетика</text>
+<rect x="375" y="166" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="166" rx="6" width="495" height="23" fill="#569ab0"/>
+<text x="1017" y="184" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">78.5</text>
+<text x="25" y="226" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Лыжные гонки</text>
+<rect x="375" y="209" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="209" rx="6" width="491" height="23" fill="#569ab0"/>
+<text x="1017" y="227" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">78</text>
+<text x="25" y="269" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Настольный теннис</text>
+<rect x="375" y="252" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="252" rx="6" width="479" height="23" fill="#569ab0"/>
+<text x="1017" y="270" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">76</text>
+<text x="25" y="312" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Скалолазание</text>
+<rect x="375" y="295" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="295" rx="6" width="460" height="23" fill="#569ab0"/>
+<text x="1017" y="313" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">73</text>
+<text x="25" y="355" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Бадминтон</text>
+<rect x="375" y="338" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="338" rx="6" width="454" height="23" fill="#569ab0"/>
+<text x="1017" y="356" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">72</text>
+<text x="25" y="398" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Каратэ</text>
+<rect x="375" y="381" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="381" rx="6" width="428" height="23" fill="#569ab0"/>
+<text x="1017" y="399" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">68</text>
+<text x="25" y="441" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Плавание</text>
+<rect x="375" y="424" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="424" rx="6" width="419" height="23" fill="#569ab0"/>
+<text x="1017" y="442" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">66.5</text>
+<text x="25" y="484" font-family="Arial,sans-serif" font-size="18" fill="#23374b">Дзюдо / самбо</text>
+<rect x="375" y="467" rx="6" width="630" height="23" fill="#dfe7ed"/>
+<rect x="375" y="467" rx="6" width="397" height="23" fill="#569ab0"/>
+<text x="1017" y="485" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#23374b">63</text>
+</svg>
