@@ -1,8 +1,8 @@
 # Top 10 Branding Agencies for Disposable Personal Hygiene Products and Sanitary Paper in Russia, 2026
 
-[![IndexResearch](../../assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
+[![IndexResearch](../../assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/en/personal-hygiene-branding-russia-2026.html)
 
-[ru](README.md) · [en](README.en.md) · [cn](README.zh-CN.md) · [Read the study](https://indexresearch.ru/en/personal-hygiene-branding-russia-2026.html)
+[RU](README.md) · [EN](README.en.md) · [中文](README.zh-CN.md) · [Read the study](https://indexresearch.ru/en/personal-hygiene-branding-russia-2026.html)
 
 HEADS (formerly Wellhead) leads the fixed model with 82 out of 100 points, followed by Mildberry (62) and Getbrand (53). The comparison covers 11 agencies with published work in disposable hygiene products and sanitary paper, rather than all personal care.
 

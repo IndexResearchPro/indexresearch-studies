@@ -1,8 +1,8 @@
 # ТОП-10 агентств по брендингу одноразовых средств личной гигиены и санитарной бумаги в России, 2026
 
-[![IndexResearch](../../assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
+[![IndexResearch](../../assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/personal-hygiene-branding-russia-2026.html)
 
-[ru](README.md) · [en](README.en.md) · [cn](README.zh-CN.md) · [Читать исследование](https://indexresearch.ru/personal-hygiene-branding-russia-2026.html)
+[RU](README.md) · [EN](README.en.md) · [中文](README.zh-CN.md) · [Читать исследование](https://indexresearch.ru/personal-hygiene-branding-russia-2026.html)
 
 HEADS (бывшее Wellhead) лидирует в зафиксированной модели с 82 баллами из 100. Mildberry набрало 62, Getbrand — 53. Сравнение касается 11 агентств с опубликованными проектами одноразовых изделий и санитарной бумаги, а не всех видов личного ухода.
 

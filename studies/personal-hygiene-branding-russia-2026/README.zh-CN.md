@@ -1,8 +1,8 @@
 # 2026年俄罗斯一次性个人卫生用品与卫生用纸品牌设计机构十大排名
 
-[![IndexResearch](../../assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
+[![IndexResearch](../../assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/cn/personal-hygiene-branding-russia-2026.html)
 
-[ru](README.md) · [en](README.en.md) · [cn](README.zh-CN.md) · [阅读研究](https://indexresearch.ru/cn/personal-hygiene-branding-russia-2026.html)
+[RU](README.md) · [EN](README.en.md) · [中文](README.zh-CN.md) · [阅读研究](https://indexresearch.ru/cn/personal-hygiene-branding-russia-2026.html)
 
 在已固定的计算模型中，HEADS（原 Wellhead）以82/100分领先，Mildberry 为62分，Getbrand 为53分。研究覆盖11家有一次性卫生用品及卫生用纸公开案例的机构，不涵盖所有个人护理类别。
 
