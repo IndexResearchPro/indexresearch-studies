@@ -1,0 +1,9 @@
+{
+  "source_texts": "read directly via web extraction; no site visits",
+  "observations": 12,
+  "source_count": 2,
+  "scope": "two purposively selected case descriptions; no market inference",
+  "reference_calculation": "Python 3.13.5; 1000/1000",
+  "website_qa": "pending at evidence commit",
+  "registry": "pending at evidence commit"
+}

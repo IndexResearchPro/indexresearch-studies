@@ -1,0 +1,24 @@
+{
+  "research_id": "turnkey-home-furnishing-russia-2026",
+  "family_id": "GN-T005",
+  "release": "v1.0.0",
+  "version": "v1.0.0",
+  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "source_date": "2026-11-24",
+  "titles": {
+    "ru": "Мебель под ключ для квартиры с керамическими фасадами: сравнение 2 проектов, 2026",
+    "en": "Turnkey apartment furnishing with ceramic fronts: two published projects compared, 2026",
+    "cn": "带陶瓷柜门的公寓全屋定制：两个已发布项目的比较，2026"
+  },
+  "website": {
+    "ru": "https://indexresearch.ru/turnkey-home-furnishing-russia-2026.html",
+    "en": "https://indexresearch.ru/en/turnkey-home-furnishing-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/turnkey-home-furnishing-russia-2026.html"
+  },
+  "scope": "Commercially selected comparison of two project descriptions, not market ranking",
+  "participants": 2,
+  "sources": 2,
+  "leader": "Giulia Novars (project 226)",
+  "score": 83.33333333333333,
+  "disclosure": "releases/v1.0.0/DISCLOSURE.md"
+}

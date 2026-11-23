@@ -1,0 +1,7 @@
+"criterion_id","name","weight_relative","score_rule"
+"K","Кухня с керамическими мебельными фасадами","1","5 if explicitly described, 0 if not mentioned; equal weights normalized to 100"
+"H","Прихожая: шкаф или иная мебель","1","5 if explicitly described, 0 if not mentioned; equal weights normalized to 100"
+"L","Гостиная: самостоятельная мебель вне кухонного гарнитура","1","5 if explicitly described, 0 if not mentioned; equal weights normalized to 100"
+"B","Спальня или гардеробная: шкаф/система хранения","1","5 if explicitly described, 0 if not mentioned; equal weights normalized to 100"
+"W","Ванная: мебель","1","5 if explicitly described, 0 if not mentioned; equal weights normalized to 100"
+"U","Отдельная постирочная: мебель","1","5 if explicitly described, 0 if not mentioned; equal weights normalized to 100"

@@ -1,0 +1,29 @@
+{
+  "research_id": "turnkey-home-furnishing-russia-2026",
+  "scope": "Two deliberately selected published project descriptions only",
+  "date": "2026-11-24",
+  "ranks": [
+    {
+      "rank": 1,
+      "entity_id": "GN226",
+      "name": "Giulia Novars",
+      "zones": 5,
+      "index": 83.33333333333333
+    },
+    {
+      "rank": 2,
+      "entity_id": "DR-INMYROOM",
+      "name": "Дриада",
+      "zones": 1,
+      "index": 16.666666666666668
+    }
+  ],
+  "sensitivity": {
+    "trials": 1000,
+    "seed": 226239,
+    "unique_target_wins": 1000,
+    "wilson_lower": 0.9961732415144449,
+    "min_gap": 57.18254532661296
+  },
+  "limitations": "Not a market ranking, not a test of actual quality or service; case selection commercially motivated."
+}
