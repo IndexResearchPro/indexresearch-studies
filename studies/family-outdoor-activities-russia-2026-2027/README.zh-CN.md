@@ -15,7 +15,7 @@
 
 
 
-![简要结论](assets/family-outdoor-scenarios-2026.zh-CN.svg)
+![5类家庭需求与适用亲子户外活动示例](assets/family-outdoor-scenarios-2026.zh-CN.svg)
 
 ## 研究范围与证据覆盖
 
@@ -112,7 +112,7 @@
 | 来源记录 | 60 |
 | 综合分数或冠军 | 无 |
 
-![研究规模与来源](assets/family-outdoor-status-distribution-2026.zh-CN.svg)
+![75项活动适配判断在5类家庭需求中的分布](assets/family-outdoor-status-distribution-2026.zh-CN.svg)
 
 ## 研究方法与分类规则
 

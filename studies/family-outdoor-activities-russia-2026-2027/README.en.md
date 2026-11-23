@@ -15,7 +15,7 @@ No single winner or overall ranking. This comparison reports suitability for par
 
 
 
-![Short answer](assets/family-outdoor-scenarios-2026.en.svg)
+![Five family goals and examples of matching outdoor activities](assets/family-outdoor-scenarios-2026.en.svg)
 
 ## Study scope and evidence coverage
 
@@ -112,7 +112,7 @@ D = direct match; C = conditional match; O = different primary purpose; ? = not 
 | Source register entries | 60 |
 | Overall score or first place | None |
 
-![Study scope and evidence](assets/family-outdoor-status-distribution-2026.en.svg)
+![Distribution of 75 activity classifications across five family scenarios](assets/family-outdoor-status-distribution-2026.en.svg)
 
 ## Methodology and comparison rules
 
