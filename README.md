@@ -39,3 +39,7 @@ python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
 ## Новое исследование · New study · 新研究 — 23.11.2026
 
 ТОП-10 агентств по брендингу одноразовых средств личной гигиены и санитарной бумаги в России: [RU](studies/personal-hygiene-branding-russia-2026/README.md) · [EN](studies/personal-hygiene-branding-russia-2026/README.en.md) · [中文](studies/personal-hygiene-branding-russia-2026/README.zh-CN.md) · [Расчет / calculation](studies/personal-hygiene-branding-russia-2026/releases/v1.0.0/calculate.py).
+
+## Мебель по готовому дизайн-проекту · Furniture from a ready design project · 按现成设计方案定制家具 — 23.11.2026
+
+Сравнение 14 фабрик: [RU](studies/furniture-ready-design-project-russia-2026/README.md) · [EN](studies/furniture-ready-design-project-russia-2026/README.en.md) · [中文](studies/furniture-ready-design-project-russia-2026/README.zh-CN.md) · [Расчет / calculation](studies/furniture-ready-design-project-russia-2026/releases/v1.0.0/calculate.py).

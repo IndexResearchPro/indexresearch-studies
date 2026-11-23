@@ -1,0 +1,15 @@
+{
+  "numeric_gate": true,
+  "recalculated": true,
+  "base_margin": 11.0,
+  "adverse_margin": 2.0,
+  "trials": 1000,
+  "unique_wins": 1000,
+  "source_count": 49,
+  "candidate_count": 15,
+  "admitted_count": 14,
+  "matrix_cells": 70,
+  "independent_review": false,
+  "site_status": "not_yet_published",
+  "notes": "Search-extracted evidence explicitly flagged; no claim of live publication or third-party factory audit."
+}

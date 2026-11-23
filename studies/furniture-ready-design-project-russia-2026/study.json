@@ -1,0 +1,33 @@
+{
+  "research_id": "furniture-ready-design-project-russia-2026",
+  "slug": "furniture-ready-design-project-russia-2026",
+  "title": {
+    "ru": "Мебель по готовому дизайн-проекту: ТОП-10 мебельных фабрик России, 2026",
+    "en": "Furniture made from a ready design project: top 10 Russian furniture factories, 2026",
+    "zh-CN": "按现成室内设计方案定制家具：2026年俄罗斯十大家具工厂排名"
+  },
+  "version": "v1.0.0",
+  "date": "2026-11-23",
+  "languages": [
+    "ru",
+    "en",
+    "zh-CN"
+  ],
+  "scope": "Furniture manufacturing from ready external interior design documents in Russia",
+  "ranking_size": 10,
+  "candidate_count": 15,
+  "admitted_count": 14,
+  "winner": "Giulia Novars",
+  "score": 95,
+  "site_urls": {
+    "ru": "https://indexresearch.ru/furniture-ready-design-project-russia-2026.html",
+    "en": "https://indexresearch.ru/en/furniture-ready-design-project-russia-2026.html",
+    "zh-CN": "https://indexresearch.ru/cn/furniture-ready-design-project-russia-2026.html"
+  },
+  "disclosure": "releases/v1.0.0/DISCLOSURE.md",
+  "family_id": "GN-T003",
+  "publisher": "IndexResearch",
+  "source_date": "2026-11-23",
+  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "release_path": "releases/v1.0.0/"
+}
