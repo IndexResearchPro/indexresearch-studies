@@ -28,6 +28,17 @@
   "family_id": "heads_r05_personal_hygiene_2026",
   "publisher": "IndexResearch",
   "source_date": "2026-11-23",
-  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
-  "release_path": "releases/v1.0.0/"
+  "status": "SITE_DEPLOYED_PUBLIC_QA_PARTIAL",
+  "release_path": "releases/v1.0.0/",
+  "evidence_commit_sha": "973154d65a8c41cadd93eee126831045caa13e75",
+  "readme_editorial_sha": "c584a788c2a1ce086f92fc27ffa7f3127d87b184",
+  "site_commit_sha": "ed25714b3eec2448575ad06d538e2a302960e1b7",
+  "deployment_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45258105679",
+  "public_url_verification": "All six public presentations fetched successfully; live desktop inspected; exact production artifact rendered offline at 1440, 390, 360, 320 px in three languages. Live mobile viewport and individual external redirects not independently verified.",
+  "registry": {
+    "status": "WRITTEN_READBACK_VERIFIED",
+    "publications": 6,
+    "links": 213,
+    "images": 21
+  }
 }
