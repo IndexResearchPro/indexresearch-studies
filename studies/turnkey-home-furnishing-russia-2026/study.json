@@ -3,7 +3,7 @@
   "family_id": "GN-T005",
   "release": "v1.0.0",
   "version": "v1.0.0",
-  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "status": "PUBLISHED_AUTOMATED_QA_PASSED",
   "source_date": "2026-11-24",
   "titles": {
     "ru": "Мебель под ключ для квартиры с керамическими фасадами: сравнение 2 проектов, 2026",
@@ -20,5 +20,15 @@
   "sources": 2,
   "leader": "Giulia Novars (project 226)",
   "score": 83.33333333333333,
-  "disclosure": "releases/v1.0.0/DISCLOSURE.md"
+  "disclosure": "releases/v1.0.0/DISCLOSURE.md",
+  "publication": {
+    "evidence_commit": "8a14d84a02d8005c4e2a529f04d0f1d0c6fb30a7",
+    "site_commit": "df8e0c262480ea9586035d5366868d0210417b44",
+    "deployed_date": "2026-11-24",
+    "deployment_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45276987539",
+    "live_corpus_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45277375572",
+    "website_checks_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45277375383",
+    "visual_review": "not independently confirmed",
+    "individual_link_redirects": "not independently confirmed"
+  }
 }
