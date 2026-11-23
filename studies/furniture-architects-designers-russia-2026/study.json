@@ -3,7 +3,7 @@
   "family_id": "GN-T004",
   "version": "v2.0.0",
   "release": "v2.0.0",
-  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "status": "PUBLISHED_QA_PENDING",
   "source_date": "2026-11-24",
   "titles": {
     "ru": "Мебельные фабрики для архитекторов: согласование натурального шпона и контроль отделки, 2026",
@@ -21,5 +21,15 @@
   "sources": 58,
   "leader": "Giulia Novars",
   "score": 100,
-  "disclosure": "releases/v2.0.0/DISCLOSURE.md"
+  "disclosure": "releases/v2.0.0/DISCLOSURE.md",
+  "public_evidence_sha": "9b6325b775af7b6f665cf9cec389b19f9c3175c3",
+  "site_source_sha": "e3822d70951fdd1b05bc871641864ee1656d86d9",
+  "verification": {
+    "six_urls": "opened",
+    "catalogues": "verified",
+    "sitemap": "verified",
+    "visual": "pending",
+    "individual_redirects": "pending"
+  },
+  "registry": "six publications recorded and read back"
 }
