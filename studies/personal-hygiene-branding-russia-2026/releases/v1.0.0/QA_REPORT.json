@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-23",
+  "checks": {
+    "local_calculation": "PASS",
+    "source_id_and_evidence_matrix_checks": "PASS",
+    "repeat_run": "PASS",
+    "weight_sum_and_ranks": "PASS",
+    "numeric_gate": "PASS",
+    "source_content_access": "PASS: original descriptions obtained, 3 through alternate extraction",
+    "publication_and_visual_checks": "NOT_RUN"
+  },
+  "limits": "Portfolio text checked, not verified sales data or current availability of team. Publication QA pending."
+}

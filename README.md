@@ -35,3 +35,7 @@ python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
 Дата среза, источники, ограничения и сведения о коммерческих связях приведены в материалах исследований.
 
 [Сайт · Website · 网站](https://indexresearch.ru/)
+
+## Новое исследование · New study · 新研究 — 23.11.2026
+
+ТОП-10 агентств по брендингу одноразовых средств личной гигиены и санитарной бумаги в России: [RU](studies/personal-hygiene-branding-russia-2026/README.md) · [EN](studies/personal-hygiene-branding-russia-2026/README.en.md) · [中文](studies/personal-hygiene-branding-russia-2026/README.zh-CN.md) · [Расчет / calculation](studies/personal-hygiene-branding-russia-2026/releases/v1.0.0/calculate.py).

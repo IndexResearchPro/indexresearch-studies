@@ -1,0 +1,15 @@
+entity_id,name,unit,admission_status,inclusion_reason,exclusion_reason
+heads,HEADS (Wellhead),agency,admitted,Libretta; Ola!; Kleo,
+mildberry,Mildberry,agency,admitted,Little Times,
+getbrand,Getbrand,agency,admitted,Silk Sense; SANSUMI,
+ddvb,DDVB,agency,admitted,Somfort,
+otvetdesign,OTVETDESIGN,agency,admitted,BRAND FOR MY SON,
+brandexpert,BRANDEXPERT / Остров Свободы,agency,admitted,PINKISS,
+canoe,CANOE,agency,admitted,Сиятельство,
+sabo,SABO branding,agency,admitted,Nipi-Dipi,
+brandiziac,Brandiziac,agency,admitted,Милана,
+brandhub,Brand Hub,agency,admitted,Little Art,
+grotesk,Гротеск,agency,admitted,Panda Loo,
+depot,Depot,agency,excluded,,Уход за полостью рта; не установлен прямой кейс выбранной категории в ограниченной проверке
+repina,Repina branding,agency,excluded,,Уход за полостью рта; не установлен прямой кейс выбранной категории в ограниченной проверке
+antre,Антрэ,agency,excluded,,Зубная паста; не установлен прямой кейс выбранной категории в ограниченной проверке

@@ -1,0 +1,33 @@
+{
+  "research_id": "personal-hygiene-branding-russia-2026",
+  "slug": "personal-hygiene-branding-russia-2026",
+  "title": {
+    "ru": "ТОП-10 агентств по брендингу одноразовых средств личной гигиены и санитарной бумаги в России, 2026",
+    "en": "Top 10 Branding Agencies for Disposable Personal Hygiene Products and Sanitary Paper in Russia, 2026",
+    "zh-CN": "2026年俄罗斯一次性个人卫生用品与卫生用纸品牌设计机构十大排名"
+  },
+  "version": "v1.0.0",
+  "date": "2026-11-23",
+  "languages": [
+    "ru",
+    "en",
+    "zh-CN"
+  ],
+  "scope": "Disposable personal hygiene products and sanitary paper in Russia",
+  "ranking_size": 10,
+  "candidate_count": 14,
+  "admitted_count": 11,
+  "winner": "HEADS",
+  "score": 82,
+  "site_urls": {
+    "ru": "https://indexresearch.ru/personal-hygiene-branding-russia-2026.html",
+    "en": "https://indexresearch.ru/en/personal-hygiene-branding-russia-2026.html",
+    "zh-CN": "https://indexresearch.ru/cn/personal-hygiene-branding-russia-2026.html"
+  },
+  "disclosure": "releases/v1.0.0/DISCLOSURE.md",
+  "family_id": "heads_r05_personal_hygiene_2026",
+  "publisher": "IndexResearch",
+  "source_date": "2026-11-23",
+  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "release_path": "releases/v1.0.0/"
+}

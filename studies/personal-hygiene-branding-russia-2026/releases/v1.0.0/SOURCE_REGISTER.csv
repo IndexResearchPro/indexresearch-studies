@@ -1,0 +1,23 @@
+source_id,url,title,publisher,checked_at,source_date,source_type,access_status
+H1,https://wellhead.ru/projects/libretta/,Libretta,HEADS (Wellhead),2026-11-23,,agency_case,retrieved
+H2,https://wellhead.ru/projects/ola/,Ola!,HEADS (Wellhead),2026-11-23,,agency_case,retrieved
+H3,https://wellhead.ru/projects/kleo/,Kleo,HEADS (Wellhead),2026-11-23,,agency_case,retrieved
+M1,https://mildberry.com/work/little-times/,Little Times,Mildberry,2026-11-23,,agency_case,retrieved_via_alternate_fetch
+G1,https://www.getbrand.ru/portfolio/silk-sense/,Silk Sense,Getbrand,2026-11-23,,agency_case,retrieved
+G2,https://www.getbrand.ru/portfolio/sansumi-podguzniki-dlya-detey/,SANSUMI,Getbrand,2026-11-23,,agency_case,retrieved
+DD1,https://www.ddvb.ru/portfolio/somfort/,Somfort,DDVB,2026-11-23,,agency_case,retrieved
+O1,https://otvetdesign.ru/brand-for-my-son,BRAND FOR MY SON,OTVETDESIGN,2026-11-23,,agency_case,retrieved
+B1,https://www.os-design.ru/portfolio/item/pinkiss,PINKISS,BRANDEXPERT / Остров Свободы,2026-11-23,,agency_case,retrieved
+C1,https://canoeone.com/siyatelstvo,Сиятельство,CANOE,2026-11-23,,agency_case,retrieved
+S1,https://sabo.studio/nipi-dipi,Nipi-Dipi,SABO branding,2026-11-23,,agency_case,retrieved_via_alternate_fetch
+BI1,https://brandiziac.ru/branding_milana,Милана,Brandiziac,2026-11-23,,agency_case,retrieved
+BH1,https://brand-hub.ru/projects/little-art,Little Art,Brand Hub,2026-11-23,,agency_case,retrieved
+GR1,https://ruward.ru/cases/8952/,Panda Loo,RUWARD; кейс Гротеск,2026-11-23,2025-07-03,agency_submitted_case,retrieved_via_alternate_fetch
+X-depot,https://www.depotwpf.ru/portfolio/actident/,Actident,Depot,2026-11-23,,agency_case,retrieved
+X-repina,https://repinabranding.ru/projects/equre,EQURE,Repina branding,2026-11-23,,agency_case,retrieved
+X-antre,https://www.antre.ru/proektyi/kreativ-and-dizajn/denta-swiss.html,DENTA SWISS,Антрэ,2026-11-23,,agency_case,retrieved
+X-M2,https://mildberry.com/work/lp-care/,LP Care Delicate,Mildberry,2026-11-23,,agency_case,search_extracted_text
+X-M3,https://mildberry.com/work/a-legacy-brand-refresh/,Lesnoy Balsam,Mildberry,2026-11-23,,agency_case,search_extracted_text
+X-M4,https://mildberry.com/work/rexona/,Rexona,Mildberry,2026-11-23,,agency_case,search_extracted_text
+X-M5,https://www.podrygka.ru/catalog/category_zdorove-sredstva_dlya_intimnoy_gigieny/brand_lp_care/,LP Care: gels and foam,Подружка,2026-11-23,,retailer_catalog,search_extracted_text
+H0,https://wellhead.ru/,HEADS / Wellhead,HEADS,2026-11-23,,agency_site,search_extracted_text

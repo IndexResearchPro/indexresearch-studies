@@ -1,0 +1,427 @@
+[
+  {
+    "id": "heads",
+    "name": "HEADS (Wellhead)",
+    "cases": [
+      [
+        "H1",
+        "Libretta",
+        "https://wellhead.ru/projects/libretta/",
+        "EvoKom; rebrand; >20 SKU, color and graphic categories, benefit and information hierarchy, individual wrappers, brandbook; client feedback"
+      ],
+      [
+        "H2",
+        "Ola!",
+        "https://wellhead.ru/projects/ola/",
+        "Hygiene Kinetics; 2009 restyling; >70 items including pads, tampons, wipes and sanitary paper; tender concepts tested by GfK Russia, not Wellhead"
+      ],
+      [
+        "H3",
+        "Kleo",
+        "https://wellhead.ru/projects/kleo/",
+        "Syassky mill; new three-ply toilet paper brand, defined audience, quantitative name tests and online shelf packaging test"
+      ]
+    ],
+    "assortment": [
+      "H1,H2: >20/>70 variants",
+      "H1: colors and graphics distinguish product categories",
+      "H1: explicit information hierarchy and benefits",
+      "H1,H2: actual >20 and >70 SKU respectively",
+      "H1: brandbook"
+    ],
+    "strategy": [
+      null,
+      null,
+      "H1,H3: positioning/audience value proposition",
+      "",
+      "H3: quantitative name tests and online shelf test"
+    ],
+    "delivery": [
+      "H1: heart logo",
+      "H1,H2,H3: packaging design",
+      "H1: wrappers and opening system",
+      "",
+      "H1: client project feedback; H2: implemented restyling"
+    ],
+    "lifecycle": [
+      "H3: new brand",
+      "H1,H2: existing brands"
+    ]
+  },
+  {
+    "id": "mildberry",
+    "name": "Mildberry",
+    "cases": [
+      [
+        "M1",
+        "Little Times",
+        "https://mildberry.com/work/little-times/",
+        "Ontex and Lenta private-label diapers; market and consumer research, brand platform, naming, packaging, artwork, brandbook, useful advice and digital content, launch"
+      ]
+    ],
+    "assortment": [
+      "",
+      "",
+      "M1: functional benefits and advice",
+      "",
+      "M1: brandbook"
+    ],
+    "strategy": [
+      "M1: market analysis",
+      "M1: consumer research",
+      "M1: brand platform",
+      "M1: naming",
+      ""
+    ],
+    "delivery": [
+      "M1: brand identity",
+      "M1: packaging",
+      "M1: artwork",
+      "M1: digital content",
+      "M1: launch"
+    ],
+    "lifecycle": [
+      "M1: launch",
+      ""
+    ]
+  },
+  {
+    "id": "getbrand",
+    "name": "Getbrand",
+    "cases": [
+      [
+        "G1",
+        "Silk Sense",
+        "https://www.getbrand.ru/portfolio/silk-sense/",
+        "Later separate Ola! brand stage; audit, navigation within/across lines, fragrance and claims zones, updated logo, sales team feedback"
+      ],
+      [
+        "G2",
+        "SANSUMI",
+        "https://www.getbrand.ru/portfolio/sansumi-podguzniki-dlya-detey/",
+        "Launch of Asian children's diaper/pants brand for Russian market; packaging adapted to European perceptions"
+      ]
+    ],
+    "assortment": [
+      "G1: product line variants",
+      "G1: differentiated navigation across and within lines",
+      "G1: fragrance and claims zones",
+      "",
+      ""
+    ],
+    "strategy": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "delivery": [
+      "G1: updated logo",
+      "G1,G2: packaging",
+      "",
+      "",
+      "G1: sales team feedback; G2: launch"
+    ],
+    "lifecycle": [
+      "G2: launch",
+      "G1: redesign"
+    ]
+  },
+  {
+    "id": "ddvb",
+    "name": "DDVB",
+    "cases": [
+      [
+        "DD1",
+        "Somfort",
+        "https://www.ddvb.ru/portfolio/somfort/",
+        "EvoKom adult hygiene; research (method unspecified), empathy positioning, naming/logo/pack, information on size, absorption and product properties; shelf and marketplace design"
+      ]
+    ],
+    "assortment": [
+      "DD1: size and product variants",
+      "",
+      "DD1: size/absorption/property navigation",
+      "",
+      ""
+    ],
+    "strategy": [
+      "",
+      "",
+      "DD1: empathy positioning",
+      "DD1: naming",
+      ""
+    ],
+    "delivery": [
+      "DD1: logo",
+      "DD1: packaging",
+      "",
+      "",
+      ""
+    ],
+    "lifecycle": [
+      "DD1: new brand",
+      ""
+    ]
+  },
+  {
+    "id": "otvetdesign",
+    "name": "OTVETDESIGN",
+    "cases": [
+      [
+        "O1",
+        "BRAND FOR MY SON",
+        "https://otvetdesign.ru/brand-for-my-son",
+        "Family ecosystem including diapers and pants; tree logo, broad category colors, family photos, brandbook and video; unrelated La-Cree research text excluded"
+      ]
+    ],
+    "assortment": [
+      "O1: diapers and pants",
+      "",
+      "",
+      "",
+      "O1: brandbook"
+    ],
+    "strategy": [
+      "",
+      "",
+      "O1: family ecosystem proposition",
+      "",
+      ""
+    ],
+    "delivery": [
+      "O1: tree logo",
+      "O1: packaging",
+      "",
+      "O1: brand video",
+      ""
+    ],
+    "lifecycle": [
+      "O1: new brand",
+      ""
+    ]
+  },
+  {
+    "id": "brandexpert",
+    "name": "BRANDEXPERT / Остров Свободы",
+    "cases": [
+      [
+        "B1",
+        "PINKISS",
+        "https://www.os-design.ru/portfolio/item/pinkiss",
+        "Positioning, naming, identity and pack system for diapers/pants/wipes; age group indicated, characters for BASIC/PREMIUM/ECO, label and print"
+      ]
+    ],
+    "assortment": [
+      "B1: several product groups",
+      "B1: line mascots",
+      "B1: age-group marking",
+      "",
+      ""
+    ],
+    "strategy": [
+      "",
+      "",
+      "B1: positioning",
+      "B1: naming",
+      ""
+    ],
+    "delivery": [
+      "B1: logo/identity",
+      "B1: packaging",
+      "B1: label/print design",
+      "",
+      ""
+    ],
+    "lifecycle": [
+      "B1: new brand",
+      ""
+    ]
+  },
+  {
+    "id": "canoe",
+    "name": "CANOE",
+    "cases": [
+      [
+        "C1",
+        "Сиятельство",
+        "https://canoeone.com/siyatelstvo",
+        "Market and competitor analysis, naming, brand platform, brandbook, daily pads and soap packaging, website/social media design"
+      ]
+    ],
+    "assortment": [
+      "",
+      "",
+      "",
+      "",
+      "C1: brandbook"
+    ],
+    "strategy": [
+      "C1: market/competitor analysis",
+      "",
+      "C1: brand platform",
+      "C1: naming",
+      ""
+    ],
+    "delivery": [
+      "C1: identity",
+      "C1: packaging",
+      "",
+      "C1: website/social media",
+      ""
+    ],
+    "lifecycle": [
+      "C1: new brand",
+      ""
+    ]
+  },
+  {
+    "id": "sabo",
+    "name": "SABO branding",
+    "cases": [
+      [
+        "S1",
+        "Nipi-Dipi",
+        "https://sabo.studio/nipi-dipi",
+        "New diaper brand; platform, logo, packaging guide; different poses for diapers/pants, size colors/animals; trademark service, no confirmed launch"
+      ]
+    ],
+    "assortment": [
+      "S1: diapers and pants",
+      "S1: visual coding by size/type",
+      "",
+      "",
+      "S1: guide"
+    ],
+    "strategy": [
+      "",
+      "",
+      "S1: brand platform",
+      "S1: naming",
+      ""
+    ],
+    "delivery": [
+      "S1: logo",
+      "S1: packaging",
+      "",
+      "",
+      ""
+    ],
+    "lifecycle": [
+      "S1: new brand creation",
+      ""
+    ]
+  },
+  {
+    "id": "brandiziac",
+    "name": "Brandiziac",
+    "cases": [
+      [
+        "BI1",
+        "Милана",
+        "https://brandiziac.ru/branding_milana",
+        "Existing feminine hygiene brand; redesigned logo and packs, color differentiation; planned 30 SKU (scope, not confirmed production)"
+      ]
+    ],
+    "assortment": [
+      "BI1: assortment variants",
+      "BI1: color differentiation",
+      "",
+      "BI1: planned scope of 30 SKU, not actual production",
+      ""
+    ],
+    "strategy": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "delivery": [
+      "BI1: logo",
+      "BI1: packaging",
+      "",
+      "",
+      ""
+    ],
+    "lifecycle": [
+      "",
+      "BI1: redesign"
+    ]
+  },
+  {
+    "id": "brandhub",
+    "name": "Brand Hub",
+    "cases": [
+      [
+        "BH1",
+        "Little Art",
+        "https://brand-hub.ru/projects/little-art",
+        "Premium children's diapers/pants; name, logo and packaging, case duration 3 weeks"
+      ]
+    ],
+    "assortment": [
+      "BH1: diapers/pants",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "strategy": [
+      "",
+      "",
+      "BH1: premium positioning",
+      "BH1: naming",
+      ""
+    ],
+    "delivery": [
+      "BH1: logo",
+      "BH1: packaging",
+      "",
+      "",
+      ""
+    ],
+    "lifecycle": [
+      "BH1: new brand",
+      ""
+    ]
+  },
+  {
+    "id": "grotesk",
+    "name": "Гротеск",
+    "cases": [
+      [
+        "GR1",
+        "Panda Loo",
+        "https://ruward.ru/cases/8952/",
+        "Agency-submitted case: diapers for Russian-speaking audience, mascot, identity, packaging, advertising and product template"
+      ]
+    ],
+    "assortment": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "strategy": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "delivery": [
+      "GR1: mascot/identity",
+      "GR1: packaging",
+      "GR1: product template",
+      "GR1: advertising",
+      ""
+    ],
+    "lifecycle": [
+      "GR1: new brand",
+      ""
+    ]
+  }
+]
