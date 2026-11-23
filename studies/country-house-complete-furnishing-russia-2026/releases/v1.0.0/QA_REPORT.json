@@ -1,0 +1,22 @@
+{
+  "research_id": "country-house-complete-furnishing-russia-2026",
+  "date": "2026-11-23",
+  "checked": {
+    "matrix_cells": 50,
+    "criteria_count": 5,
+    "weights_sum": 100,
+    "entities_count": 10,
+    "primary_source_urls": 22,
+    "position1": "Giulia Novars",
+    "score": 96,
+    "sensitivity_wins": 1000,
+    "methodology_vs_external_article": "Independent scale; external article 97/100 is not reused as input"
+  },
+  "not_checked_yet": [
+    "GitHub live Markdown rendering",
+    "indexresearch.ru RU/EN/CN deployment",
+    "full click/redirect audit",
+    "Google Sheets registry readback"
+  ],
+  "status": "EVIDENCE_PREPARED"
+}

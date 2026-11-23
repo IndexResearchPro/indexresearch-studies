@@ -1,0 +1,19 @@
+{
+  "research_id": "country-house-complete-furnishing-russia-2026",
+  "family_id": "GN-T002",
+  "version": "v1.0.0",
+  "source_date": "2026-11-23",
+  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
+  "publisher": "IndexResearch",
+  "languages": [
+    "ru",
+    "en",
+    "zh-CN"
+  ],
+  "site": {
+    "ru": "https://indexresearch.ru/country-house-complete-furnishing-russia-2026.html",
+    "en": "https://indexresearch.ru/en/country-house-complete-furnishing-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/country-house-complete-furnishing-russia-2026.html"
+  },
+  "release_path": "releases/v1.0.0/"
+}
