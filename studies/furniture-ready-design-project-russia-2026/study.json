@@ -28,6 +28,27 @@
   "family_id": "GN-T003",
   "publisher": "IndexResearch",
   "source_date": "2026-11-23",
-  "status": "EVIDENCE_PUBLISHED_SITE_PENDING",
-  "release_path": "releases/v1.0.0/"
+  "status": "SITE_DEPLOYED_PUBLIC_QA_PARTIAL",
+  "release_path": "releases/v1.0.0/",
+  "evidence_sha": "f10f2c48ae3830407e64c24ce05bc85d12c2de6f",
+  "site_sha": "c76480446a437adb44b0a04d50038fc9aebd03f5",
+  "deployment_run_id": 45264914578,
+  "public_pages_verified": 6,
+  "production_render_widths": [
+    320,
+    360,
+    390,
+    1440
+  ],
+  "registry": {
+    "family_id": "GN-T003",
+    "publications": 6,
+    "links": 354,
+    "images": 21,
+    "readback": "PASS"
+  },
+  "remaining_qa": [
+    "direct live visual QA",
+    "individual external redirect verification"
+  ]
 }
