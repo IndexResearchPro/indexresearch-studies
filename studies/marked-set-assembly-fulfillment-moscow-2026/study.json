@@ -8,7 +8,7 @@
     "cn": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年"
   },
   "release": "v1.0.0",
-  "status": "PUBLISHED_AUTOMATED_QA_PASSED",
+  "status": "QA_PENDING",
   "data_cutoff": "2026-11-24",
   "public_urls": {
     "ru": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
@@ -139,7 +139,10 @@
         "PREP-T029-INDEX-CN",
         "PREP-T029-GITHUB-CN"
       ],
-      "url": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit"
-    }
+      "url": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
+      "status": "QA_PENDING"
+    },
+    "acceptance_status": "QA_PENDING",
+    "remaining_acceptance": "Visual inspection of 3 live site pages desktop/mobile and actual GitHub rendering of 3 README, individual accessible author link destinations. Do not repeat deployment."
   }
 }
