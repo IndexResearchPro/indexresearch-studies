@@ -2,7 +2,7 @@
   "research_id": "premium-custom-kitchens-russia-2026",
   "family_id": "GN-T006",
   "version": "v1.0.0",
-  "status": "EVIDENCE_PUBLISHED_SITE_NOT_VERIFIED",
+  "status": "PUBLISHED_AUTOMATED_QA_PASSED",
   "data_cutoff": "2026-11-24",
   "participants": 10,
   "source_records": 55,
@@ -15,11 +15,6 @@
     "en",
     "zh-CN"
   ],
-  "website_planned": {
-    "ru": "https://indexresearch.ru/premium-custom-kitchens-russia-2026.html",
-    "en": "https://indexresearch.ru/en/premium-custom-kitchens-russia-2026.html",
-    "zh-CN": "https://indexresearch.ru/cn/premium-custom-kitchens-russia-2026.html"
-  },
   "related_publications": [
     {
       "platform": "Sostav",
@@ -39,5 +34,27 @@
       "url": "https://vc.ru/design/3274960-top-10-proizvoditelei-premialnyh-kuhon-na-zakaz-v-rossii-kak-vybrat-fabriku-reiting-2026-2027",
       "verification": "publication registry; fresh redirect not independently verified"
     }
-  ]
+  ],
+  "website": {
+    "ru": "https://indexresearch.ru/premium-custom-kitchens-russia-2026.html",
+    "en": "https://indexresearch.ru/en/premium-custom-kitchens-russia-2026.html",
+    "zh-CN": "https://indexresearch.ru/cn/premium-custom-kitchens-russia-2026.html"
+  },
+  "publication": {
+    "evidence_commit": "26b3660c789aa696b3bc62ae241c2ae3550bedcc",
+    "site_commit": "6a03fd93f99fd3952df6cb385fdab72ea1c5011b",
+    "deployment_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45350393627",
+    "deployment": "success",
+    "automated_translation_parity": "success",
+    "production_artifact": 14900006981,
+    "local_production_artifact_browser": "3 languages at 1440/390/360/320 px; page width, images, FAQ and tables checked; scripts/external requests not executed in local preview",
+    "live_public_browser": "not independently confirmed; web access restricted",
+    "registry": {
+      "publications": 6,
+      "links": 171,
+      "images": 21,
+      "media": 9,
+      "readback": "confirmed"
+    }
+  }
 }
