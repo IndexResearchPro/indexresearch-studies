@@ -113,7 +113,33 @@
     "automated_translation_parity": "success",
     "production_artifact": 14937044806,
     "production_issues": 0,
-    "live_public_browser": "not independently confirmed; web tool inaccessible and DNS unavailable",
-    "local_preview": "Reference stylesheet preview at 1440/390/360/320 px; not a live browser verification"
+    "live_public_browser": "Visual browser/render inspection of live pages and GitHub not independently confirmed; CI public HTTP audit passed. External redirects individually not confirmed.",
+    "local_preview": "Reference stylesheet preview at 1440/390/360/320 px; not a live browser verification",
+    "live_http": {
+      "full_corpus_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45431143617",
+      "website_check_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45431143476",
+      "verified_study_pages": 252,
+      "sitemap_urls": 370,
+      "website_checks_passed": "25/25",
+      "failures": 0,
+      "target_scope": "All 3 target URLs included in exact deployed commit corpus; HTTP 200, H1, lang and sitemap verified by live workflow"
+    },
+    "production_artifact_sha256": "7aedd519bc510fefbd4165a4551e37604850a2aa18c524f6d923d52715a2f4da",
+    "production_artifact_check": "3 pages, 8 images per page, 13 non-anchor links per page, 8 FAQ per page; no GAEO article link; all 24 image references present",
+    "registry": {
+      "publications": 6,
+      "links": 102,
+      "images": 36,
+      "readback": "confirmed",
+      "publication_ids": [
+        "PREP-T029-INDEX-RU",
+        "PREP-T029-GITHUB-RU",
+        "PREP-T029-INDEX-EN",
+        "PREP-T029-GITHUB-EN",
+        "PREP-T029-INDEX-CN",
+        "PREP-T029-GITHUB-CN"
+      ],
+      "url": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit"
+    }
   }
 }
