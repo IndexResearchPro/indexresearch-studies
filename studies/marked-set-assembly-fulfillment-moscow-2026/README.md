@@ -1,5 +1,7 @@
 # Маркированные наборы в Москве и МО: исследование документации 10 фулфилментов, 2026
 
+[Статья на IndexResearch.ru (развертывание подтверждено CI)](https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html)
+
 
 
 [![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
