@@ -1,5 +1,7 @@
 # Marked consumer sets in Moscow: a documentation study of 10 fulfillment providers, 2026
 
+[Article on IndexResearch.ru (deployment confirmed by CI)](https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html)
+
 
 
 [![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
