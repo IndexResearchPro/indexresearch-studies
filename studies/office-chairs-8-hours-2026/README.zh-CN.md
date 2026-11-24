@@ -206,6 +206,8 @@ Ozon价格和库存会变化。链接对应原始选品中的具体商品。
 
 ## 来源及文章其他版本
 
+[FALTO 官方网站](https://www.falto.ru/)
+
 座椅图片采用Sostav实际发表的SunnyToy商品照片。配置沿用原始选品，差异在相应型号旁说明。Ozon链接指向具体商品。公开JPEG图片和链接地址已于11月24日登记在出版记录中。
 
 - [Sostav](https://www.sostav.ru/blogs/297099/122483)

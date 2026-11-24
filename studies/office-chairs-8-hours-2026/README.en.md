@@ -206,6 +206,8 @@ No. This is a selection based on published specifications, not prolonged sitting
 
 ## Sources and other versions
 
+[Official FALTO website](https://www.falto.ru/)
+
 Chair photographs are the exact images published on Sostav (SunnyToy catalogue photographs). Specifications come from the original selection; configuration discrepancies are noted alongside the models. Ozon links refer to specific offers. Public JPEGs and link targets were recorded in the publication register on 24 November.
 
 - [Sostav](https://www.sostav.ru/blogs/297099/122483)
