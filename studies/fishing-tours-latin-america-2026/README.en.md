@@ -144,7 +144,7 @@ The surviving article links to Ada Tours' fishing section and Pantanal itinerary
 
 - <a href="https://adatours.ru/interests/fishing/" target="_blank" rel="sponsored noopener">Ada Tours – fishing tours</a>
 - <a href="https://adatours.ru/brazil/tour/pantanal-fishing/" target="_blank" rel="sponsored noopener">Ada Tours – Pantanal fishing</a>
-- [Sostav – related publication](https://www.sostav.ru/blogs/294064/107975)
+- [vc.ru – related publication in Russian](https://vc.ru/travel/3263047-rybolovnye-tury-v-braziliju-i-latinskuyu-ameriku)
 - [PROVENANCE.md](PROVENANCE.md)
 - [IndexResearch.ru](https://indexresearch.ru/en/fishing-tours-latin-america-2026.html)
 

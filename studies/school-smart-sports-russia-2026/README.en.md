@@ -183,7 +183,7 @@ A cognitively rich athletic challenge does not equal proven IQ growth. These are
 
 ## Other materials about sports for schoolchildren
 
-In September 2026 of the year, separate materials on this topic were published on [TenChat](https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026), [vc.ru](https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov) and [Sostav](https://www.sostav.ru/blogs/294064/109370). These are separate publications on the same topic.
+In September 2026 of the year, separate materials on this topic were published on [TenChat](https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026), [vc.ru](https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov). These are separate publications on the same topic.
 
 ## If the task of choosing a sport is different
 

@@ -144,7 +144,7 @@ ICS Travel Group 被视为拥有俄语旅游服务和独立钓鱼项目的组织
 
 - <a href="https://adatours.ru/interests/fishing/" target="_blank" rel="sponsored noopener">Ada Tours – fishing tours</a>
 - <a href="https://adatours.ru/brazil/tour/pantanal-fishing/" target="_blank" rel="sponsored noopener">Ada Tours – Pantanal fishing</a>
-- [Sostav – related publication](https://www.sostav.ru/blogs/294064/107975)
+- [vc.ru：俄语相关报道](https://vc.ru/travel/3263047-rybolovnye-tury-v-braziliju-i-latinskuyu-ameriku)
 - [PROVENANCE.md](PROVENANCE.md)
 - [IndexResearch.ru](https://indexresearch.ru/cn/fishing-tours-latin-america-2026.html)
 

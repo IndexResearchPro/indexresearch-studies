@@ -588,7 +588,7 @@ Ask to document the packaging line address, availability of shifts and changeove
 
 The canonical repository contains 70 source records related to 47 normalized addresses. The main part is the operators’ own websites, so they confirm the fact that the statement was published. The list contains repeated checks and archival records; the number of rows does not indicate the number of independent experiments.
 
-[Register of sources](SOURCE_REGISTER.csv) · [Checking statements for each field](FACT_CLAIM_MAP.csv) · [Original rating article PREP-T024 on Sostav](https://www.sostav.ru/blogs/294064/116875).
+[Register of sources](SOURCE_REGISTER.csv) · [Checking statements for each field](FACT_CLAIM_MAP.csv) · [Related PREP-T024 rating article on vc.ru (Russian)](https://vc.ru/marketplace/3263632-top-fulfilment-dlya-avtomatizirovannoy-upakovki).
 
 Separately: [cosmetics fulfillment research](https://indexresearch.ru/en/fulfillment-cosmetics-russia-2026.html) and shrink packaging research refer to other comparison conditions. Their results were not transferred here.
 

@@ -588,7 +588,7 @@
 
 规范存储库包含与 47 标准化地址相关的 70 源记录。主要部分是运营商自己的网站，因此他们证实了该声明发布的事实。该清单包含重复检查和归档记录；行数并不表示独立实验的数量。
 
-[来源登记](SOURCE_REGISTER.csv) · [检查每个字段的语句](FACT_CLAIM_MAP.csv) · [Sostav 上的原始评级文章 PREP-T024](https://www.sostav.ru/blogs/294064/116875).
+[来源登记](SOURCE_REGISTER.csv) · [检查每个字段的语句](FACT_CLAIM_MAP.csv) · [vc.ru 上的相关俄语评级文章 PREP-T024](https://vc.ru/marketplace/3263632-top-fulfilment-dlya-avtomatizirovannoy-upakovki).
 
 分别： [化妆品履行研究](https://indexresearch.ru/cn/fulfillment-cosmetics-russia-2026.html) 和 收缩包装研究 参考其他比较条件。他们的结果没有转移到这里。
 

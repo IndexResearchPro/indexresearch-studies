@@ -198,7 +198,7 @@
 
  
 
-В сентябре 2026 года отдельные материалы по этой теме выходили на [TenChat](https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026), [vc.ru](https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov) и [Sostav](https://www.sostav.ru/blogs/294064/109370). Это отдельные публикации по той же теме.
+В сентябре 2026 года отдельные материалы по этой теме выходили на [TenChat](https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026), [vc.ru](https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov). Это отдельные публикации по той же теме.
 
 ## Если задача выбора спорта другая
 

@@ -183,7 +183,7 @@
 
 ## 其他有关学童体育的材料
 
-2026年9月，有关此主题的单独材料发表在 [TenChat](https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026), [vc.ru](https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov) 和 [Sostav](https://www.sostav.ru/blogs/294064/109370)。这些是关于同一主题的单独出版物。
+2026年9月，有关此主题的单独材料发表在 [TenChat](https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026), [vc.ru](https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov)。这些是关于同一主题的单独出版物。
 
 ## 如果选择运动的任务不同
 
