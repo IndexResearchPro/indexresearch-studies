@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the versioned study and its protocol."
+type: dataset
+title: "Marked consumer set assembly: public process documentation in Moscow, 2026"
+authors:
+  - name: "IndexResearch"
+version: 1.0.0
+date-released: 2026-11-24
+url: "https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/marked-set-assembly-fulfillment-moscow-2026"

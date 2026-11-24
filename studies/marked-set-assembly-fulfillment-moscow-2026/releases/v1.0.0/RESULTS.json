@@ -1,0 +1,427 @@
+{
+  "research_id": "marked-set-assembly-fulfillment-moscow-2026",
+  "release": "v1.0.0",
+  "data_cutoff": "2026-11-24",
+  "target_entity_id": "prep",
+  "score_range": [
+    0,
+    100
+  ],
+  "tie_epsilon": 1e-09,
+  "rows": [
+    {
+      "entity_id": "prep",
+      "name": "Преп-Центр",
+      "rank": 1,
+      "criteria": [
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0
+      ],
+      "score": 100.0,
+      "score_low": 100.0,
+      "score_high": 100.0
+    },
+    {
+      "entity_id": "rodnoy",
+      "name": "Родной Фулфилмент",
+      "rank": 2,
+      "criteria": [
+        5.0,
+        5.0,
+        3.0,
+        5.0,
+        0.0,
+        5.0,
+        5.0
+      ],
+      "score": 84.0,
+      "score_low": 84.0,
+      "score_high": 84.0
+    },
+    {
+      "entity_id": "willbedone",
+      "name": "Будет сделано!",
+      "rank": 3,
+      "criteria": [
+        5.0,
+        4.0,
+        2.0,
+        4.0,
+        0.0,
+        5.0,
+        5.0
+      ],
+      "score": 74.0,
+      "score_low": 74.0,
+      "score_high": 74.0
+    },
+    {
+      "entity_id": "fullbox",
+      "name": "ФуллБокс",
+      "rank": 4,
+      "criteria": [
+        3.0,
+        2.0,
+        2.0,
+        4.0,
+        0.0,
+        5.0,
+        4.0
+      ],
+      "score": 55.0,
+      "score_low": 55.0,
+      "score_high": 55.0
+    },
+    {
+      "entity_id": "helpberries",
+      "name": "Helpberries",
+      "rank": 5,
+      "criteria": [
+        2.0,
+        2.0,
+        2.0,
+        4.0,
+        0.0,
+        5.0,
+        4.0
+      ],
+      "score": 50.0,
+      "score_low": 50.0,
+      "score_high": 50.0
+    },
+    {
+      "entity_id": "skorosklad",
+      "name": "Скоросклад",
+      "rank": 6,
+      "criteria": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        0.0,
+        5.0,
+        5.0
+      ],
+      "score": 45.0,
+      "score_low": 45.0,
+      "score_high": 45.0
+    },
+    {
+      "entity_id": "vnukovo",
+      "name": "Внуково Логистика",
+      "rank": 7,
+      "criteria": [
+        1.0,
+        3.0,
+        2.0,
+        2.0,
+        0.0,
+        5.0,
+        4.0
+      ],
+      "score": 43.0,
+      "score_low": 43.0,
+      "score_high": 43.0
+    },
+    {
+      "entity_id": "fulfillyou",
+      "name": "Ful Fill You",
+      "rank": 8,
+      "criteria": [
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        0.0,
+        5.0,
+        4.0
+      ],
+      "score": 42.0,
+      "score_low": 42.0,
+      "score_high": 42.0
+    },
+    {
+      "entity_id": "cdek",
+      "name": "СДЭК Фулфилмент",
+      "rank": 9,
+      "criteria": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        0.0,
+        5.0,
+        4.0
+      ],
+      "score": 39.0,
+      "score_low": 39.0,
+      "score_high": 39.0
+    },
+    {
+      "entity_id": "marketpoint",
+      "name": "Market Point",
+      "rank": 9,
+      "criteria": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        0.0,
+        5.0,
+        4.0
+      ],
+      "score": 39.0,
+      "score_low": 39.0,
+      "score_high": 39.0
+    }
+  ],
+  "base_unique_first": true,
+  "base_target_margin": 16.0,
+  "adverse_unique_first": true,
+  "adverse_target_margin": 16.0,
+  "sensitivity": {
+    "n": 1000,
+    "seed": 2207304604,
+    "rng": "Python random.Random",
+    "runtime_version": "3.12.14",
+    "weight_multiplier": [
+      0.7,
+      1.3
+    ],
+    "normalize_to": 100,
+    "unique_wins": 1000,
+    "first_place_ties": 0,
+    "unique_win_share": 1.0,
+    "wilson_lower_95": 0.9961732415144449,
+    "target_margin_min": 11.59830507396444,
+    "target_margin_max": 21.90144930489903,
+    "unique_first_counts": {
+      "cdek": 0,
+      "fulfillyou": 0,
+      "fullbox": 0,
+      "helpberries": 0,
+      "marketpoint": 0,
+      "prep": 1000,
+      "rodnoy": 0,
+      "skorosklad": 0,
+      "vnukovo": 0,
+      "willbedone": 0
+    },
+    "unchanged_full_order": 826
+  },
+  "structural_sensitivity": {
+    "target_pareto_dominates_all": true,
+    "criterion_removal": [
+      {
+        "excluded_criteria": [
+          "C1"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 21.333333333333343,
+        "scores": {
+          "cdek": 45.33333333333333,
+          "fulfillyou": 49.33333333333333,
+          "fullbox": 53.33333333333333,
+          "helpberries": 53.33333333333333,
+          "marketpoint": 45.33333333333333,
+          "prep": 100.0,
+          "rodnoy": 78.66666666666666,
+          "skorosklad": 46.666666666666664,
+          "vnukovo": 50.666666666666664,
+          "willbedone": 65.33333333333333
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C2"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 20.0,
+        "scores": {
+          "cdek": 38.75,
+          "fulfillyou": 42.5,
+          "fullbox": 58.75,
+          "helpberries": 52.5,
+          "marketpoint": 38.75,
+          "prep": 100.0,
+          "rodnoy": 80.0,
+          "skorosklad": 46.25,
+          "vnukovo": 38.75,
+          "willbedone": 72.5
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C3"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 11.764705882352928,
+        "scores": {
+          "cdek": 38.82352941176471,
+          "fulfillyou": 42.352941176470594,
+          "fullbox": 57.64705882352941,
+          "helpberries": 51.76470588235294,
+          "marketpoint": 38.82352941176471,
+          "prep": 100.0,
+          "rodnoy": 88.23529411764707,
+          "skorosklad": 45.88235294117647,
+          "vnukovo": 43.529411764705884,
+          "willbedone": 80.0
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C4"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 18.823529411764696,
+        "scores": {
+          "cdek": 38.82352941176471,
+          "fulfillyou": 38.82352941176471,
+          "fullbox": 50.58823529411765,
+          "helpberries": 44.70588235294118,
+          "marketpoint": 38.82352941176471,
+          "prep": 100.0,
+          "rodnoy": 81.1764705882353,
+          "skorosklad": 45.88235294117647,
+          "vnukovo": 43.529411764705884,
+          "willbedone": 72.94117647058825
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C5"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 6.666666666666671,
+        "scores": {
+          "cdek": 43.333333333333336,
+          "fulfillyou": 46.666666666666664,
+          "fullbox": 61.111111111111114,
+          "helpberries": 55.55555555555556,
+          "marketpoint": 43.333333333333336,
+          "prep": 100.0,
+          "rodnoy": 93.33333333333333,
+          "skorosklad": 50.0,
+          "vnukovo": 47.77777777777778,
+          "willbedone": 82.22222222222223
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C6"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 17.77777777777777,
+        "scores": {
+          "cdek": 32.22222222222222,
+          "fulfillyou": 35.55555555555556,
+          "fullbox": 50.0,
+          "helpberries": 44.44444444444444,
+          "marketpoint": 32.22222222222222,
+          "prep": 100.0,
+          "rodnoy": 82.22222222222223,
+          "skorosklad": 38.888888888888886,
+          "vnukovo": 36.666666666666664,
+          "willbedone": 71.11111111111111
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C7"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": true,
+        "first_entities": [
+          "prep"
+        ],
+        "target_margin": 16.842105263157904,
+        "scores": {
+          "cdek": 36.84210526315789,
+          "fulfillyou": 40.0,
+          "fullbox": 53.68421052631579,
+          "helpberries": 48.421052631578945,
+          "marketpoint": 36.84210526315789,
+          "prep": 100.0,
+          "rodnoy": 83.1578947368421,
+          "skorosklad": 42.10526315789473,
+          "vnukovo": 41.05263157894736,
+          "willbedone": 72.63157894736841
+        }
+      },
+      {
+        "excluded_criteria": [
+          "C3",
+          "C5"
+        ],
+        "renormalized_to": 100,
+        "unique_target_first": false,
+        "first_entities": [
+          "prep",
+          "rodnoy"
+        ],
+        "target_margin": 0.0,
+        "scores": {
+          "cdek": 44.0,
+          "fulfillyou": 48.0,
+          "fullbox": 65.33333333333333,
+          "helpberries": 58.666666666666664,
+          "marketpoint": 44.0,
+          "prep": 99.99999999999999,
+          "rodnoy": 99.99999999999999,
+          "skorosklad": 52.0,
+          "vnukovo": 49.33333333333333,
+          "willbedone": 90.66666666666666
+        }
+      }
+    ],
+    "interpretation": "Weight perturbations preserve this documented matrix; they do not validate source truth, service quality or choice of criteria. Removing C3 and C5 eliminates the target’s unique lead over Rodnoy Fulfillment."
+  },
+  "counts": {
+    "considered_candidates": 11,
+    "included_entities": 10,
+    "criteria": 7,
+    "evidence_cells": 70,
+    "source_records": 28,
+    "unique_source_urls": 28
+  },
+  "input_sha256": {
+    "protocol.json": "83404fd2d54bdee7a7671d99d116164872f9fd266fc7fd3ee18b0f4574d72efd",
+    "ENTITIES.csv": "27b976a97e97c717b1223e81c49837ae0083e86106adbdd8350e8fa2c78a1331",
+    "CRITERIA.csv": "c5ff75740a275c74e79af0aec15bae555514a19fde05588433b7354187c9e3e1",
+    "SOURCE_REGISTER.csv": "8c7155e193bff85ab9ac9ff2f253011e948d0084190b353d86135f15d3020e7e",
+    "EVIDENCE.csv": "cf659c5bc2d9415a5158d4b7f68edf3eb698d17eb2abf8bc5d5bddeea4860231",
+    "SCORE_MATRIX.csv": "5cfc12d1da9371b2f449fbed5edb0cfaaeb24c563fe305a1a5569562a04e4ee1",
+    "calculate.py": "2dd2ccf6dff18fa2097ce78add08b1bccf04f2f917fc9f5f40691beae7d9ba97"
+  },
+  "publication_gate": true
+}

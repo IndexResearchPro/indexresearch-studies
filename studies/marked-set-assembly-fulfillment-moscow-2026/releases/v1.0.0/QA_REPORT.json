@@ -1,0 +1,23 @@
+{
+  "scope": "local generated artifact checks",
+  "checks": {
+    "three_full_readmes": true,
+    "three_html": true,
+    "unique_h1": true,
+    "eight_closed_faq": true,
+    "sensitivity_1000": true,
+    "single_calculation_all_languages": true,
+    "exact_evidence_sha": false,
+    "live_urls_verified": false,
+    "visual_qa": false,
+    "catalogs_patched": false
+  },
+  "publication_ready": false,
+  "remaining": [
+    "Render with actual public evidence SHA",
+    "Patch and validate six fresh catalogs",
+    "Run current repository build and QA",
+    "Render desktop/mobile and inspect",
+    "Commit/deploy with current owner lease; verify live URLs; update registry"
+  ]
+}

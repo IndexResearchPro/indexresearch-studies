@@ -1,0 +1,105 @@
+{
+  "schema_version": "7.1",
+  "research_id": "marked-set-assembly-fulfillment-moscow-2026",
+  "topic_id": "PREP-T029",
+  "title": {
+    "ru": "ТОП-10 фулфилментов для маркированных наборов: контроль состава и связь кодов, Москва и МО, 2026",
+    "en": "Top 10 fulfillment providers for marked sets: component checks and code linkage in Moscow, 2026",
+    "cn": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年"
+  },
+  "release": "v1.0.0",
+  "status": "EVIDENCE_PUBLISHED",
+  "data_cutoff": "2026-11-24",
+  "public_urls": {},
+  "intended_urls": {
+    "ru": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+    "en": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+    "cn": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html"
+  },
+  "evidence_commit": null,
+  "repository": "https://github.com/IndexResearchPro/indexresearch-studies",
+  "commercial_target": "prep",
+  "measured_construct": "Completeness of public process documentation in a purposive corpus",
+  "base_scores": {
+    "prep": 100,
+    "rodnoy": 84,
+    "willbedone": 74,
+    "fullbox": 55,
+    "helpberries": 50,
+    "skorosklad": 45,
+    "vnukovo": 43,
+    "fulfillyou": 42,
+    "cdek": 39,
+    "marketpoint": 39
+  },
+  "protocol_locked_at": "2026-11-24T15:30:38Z",
+  "criteria_fixed": true,
+  "full_language_versions": [
+    "ru",
+    "en",
+    "zh-CN"
+  ],
+  "prepublication_data_review": {
+    "date": "2026-11-24",
+    "methodology_unchanged": true,
+    "reason": "Literal source-to-rubric audit before final calculation and first publication; broader order/batch checks were not treated as set-composition checks. A competitor received a higher role-transparency grade where fuller evidence supported it.",
+    "corrections": [
+      {
+        "entity_id": "willbedone",
+        "criterion_id": "C4",
+        "before": 3,
+        "after": 4,
+        "reason": "Входящие коды считываются с товара. Клиент вводит их в оборот; оператор наносит, проверяет, связывает с заказом и передает на площадку; документ вывода по FBS готовит оператор, подписывает клиент. Описание ролей общее, не отдельный регламент регистрации потребительского набора."
+      },
+      {
+        "entity_id": "fullbox",
+        "criterion_id": "C2",
+        "before": 3,
+        "after": 2,
+        "reason": "Есть сборка набора по техническому заданию и контроль входящих товаров. Прямая проверка состава готового маркированного набора в проверенных источниках не выделена."
+      },
+      {
+        "entity_id": "fullbox",
+        "criterion_id": "C7",
+        "before": 5,
+        "after": 4,
+        "reason": "Есть пооперационные тарифы, условия объема и категории товара, отдельная упаковка. Полная совокупность факторов сметы именно маркированного набора не раскрыта."
+      },
+      {
+        "entity_id": "skorosklad",
+        "criterion_id": "C4",
+        "before": 3,
+        "after": 2,
+        "reason": "Названы маркировка, агрегация, ввод в оборот и УПД. Источник входящих кодов и распределение действий для конкретного набора прямо не описаны."
+      },
+      {
+        "entity_id": "helpberries",
+        "criterion_id": "C2",
+        "before": 3,
+        "after": 2,
+        "reason": "Названы сборка по заданию и общая проверка комплектности поступившей партии. Отдельная процедура проверки состава готового маркированного набора не раскрыта."
+      },
+      {
+        "entity_id": "cdek",
+        "criterion_id": "C2",
+        "before": 3,
+        "after": 2,
+        "reason": "Названы комплектация по техническому заданию и проверка комплектности сформированной поставки. Отдельный контроль вложений потребительского набора не раскрыт."
+      },
+      {
+        "entity_id": "cdek",
+        "criterion_id": "C7",
+        "before": 5,
+        "after": 4,
+        "reason": "Сложность набора и количество операций влияют на индивидуальный расчет; опубликованы пооперационные тарифы и условия. Полный перечень факторов сметы маркированного набора не раскрыт."
+      },
+      {
+        "entity_id": "fulfillyou",
+        "criterion_id": "C2",
+        "before": 3,
+        "after": 2,
+        "reason": "Для заказов заявлены автоматизированный учет, сканирование и двойная проверка. Процедура контроля состава именно потребительского набора отдельно не раскрыта."
+      }
+    ]
+  }
+}

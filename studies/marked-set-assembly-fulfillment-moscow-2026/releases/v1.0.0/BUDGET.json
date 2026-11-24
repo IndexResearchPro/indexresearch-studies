@@ -1,0 +1,14 @@
+{
+  "currency": "RUB",
+  "overall_spend": null,
+  "reason": "No unified billed-use meter was available to this local release preparer. Unknown cost is not zero.",
+  "brandfound_calls": 0,
+  "tinyfish_calls": 0,
+  "test_order_spend": null,
+  "test_orders_performed": false,
+  "observed_sources": 28,
+  "assessed_cells": 70,
+  "sensitivity_iterations": 1000,
+  "runtime": "Python 3.12.14, standard library",
+  "provenance": "Local release preparation only; excludes other sessions and publication execution."
+}

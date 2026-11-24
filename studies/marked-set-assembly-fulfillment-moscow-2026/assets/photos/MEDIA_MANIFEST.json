@@ -1,0 +1,110 @@
+{
+  "source_page": "https://prep-center.ru/cases/agregatsiya-kiz-naborov-wms/",
+  "rights": "Клиентские рабочие материалы Преп-Центра, использование в его согласованной коммерческой публикации. Обезличивание уже выполнено в опубликованном источнике; данные клиентов скрыты, изображения кодов изменены.",
+  "visual_qa": "2026-11-24: reviewed all 5 individual images; each is one scene, no collage; no alteration performed by this package.",
+  "images": [
+    {
+      "file": "media/cover.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-06-finished-set.jpg",
+      "role": "evidence_cover_portrait",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Готовый образец набора из 2 единиц в Преп-Центре. Коды и данные клиента изменены для публикации.",
+      "alt": "Готовый образец набора из 2 единиц в Преп-Центре. Коды и данные клиента изменены для публикации."
+    },
+    {
+      "file": "media/01-wms-counter.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-04-wms-counter.jpg",
+      "role": "internal_1",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Окно агрегации WMS МПФИТ в Преп-Центре. Счетчик 0/2 относится к 2 вложениям одного образца.",
+      "alt": "Окно агрегации WMS МПФИТ в Преп-Центре. Счетчик 0/2 относится к 2 вложениям одного образца."
+    },
+    {
+      "file": "media/02-scan-first-item.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-02-scan-component-a.jpg",
+      "role": "internal_2",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Сканирование кода первого вложения набора в Преп-Центре.",
+      "alt": "Сканирование кода первого вложения набора в Преп-Центре."
+    },
+    {
+      "file": "media/03-scan-second-item.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-03-scan-component-b.jpg",
+      "role": "internal_3",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Сканирование кода второго вложения того же образца в Преп-Центре.",
+      "alt": "Сканирование кода второго вложения того же образца в Преп-Центре."
+    },
+    {
+      "file": "media/04-print-label.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-05-label-printing.jpg",
+      "role": "internal_4",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Печать общей этикетки после сканирования состава в Преп-Центре.",
+      "alt": "Печать общей этикетки после сканирования состава в Преп-Центре."
+    }
+  ],
+  "publication_note": "Все изображения относятся только к Преп-Центру. Для горизонтального редакционного превью root готовит отдельную обложку при необходимости; портретные фотографии не растягивать. Авторское фото Марианны подготовлено root отдельно.",
+  "publication_images": [
+    {
+      "file": "media/prep-t029-cover.jpg",
+      "role": "editorial_cover",
+      "width": 1200,
+      "height": 675,
+      "caption": "Сборка маркированных наборов: контроль состава и связь кодов. Редакционная иллюстрация.",
+      "alt": "Сборка маркированных наборов: контроль состава и связь кодов",
+      "rights": "Новая редакционная генерация подготовлена root в этом сеансе; не изображает конкретный склад.",
+      "source_url": null
+    },
+    {
+      "file": "media/01-wms-counter.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-04-wms-counter.jpg",
+      "role": "internal_1",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Окно агрегации WMS МПФИТ в Преп-Центре. Счетчик 0/2 относится к 2 вложениям одного образца.",
+      "alt": "Окно агрегации WMS МПФИТ в Преп-Центре. Счетчик 0/2 относится к 2 вложениям одного образца."
+    },
+    {
+      "file": "media/02-scan-first-item.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-02-scan-component-a.jpg",
+      "role": "internal_2",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Сканирование кода первого вложения набора в Преп-Центре.",
+      "alt": "Сканирование кода первого вложения набора в Преп-Центре."
+    },
+    {
+      "file": "media/03-scan-second-item.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-03-scan-component-b.jpg",
+      "role": "internal_3",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Сканирование кода второго вложения того же образца в Преп-Центре.",
+      "alt": "Сканирование кода второго вложения того же образца в Преп-Центре."
+    },
+    {
+      "file": "media/04-print-label.jpg",
+      "source_url": "https://prep-center.ru/assets/images/agg-05-label-printing.jpg",
+      "role": "internal_4",
+      "width": 1086,
+      "height": 1448,
+      "caption": "Печать общей этикетки после сканирования состава в Преп-Центре.",
+      "alt": "Печать общей этикетки после сканирования состава в Преп-Центре."
+    }
+  ],
+  "evidence_cover_unused": {
+    "file": "media/cover.jpg",
+    "source_url": "https://prep-center.ru/assets/images/agg-06-finished-set.jpg",
+    "role": "evidence_cover_portrait",
+    "width": 1086,
+    "height": 1448,
+    "caption": "Готовый образец набора из 2 единиц в Преп-Центре. Коды и данные клиента изменены для публикации.",
+    "alt": "Готовый образец набора из 2 единиц в Преп-Центре. Коды и данные клиента изменены для публикации."
+  }
+}
