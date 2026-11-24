@@ -8,7 +8,7 @@
     "cn": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年"
   },
   "release": "v1.0.0",
-  "status": "QA_PENDING",
+  "status": "COMPLETE",
   "data_cutoff": "2026-11-24",
   "public_urls": {
     "ru": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
@@ -113,7 +113,7 @@
     "automated_translation_parity": "success",
     "production_artifact": 14937044806,
     "production_issues": 0,
-    "live_public_browser": "Root verified all 3 live site articles at desktop viewport 1363 px: no document overflow, complete text, 8 FAQ, rank-9 tie and disclosure; all 3 SVG + 5 JPEG per page loaded. All 3 actual GitHub README renders checked: publisher logo + 3 localized SVG + 1 process photo loaded. Live mobile viewport resizing was unavailable; no live mobile verification claimed.",
+    "live_public_browser": "Root verified all three complete live site articles at desktop 1363 px and all three full GitHub README renders. Subsequent read-only project Chromium CI verified the three public site pages at 320/360/390/1440 px (12/12 cases); actual mobile top screens, body/table/photo/FAQ/disclosure/footer regions and localized charts were visually inspected. All 96 main-image decode checks passed, including 24 distinct article image uses at four widths; no document horizontal overflow. Actual 1440px top screens were also inspected.",
     "local_preview": "Reference stylesheet preview at 1440/390/360/320 px; not a live browser verification",
     "live_http": {
       "full_corpus_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45431143617",
@@ -140,14 +140,17 @@
         "PREP-T029-GITHUB-CN"
       ],
       "url": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
-      "status": "QA_PENDING",
+      "status": "COMPLETE",
       "publication_status": "Опубликовано",
       "qa_update": "Existing 6 publication, 102 link and 36 editorial-image records updated in place and read back; 3 publisher logos visually checked separately. No duplicate rows.",
       "readback_observed_at": "2026-11-24T16:38:18.987Z",
-      "qa_update_cells": 345
+      "qa_update_cells": 345,
+      "mobile_qa_update_cells": 70,
+      "mobile_qa_readback_observed_at": "2026-11-24T17:21:23.429Z",
+      "mobile_qa_update": "Updated 70 existing acceptance-note/image-status cells after 12/12 live responsive cases and visual review. All 345 previously updated QA cells were re-read before this pass; 2902 other bounded values and all target formats/validation were preserved. No new rows."
     },
-    "acceptance_status": "QA_PENDING",
-    "remaining_acceptance": "Live public mobile rendering at required viewport widths remains unverified because browser viewport resizing was unavailable. Local previews at 320/360/390/1440 px were checked separately and are not described as live verification.",
+    "acceptance_status": "COMPLETE",
+    "remaining_acceptance": null,
     "live_desktop": {
       "checked_date": "2026-11-24",
       "verified_by": "root",
@@ -158,7 +161,8 @@
       "faq_each": 8,
       "github_readmes": 3,
       "github_images_loaded_including_logos": 15,
-      "live_mobile_verified": false
+      "live_mobile_verified": false,
+      "scope": "Earlier root desktop-only inspection; its false mobile flag is historical. Subsequent live mobile acceptance is recorded in live_responsive."
     },
     "author_link_checks": {
       "date": "2026-11-24",
@@ -187,6 +191,377 @@
         "Web-tool 404/cache discrepancies were checked against exact deployed commit and successful live CI; routes retained."
       ],
       "logo_href_commit": "e965733dd21057c088eb444ac31fadf9b0c427aa"
+    },
+    "acceptance_history": [
+      {
+        "status": "QA_PENDING",
+        "observed_at": "2026-11-24T16:38:18.987Z",
+        "remaining_acceptance": "Live public mobile rendering at required viewport widths remains unverified because browser viewport resizing was unavailable. Local previews at 320/360/390/1440 px were checked separately and are not described as live verification.",
+        "live_public_browser": "Root verified all 3 live site articles at desktop viewport 1363 px: no document overflow, complete text, 8 FAQ, rank-9 tie and disclosure; all 3 SVG + 5 JPEG per page loaded. All 3 actual GitHub README renders checked: publisher logo + 3 localized SVG + 1 process photo loaded. Live mobile viewport resizing was unavailable; no live mobile verification claimed.",
+        "metadata_commit": "2701e96616b0f63e17c201703e2eb2764001bfcb"
+      }
+    ],
+    "accepted_at": "2026-11-24T17:22:37.684Z",
+    "live_mobile_verified": true,
+    "live_responsive": {
+      "status": "PASS",
+      "accepted_at": "2026-11-24T17:22:37.684Z",
+      "run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45446874714",
+      "run_id": 45446874714,
+      "job_id": 138632946461,
+      "artifact_id": 14944509632,
+      "artifact_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45446874714/artifacts/14944509632",
+      "artifact_sha256": "6d3e6a8bad9dc0052d906eddd8505b285740fe50215174ebaab9b0d16a1409e5",
+      "receipt_sha256": "b5ca48424f62dbe5a23caed60776c49ef8ad5e6f52bf27a7b3e93fe098a8d132",
+      "test_code_commit": "3ad8c27471b145fe1673b52029685115fa57d3c7",
+      "deployment_sha": null,
+      "content_reference_commit": "e7f6f6a9dbbcb177702ba32b3f22f640a4823ee6",
+      "fixture_sha256": "b3d1ec1d0b6637eb9b5fa06a29d658fcf74413b3f8412e1666753f4ea67ffcaa",
+      "research_id": "marked-set-assembly-fulfillment-moscow-2026",
+      "topic_id": "PREP-T029",
+      "browser_version": "159.0.8154.6",
+      "started_at": "2026-11-24T17:17:47.961109+00:00",
+      "finished_at": "2026-11-24T17:18:49.435374+00:00",
+      "widths": [
+        320,
+        360,
+        390,
+        1440
+      ],
+      "cases_passed": 12,
+      "cases_required": 12,
+      "main_image_decode_checks": 96,
+      "all_image_decode_checks": 108,
+      "document_overflow": false,
+      "visual_review": {
+        "reviewer": "prep-research-live-mobile",
+        "observed_at": "2026-11-24T17:22:37.684Z",
+        "site_mobile_widths": [
+          320,
+          360,
+          390
+        ],
+        "desktop_width": 1440,
+        "scope": "Actual CI PNGs: all nine mobile top screens, native-resolution body/table/photo/FAQ/disclosure/footer regions from all nine full-page captures, all nine localized chart crops at 320px, and all three 1440px top screens. Earlier root inspection covered full desktop articles and all three full GitHub README renders.",
+        "earlier_run": 45445425462,
+        "earlier_pngs_identical_in_final_artifact": "45/45 byte-identical; previously inspected 320/390 images remain exact copies in the final artifact",
+        "github_mobile_claimed": false
+      },
+      "cases": [
+        {
+          "id": "ru-320",
+          "url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 320,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "ru",
+          "h1": "ТОП-10 фулфилментов для маркированных наборов: контроль состава и связь кодов, Москва и МО, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "ru-320-top.png",
+            "ru-320-full.png",
+            "ru-320-chart-1.png",
+            "ru-320-chart-2.png",
+            "ru-320-chart-3.png"
+          ]
+        },
+        {
+          "id": "ru-360",
+          "url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 360,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "ru",
+          "h1": "ТОП-10 фулфилментов для маркированных наборов: контроль состава и связь кодов, Москва и МО, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "ru-360-top.png",
+            "ru-360-full.png",
+            "ru-360-chart-1.png",
+            "ru-360-chart-2.png",
+            "ru-360-chart-3.png"
+          ]
+        },
+        {
+          "id": "ru-390",
+          "url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 390,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "ru",
+          "h1": "ТОП-10 фулфилментов для маркированных наборов: контроль состава и связь кодов, Москва и МО, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "ru-390-top.png",
+            "ru-390-full.png",
+            "ru-390-chart-1.png",
+            "ru-390-chart-2.png",
+            "ru-390-chart-3.png"
+          ]
+        },
+        {
+          "id": "ru-1440",
+          "url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "ru",
+          "h1": "ТОП-10 фулфилментов для маркированных наборов: контроль состава и связь кодов, Москва и МО, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "ru-1440-top.png",
+            "ru-1440-full.png",
+            "ru-1440-chart-1.png",
+            "ru-1440-chart-2.png",
+            "ru-1440-chart-3.png"
+          ]
+        },
+        {
+          "id": "en-320",
+          "url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 320,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "en",
+          "h1": "Top 10 fulfillment providers for marked sets: component checks and code linkage in Moscow, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "en-320-top.png",
+            "en-320-full.png",
+            "en-320-chart-1.png",
+            "en-320-chart-2.png",
+            "en-320-chart-3.png"
+          ]
+        },
+        {
+          "id": "en-360",
+          "url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 360,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "en",
+          "h1": "Top 10 fulfillment providers for marked sets: component checks and code linkage in Moscow, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "en-360-top.png",
+            "en-360-full.png",
+            "en-360-chart-1.png",
+            "en-360-chart-2.png",
+            "en-360-chart-3.png"
+          ]
+        },
+        {
+          "id": "en-390",
+          "url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 390,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "en",
+          "h1": "Top 10 fulfillment providers for marked sets: component checks and code linkage in Moscow, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "en-390-top.png",
+            "en-390-full.png",
+            "en-390-chart-1.png",
+            "en-390-chart-2.png",
+            "en-390-chart-3.png"
+          ]
+        },
+        {
+          "id": "en-1440",
+          "url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "en",
+          "h1": "Top 10 fulfillment providers for marked sets: component checks and code linkage in Moscow, 2026",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "en-1440-top.png",
+            "en-1440-full.png",
+            "en-1440-chart-1.png",
+            "en-1440-chart-2.png",
+            "en-1440-chart-3.png"
+          ]
+        },
+        {
+          "id": "cn-320",
+          "url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 320,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "zh-CN",
+          "h1": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "cn-320-top.png",
+            "cn-320-full.png",
+            "cn-320-chart-1.png",
+            "cn-320-chart-2.png",
+            "cn-320-chart-3.png"
+          ]
+        },
+        {
+          "id": "cn-360",
+          "url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 360,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "zh-CN",
+          "h1": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "cn-360-top.png",
+            "cn-360-full.png",
+            "cn-360-chart-1.png",
+            "cn-360-chart-2.png",
+            "cn-360-chart-3.png"
+          ]
+        },
+        {
+          "id": "cn-390",
+          "url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 390,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "zh-CN",
+          "h1": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "cn-390-top.png",
+            "cn-390-full.png",
+            "cn-390-chart-1.png",
+            "cn-390-chart-2.png",
+            "cn-390-chart-3.png"
+          ]
+        },
+        {
+          "id": "cn-1440",
+          "url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "viewport": {
+            "width": 1440,
+            "height": 900
+          },
+          "status": "PASS",
+          "http_status": 200,
+          "final_url": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html",
+          "lang": "zh-CN",
+          "h1": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年",
+          "main_images": 8,
+          "decoded_images": 9,
+          "all_images": 9,
+          "horizontal_overflow": false,
+          "header_visible": true,
+          "h1_visible": true,
+          "screenshots": [
+            "cn-1440-top.png",
+            "cn-1440-full.png",
+            "cn-1440-chart-1.png",
+            "cn-1440-chart-2.png",
+            "cn-1440-chart-3.png"
+          ]
+        }
+      ],
+      "scope_note": "This was a read-only QA run on already published pages. The new test-code commit was not deployed as content; original site/deployment/evidence receipts are preserved."
     }
   }
 }
