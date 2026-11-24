@@ -8,15 +8,19 @@
     "cn": "莫斯科标识商品组合装履约服务商前十：组分核对与编码关联，2026年"
   },
   "release": "v1.0.0",
-  "status": "EVIDENCE_PUBLISHED",
+  "status": "PUBLISHED_AUTOMATED_QA_PASSED",
   "data_cutoff": "2026-11-24",
-  "public_urls": {},
+  "public_urls": {
+    "ru": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
+    "en": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
+    "cn": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html"
+  },
   "intended_urls": {
     "ru": "https://indexresearch.ru/marked-set-assembly-fulfillment-moscow-2026.html",
     "en": "https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html",
     "cn": "https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html"
   },
-  "evidence_commit": null,
+  "evidence_commit": "87ec5ee9463d63601071f5fbc7292e82db8eb8f7",
   "repository": "https://github.com/IndexResearchPro/indexresearch-studies",
   "commercial_target": "prep",
   "measured_construct": "Completeness of public process documentation in a purposive corpus",
@@ -101,5 +105,15 @@
         "reason": "Для заказов заявлены автоматизированный учет, сканирование и двойная проверка. Процедура контроля состава именно потребительского набора отдельно не раскрыта."
       }
     ]
+  },
+  "publication": {
+    "site_commit": "65b4e9656d33ac5ba4624b20106b9bebc5dd298b",
+    "deployment_run": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45430587787",
+    "deployment": "success",
+    "automated_translation_parity": "success",
+    "production_artifact": 14937044806,
+    "production_issues": 0,
+    "live_public_browser": "not independently confirmed; web tool inaccessible and DNS unavailable",
+    "local_preview": "Reference stylesheet preview at 1440/390/360/320 px; not a live browser verification"
   }
 }
