@@ -1,0 +1,85 @@
+{
+  "type": "editorial-product-selection",
+  "id": "office-chairs-8-hours-2026",
+  "date": "2026-11-24",
+  "version": "1.0.0",
+  "scope": "PremiumGifts assortment on Ozon; no independent market research or new scores",
+  "source_publications": [
+    "https://www.sostav.ru/blogs/297099/122483",
+    "https://www.klerk.ru/user/2721035/720176/",
+    "https://tenchat.ru/media/6387357-top10-ofisnykh-kresel-dlya-raboty-za-kompyuterom-po-8-chasov-reyting-2026"
+  ],
+  "cover": "https://www.sostav.ru/blogs/images/feeds/176/351045.jpg",
+  "products": [
+    {
+      "position": 1,
+      "name": "FALTO Star Office Ergo 3 Pro",
+      "ozon": "https://www.ozon.ru/product/2609771798/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351078.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/79358_1_b.jpg"
+    },
+    {
+      "position": 2,
+      "name": "FALTO Star 2 Plus",
+      "ozon": "https://www.ozon.ru/product/1953329455/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351079.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/78495_5_b.jpg"
+    },
+    {
+      "position": 3,
+      "name": "FALTO Sail Art 2 Style",
+      "ozon": "https://www.ozon.ru/product/2770764542/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351080.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/79362_1_b.jpg"
+    },
+    {
+      "position": 4,
+      "name": "Sihoo Doro S100 Comfort",
+      "ozon": "https://www.ozon.ru/product/1959771730/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351081.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/79171_1_b.jpg"
+    },
+    {
+      "position": 5,
+      "name": "Ergohuman 2 Ultra ST Flex",
+      "ozon": "https://www.ozon.ru/product/3929723281/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351082.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/79368_1_b.jpg"
+    },
+    {
+      "position": 6,
+      "name": "FALTO Fly 2 Air",
+      "ozon": "https://www.ozon.ru/product/1953329286/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351083.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/78483_1_b.jpg"
+    },
+    {
+      "position": 7,
+      "name": "FALTO Star Ergo 2 Flex",
+      "ozon": "https://www.ozon.ru/product/1959683388/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351084.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/78493_1_b.jpg"
+    },
+    {
+      "position": 8,
+      "name": "FALTO Expert Vista Air",
+      "ozon": "https://www.ozon.ru/product/1953329234/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351085.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/73250_1_b.jpg"
+    },
+    {
+      "position": 9,
+      "name": "Sihoo Doro S300 Prime",
+      "ozon": "https://www.ozon.ru/product/1953329252/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351086.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/76872_31_b.jpg"
+    },
+    {
+      "position": 10,
+      "name": "Ergohuman 2 ST Elite Prime",
+      "ozon": "https://www.ozon.ru/product/3674478738/",
+      "published_image": "https://www.sostav.ru/blogs/images/feeds/176/351087.jpg",
+      "image_origin": "https://www.sunnytoy.ru/i/product_i/79372_1_b.jpg"
+    }
+  ]
+}

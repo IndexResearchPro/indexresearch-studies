@@ -49,3 +49,7 @@ python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
 Премиальные кухни на заказ в России: сравнение 10 мебельных фабрик для единого интерьера, 2026. Документальный индекс, коммерчески обусловленная выборка.
 
 [RU](studies/premium-custom-kitchens-russia-2026/README.md) · [EN](studies/premium-custom-kitchens-russia-2026/README.en.md) · [中文](studies/premium-custom-kitchens-russia-2026/README.zh-CN.md) · [Данные / Data / 数据](studies/premium-custom-kitchens-russia-2026/releases/v1.0.0/)
+
+## Товарная подборка · Product guide · 商品选购 — 24.11.2026
+
+10 офисных кресел для работы за компьютером по 8 часов: [RU](studies/office-chairs-8-hours-2026/README.md) · [EN](studies/office-chairs-8-hours-2026/README.en.md) · [中文](studies/office-chairs-8-hours-2026/README.zh-CN.md). Коммерчески ориентированная подборка по исходным публикациям, без нового исследования.
