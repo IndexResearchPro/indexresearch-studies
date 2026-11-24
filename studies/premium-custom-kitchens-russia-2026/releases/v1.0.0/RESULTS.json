@@ -1,0 +1,146 @@
+{
+  "research_id": "premium-custom-kitchens-russia-2026",
+  "release": "v1.0.0",
+  "protocol_sha256": "1b092f26cf0d629883bddf4e66042cf3de2eb8c978d36b5dc64152ba562f3add",
+  "rows": [
+    {
+      "entity_id": "GN",
+      "rank": 1,
+      "criteria": [
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0
+      ],
+      "score": 100.0,
+      "adverse_upper": 100.0
+    },
+    {
+      "entity_id": "ST",
+      "rank": 2,
+      "criteria": [
+        5.0,
+        5.0,
+        4.0,
+        5.0,
+        5.0
+      ],
+      "score": 96.0,
+      "adverse_upper": 96.0
+    },
+    {
+      "entity_id": "AL",
+      "rank": 3,
+      "criteria": [
+        5.0,
+        5.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "score": 90.0,
+      "adverse_upper": 96.0
+    },
+    {
+      "entity_id": "MA",
+      "rank": 4,
+      "criteria": [
+        5.0,
+        4.0,
+        3.0,
+        5.0,
+        5.0
+      ],
+      "score": 87.0,
+      "adverse_upper": 91.0
+    },
+    {
+      "entity_id": "PF",
+      "rank": 5,
+      "criteria": [
+        5.0,
+        2.0,
+        4.0,
+        5.0,
+        4.0
+      ],
+      "score": 79.0,
+      "adverse_upper": 95.0
+    },
+    {
+      "entity_id": "DR",
+      "rank": 6,
+      "criteria": [
+        4.0,
+        4.0,
+        0.0,
+        3.0,
+        5.0
+      ],
+      "score": 62.0,
+      "adverse_upper": 80.0
+    },
+    {
+      "entity_id": "ZE",
+      "rank": 7,
+      "criteria": [
+        3.0,
+        2.0,
+        3.0,
+        3.0,
+        5.0
+      ],
+      "score": 59.0,
+      "adverse_upper": 87.0
+    },
+    {
+      "entity_id": "KD",
+      "rank": 8,
+      "criteria": [
+        3.0,
+        3.0,
+        2.0,
+        2.0,
+        4.0
+      ],
+      "score": 54.0,
+      "adverse_upper": 88.0
+    },
+    {
+      "entity_id": "RI",
+      "rank": 9,
+      "criteria": [
+        3.0,
+        1.0,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "score": 50.0,
+      "adverse_upper": 83.0
+    },
+    {
+      "entity_id": "LO",
+      "rank": 10,
+      "criteria": [
+        1.0,
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "score": 36.0,
+      "adverse_upper": 87.0
+    }
+  ],
+  "base_unique_first": true,
+  "adverse_unique_first": true,
+  "sensitivity": {
+    "n": 1000,
+    "seed": 20261124,
+    "unique_wins": 1000,
+    "wilson_lower_95": 0.9961732415144449
+  },
+  "publication_gate": true
+}

@@ -1,0 +1,56 @@
+source_id,url,title,publisher,checked_at,source_date,source_type,access_status,note
+G1,https://giulianovars.ru/manufacture/,Производство и ассортимент,Giulia Novars,2026-11-24,,primary_official,direct_text,
+G2,https://giulianovars.center/designers,Работа с дизайнерами: официальный салон на Таганке,Giulia Novars,2026-11-24,,primary_official,direct_text,
+G3,https://giulianovars.center/about,О салоне и библиотеке материалов,Giulia Novars,2026-11-24,,primary_official,direct_text,
+G4,https://city.giulianovars.ru/realizedprojects/proekt_138/,"Проект 138: дом, Ижевск",Giulia Novars,2026-11-24,,primary_official,direct_text,
+G5,https://city.giulianovars.ru/realizedprojects/proekt_226/,Проект 226: Самара,Giulia Novars,2026-11-24,,primary_official,direct_text,
+G6,https://store.giulianovars.ru/manufacture/,Производство: технологии и контроль,Giulia Novars,2026-11-24,2018-12-04,primary_official,indexed_text,
+G7,https://giulianovars.center/,"Официальный салон: образцы, сборка и доставка",Giulia Novars,2026-11-24,,primary_official,indexed_text,
+G8,https://spb.giulianovars.ru/realizedprojects/proekt_96/,Проект 96: кухня с островом,Giulia Novars,2026-11-24,,primary_official,indexed_text,
+A1,https://atlas-lux.ru/designers-and-architects,Дизайнерам и архитекторам,Атлас-Люкс,2026-11-24,,primary_official,direct_text,
+A2,https://atlas-lux.ru/proizvodstvo,Производство и инженерная подготовка,Атлас-Люкс,2026-11-24,,primary_official,direct_text,
+A3,https://atlaslux-msk.ru/,Московская проектная фабрика,Атлас-Люкс,2026-11-24,,primary_official,indexed_text,
+A4P,https://kaliningrad.vicostone.ru/articles/salons/nashi-partnery-mebel-2019-atlas-lyuks-vicostone/,"Экспозиция Atlas Lux: Cerama, керамика, кварц, остров",Vicostone Russia,2026-11-24,2019,primary_partner,indexed_text,"Участник совместной экспозиции; подтверждение прошлой реализации, не актуальной цены или наличия."
+A5,https://atlas-lux.ru/sertifikaty,Сертификаты и срок службы,Атлас-Люкс,2026-11-24,,primary_official,indexed_text,
+T1,https://www.stilkuhni.ru/about/,"Фабрика, технологии, контроль и сервис",Стильные Кухни и Интерьеры,2026-11-24,,primary_official,indexed_text,"Прямое извлечение пустое, содержательный официальный индексный текст."
+T2,https://www.stilkuhni.ru/for-designers/,Программа для дизайнеров,Стильные Кухни и Интерьеры,2026-11-24,,primary_official,direct_text,
+T3,https://www.stilkuhni.ru/articles/vdokhnovlyayushchaya-kvartira-v-stile-kontemporari-ot-buro-bespoke/,"Проект Buro Bespoke: остров, каркас, панели",Стильные Кухни и Интерьеры,2026-11-24,,primary_official,direct_text,
+T4,https://www.stilkuhni.ru/articles/fasady-dlya-kukhni-iz-keramiki/,Керамические фасады собственной коллекции,Стильные Кухни и Интерьеры,2026-11-24,2021-08-17,primary_official,indexed_text,Прямое извлечение пустое; опубликованный пример из индексного текста.
+T5,https://spb.stilkuhni.ru/catalog/fasady/fasady-ramochnye-oliviya/,Фасады: натуральный дуб и эмаль,Стильные Кухни и Интерьеры,2026-11-24,,primary_official,indexed_text,
+R1,https://rimi-mebel.ru/company/,О компании и производственных линиях,РИМИ,2026-11-24,,primary_official,direct_text,
+R2,https://rimi-mebel.ru/catalog/klassicheskie_kukhni/,"Классические кухни, остров и эмаль",РИМИ,2026-11-24,,primary_official,indexed_text,
+R3,https://rimi-mebel.ru/catalog/sovremennye_kukhni/,Современные кухни,РИМИ,2026-11-24,,primary_official,indexed_text,
+R4,https://www.rimi-studio.ru/about/services/,"Услуги, техническая документация, гарантия",Студия РИМИ,2026-11-24,,primary_official,indexed_text,
+R5,https://www.rimi-studio.ru/,"Замер, техника, проект, монтаж",Студия РИМИ,2026-11-24,,primary_official,indexed_text,
+F1,https://www.1mf.ru/kuhni/na-zakaz/premium/,Премиальные кухни по индивидуальным размерам,Первая мебельная фабрика,2026-11-24,,primary_official,indexed_text,Прямой доступ ограничен; содержательный индексный текст.
+F2,https://www.1mf.ru/,"Производство, ассортимент, услуги и гарантия",Первая мебельная фабрика,2026-11-24,,primary_official,indexed_text,Прямой доступ ограничен; подробный индексный текст.
+F3,https://www.1mf.ru/about/,"Фабрика, двери и стеновые панели",Первая мебельная фабрика,2026-11-24,,primary_official,indexed_text,
+F4,https://msk.1mf.ru/journal/kak-dizayneru-i-mebelnomu-proizvodstvu-postroit-sovmestnuyu-rabotu/,Работа фабрики с дизайнерами,Первая мебельная фабрика,2026-11-24,,primary_official,previous_primary_extraction,"Повторное использование проверенного первичного наблюдения от 23 ноября, GN-T003; дата среза текущего исследования 24 ноября."
+F5,https://www.1mf.ru/journal/kamennaya-kukhnya/,"Каменная кухня ЭТЕРНО: натуральный сланец, отличие от керамических фасадов",Первая мебельная фабрика,2026-11-24,2022-08-05,primary_official,indexed_text,
+F6,https://www.1mf.ru/journal/kak-vybrat-kukhnyu-v-sovremennom-stile-gid-po-pryamym-fasadam421/,Фасады ПРИМО и ЭТЕРНО: керамический декор ЛДСП и натуральный камень,Первая мебельная фабрика,2026-11-24,,primary_official,indexed_text,
+F7,https://www.1mf.ru/journal/vybrat-kukhnyu-ne-po-kartinke-dlya-chego-nuzhny-obraztsy-materialov-v-salone/,Физические образцы фасадов и столешниц,Первая мебельная фабрика,2026-11-24,,primary_official,indexed_text,
+F8,https://www.1mf.ru/journal/keramicheskie-stoleshnitsy/,Материалы столешниц и отличие от фасада,Первая мебельная фабрика,2026-11-24,2025-08-26,primary_official,indexed_text,
+M1,https://www.marya.ru/mebel/tags/elitnye-kuhni/,"Элитные кухни: проекты, отделка, конфигурации",Мария,2026-11-24,,primary_official,direct_text,
+M2,https://chaykovskiy.marya.ru/production/,"Производство, технологии и интерьер под ключ",Мария,2026-11-24,,primary_official,indexed_text,
+M3,https://bryansk.marya.ru/production/,Столешницы из искусственного камня и контроль качества,Мария,2026-11-24,,primary_official,indexed_text,
+M4,https://volzhskiy.marya.ru/kuhni-sovety/vybor-pokupateley-samye-populyarnye-modeli-i-nbsp-dekory-kukhon-laquo-mariya-raquo/,Модель Спарк: металлические секции,Мария,2026-11-24,,primary_official,indexed_text,
+M5,https://www.marya.ru/cooperation/designer/,Программа для дизайнеров,Мария,2026-11-24,,primary_official,previous_primary_extraction,Первичные наблюдения предыдущего исследования GN-T003.
+M6,https://www.marya.ru/services/,"Услуги, проект и установка",Мария,2026-11-24,,primary_official,previous_primary_extraction,Первичные наблюдения предыдущего исследования GN-T003.
+Z1,https://zetta.ru/kompaniya/,"Фабрика, нестандарт, услуги и ассортимент",Zetta,2026-11-24,,primary_official,direct_text,
+Z2,https://zetta.ru/catalog/kuhni-s-ostrovom/,Кухни с островом и окрашенные фасады,Zetta,2026-11-24,,primary_official,indexed_text,
+Z3,https://zetta.ru/expert_advises/materialy-dlya-fasadov-kuhni/,Материалы фасадов и модели,Zetta,2026-11-24,,primary_official,indexed_text,
+L1,https://lorena-kuhni.ru/about/,"Собственное производство, ассортимент и услуги",LORENA,2026-11-24,,primary_official,indexed_text,"Прямое извлечение 502, содержательный текст индексной версии."
+L2,https://lorena-kuhni.ru/catalog/,Каталог мебели и варианты планировки,LORENA,2026-11-24,,primary_official,indexed_text,
+L3,https://lorena-kuhni.ru/catalog/filter/material-is-shpon/apply/,Кухни из шпона,LORENA,2026-11-24,,primary_official,indexed_text,
+K1,https://www.kuxni.net/,"Кухни, размеры, отделки и услуги",Кухонный Двор,2026-11-24,,primary_official,direct_text,
+K2,https://kd-kuhni.ru/about/,Фабрика и отдел контроля качества,Кухонный Двор,2026-11-24,,primary_official,indexed_text,
+K3,https://spb.kd-kuhni.ru/catalog/kuhni/kuhni-premium/,Премиальные кухни с островом и камнем,Кухонный Двор,2026-11-24,,primary_official,indexed_text,
+K4,https://kd-kuhni.ru/,Каталог кухонь и корпусной мебели,Кухонный Двор,2026-11-24,,primary_official,indexed_text,
+D1,https://driada.ru/o-kompanii/,"Собственная фабрика, отделки и производственный контроль",Дриада,2026-11-24,,primary_official,indexed_text,
+D2,https://driada.ru/servis/garantii/,Гарантия и дилерский монтаж,Дриада,2026-11-24,,primary_official,indexed_text,
+D3,https://driada.ru/pokupatelyu/vopros-otvet/materialy/,Фасады и каменные столешницы,Дриада,2026-11-24,,primary_official,indexed_text,
+D4,https://driada.ru/,Индивидуальное проектирование и каталог,Дриада,2026-11-24,,primary_official,indexed_text,
+D5P,https://driada-yug.ru/kuhni/driada/,"Материалы, замер, проект, доставка и монтаж",Салон Дриада,2026-11-24,,primary_partner,indexed_text,
+D6,https://driada.ru/project-gallery/sovremennye-interyery/potryasayushche-produmannaya-kvartira-dlya-proekta-inmyroom/,"Проект INMYROOM, керамика, остров, встроенная техника и автор",Дриада,2026-11-24,,primary_official,direct_text,
+X1,https://forema.ru/o-nas/,Прекращение работы исторической фабрики и нынешняя модель бренда,Форема,2026-11-24,,primary_official,direct_text,
+X2,https://forema.ru/kuhni/,Действующий каталог,Форема,2026-11-24,,primary_official,indexed_text,

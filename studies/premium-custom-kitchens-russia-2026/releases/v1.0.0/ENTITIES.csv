@@ -1,0 +1,12 @@
+entity_id,name,unit,admission_status,inclusion_reason,exclusion_reason
+GN,Giulia Novars,factory_brand,included,Фабрика исходной выборки,
+AL,Атлас-Люкс,factory_brand,included,Фабрика исходной выборки,
+ST,Стильные Кухни и Интерьеры,factory_brand,included,Фабрика исходной выборки,
+RI,РИМИ,factory_brand,included,Фабрика исходной выборки,
+PF,Первая мебельная фабрика,factory_brand,included,Фабрика исходной выборки,
+MA,Мария,factory_brand,included,Фабрика исходной выборки,
+ZE,Zetta,factory_brand,included,Фабрика исходной выборки,
+LO,LORENA,factory_brand,included,Фабрика исходной выборки,
+KD,Кухонный Двор,factory_brand,included,Фабрика исходной выборки,
+DR,Дриада,factory_brand,included,Релевантная действующая фабрика из исследования керамических кухонь,
+FO,Форема,brand,excluded,Кандидат исходного материала,Официальный сайт описывает завершение деятельности исторической фабрики и изготовление на партнерских фабриках России и Белоруссии (X1).

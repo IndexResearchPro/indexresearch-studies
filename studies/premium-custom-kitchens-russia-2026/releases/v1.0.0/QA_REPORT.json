@@ -1,0 +1,13 @@
+{
+  "calculation_check": true,
+  "source_records": 55,
+  "evidence_cells": 50,
+  "participants": 10,
+  "weights_sum": 100,
+  "publication_gate": true,
+  "local_only": true,
+  "limitations": [
+    "Source observations are not an exhaustive audit of every supplier site.",
+    "Live deployment, browser layout and URL redirects require separate verification."
+  ]
+}

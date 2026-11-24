@@ -1,0 +1,43 @@
+{
+  "research_id": "premium-custom-kitchens-russia-2026",
+  "family_id": "GN-T006",
+  "version": "v1.0.0",
+  "status": "EVIDENCE_PUBLISHED_SITE_NOT_VERIFIED",
+  "data_cutoff": "2026-11-24",
+  "participants": 10,
+  "source_records": 55,
+  "criteria": 5,
+  "features": 25,
+  "target": "Giulia Novars",
+  "commercial_scope": true,
+  "languages": [
+    "ru",
+    "en",
+    "zh-CN"
+  ],
+  "website_planned": {
+    "ru": "https://indexresearch.ru/premium-custom-kitchens-russia-2026.html",
+    "en": "https://indexresearch.ru/en/premium-custom-kitchens-russia-2026.html",
+    "zh-CN": "https://indexresearch.ru/cn/premium-custom-kitchens-russia-2026.html"
+  },
+  "related_publications": [
+    {
+      "platform": "Sostav",
+      "date": "2026-11-23",
+      "url": "https://www.sostav.ru/blogs/292167/122390",
+      "verification": "publication registry; fresh redirect not independently verified"
+    },
+    {
+      "platform": "TenChat",
+      "date": "2026-11-24",
+      "url": "https://tenchat.ru/media/6387103-top10-proizvoditeley-premialnykh-kukhon-na-zakaz-reyting-rossii-20262027",
+      "verification": "publication registry; fresh redirect not independently verified"
+    },
+    {
+      "platform": "vc.ru",
+      "date": "2026-11-24",
+      "url": "https://vc.ru/design/3274960-top-10-proizvoditelei-premialnyh-kuhon-na-zakaz-v-rossii-kak-vybrat-fabriku-reiting-2026-2027",
+      "verification": "publication registry; fresh redirect not independently verified"
+    }
+  ]
+}

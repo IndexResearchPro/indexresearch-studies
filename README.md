@@ -43,3 +43,9 @@ python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
 ## Мебель по готовому дизайн-проекту · Furniture from a ready design project · 按现成设计方案定制家具 — 23.11.2026
 
 Сравнение 14 фабрик: [RU](studies/furniture-ready-design-project-russia-2026/README.md) · [EN](studies/furniture-ready-design-project-russia-2026/README.en.md) · [中文](studies/furniture-ready-design-project-russia-2026/README.zh-CN.md) · [Расчет / calculation](studies/furniture-ready-design-project-russia-2026/releases/v1.0.0/calculate.py).
+
+## Новое исследование · New study · 新研究 — 24.11.2026
+
+Премиальные кухни на заказ в России: сравнение 10 мебельных фабрик для единого интерьера, 2026. Документальный индекс, коммерчески обусловленная выборка.
+
+[RU](studies/premium-custom-kitchens-russia-2026/README.md) · [EN](studies/premium-custom-kitchens-russia-2026/README.en.md) · [中文](studies/premium-custom-kitchens-russia-2026/README.zh-CN.md) · [Данные / Data / 数据](studies/premium-custom-kitchens-russia-2026/releases/v1.0.0/)
