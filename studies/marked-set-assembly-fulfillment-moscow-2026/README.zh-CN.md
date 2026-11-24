@@ -1,5 +1,7 @@
 # 莫斯科标识商品组合装：10家履约服务商的公开流程资料研究，2026年
 
+[IndexResearch.ru 文章（CI 已确认部署）](https://indexresearch.ru/cn/marked-set-assembly-fulfillment-moscow-2026.html)
+
 
 
 [![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
