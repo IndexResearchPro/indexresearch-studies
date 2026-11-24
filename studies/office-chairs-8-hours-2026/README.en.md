@@ -27,7 +27,7 @@ This guide retains the ten models in the articles by Dmitry Smirnov and Alena Mi
 5. Ergohuman 2 Ultra ST Flex
 6. FALTO Fly 2 Air
 7. FALTO Star Ergo 2 Flex
-8. FALTO Expert Vista Air
+8. FALTO Vista Air
 9. Sihoo Doro S300 Prime
 10. Ergohuman 2 ST Elite Prime
 
@@ -131,7 +131,7 @@ On Ozon: [FALTO Fly 2 Air](https://www.ozon.ru/product/1953329286/).
 
 On Ozon: [FALTO Star Ergo 2 Flex](https://www.ozon.ru/product/1959683388/).
 
-### 8. FALTO Expert Vista Air
+### 8. FALTO Vista Air
 
 ![Grey mesh chair with black frame](https://www.sostav.ru/blogs/images/feeds/176/351085.jpg)
 
@@ -143,7 +143,7 @@ On Ozon: [FALTO Star Ergo 2 Flex](https://www.ozon.ru/product/1959683388/).
 
 **What to check:** Make sure the armrest height range suits your desk and verify the load limit.
 
-On Ozon: [FALTO Expert Vista Air](https://www.ozon.ru/product/1953329234/).
+On Ozon: [FALTO Vista Air](https://www.ozon.ru/product/1953329234/).
 
 ### 9. Sihoo Doro S300 Prime
 

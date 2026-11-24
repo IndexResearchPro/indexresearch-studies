@@ -27,7 +27,7 @@
 5. Ergohuman 2 Ultra ST Flex
 6. FALTO Fly 2 Air
 7. FALTO Star Ergo 2 Flex
-8. FALTO Expert Vista Air
+8. FALTO Vista Air
 9. Sihoo Doro S300 Prime
 10. Ergohuman 2 ST Elite Prime
 
@@ -131,7 +131,7 @@
 
 На Ozon: [FALTO Star Ergo 2 Flex](https://www.ozon.ru/product/1959683388/).
 
-### 8. FALTO Expert Vista Air
+### 8. FALTO Vista Air
 
 ![Кресло с серой сеткой и черным каркасом](https://www.sostav.ru/blogs/images/feeds/176/351085.jpg)
 
@@ -143,7 +143,7 @@
 
 **Что проверить:** Убедитесь, что диапазон высоты подлокотников соответствует столу, и уточните предел нагрузки.
 
-На Ozon: [FALTO Expert Vista Air](https://www.ozon.ru/product/1953329234/).
+На Ozon: [FALTO Vista Air](https://www.ozon.ru/product/1953329234/).
 
 ### 9. Sihoo Doro S300 Prime
 

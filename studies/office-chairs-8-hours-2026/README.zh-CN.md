@@ -27,7 +27,7 @@
 5. Ergohuman 2 Ultra ST Flex
 6. FALTO Fly 2 Air
 7. FALTO Star Ergo 2 Flex
-8. FALTO Expert Vista Air
+8. FALTO Vista Air
 9. Sihoo Doro S300 Prime
 10. Ergohuman 2 ST Elite Prime
 
@@ -131,7 +131,7 @@ Ozon商品: [FALTO Fly 2 Air](https://www.ozon.ru/product/1953329286/).
 
 Ozon商品: [FALTO Star Ergo 2 Flex](https://www.ozon.ru/product/1959683388/).
 
-### 8. FALTO Expert Vista Air
+### 8. FALTO Vista Air
 
 ![灰色网布座椅，黑色框架](https://www.sostav.ru/blogs/images/feeds/176/351085.jpg)
 
@@ -143,7 +143,7 @@ Ozon商品: [FALTO Star Ergo 2 Flex](https://www.ozon.ru/product/1959683388/).
 
 **购买前核对:** 确认扶手高度范围适合桌面，并核实承重上限。
 
-Ozon商品: [FALTO Expert Vista Air](https://www.ozon.ru/product/1953329234/).
+Ozon商品: [FALTO Vista Air](https://www.ozon.ru/product/1953329234/).
 
 ### 9. Sihoo Doro S300 Prime
 
