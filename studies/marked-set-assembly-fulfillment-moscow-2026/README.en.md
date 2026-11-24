@@ -4,7 +4,7 @@
 
 
 
-[![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/)
+[![IndexResearch](https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png)](https://indexresearch.ru/en/marked-set-assembly-fulfillment-moscow-2026.html)
 
 
 
