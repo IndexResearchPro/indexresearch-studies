@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "researchId": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "release": "v1.2.0",
+  "status": "CALCULATION_AND_SOURCE_QA_PASSED",
+  "checks": [
+    "47 unique candidate records",
+    "all 20 earlier candidates retained",
+    "all rows have observed source URLs",
+    "exact Bitey retail URL corrected",
+    "Snaq cream exact official 23 g verified",
+    "all 4 published protein values independently checked with Decimal",
+    "unknown piece upper bound independently recomputed",
+    "ProteinRex qualifying upper bound independently recomputed",
+    "single-criterion Monte Carlo limitation explicit",
+    "two runs produce byte-identical calculation outputs"
+  ],
+  "calculationOutputSha256": {
+    "RESULTS.json": "b4a1029ffc788e496f3305e5fdf6589adf0ba5d3fca58e47c3c6b1e4a3108488",
+    "ADVERSE_MISSING.json": "33b5466ddc07d93b79a828f955954632f6b542d74e34f063b0384dba818348bc",
+    "SCORE_MATRIX.csv": "b2abe877ff6e3ecb3cbb3ee35a3787243de64517f5ecd29aae0cd503bc8c2bec",
+    "MONTE_CARLO_SCENARIOS.csv": "4015f04797c4855b6e40b357bcef76a565e28a171de57e0c24291f7d538fac71"
+  },
+  "sourcesVerifiedAs": "Published page/label observations, with conflicts and indexed-only mass source explicitly retained; no laboratory verification claimed.",
+  "criteriaFrozenBeforeScoring": true,
+  "protocolFreezeCommit": "34d48adc2eae35ae2a5c2db24a350eeec3943374",
+  "publicDeploymentVerified": false,
+  "visualQA": "Research calculation package only; public pages must pass separate live render QA."
+}

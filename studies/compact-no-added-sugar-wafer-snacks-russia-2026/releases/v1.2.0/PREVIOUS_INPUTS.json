@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 1,
+  "release": "v1.1.0",
+  "assembledAt": "2026-11-25T12:00:28.682738+00:00",
+  "previousCommit": "a3dabfcf572fc579db300fc96100ca311ec1439d",
+  "sourceUpdatesFile": "SOURCE_UPDATES.json",
+  "rows": [
+    {
+      "id": "bombbar_baked_milk_32",
+      "name": "Bombbar Топленое молоко",
+      "brand": "Bombbar",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "32",
+        "protein_g_100g": "25",
+        "energy_kcal_100g": "426"
+      },
+      "bounds": {
+        "mass_g": [
+          "32",
+          "32"
+        ],
+        "protein_g_100g": [
+          "25",
+          "25"
+        ],
+        "energy_kcal_100g": [
+          "426",
+          "426"
+        ]
+      },
+      "sourceIds": [
+        "S01"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_toplenogo_moloka_32g_20.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "индекс 6 дней",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn330270138view0",
+        "line_span": "863–946",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "chikalab_coconut_almond_40",
+      "name": "Chikalab Кокосово-миндальный десерт",
+      "brand": "Chikalab",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "40",
+        "protein_g_100g": "20",
+        "energy_kcal_100g": "458"
+      },
+      "bounds": {
+        "mass_g": [
+          "40",
+          "40"
+        ],
+        "protein_g_100g": [
+          "20",
+          "20"
+        ],
+        "energy_kcal_100g": [
+          "458",
+          "458"
+        ]
+      },
+      "sourceIds": [
+        "S02"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_chikalab_vafelniy_so_vkusom_kokosovo_mindalniy_desert_40_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "индекс 3 дня",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn330270138view1",
+        "line_span": "851–936",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": true,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "chikalab_chocolate_nut_40",
+      "name": "Chikalab Шоколадно-ореховый десерт",
+      "brand": "Chikalab",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "40",
+        "protein_g_100g": "20",
+        "energy_kcal_100g": "415"
+      },
+      "bounds": {
+        "mass_g": [
+          "40",
+          "40"
+        ],
+        "protein_g_100g": [
+          "20",
+          "20"
+        ],
+        "energy_kcal_100g": [
+          "415",
+          "415"
+        ]
+      },
+      "sourceIds": [
+        "S03"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_chikalab_vafelniy_so_vkusom_shokoladno_orehoviy_desert_40_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "индекс 3 дня",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn330270138view2",
+        "line_span": "868–943",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Per100g calculation and separately printed portion differ by1kcal; both retained, no rounding explanation assumed.",
+      "energy_portion_override_bounds": [
+        "166",
+        "167"
+      ]
+    },
+    {
+      "id": "vkusvill_hazelnut_40",
+      "name": "ВкусВилл Фундук",
+      "brand": "ВкусВилл",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "40",
+        "protein_g_100g": "26",
+        "energy_kcal_100g": "491"
+      },
+      "bounds": {
+        "mass_g": [
+          "40",
+          "40"
+        ],
+        "protein_g_100g": [
+          "26",
+          "26"
+        ],
+        "energy_kcal_100g": [
+          "491",
+          "491"
+        ]
+      },
+      "sourceIds": [
+        "S04"
+      ],
+      "sourceUrls": [
+        "https://vkusvill.ru/goods/vaflya-proteinovaya-funduk-109032/"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "прямое чтение копии вчера",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn698571166view3",
+        "line_span": "168–191",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "vkusvill_walnut_chocolate_40",
+      "name": "ВкусВилл Грецкий орех с шоколадом",
+      "brand": "ВкусВилл",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "40",
+        "protein_g_100g": "26",
+        "energy_kcal_100g": "486"
+      },
+      "bounds": {
+        "mass_g": [
+          "40",
+          "40"
+        ],
+        "protein_g_100g": [
+          "26",
+          "26"
+        ],
+        "energy_kcal_100g": [
+          "486",
+          "486"
+        ]
+      },
+      "sourceIds": [
+        "S05"
+      ],
+      "sourceUrls": [
+        "https://vkusvill.ru/goods/vaflya-proteinovaya-gretskiy-orekh-s-shokoladom-108491/"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "прямое чтение копии за последнюю неделю",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn462076381view0",
+        "line_span": "167–216",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "proteinrex_generic_unassigned",
+      "name": "ProteinRex Wafers x2",
+      "brand": "ProteinRex",
+      "status": "excluded_scope",
+      "base": {
+        "mass_g": null,
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": null,
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S06"
+      ],
+      "sourceUrls": [
+        "https://proteinrex.com/wafers"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "индекс неделя",
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Не установлены точные вкус, масса и база чисел общего семейства Wafers x2.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Unidentified generic family is not an additional independent SKU."
+    },
+    {
+      "id": "proteinrex_peanut_50",
+      "name": "ProteinRex арахис 50 г",
+      "brand": "ProteinRex",
+      "status": "pending",
+      "base": {
+        "mass_g": "50",
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": [
+          "50",
+          "50"
+        ],
+        "protein_g_100g": [
+          "13",
+          "17"
+        ],
+        "energy_kcal_100g": [
+          "208",
+          "550"
+        ]
+      },
+      "sourceIds": [
+        "S07",
+        "PR-P-GLAD",
+        "PR-P-MAGNIT"
+      ],
+      "sourceUrls": [
+        "https://magnit.ru/product/1000574610-protein_rex_vafli_protein_glazirovan_arakhis_50g_fl_p",
+        "https://gladiatorsportpit.ru/proteinovye-vafli-bez-sahara-proteinrex-wafers-x-2-50-g-arahis.html",
+        "https://magnit.ru/product/1000574610-protein_rex_vafli_protein_glazirovan_arakhis_50g_fl_p"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened_conflicting_nutrition",
+        "corpus_snapshot_age_as_recorded": "поисковая копия неделя",
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Для точного арахисового SKU конфликтуют 15 г белка/100 г и 8,5 г/50 г (=17 г/100 г); ни один край не выбран.",
+      "sugars_g_100g": null,
+      "stockContext": true,
+      "note": "No unique manufacturer base established. All incompatible seller values remain a conservative interval; no scores from a convenient central guess.",
+      "newObservedDate": "2026-11-25"
+    },
+    {
+      "id": "beautyfit_hazelnut_chocolate_40",
+      "name": "Beauty.Fit Фундук и шоколад 40 г",
+      "brand": "Beauty.Fit",
+      "status": "pending",
+      "base": {
+        "mass_g": "40",
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": [
+          "40",
+          "40"
+        ],
+        "protein_g_100g": [
+          "10.6",
+          "26.5"
+        ],
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S08"
+      ],
+      "sourceUrls": [
+        "https://kuper.ru/metro/vaflya-proteinovaya-beauty-fit-funduk-i-shokolad-40-g"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "indexed_only_conflicting_basis",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Белок 10,6 г приписан разным базам: 100 г и порции 40 г. Подтвержденной однозначной базы нет.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Earlier conflicting10.6g per100g/per40g retained as exploratory bounds only. Energy unknown; no base score."
+    },
+    {
+      "id": "bombbar_cappuccino_32",
+      "name": "Bombbar Капучино",
+      "brand": "Bombbar",
+      "status": "pending",
+      "base": {
+        "mass_g": null,
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": null,
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S09"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_kapuchino_32g_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "unavailable_direct_timeout_indexed",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Прямое чтение точной карточки завершалось timeout; не подтверждена полная численная база. Данные другого вкуса не перенесены.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Appropriate or possibly appropriate candidate remains pending. Missing verified primary quantity is null; conservative criterion interval0..5."
+    },
+    {
+      "id": "bombbar_tiramisu_32",
+      "name": "Bombbar Тирамису",
+      "brand": "Bombbar",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "32",
+        "protein_g_100g": "25",
+        "energy_kcal_100g": "440"
+      },
+      "bounds": {
+        "mass_g": [
+          "32",
+          "32"
+        ],
+        "protein_g_100g": [
+          "25",
+          "25"
+        ],
+        "energy_kcal_100g": [
+          "440",
+          "440"
+        ]
+      },
+      "sourceIds": [
+        "S10"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_shokoladno_orehovoy_pastoy_so_vkusom_tiramisu_32g_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "поисковая копия около месяца",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn462076381view1",
+        "line_span": "841–926",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "bombbar_vanilla_icecream_45",
+      "name": "Bombbar Ванильный пломбир в шоколаде",
+      "brand": "Bombbar",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "45",
+        "protein_g_100g": "22",
+        "energy_kcal_100g": "436"
+      },
+      "bounds": {
+        "mass_g": [
+          "45",
+          "45"
+        ],
+        "protein_g_100g": [
+          "22",
+          "22"
+        ],
+        "energy_kcal_100g": [
+          "436",
+          "436"
+        ]
+      },
+      "sourceIds": [
+        "S11"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_vanilniy_plombir_shokolade_45g_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "поисковая копия 6 дней",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "prior_opened_snapshot_reused_after_timeout",
+        "retrieval_crawl_age_as_reported": "6 days",
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия.",
+        "failed_repeat_locators": [
+          "turn191806435view0",
+          "turn912997122view0"
+        ],
+        "numeric_basis": "Exact values retained from the prior opened source in corpus blob ce983e37f82cd3e8b054fc9fba68b37527a57a0e; repeated numeric block retrieval timed out."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "bombbar_nut_icecream_45",
+      "name": "Bombbar Ореховый пломбир в шоколаде",
+      "brand": "Bombbar",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "45",
+        "protein_g_100g": "22",
+        "energy_kcal_100g": "434"
+      },
+      "bounds": {
+        "mass_g": [
+          "45",
+          "45"
+        ],
+        "protein_g_100g": [
+          "22",
+          "22"
+        ],
+        "energy_kcal_100g": [
+          "434",
+          "434"
+        ]
+      },
+      "sourceIds": [
+        "S12"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_orehoviy_plombir_shokolade_45g_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "поисковая копия сегодня",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn462076381view3",
+        "line_span": "871–935",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "snaqfer_hazelnut_45",
+      "name": "Snaq Fabriq SNAQFER Фундучный крем",
+      "brand": "Snaq Fabriq",
+      "status": "pending",
+      "base": {
+        "mass_g": "45",
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": [
+          "45",
+          "45"
+        ],
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S13",
+        "SNAQ-MFG",
+        "SNAQ-GOR"
+      ],
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_funduchniy_krem_belgiyskiy_shokolad_45g_12.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "indexed_only",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "В сохраненном корпусе нет подтвержденной калорийности на 100 г; сахарная декларация не заменяет численные данные.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Appropriate or possibly appropriate candidate remains pending. Missing verified primary quantity is null; conservative criterion interval0..5."
+    },
+    {
+      "id": "evopit_frozen_145",
+      "name": "ЭВОПИТ Protein Waffles",
+      "brand": "ЭВОПИТ",
+      "status": "excluded_scope",
+      "base": {
+        "mass_g": "145",
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": [
+          "145",
+          "145"
+        ],
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S14"
+      ],
+      "sourceUrls": [
+        "https://evopit.ru/protein.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Замороженные вафли с предусмотренным разогревом не входят в область готовых порционных вафель без приготовления.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Frozen preparation-required product is outside ready-to-eat sealed snack scenario."
+    },
+    {
+      "id": "proteinrex_royalcake_condensed_milk",
+      "name": "ProteinRex Royal Cake Сгущенное молоко",
+      "brand": "ProteinRex",
+      "status": "pending",
+      "base": {
+        "mass_g": null,
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": null,
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S15"
+      ],
+      "sourceUrls": [
+        "https://sport-marafon.ru/catalog/sportivnoe-pitanie/vafli-protein-rex-royal-cake-na-sorbite-sgushchennoe-moloko/"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "indexed_only",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Не разрешены различия рецептуры/фасовки и 8,6 против 7,2 г белка/100 г; точная сопоставимая единица не определена.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Appropriate or possibly appropriate candidate remains pending. Missing verified primary quantity is null; conservative criterion interval0..5."
+    },
+    {
+      "id": "kerlli_vanilla_45",
+      "name": "KERLLI Ваниль 45 г",
+      "brand": "KERLLI",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "45",
+        "protein_g_100g": "13.1",
+        "energy_kcal_100g": "473"
+      },
+      "bounds": {
+        "mass_g": [
+          "45",
+          "45"
+        ],
+        "protein_g_100g": [
+          "13.1",
+          "13.1"
+        ],
+        "energy_kcal_100g": [
+          "473",
+          "473"
+        ]
+      },
+      "sourceIds": [
+        "S16"
+      ],
+      "sourceUrls": [
+        "https://lenta.com/product/batonchik-vafelnyjj-so-vkusom-vanili-bdob-sah-rossiya-45g-883366/"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": "поисковая копия сегодня",
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn191806435view1",
+        "line_span": "479–536",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": true,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "proteinrex_vanilla_50",
+      "name": "ProteinRex Wafers x2 Ваниль 50 г",
+      "brand": "ProteinRex",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "50",
+        "protein_g_100g": "15",
+        "energy_kcal_100g": "541"
+      },
+      "bounds": {
+        "mass_g": [
+          "50",
+          "50"
+        ],
+        "protein_g_100g": [
+          "15",
+          "15"
+        ],
+        "energy_kcal_100g": [
+          "541",
+          "541"
+        ]
+      },
+      "sourceIds": [
+        "S17"
+      ],
+      "sourceUrls": [
+        "https://gladiatorsportpit.ru/proteinovye-vafli-bez-sahara-proteinrex-wafers-x-2-50-g-vanil.html"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": "2026-11-25T10:44:16Z",
+        "latest_check_status": "direct_card_numeric_block_read",
+        "retrieval_crawl_age_as_reported": "today",
+        "locator": "turn191806435view3",
+        "line_span": "516–594",
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Точный готовый SKU; известны масса, белок и ккал на 100 г.",
+      "sugars_g_100g": null,
+      "stockContext": true,
+      "note": "Prior exact observation retained; not relabelled as a new source read."
+    },
+    {
+      "id": "qnt_vanilla_yogurt_35",
+      "name": "QNT Protein Wafer Ваниль-йогурт 35 г",
+      "brand": "QNT",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "35",
+        "protein_g_100g": "32",
+        "energy_kcal_100g": "517"
+      },
+      "bounds": {
+        "mass_g": [
+          "35",
+          "35"
+        ],
+        "protein_g_100g": [
+          "11.2",
+          "32"
+        ],
+        "energy_kcal_100g": [
+          "517",
+          "517"
+        ]
+      },
+      "sourceIds": [
+        "S18",
+        "QNT-V-LABEL",
+        "QNT-V-RU"
+      ],
+      "sourceUrls": [
+        "https://www.benu.cz/qnt-protein-wafer-35-g-vanilla-yogurt",
+        "https://medias.medi-market.be/sys-master/documents/3411477/3411477.pdf",
+        "https://megamarket.ru/catalog/details/proteinovyy-batonchik-qnt-protein-wafer-35-g-yogurt-100023625334/"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "indexed_crosschecked",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Российская карточка Ozon присутствует в корпусе, но прочитана только в индексе: однозначная 100-граммовая база в российском первичном источнике не принята. Иностранные данные и сильный кандидат сохранены; отсутствие наличия не является причиной исключения.",
+      "sugars_g_100g": 24.3,
+      "stockContext": true,
+      "note": "Manufacturer base; conflicting Russian per100g heading retained in interval. Seller listing confirms Russian corpus link, not current stock. Vanilla label title is dated2020; current recipe/lot not verified.",
+      "newObservedDate": "2026-11-25"
+    },
+    {
+      "id": "qnt_chocolate_35",
+      "name": "QNT Protein Wafer Шоколад 35 г",
+      "brand": "QNT",
+      "status": "numeric_base",
+      "base": {
+        "mass_g": "35",
+        "protein_g_100g": "32",
+        "energy_kcal_100g": "514"
+      },
+      "bounds": {
+        "mass_g": [
+          "35",
+          "35"
+        ],
+        "protein_g_100g": [
+          "11.2",
+          "32"
+        ],
+        "energy_kcal_100g": [
+          "514",
+          "517"
+        ]
+      },
+      "sourceIds": [
+        "S19",
+        "QNT-C-MFG",
+        "QNT-C-RU"
+      ],
+      "sourceUrls": [
+        "https://www.qntsport.com/nl/products/protein-wafer-12-x-35-g",
+        "https://www.qntsport.com/nl/products/protein-wafer-12-x-35-g",
+        "https://megamarket.ru/catalog/details/proteinovyy-batonchik-qnt-protein-wafer-35-g-shokolad-100023625335/"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "opened",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Официальная таблица шоколадного вкуса доступна, но прочитанная точная российская карточка не подтверждена; сохраняем сильного внешнего кандидата.",
+      "sugars_g_100g": 22.3,
+      "stockContext": true,
+      "note": "Manufacturer base; conflicting Russian per100g heading retained in interval. Seller listing confirms Russian corpus link, not current stock. Vanilla label title is dated2020; current recipe/lot not verified.",
+      "newObservedDate": "2026-11-25"
+    },
+    {
+      "id": "bite_peanut_salted_caramel_35",
+      "name": "Bite Арахис-соленая карамель 35 г",
+      "brand": "Bite",
+      "status": "pending",
+      "base": {
+        "mass_g": "35",
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "bounds": {
+        "mass_g": [
+          "35",
+          "35"
+        ],
+        "protein_g_100g": null,
+        "energy_kcal_100g": null
+      },
+      "sourceIds": [
+        "S20"
+      ],
+      "sourceUrls": [
+        "https://market.yandex.ru/card/vafli-proteinovyye-bite-arakhis-solenaya-karamel-bez-sakhara-5-sht-po-35-g/5874847185"
+      ],
+      "sourceProvenance": {
+        "corpus_observed_at": "2026-11-25T09:44:00.662Z",
+        "corpus_blob": "ce983e37f82cd3e8b054fc9fba68b37527a57a0e",
+        "corpus_access_status": "indexed_only",
+        "corpus_snapshot_age_as_recorded": null,
+        "latest_check_at": null,
+        "latest_check_status": "preserved_corpus_observation_not_reopened",
+        "retrieval_crawl_age_as_reported": null,
+        "locator": null,
+        "line_span": null,
+        "note": "Дата чтения не доказывает дату изменения карточки или этикетки; это данные страницы, не проверка упаковки или наличия."
+      },
+      "previousAdmissionReason": "Белок указан в индексных карточках, но калорийность и порционная база других чисел не разрешены.",
+      "sugars_g_100g": null,
+      "stockContext": false,
+      "note": "Appropriate or possibly appropriate candidate remains pending. Missing verified primary quantity is null; conservative criterion interval0..5."
+    }
+  ],
+  "totalCandidates": 20,
+  "numericBaseCount": 12,
+  "pendingCount": 6,
+  "excludedCount": 2,
+  "rankingComputed": false
+}

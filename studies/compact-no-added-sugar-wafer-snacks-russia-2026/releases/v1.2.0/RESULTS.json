@@ -1,0 +1,1108 @@
+{
+  "researchId": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "release": "v1.2.0",
+  "targetId": "bombbar",
+  "candidateRows": 47,
+  "verifiedBrandCount": 4,
+  "ranking": [
+    {
+      "id": "bombbar",
+      "name": "Bombbar",
+      "protein_g": 8.0,
+      "representatives": [
+        {
+          "id": "bombbar_baked_milk_32",
+          "name": "Bombbar Топленое молоко",
+          "protein_g": 8.0,
+          "energy_kcal": 136.32,
+          "basis": "per100g",
+          "mass_g": 32.0,
+          "protein_interval": [
+            8.0,
+            8.0
+          ],
+          "energy_interval": [
+            136,
+            136.32
+          ]
+        },
+        {
+          "id": "bombbar_cappuccino_32",
+          "name": "Bombbar Капучино",
+          "protein_g": 8.0,
+          "energy_kcal": 136.32,
+          "basis": "per100g",
+          "mass_g": 32,
+          "protein_interval": [
+            8.0,
+            8.0
+          ],
+          "energy_interval": [
+            136,
+            136.32
+          ]
+        },
+        {
+          "id": "bombbar_tiramisu_32",
+          "name": "Bombbar Тирамису",
+          "protein_g": 8.0,
+          "energy_kcal": 140.8,
+          "basis": "per100g",
+          "mass_g": 32.0,
+          "protein_interval": [
+            8.0,
+            8.0
+          ],
+          "energy_interval": [
+            140.8,
+            140.8
+          ]
+        }
+      ],
+      "score": 100.0,
+      "rank": 1
+    },
+    {
+      "id": "snaq_fabriq",
+      "name": "Snaq Fabriq",
+      "protein_g": 3.0,
+      "representatives": [
+        {
+          "id": "snaqfit_milk_chocolate_30",
+          "name": "Snaq Fabriq SNAQFIT в молочном шоколаде 30 г",
+          "protein_g": 3.0,
+          "energy_kcal": 138.29999999999998,
+          "basis": "per100g",
+          "mass_g": 30,
+          "protein_interval": [
+            2.9,
+            3.0
+          ],
+          "energy_interval": [
+            138,
+            138.29999999999998
+          ]
+        }
+      ],
+      "score": 37.5,
+      "rank": 2
+    },
+    {
+      "id": "акконд",
+      "name": "АККОНД",
+      "protein_g": 1.6,
+      "representatives": [
+        {
+          "id": "akkond_cocoa_16",
+          "name": "АККОНД Мне без сахара с какао 16 г",
+          "protein_g": 1.6,
+          "energy_kcal": 78.24,
+          "basis": "per100g",
+          "mass_g": 16,
+          "protein_interval": [
+            1.6,
+            1.6
+          ],
+          "energy_interval": [
+            71.84,
+            78.24
+          ]
+        }
+      ],
+      "score": 20.0,
+      "rank": 3
+    },
+    {
+      "id": "bitey",
+      "name": "Bitey",
+      "protein_g": 0.8999999999999999,
+      "representatives": [
+        {
+          "id": "bitey_milk_chocolate_15",
+          "name": "Bitey Молочный шоколад 15 г",
+          "protein_g": 0.8999999999999999,
+          "energy_kcal": 78.0,
+          "basis": "per100g",
+          "mass_g": 15,
+          "protein_interval": [
+            0.8999999999999999,
+            0.8999999999999999
+          ],
+          "energy_interval": [
+            78.0,
+            78.0
+          ]
+        }
+      ],
+      "score": 11.249999999999998,
+      "rank": 4
+    }
+  ],
+  "publicationEligible": true,
+  "base": {
+    "targetScore": 100.0,
+    "maxOtherScore": 37.5
+  },
+  "adverseMissing": {
+    "unknownCells": 7,
+    "unknownCandidateIds": [
+      "proteinrex_generic_unassigned",
+      "proteinrex_peanut_50",
+      "beautyfit_hazelnut_chocolate_40",
+      "proteinrex_vanilla_50",
+      "meni_banana_strawberry_30",
+      "pobeda_charged_milk_piece",
+      "pobeda_charged_dark_piece"
+    ],
+    "targetLowerProtein_g": 8.0,
+    "otherUpperProtein_g": {
+      "ProteinRex": 6.5,
+      "Beauty.Fit": 4.24,
+      "Snaq Fabriq": 3.0,
+      "Bitey": 0.8999999999999999,
+      "АККОНД": 1.6,
+      "MENI": 1.3499999999999999,
+      "Победа Вкуса": 2.8125
+    },
+    "targetLowerScore": 100.0,
+    "maxOtherUpperScore": 81.25,
+    "completePairedObservations": {
+      "Bombbar": [
+        {
+          "id": "bombbar_baked_milk_32",
+          "lower": 8.0,
+          "upper": 8.0
+        },
+        {
+          "id": "bombbar_cappuccino_32",
+          "lower": 8.0,
+          "upper": 8.0
+        },
+        {
+          "id": "bombbar_tiramisu_32",
+          "lower": 8.0,
+          "upper": 8.0
+        }
+      ],
+      "ProteinRex": [
+        {
+          "id": "proteinrex_generic_unassigned",
+          "lower": 6.0,
+          "upper": 6.0
+        },
+        {
+          "id": "proteinrex_peanut_50",
+          "lower": 6.0,
+          "upper": 6.5
+        },
+        {
+          "id": "proteinrex_vanilla_50",
+          "lower": 6.0,
+          "upper": 6.0
+        }
+      ],
+      "Beauty.Fit": [
+        {
+          "id": "beautyfit_hazelnut_chocolate_40",
+          "lower": 4.24,
+          "upper": 4.24
+        }
+      ],
+      "Snaq Fabriq": [
+        {
+          "id": "snaqfit_milk_chocolate_30",
+          "lower": 2.9,
+          "upper": 3.0
+        },
+        {
+          "id": "snaqfer_milk_nut_20",
+          "lower": 1.5,
+          "upper": 1.6
+        },
+        {
+          "id": "snaqfer_chocolate_nut_20",
+          "lower": 1.5,
+          "upper": 1.6
+        },
+        {
+          "id": "snaqfer_coconut_almond_20",
+          "lower": 1.5,
+          "upper": 1.6
+        },
+        {
+          "id": "snaqfer_cookies_cream_20",
+          "lower": 1.4,
+          "upper": 1.4000000000000001
+        },
+        {
+          "id": "snaq_cream_23",
+          "lower": 1.7,
+          "upper": 1.7020000000000002
+        }
+      ],
+      "Bitey": [
+        {
+          "id": "bitey_milk_chocolate_15",
+          "lower": 0.8999999999999999,
+          "upper": 0.8999999999999999
+        },
+        {
+          "id": "bitey_caramel_15",
+          "lower": 0.75,
+          "upper": 0.75
+        }
+      ],
+      "АККОНД": [
+        {
+          "id": "akkond_cocoa_16",
+          "lower": 1.6,
+          "upper": 1.6
+        }
+      ],
+      "MENI": [
+        {
+          "id": "meni_banana_strawberry_30",
+          "lower": 1.3499999999999999,
+          "upper": 1.3499999999999999
+        }
+      ],
+      "Победа Вкуса": [
+        {
+          "id": "pobeda_charged_milk_piece",
+          "lower": 0,
+          "upper": 2.8125,
+          "zeroIsNotAssignedScore": true,
+          "formula": "cap_kcal * protein_g_100g / energy_kcal_100g"
+        },
+        {
+          "id": "pobeda_charged_dark_piece",
+          "lower": 0,
+          "upper": 2.8125,
+          "zeroIsNotAssignedScore": true,
+          "formula": "cap_kcal * protein_g_100g / energy_kcal_100g"
+        }
+      ]
+    },
+    "warning": "Bounds preserve coherent observed source pairs; no cross-source protein/calorie mixing. A new unknown formulation can change this finite-corpus conclusion."
+  },
+  "monteCarlo": {
+    "N": 1000,
+    "k": 1000,
+    "seed": 2173869226,
+    "wilsonLower95": 0.9961731014136096,
+    "degenerateSingleCriterion": true,
+    "interpretation": "This is a deterministic single-criterion normalization check, NOT evidence of general product superiority, not probability of correctness, and not robustness to choosing a different question."
+  },
+  "admissionAudit": [
+    {
+      "id": "bombbar_baked_milk_32",
+      "brand": "Bombbar",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 136.32,
+          "basis": "per100g",
+          "mass_g": 32.0
+        },
+        {
+          "protein_g": 8,
+          "energy_kcal": 136,
+          "basis": "per_pack",
+          "mass_g": 32
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "chikalab_coconut_almond_40",
+      "brand": "Chikalab",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 183.20000000000002,
+          "basis": "per100g",
+          "mass_g": 40.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "chikalab_chocolate_nut_40",
+      "brand": "Chikalab",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 166.0,
+          "basis": "per100g",
+          "mass_g": 40.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "vkusvill_hazelnut_40",
+      "brand": "ВкусВилл",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 10.4,
+          "energy_kcal": 196.4,
+          "basis": "per100g",
+          "mass_g": 40.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "vkusvill_walnut_chocolate_40",
+      "brand": "ВкусВилл",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 10.4,
+          "energy_kcal": 194.4,
+          "basis": "per100g",
+          "mass_g": 40.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "proteinrex_generic_unassigned",
+      "brand": "ProteinRex",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [
+        {
+          "protein_g": 6.0,
+          "energy_kcal": 90.0,
+          "basis": "per100g",
+          "mass_g": 50
+        },
+        {
+          "protein_g": 12,
+          "energy_kcal": 180,
+          "basis": "per_pack",
+          "mass_g": 50
+        }
+      ],
+      "reason": null,
+      "note": "This is a family-level observation, not another invented SKU. Official manufacturer shop lists Wafers x2 as50g packs. Manufacturer12protein/180kcal lacks basis; retain BOTH usual coherent interpretations: per100g or perwhole50g pack. It must not be combined with an energy value from another seller. Qualifying branch gives6g/90kcal; other gives12g/180kcal and fails the cap."
+    },
+    {
+      "id": "proteinrex_peanut_50",
+      "brand": "ProteinRex",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [
+        {
+          "protein_g": 6.5,
+          "energy_kcal": 104.0,
+          "basis": "per100g",
+          "mass_g": 50
+        },
+        {
+          "protein_g": 8.5,
+          "energy_kcal": 275,
+          "basis": "per_pack",
+          "mass_g": 50
+        },
+        {
+          "protein_g": 6.0,
+          "energy_kcal": 90.0,
+          "basis": "per100g",
+          "mass_g": 50
+        },
+        {
+          "protein_g": 12,
+          "energy_kcal": 180,
+          "basis": "per_pack",
+          "mass_g": 50
+        }
+      ],
+      "reason": null,
+      "note": "Conflicting sources; Magnit per100g energy208 with28g fat is internally suspect. Do not use as a confirmed ranking row. Both source pairs retained. Largest potential qualifying protein is6.5g from the literal Magnit pair; the8.5g seller portion and12g manufacturer-perpack interpretations exceed150kcal."
+    },
+    {
+      "id": "beautyfit_hazelnut_chocolate_40",
+      "brand": "Beauty.Fit",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [
+        {
+          "protein_g": 10.600000000000001,
+          "energy_kcal": 199.0,
+          "basis": "per100g",
+          "mass_g": 40
+        },
+        {
+          "protein_g": 10.6,
+          "energy_kcal": 199,
+          "basis": "per_pack",
+          "mass_g": 40
+        },
+        {
+          "protein_g": 4.24,
+          "energy_kcal": 79.60000000000001,
+          "basis": "per100g",
+          "mass_g": 40
+        }
+      ],
+      "reason": null,
+      "note": "Coherent source pairs: exact seller10.6g/199kcal per40g; Kuper labels the same numbers per100g. Only literal Kuper branch fits cap, with4.24g/79.6kcal. Never combine26.5protein/100g from one source with199kcal/100g from another."
+    },
+    {
+      "id": "bombbar_cappuccino_32",
+      "brand": "Bombbar",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 136.32,
+          "basis": "per100g",
+          "mass_g": 32
+        },
+        {
+          "protein_g": 8,
+          "energy_kcal": 136,
+          "basis": "per_pack",
+          "mass_g": 32
+        }
+      ],
+      "reason": null,
+      "note": "Exact official card now resolves the previously inaccessible mass/nutrition fields: 32 g, 25 g protein and426 kcal/100g; directly printed8g/136kcal per pack."
+    },
+    {
+      "id": "bombbar_tiramisu_32",
+      "brand": "Bombbar",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 140.8,
+          "basis": "per100g",
+          "mass_g": 32.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "bombbar_vanilla_icecream_45",
+      "brand": "Bombbar",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 9.9,
+          "energy_kcal": 196.20000000000002,
+          "basis": "per100g",
+          "mass_g": 45.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "bombbar_nut_icecream_45",
+      "brand": "Bombbar",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 9.9,
+          "energy_kcal": 195.3,
+          "basis": "per100g",
+          "mass_g": 45.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "snaqfer_hazelnut_45",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 3.15,
+          "energy_kcal": 171.45000000000002,
+          "basis": "per100g",
+          "mass_g": 45
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "evopit_frozen_145",
+      "brand": "ЭВОПИТ",
+      "status": "excluded_scope",
+      "pairs": [],
+      "reason": "Frozen prepared dish; outside ready packaged wafer snack scope.",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "proteinrex_royalcake_condensed_milk",
+      "brand": "ProteinRex",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 7.4399999999999995,
+          "energy_kcal": 515.04,
+          "basis": "per100g",
+          "mass_g": 120
+        },
+        {
+          "protein_g": 7.4,
+          "energy_kcal": 515,
+          "basis": "per_pack",
+          "mass_g": 120
+        }
+      ],
+      "reason": null,
+      "note": "Exact seller card explicitly identifies one whole120g pack. It is not cut into a fictitious small serving."
+    },
+    {
+      "id": "kerlli_vanilla_45",
+      "brand": "KERLLI",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 5.895,
+          "energy_kcal": 212.85,
+          "basis": "per100g",
+          "mass_g": 45.0
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "proteinrex_vanilla_50",
+      "brand": "ProteinRex",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [
+        {
+          "protein_g": 7.5,
+          "energy_kcal": 270.5,
+          "basis": "per100g",
+          "mass_g": 50.0
+        },
+        {
+          "protein_g": 6.0,
+          "energy_kcal": 90.0,
+          "basis": "per100g",
+          "mass_g": 50
+        },
+        {
+          "protein_g": 12,
+          "energy_kcal": 180,
+          "basis": "per_pack",
+          "mass_g": 50
+        }
+      ],
+      "reason": null,
+      "note": "Exact seller50g variant exceeds150kcal; ambiguous manufacturer family values retained as coherent alternative pairs, not a zero."
+    },
+    {
+      "id": "qnt_vanilla_yogurt_35",
+      "brand": "QNT",
+      "status": "excluded_scope",
+      "pairs": [
+        {
+          "protein_g": 11.2,
+          "energy_kcal": 180.95,
+          "basis": "per100g",
+          "mass_g": 35.0
+        }
+      ],
+      "reason": "Official QNT ingredient lists contain added sugar and fructose; entire35g portions also exceed150kcal.",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "qnt_chocolate_35",
+      "brand": "QNT",
+      "status": "excluded_scope",
+      "pairs": [
+        {
+          "protein_g": 11.2,
+          "energy_kcal": 179.89999999999998,
+          "basis": "per100g",
+          "mass_g": 35.0
+        }
+      ],
+      "reason": "Official QNT ingredient lists contain added sugar and fructose; entire35g portions also exceed150kcal.",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "bite_peanut_salted_caramel_35",
+      "brand": "Bite",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 6.3,
+          "energy_kcal": 171.5,
+          "basis": "per100g",
+          "mass_g": 35
+        }
+      ],
+      "reason": null,
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "snaqfit_milk_chocolate_30",
+      "brand": "Snaq Fabriq",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 3.0,
+          "energy_kcal": 138.29999999999998,
+          "basis": "per100g",
+          "mass_g": 30
+        },
+        {
+          "protein_g": 2.9,
+          "energy_kcal": 138,
+          "basis": "per_pack",
+          "mass_g": 30
+        }
+      ],
+      "reason": null,
+      "note": "Official source prints both10g/100g and2.9g/30g. Recalculated3.0g and printed2.9g retained as interval; energy138–138.3. Corporate group shared withBOMBBAR is disclosed."
+    },
+    {
+      "id": "snaqfer_milk_nut_20",
+      "brand": "Snaq Fabriq",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 1.6,
+          "energy_kcal": 78.80000000000001,
+          "basis": "per100g",
+          "mass_g": 20
+        },
+        {
+          "protein_g": 1.5,
+          "energy_kcal": 78,
+          "basis": "per_pack",
+          "mass_g": 20
+        }
+      ],
+      "reason": null,
+      "note": "Both official per100g andperpack declarations retained;1.5–1.6gprotein,78–78.8kcal."
+    },
+    {
+      "id": "snaqfer_chocolate_nut_20",
+      "brand": "Snaq Fabriq",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 1.6,
+          "energy_kcal": 78.2,
+          "basis": "per100g",
+          "mass_g": 20
+        },
+        {
+          "protein_g": 1.5,
+          "energy_kcal": 78,
+          "basis": "per_pack",
+          "mass_g": 20
+        }
+      ],
+      "reason": null,
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaqfer_coconut_almond_20",
+      "brand": "Snaq Fabriq",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 1.6,
+          "energy_kcal": 77.2,
+          "basis": "per100g",
+          "mass_g": 20
+        },
+        {
+          "protein_g": 1.5,
+          "energy_kcal": 77,
+          "basis": "per_pack",
+          "mass_g": 20
+        }
+      ],
+      "reason": null,
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaqfer_cookies_cream_20",
+      "brand": "Snaq Fabriq",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 1.4000000000000001,
+          "energy_kcal": 76.0,
+          "basis": "per100g",
+          "mass_g": 20
+        },
+        {
+          "protein_g": 1.4,
+          "energy_kcal": 76,
+          "basis": "per_pack",
+          "mass_g": 20
+        }
+      ],
+      "reason": null,
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaq_cream_23",
+      "brand": "Snaq Fabriq",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 1.7020000000000002,
+          "energy_kcal": 88.09,
+          "basis": "per100g",
+          "mass_g": 23
+        },
+        {
+          "protein_g": 1.7,
+          "energy_kcal": 88,
+          "basis": "per_pack",
+          "mass_g": 23
+        }
+      ],
+      "reason": null,
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaq_vanilla_45",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 2.7,
+          "energy_kcal": 168.75,
+          "basis": "per100g",
+          "mass_g": 45
+        }
+      ],
+      "reason": null,
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_dubai_45",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 3.9149999999999996,
+          "energy_kcal": 182.70000000000002,
+          "basis": "per100g",
+          "mass_g": 45
+        }
+      ],
+      "reason": null,
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_hazelnut_120",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 6.0,
+          "energy_kcal": 410.4,
+          "basis": "per100g",
+          "mass_g": 120
+        }
+      ],
+      "reason": null,
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_cream_120",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 4.8,
+          "energy_kcal": 400.8,
+          "basis": "per100g",
+          "mass_g": 120
+        }
+      ],
+      "reason": null,
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_hazelnut_100",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 5.0,
+          "energy_kcal": 342.0,
+          "basis": "per100g",
+          "mass_g": 100
+        }
+      ],
+      "reason": null,
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_cream_100",
+      "brand": "Snaq Fabriq",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 4.0,
+          "energy_kcal": 334.0,
+          "basis": "per100g",
+          "mass_g": 100
+        }
+      ],
+      "reason": null,
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "chika_cream_nut_40",
+      "brand": "Chikalab",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 169.20000000000002,
+          "basis": "per100g",
+          "mass_g": 40
+        }
+      ],
+      "reason": null,
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "chika_cookies_cream_40",
+      "brand": "Chikalab",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 8.0,
+          "energy_kcal": 181.20000000000002,
+          "basis": "per100g",
+          "mass_g": 40
+        }
+      ],
+      "reason": null,
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "bitey_milk_chocolate_15",
+      "brand": "Bitey",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 0.8999999999999999,
+          "energy_kcal": 78.0,
+          "basis": "per100g",
+          "mass_g": 15
+        }
+      ],
+      "reason": null,
+      "note": "Official exact flavour nutrition;15g retail pack checked. Ingredient list includes milk despite contradictory generic vegan/lactose marketing tags. No such claims repeated in the article."
+    },
+    {
+      "id": "bitey_caramel_15",
+      "brand": "Bitey",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 0.75,
+          "energy_kcal": 79.5,
+          "basis": "per100g",
+          "mass_g": 15
+        }
+      ],
+      "reason": null,
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "akkond_cocoa_16",
+      "brand": "АККОНД",
+      "status": "verified_qualifying",
+      "pairs": [
+        {
+          "protein_g": 1.6,
+          "energy_kcal": 78.24,
+          "basis": "per100g",
+          "mass_g": 16
+        },
+        {
+          "protein_g": 1.6,
+          "energy_kcal": 71.84,
+          "basis": "per100g",
+          "mass_g": 16
+        }
+      ],
+      "reason": null,
+      "note": "Official shop states individual piece16g; its photo confirms individually sealed wrapper. Bulk1kg bag is not counted as one snack. Two source energy values449/489 yield71.84/78.24kcal, both qualify;protein remains1.6g."
+    },
+    {
+      "id": "meni_banana_strawberry_30",
+      "brand": "MENI",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [
+        {
+          "protein_g": 1.3499999999999999,
+          "energy_kcal": 115.19999999999999,
+          "basis": "per100g",
+          "mass_g": 30
+        },
+        {
+          "protein_g": 1.95,
+          "energy_kcal": 156.0,
+          "basis": "per100g",
+          "mass_g": 30
+        }
+      ],
+      "reason": null,
+      "note": "Official site repeats identical nutrition across different recipes; exact seller contradicts it. Both retained, not conveniently selected. Official branch1.35g/115.2kcal qualifies; seller1.95g/156kcal doesnot. Manufacturer exhibition description supplies no-added-sugar claim; ingredients include trehalose. No laboratory zero-sugar claim is made."
+    },
+    {
+      "id": "pobeda_charged_milk_piece",
+      "brand": "Победа Вкуса",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [],
+      "reason": null,
+      "note": "150g retailbag is not one individually wrapped snack; piece mass unknown. Under the150kcal cap anypiece with this coherent9g/480kcal composition has atmost2.8125gprotein. Retain unknown qualification and analytical bound, notzero."
+    },
+    {
+      "id": "pobeda_charged_dark_piece",
+      "brand": "Победа Вкуса",
+      "status": "pending_source_conflict_or_missing_piece_mass",
+      "pairs": [],
+      "reason": null,
+      "note": "Wholepiece mass unknown; same coherent composition ratio gives upper2.8125g under cap. No precise piece nutritioninvented."
+    },
+    {
+      "id": "myprotein_crispy_42",
+      "brand": "Myprotein",
+      "status": "excluded_scope",
+      "pairs": [
+        {
+          "protein_g": 15,
+          "energy_kcal": 210,
+          "basis": "per_pack",
+          "mass_g": 42
+        }
+      ],
+      "reason": "Manufacturer label lists added sugars; whole42g factoryserving also210kcal.",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "myprotein_coated_caramel_40",
+      "brand": "Myprotein",
+      "status": "excluded_scope",
+      "pairs": [
+        {
+          "protein_g": 12,
+          "energy_kcal": 214,
+          "basis": "per_pack",
+          "mass_g": 40
+        }
+      ],
+      "reason": "Low-sugar wording does not establish the required no-added-sugar claim; the reported whole pack also exceeds 150 kcal.",
+      "note": "Official confirms40g; exact seller prints214kcal/12g. Low sugar is not automatically noadded sugar, but energyalready exceeds cap. User-generated128kcal food entry lacked samewholepack correspondence and wasnot used."
+    },
+    {
+      "id": "myprotein_coated_vanilla_40",
+      "brand": "Myprotein",
+      "status": "excluded_scope",
+      "pairs": [
+        {
+          "protein_g": 12,
+          "energy_kcal": 221,
+          "basis": "per_pack",
+          "mass_g": 40
+        }
+      ],
+      "reason": "Low-sugar wording does not establish the required no-added-sugar claim; the reported whole pack also exceeds 150 kcal.",
+      "note": "Official40g; secondaryexactlabel entry221kcal. Not in rankedcore. No invented Russianstock status."
+    },
+    {
+      "id": "myprotein_vegan_coated_40",
+      "brand": "Myprotein",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 11.200000000000001,
+          "energy_kcal": 212.0,
+          "basis": "per100g",
+          "mass_g": 40
+        },
+        {
+          "protein_g": 11,
+          "energy_kcal": 212,
+          "basis": "per_pack",
+          "mass_g": 40
+        }
+      ],
+      "reason": null,
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "o12_raspberry_yogurt_50",
+      "brand": "O12",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 11.55,
+          "energy_kcal": 261.5,
+          "basis": "per100g",
+          "mass_g": 50
+        }
+      ],
+      "reason": null,
+      "note": "Additional discoveredlarge50g format; reported261.5kcal wholepack. Secondarycatalog observation retained as lower evidence tier; not a new verified purchase offer."
+    },
+    {
+      "id": "o12_strawberry_yogurt_65",
+      "brand": "O12",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 15.015,
+          "energy_kcal": 336.05,
+          "basis": "per100g",
+          "mass_g": 65
+        }
+      ],
+      "reason": null,
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "bite_white_tea_lychee_30",
+      "brand": "Bite",
+      "status": "excluded_whole_pack_energy",
+      "pairs": [
+        {
+          "protein_g": 1.5,
+          "energy_kcal": 153.0,
+          "basis": "per100g",
+          "mass_g": 30
+        }
+      ],
+      "reason": null,
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    }
+  ],
+  "limitations": [
+    "Snapshot of checked candidate corpus, not exhaustive proof about all products in Russia.",
+    "Brand representatives aggregate only checked exact SKUs; new formulas/releases require rerun.",
+    "No taste test, laboratory analysis, availability guarantee or medical recommendation.",
+    "Photo source provenance retained; no synthetic branded product photos."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "researchId": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "images": [
+    {
+      "file": "00-editorial-cover.jpg",
+      "role": "cover",
+      "width": 1200,
+      "height": 675,
+      "bytes": 199269,
+      "sha256": "050b719624f5fab5f494b58ada5e203ec4e46731150d13d97a724f6c485691bd",
+      "source_file": "editorial-cover-original.png",
+      "source_type": "GPT Image original editorial illustration",
+      "alt": "Вафельный перекус рядом с кухонными весами и блокнотом.",
+      "caption": "Редакционная иллюстрация: сравниваем целую упаковку и данные маркировки.",
+      "position": "После первых абзацев и первой ссылки на главную BOMBBAR."
+    },
+    {
+      "file": "01-bombbar-baked-milk.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 105892,
+      "sha256": "97c6be899b6ff6d4167b8336619d8c26f283347855fca832318a4f06b54d070d",
+      "source_file": "bombbar-baked-milk.webp",
+      "source_sha256": "6e2ec5a214114b6634e9bb4d247c3cd3510a9edf69690772db44356fba0efc04",
+      "transform": "single original photo; proportional fit and JPEG publishing export; no retouching",
+      "role": "internal",
+      "alt": "BOMBBAR: упаковка вафель «Топленое молоко», каждая по 32 г.",
+      "caption": "BOMBBAR: упаковка вафель «Топленое молоко», каждая по 32 г.",
+      "source_url": "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_toplenogo_moloka_32g_20.html",
+      "position": "Сразу после заголовка участника 1.",
+      "localized": {
+        "ru": {
+          "alt": "BOMBBAR: вафли «Топленое молоко», индивидуальная упаковка 32 г.",
+          "caption": "Подлинное фото продукта; сравнивается одна упаковка 32 г, а не транспортная коробка."
+        },
+        "en": {
+          "alt": "BOMBBAR Baked Milk wafers, individually packed at 32 g.",
+          "caption": "Authentic product photograph; the comparison uses one 32-g pack, not a shipping carton."
+        },
+        "cn": {
+          "alt": "BOMBBAR烘焙牛奶威化，32克独立包装。",
+          "caption": "真实产品照片；比较单位为一包32克，而不是整箱。"
+        }
+      }
+    },
+    {
+      "file": "02-snaqfit-milk-chocolate.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 88507,
+      "sha256": "82a52d240a49f858365b32a71ac9a0528c097f22eb0b003f79151dfbc37dce9a",
+      "source_file": "snaqfit-milk-chocolate.jpg",
+      "source_sha256": "19e7f6a18ad3da0ee40cc75421045d8aa613d60257db16b115379ae35bc55dd8",
+      "transform": "single original photo; proportional fit and JPEG publishing export; no retouching",
+      "role": "internal",
+      "alt": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+      "caption": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+      "source_url": "https://www.bombbar.ru/product/molochniy_shokolad_hrustyashchey_vafley_tm_snaqfabriq_30_16_4.html",
+      "position": "Сразу после заголовка участника 2.",
+      "localized": {
+        "ru": {
+          "alt": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+          "caption": "Фотография относится к выбранному SNAQFIT 30 г; вариант SNAQFER 20 г его не заменяет."
+        },
+        "en": {
+          "alt": "Snaq Fabriq SNAQFIT milk chocolate with crispy wafer, 30 g.",
+          "caption": "The photograph shows the selected 30-g SNAQFIT product; a 20-g SNAQFER is not a substitute."
+        },
+        "cn": {
+          "alt": "Snaq Fabriq SNAQFIT牛奶巧克力脆威化，30克。",
+          "caption": "照片是选入的30克SNAQFIT，不能用20克SNAQFER替代。"
+        }
+      }
+    },
+    {
+      "file": "03-akkond-cocoa.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 90746,
+      "sha256": "d5cd247512537f19252b70d7a0018d847b0137bbb36431cf5c87e876c4622428",
+      "source_file": "akkond-cocoa.webp",
+      "source_sha256": "c170e17f185b3c935e03a741cd7b5db38f846600e38f39ca94b581994d995808",
+      "transform": "single original photo; proportional fit and JPEG publishing export; no retouching",
+      "role": "internal",
+      "alt": "АККОНД «Мне без сахара» с какао: индивидуально упакованная вафля, 16 г.",
+      "caption": "АККОНД «Мне без сахара» с какао: индивидуально упакованная вафля, 16 г.",
+      "source_url": "https://akkond-online.ru/catalog/vafli/mne_bez_sakhara_s_kakao_1_kg/",
+      "position": "Сразу после заголовка участника 3.",
+      "localized": {
+        "ru": {
+          "alt": "АККОНД «Мне без сахара» с какао: отдельная упакованная вафля 16 г.",
+          "caption": "Фотография официального продукта. Расчет относится к отдельной вафле, а не к внешнему пакету 1 кг."
+        },
+        "en": {
+          "alt": "AKKOND “Mne bez sakhara” cocoa wafer, individually wrapped at 16 g.",
+          "caption": "Official product photograph. The calculation refers to one wafer, not the 1-kg outer bag."
+        },
+        "cn": {
+          "alt": "АККОНД“Мне без сахара”可可威化，16克独立密封。",
+          "caption": "官方产品照片；计算针对单片威化而非1公斤外袋。"
+        }
+      }
+    },
+    {
+      "file": "04-bitey-milk-chocolate.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 53315,
+      "sha256": "542b75fa75bbb9711bd6b9232e3687d4c35b688d04ac011efa85cb0de71239c9",
+      "source_file": "bitey-milk-chocolate.png",
+      "source_sha256": "9d4608507d505ab916ec30962798610cd3b2ef4857dc368e7114a2dc42b49df9",
+      "transform": "single original photo; proportional fit and JPEG publishing export; no retouching",
+      "role": "internal",
+      "alt": "Bitey «Молочный шоколад»: индивидуальная вафля, 15 г.",
+      "caption": "Bitey «Молочный шоколад»: индивидуальная вафля, 15 г.",
+      "source_url": "https://bite.ru/product/vafli-detskie-bez-saxara-bitey-molochnyj-shokolad/",
+      "position": "Сразу после заголовка участника 4.",
+      "localized": {
+        "ru": {
+          "alt": "Bitey «Молочный шоколад»: индивидуальная упаковка 15 г.",
+          "caption": "Точный молочно-шоколадный вариант Bitey. По фотографии нельзя переносить свойства другого вкуса."
+        },
+        "en": {
+          "alt": "Bitey Milk Chocolate wafer in an individual 15-g pack.",
+          "caption": "The exact milk-chocolate variant. A photograph does not justify transferring properties from another flavour."
+        },
+        "cn": {
+          "alt": "Bitey牛奶巧克力威化，15克独立包装。",
+          "caption": "准确的牛奶巧克力型号；照片不能证明另一口味的属性。"
+        }
+      }
+    }
+  ],
+  "note": "Product photographs are technically exported, without retouching. The cover is an AI-created editorial illustration and not evidence."
+}

@@ -1,0 +1,2 @@
+criterion_id,weight,unit,direction,formula
+protein_whole_pack,100,г белка в целой фабричной упаковке,higher_is_better,protein_g_100g * mass_g / 100 либо прямо указанное значение на ровно ту же целую упаковку

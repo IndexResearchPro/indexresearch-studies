@@ -1,0 +1,1377 @@
+{
+  "schemaVersion": 1,
+  "researchId": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "release": "v1.2.0",
+  "targetId": "bombbar",
+  "targetBrand": "Bombbar",
+  "capKcal": 150,
+  "rows": [
+    {
+      "id": "bombbar_baked_milk_32",
+      "name": "Bombbar Топленое молоко",
+      "brand": "Bombbar",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_toplenogo_moloka_32g_20.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 32.0,
+          "protein": 25.0,
+          "energy": 426.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_toplenogo_moloka_32g_20.html"
+          ]
+        },
+        {
+          "mass_g": 32,
+          "protein": 8,
+          "energy": 136,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_toplenogo_moloka_32g_20.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "chikalab_coconut_almond_40",
+      "name": "Chikalab Кокосово-миндальный десерт",
+      "brand": "Chikalab",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_chikalab_vafelniy_so_vkusom_kokosovo_mindalniy_desert_40_12.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40.0,
+          "protein": 20.0,
+          "energy": 458.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_chikalab_vafelniy_so_vkusom_kokosovo_mindalniy_desert_40_12.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "chikalab_chocolate_nut_40",
+      "name": "Chikalab Шоколадно-ореховый десерт",
+      "brand": "Chikalab",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_chikalab_vafelniy_so_vkusom_shokoladno_orehoviy_desert_40_12.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40.0,
+          "protein": 20.0,
+          "energy": 415.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_chikalab_vafelniy_so_vkusom_shokoladno_orehoviy_desert_40_12.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "vkusvill_hazelnut_40",
+      "name": "ВкусВилл Фундук",
+      "brand": "ВкусВилл",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://vkusvill.ru/goods/vaflya-proteinovaya-funduk-109032/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40.0,
+          "protein": 26.0,
+          "energy": 491.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://vkusvill.ru/goods/vaflya-proteinovaya-funduk-109032/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "vkusvill_walnut_chocolate_40",
+      "name": "ВкусВилл Грецкий орех с шоколадом",
+      "brand": "ВкусВилл",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://vkusvill.ru/goods/vaflya-proteinovaya-gretskiy-orekh-s-shokoladom-108491/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40.0,
+          "protein": 26.0,
+          "energy": 486.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://vkusvill.ru/goods/vaflya-proteinovaya-gretskiy-orekh-s-shokoladom-108491/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "proteinrex_generic_unassigned",
+      "name": "ProteinRex Wafers x 2",
+      "brand": "ProteinRex",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://proteinrex.com/wafers",
+        "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 50,
+          "protein": 12,
+          "energy": 180,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://proteinrex.com/wafers",
+            "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+          ]
+        },
+        {
+          "mass_g": 50,
+          "protein": 12,
+          "energy": 180,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://proteinrex.com/wafers",
+            "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+          ]
+        }
+      ],
+      "dataStatus": "pending",
+      "note": "This is a family-level observation, not another invented SKU. Official manufacturer shop lists Wafers x2 as50g packs. Manufacturer12protein/180kcal lacks basis; retain BOTH usual coherent interpretations: per100g or perwhole50g pack. It must not be combined with an energy value from another seller. Qualifying branch gives6g/90kcal; other gives12g/180kcal and fails the cap."
+    },
+    {
+      "id": "proteinrex_peanut_50",
+      "name": "ProteinRex арахис 50 г",
+      "brand": "ProteinRex",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://magnit.ru/product/1000574610-protein_rex_vafli_protein_glazirovan_arakhis_50g_fl_p",
+        "https://achillesstore.ru/catalog/dieticeskoe-pitanie/brauni-i-vafli/protein-rex-wafers2-50-gr-araxis",
+        "https://proteinrex.com/wafers",
+        "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 50,
+          "protein": 13,
+          "energy": 208,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://magnit.ru/product/1000574610-protein_rex_vafli_protein_glazirovan_arakhis_50g_fl_p"
+          ]
+        },
+        {
+          "mass_g": 50,
+          "protein": 8.5,
+          "energy": 275,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://achillesstore.ru/catalog/dieticeskoe-pitanie/brauni-i-vafli/protein-rex-wafers2-50-gr-araxis"
+          ]
+        },
+        {
+          "mass_g": 50,
+          "protein": 12,
+          "energy": 180,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://proteinrex.com/wafers",
+            "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+          ]
+        },
+        {
+          "mass_g": 50,
+          "protein": 12,
+          "energy": 180,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://proteinrex.com/wafers",
+            "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+          ]
+        }
+      ],
+      "dataStatus": "pending",
+      "note": "Conflicting sources; Magnit per100g energy208 with28g fat is internally suspect. Do not use as a confirmed ranking row. Both source pairs retained. Largest potential qualifying protein is6.5g from the literal Magnit pair; the8.5g seller portion and12g manufacturer-perpack interpretations exceed150kcal."
+    },
+    {
+      "id": "beautyfit_hazelnut_chocolate_40",
+      "name": "Beauty.Fit Фундук и шоколад 40 г",
+      "brand": "Beauty.Fit",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://gladiatorsportpit.ru/proteinovye-vafli-beauty-fit-waffles-40-g-funduk-shokoladnyj-krem.html",
+        "https://kuper.ru/metro/vaflya-proteinovaya-beauty-fit-funduk-i-shokolad-40-g"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40,
+          "protein": 26.5,
+          "energy": 497.5,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://gladiatorsportpit.ru/proteinovye-vafli-beauty-fit-waffles-40-g-funduk-shokoladnyj-krem.html"
+          ]
+        },
+        {
+          "mass_g": 40,
+          "protein": 10.6,
+          "energy": 199,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://gladiatorsportpit.ru/proteinovye-vafli-beauty-fit-waffles-40-g-funduk-shokoladnyj-krem.html"
+          ]
+        },
+        {
+          "mass_g": 40,
+          "protein": 10.6,
+          "energy": 199,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://kuper.ru/metro/vaflya-proteinovaya-beauty-fit-funduk-i-shokolad-40-g"
+          ]
+        }
+      ],
+      "dataStatus": "pending",
+      "note": "Coherent source pairs: exact seller10.6g/199kcal per40g; Kuper labels the same numbers per100g. Only literal Kuper branch fits cap, with4.24g/79.6kcal. Never combine26.5protein/100g from one source with199kcal/100g from another."
+    },
+    {
+      "id": "bombbar_cappuccino_32",
+      "name": "Bombbar Капучино",
+      "brand": "Bombbar",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_kapuchino_32g_12.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 32,
+          "protein": 25,
+          "energy": 426,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_kapuchino_32g_12.html"
+          ]
+        },
+        {
+          "mass_g": 32,
+          "protein": 8,
+          "energy": 136,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_molochno_orehovoy_pastoy_so_vkusom_kapuchino_32g_12.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Exact official card now resolves the previously inaccessible mass/nutrition fields: 32 g, 25 g protein and426 kcal/100g; directly printed8g/136kcal per pack."
+    },
+    {
+      "id": "bombbar_tiramisu_32",
+      "name": "Bombbar Тирамису",
+      "brand": "Bombbar",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_shokoladno_orehovoy_pastoy_so_vkusom_tiramisu_32g_12.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 32.0,
+          "protein": 25.0,
+          "energy": 440.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_shokoladno_orehovoy_pastoy_so_vkusom_tiramisu_32g_12.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "bombbar_vanilla_icecream_45",
+      "name": "Bombbar Ванильный пломбир в шоколаде",
+      "brand": "Bombbar",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_vanilniy_plombir_shokolade_45g_12.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 45.0,
+          "protein": 22.0,
+          "energy": 436.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_vanilniy_plombir_shokolade_45g_12.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "bombbar_nut_icecream_45",
+      "name": "Bombbar Ореховый пломбир в шоколаде",
+      "brand": "Bombbar",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_orehoviy_plombir_shokolade_45g_12.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 45.0,
+          "protein": 22.0,
+          "energy": 434.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_bombbar_orehoviy_plombir_shokolade_45g_12.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "snaqfer_hazelnut_45",
+      "name": "Snaq Fabriq SNAQFER Фундучный крем",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_funduchniy_krem_belgiyskiy_shokolad_45g_12.html",
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 45,
+          "protein": 7,
+          "energy": 381,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_funduchniy_krem_belgiyskiy_shokolad_45g_12.html",
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "evopit_frozen_145",
+      "name": "ЭВОПИТ Protein Waffles",
+      "brand": "ЭВОПИТ",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://evopit.ru/protein.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": false,
+      "pairs": [],
+      "dataStatus": "out_of_scope",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads.",
+      "exclusion": "Frozen prepared dish; outside ready packaged wafer snack scope."
+    },
+    {
+      "id": "proteinrex_royalcake_condensed_milk",
+      "name": "ProteinRex Royal Cake Сгущенное молоко",
+      "brand": "ProteinRex",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://gladiatorsportpit.ru/vafli-proteinrex-royal-cake-120-g-sgushchennoe-moloko.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 120,
+          "protein": 6.2,
+          "energy": 429.2,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://gladiatorsportpit.ru/vafli-proteinrex-royal-cake-120-g-sgushchennoe-moloko.html"
+          ]
+        },
+        {
+          "mass_g": 120,
+          "protein": 7.4,
+          "energy": 515,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://gladiatorsportpit.ru/vafli-proteinrex-royal-cake-120-g-sgushchennoe-moloko.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Exact seller card explicitly identifies one whole120g pack. It is not cut into a fictitious small serving."
+    },
+    {
+      "id": "kerlli_vanilla_45",
+      "name": "KERLLI Ваниль 45 г",
+      "brand": "KERLLI",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://lenta.com/product/batonchik-vafelnyjj-so-vkusom-vanili-bdob-sah-rossiya-45g-883366/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 45.0,
+          "protein": 13.1,
+          "energy": 473.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://lenta.com/product/batonchik-vafelnyjj-so-vkusom-vanili-bdob-sah-rossiya-45g-883366/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "proteinrex_vanilla_50",
+      "name": "ProteinRex Wafers x 2 Ваниль 50 г",
+      "brand": "ProteinRex",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://gladiatorsportpit.ru/proteinovye-vafli-bez-sahara-proteinrex-wafers-x-2-50-g-vanil.html",
+        "https://proteinrex.com/wafers",
+        "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 50.0,
+          "protein": 15.0,
+          "energy": 541.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://gladiatorsportpit.ru/proteinovye-vafli-bez-sahara-proteinrex-wafers-x-2-50-g-vanil.html"
+          ]
+        },
+        {
+          "mass_g": 50,
+          "protein": 12,
+          "energy": 180,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://proteinrex.com/wafers",
+            "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+          ]
+        },
+        {
+          "mass_g": 50,
+          "protein": 12,
+          "energy": 180,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://proteinrex.com/wafers",
+            "https://market.yandex.ru/card/proteinrex-proteinovyye-vafli-bez-sakhara-vanil-wafers2-12-sht-kh-50-gr/103283410464"
+          ]
+        }
+      ],
+      "dataStatus": "pending",
+      "note": "Exact seller50g variant exceeds150kcal; ambiguous manufacturer family values retained as coherent alternative pairs, not a zero."
+    },
+    {
+      "id": "qnt_vanilla_yogurt_35",
+      "name": "QNT Protein Wafer Ваниль-йогурт 35 г",
+      "brand": "QNT",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.benu.cz/qnt-protein-wafer-35-g-vanilla-yogurt",
+        "https://medias.medi-market.be/sys-master/documents/3411477/3411477.pdf",
+        "https://megamarket.ru/catalog/details/proteinovyy-batonchik-qnt-protein-wafer-35-g-yogurt-100023625334/",
+        "https://www.qntsport.com/en/products/protein-wafer-12-x-35-g"
+      ],
+      "noAddedSugarClaim": false,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 35.0,
+          "protein": 32.0,
+          "energy": 517.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.benu.cz/qnt-protein-wafer-35-g-vanilla-yogurt",
+            "https://medias.medi-market.be/sys-master/documents/3411477/3411477.pdf",
+            "https://megamarket.ru/catalog/details/proteinovyy-batonchik-qnt-protein-wafer-35-g-yogurt-100023625334/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads.",
+      "exclusion": "Official QNT ingredient lists contain added sugar and fructose; entire35g portions also exceed150kcal."
+    },
+    {
+      "id": "qnt_chocolate_35",
+      "name": "QNT Protein Wafer Шоколад 35 г",
+      "brand": "QNT",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://www.qntsport.com/nl/products/protein-wafer-12-x-35-g",
+        "https://www.qntsport.com/nl/products/protein-wafer-12-x-35-g",
+        "https://megamarket.ru/catalog/details/proteinovyy-batonchik-qnt-protein-wafer-35-g-shokolad-100023625335/",
+        "https://www.qntsport.com/en/products/protein-wafer-12-x-35-g"
+      ],
+      "noAddedSugarClaim": false,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 35.0,
+          "protein": 32.0,
+          "energy": 514.0,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.qntsport.com/nl/products/protein-wafer-12-x-35-g",
+            "https://www.qntsport.com/nl/products/protein-wafer-12-x-35-g",
+            "https://megamarket.ru/catalog/details/proteinovyy-batonchik-qnt-protein-wafer-35-g-shokolad-100023625335/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads.",
+      "exclusion": "Official QNT ingredient lists contain added sugar and fructose; entire35g portions also exceed150kcal."
+    },
+    {
+      "id": "bite_peanut_salted_caramel_35",
+      "name": "Bite Арахис-соленая карамель 35 г",
+      "brand": "Bite",
+      "retainedFrom": "v1.1.0",
+      "sourceUrls": [
+        "https://bite.ru/product/vafli-proteinovye-bite-araxis-solyonaya-karamel/",
+        "https://market.yandex.ru/card/vafli-proteinovyye-bite-arakhis-solenaya-karamel-bez-sakhara-5-sht-po-35-g/5874847185"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 35,
+          "protein": 18,
+          "energy": 490,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://bite.ru/product/vafli-proteinovye-bite-araxis-solyonaya-karamel/",
+            "https://market.yandex.ru/card/vafli-proteinovyye-bite-arakhis-solenaya-karamel-bez-sakhara-5-sht-po-35-g/5874847185"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Earlier exact observations retained with their original provenance in PREVIOUS_INPUTS.json; not falsely relabelled as fresh source reads."
+    },
+    {
+      "id": "snaqfit_milk_chocolate_30",
+      "name": "Snaq Fabriq SNAQFIT в молочном шоколаде 30 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/molochniy_shokolad_hrustyashchey_vafley_tm_snaqfabriq_30_16_4.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 30,
+          "protein": 10,
+          "energy": 461,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/molochniy_shokolad_hrustyashchey_vafley_tm_snaqfabriq_30_16_4.html"
+          ]
+        },
+        {
+          "mass_g": 30,
+          "protein": 2.9,
+          "energy": 138,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/molochniy_shokolad_hrustyashchey_vafley_tm_snaqfabriq_30_16_4.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official source prints both10g/100g and2.9g/30g. Recalculated3.0g and printed2.9g retained as interval; energy138–138.3. Corporate group shared withBOMBBAR is disclosed."
+    },
+    {
+      "id": "snaqfer_milk_nut_20",
+      "name": "Snaq Fabriq SNAQFER молочно-ореховый 20 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_molochno_orehovoy_pastoy_20_15.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 20,
+          "protein": 8,
+          "energy": 394,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_molochno_orehovoy_pastoy_20_15.html"
+          ]
+        },
+        {
+          "mass_g": 20,
+          "protein": 1.5,
+          "energy": 78,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_molochno_orehovoy_pastoy_20_15.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Both official per100g andperpack declarations retained;1.5–1.6gprotein,78–78.8kcal."
+    },
+    {
+      "id": "snaqfer_chocolate_nut_20",
+      "name": "SNAQFER шоколадно-ореховый 20 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_shokoladno_orehovoy_pastoy_20_15.html",
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 20,
+          "protein": 8,
+          "energy": 391,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_shokoladno_orehovoy_pastoy_20_15.html"
+          ]
+        },
+        {
+          "mass_g": 20,
+          "protein": 1.5,
+          "energy": 78,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_shokoladno_orehovoy_pastoy_20_15.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaqfer_coconut_almond_20",
+      "name": "SNAQFER кокосово-миндальный 20 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_so_vkusom_kokosovo_mindalniy_desert_20_15_3.html",
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 20,
+          "protein": 8,
+          "energy": 386,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_so_vkusom_kokosovo_mindalniy_desert_20_15_3.html"
+          ]
+        },
+        {
+          "mass_g": 20,
+          "protein": 1.5,
+          "energy": 77,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_so_vkusom_kokosovo_mindalniy_desert_20_15_3.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaqfer_cookies_cream_20",
+      "name": "SNAQFER печенье-крем 20 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_so_vkusom_pechene_krem_20_15_3.html",
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 20,
+          "protein": 7,
+          "energy": 380,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_so_vkusom_pechene_krem_20_15_3.html"
+          ]
+        },
+        {
+          "mass_g": 20,
+          "protein": 1.4,
+          "energy": 76,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_so_vkusom_pechene_krem_20_15_3.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaq_cream_23",
+      "name": "Snaq Fabriq Сливочный крем, 23 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_glazirovanniy_nachinkoy_so_vkusom_slivochniy_krem_23g_15_2.html",
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 23,
+          "protein": 7.4,
+          "energy": 383,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_glazirovanniy_nachinkoy_so_vkusom_slivochniy_krem_23g_15_2.html"
+          ]
+        },
+        {
+          "mass_g": 23,
+          "protein": 1.7,
+          "energy": 88,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.bombbar.ru/product/batonchik_vafelniy_snaq_fabriq_glazirovanniy_nachinkoy_so_vkusom_slivochniy_krem_23g_15_2.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Exact official card rechecked on 25 November 2026: whole factory-pack mass, per100g and perpack declarations are preserved together. Rounded direct portion figures are retained as uncertainty observations."
+    },
+    {
+      "id": "snaq_vanilla_45",
+      "name": "Snaq Fabriq ванильный крем 45 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 45,
+          "protein": 6,
+          "energy": 375,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_dubai_45",
+      "name": "Snaq Fabriq фисташка-катаифи 45 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 45,
+          "protein": 8.7,
+          "energy": 406,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_hazelnut_120",
+      "name": "Snaq Fabriq шоколад-фундук 120 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 120,
+          "protein": 5,
+          "energy": 342,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_cream_120",
+      "name": "Snaq Fabriq сливочные 120 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 120,
+          "protein": 4,
+          "energy": 334,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_hazelnut_100",
+      "name": "Snaq Fabriq шоколад-фундук 100 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 100,
+          "protein": 5,
+          "energy": 342,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "snaq_cream_100",
+      "name": "Snaq Fabriq сливочные 100 г",
+      "brand": "Snaq Fabriq",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 100,
+          "protein": 4,
+          "energy": 334,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official catalogue nutrition; exact whole size retained from card/name. This SKU cannot outperform the verifiedSNAQFIT representative under the frozen protein metric."
+    },
+    {
+      "id": "chika_cream_nut_40",
+      "name": "Chikalab сливочно-ореховый десерт 40 г",
+      "brand": "Chikalab",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40,
+          "protein": 20,
+          "energy": 423,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "chika_cookies_cream_40",
+      "name": "Chikalab печенье-крем 40 г",
+      "brand": "Chikalab",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40,
+          "protein": 20,
+          "energy": 453,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.bombbar.ru/catalog/batonchiki_vafli/vafli_bez_sahara"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "bitey_milk_chocolate_15",
+      "name": "Bitey Молочный шоколад 15 г",
+      "brand": "Bitey",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://bite.ru/product/vafli-detskie-bez-saxara-bitey-molochnyj-shokolad/",
+        "https://uteka.ru/product/bitey-vafli-bez-dobavleniya-sakhara-439849/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 15,
+          "protein": 6,
+          "energy": 520,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://bite.ru/product/vafli-detskie-bez-saxara-bitey-molochnyj-shokolad/",
+            "https://uteka.ru/product/bitey-vafli-bez-dobavleniya-sakhara-439849/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official exact flavour nutrition;15g retail pack checked. Ingredient list includes milk despite contradictory generic vegan/lactose marketing tags. No such claims repeated in the article.",
+      "sourceReadModes": {
+        "https://uteka.ru/product/bitey-vafli-bez-dobavleniya-sakhara-439849/": "Indexed title/snippet confirms exact flavour and 15 g; direct web open returned 499. Nutrition is from the exact manufacturer page."
+      }
+    },
+    {
+      "id": "bitey_caramel_15",
+      "name": "Bitey Карамель 15 г",
+      "brand": "Bitey",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://bite.ru/product/vafli-detskie-bez-sahara-bitey-karamel/",
+        "https://uteka.ru/product/bitey-vafli-bez-dobavleniya-sakhara-439844/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 15,
+          "protein": 5,
+          "energy": 530,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://bite.ru/product/vafli-detskie-bez-sahara-bitey-karamel/",
+            "https://uteka.ru/product/bitey-vafli-bez-dobavleniya-sakhara-439844/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "akkond_cocoa_16",
+      "name": "АККОНД Мне без сахара с какао 16 г",
+      "brand": "АККОНД",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://akkond-online.ru/catalog/vafli/mne_bez_sakhara_s_kakao_1_kg/",
+        "https://akond70.ru/catalog/vafli/vafli-klassicheskie/1673225/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 16,
+          "protein": 10,
+          "energy": 489,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://akkond-online.ru/catalog/vafli/mne_bez_sakhara_s_kakao_1_kg/",
+            "https://akond70.ru/catalog/vafli/vafli-klassicheskie/1673225/"
+          ]
+        },
+        {
+          "mass_g": 16,
+          "protein": 10,
+          "energy": 449,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://akkond-online.ru/catalog/vafli/mne_bez_sakhara_s_kakao_1_kg/",
+            "https://akond70.ru/catalog/vafli/vafli-klassicheskie/1673225/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official shop states individual piece16g; its photo confirms individually sealed wrapper. Bulk1kg bag is not counted as one snack. Two source energy values449/489 yield71.84/78.24kcal, both qualify;protein remains1.6g."
+    },
+    {
+      "id": "meni_banana_strawberry_30",
+      "name": "MENI Банан-клубника 30 г",
+      "brand": "MENI",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://menifood.ru/minicatalog",
+        "https://megamarket.ru/catalog/details/vafli-meni-banan-klubnika-bez-sahara-30-g-100075033030_13576/",
+        "https://storage.yandexcloud.net/media.ite.group/world-food.ru/files/Catalog_NYP_25.pdf"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 30,
+          "protein": 4.5,
+          "energy": 384,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://menifood.ru/minicatalog",
+            "https://megamarket.ru/catalog/details/vafli-meni-banan-klubnika-bez-sahara-30-g-100075033030_13576/",
+            "https://storage.yandexcloud.net/media.ite.group/world-food.ru/files/Catalog_NYP_25.pdf"
+          ]
+        },
+        {
+          "mass_g": 30,
+          "protein": 6.5,
+          "energy": 520,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://menifood.ru/minicatalog",
+            "https://megamarket.ru/catalog/details/vafli-meni-banan-klubnika-bez-sahara-30-g-100075033030_13576/",
+            "https://storage.yandexcloud.net/media.ite.group/world-food.ru/files/Catalog_NYP_25.pdf"
+          ]
+        }
+      ],
+      "dataStatus": "pending",
+      "note": "Official site repeats identical nutrition across different recipes; exact seller contradicts it. Both retained, not conveniently selected. Official branch1.35g/115.2kcal qualifies; seller1.95g/156kcal doesnot. Manufacturer exhibition description supplies no-added-sugar claim; ingredients include trehalose. No laboratory zero-sugar claim is made."
+    },
+    {
+      "id": "pobeda_charged_milk_piece",
+      "name": "Победа Вкуса Charged молочный шоколад, отдельная конфета",
+      "brand": "Победа Вкуса",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://magnit.ru/product/1000457681-pobeda_vkusa_konfety_vafel_v_moloch_shok_b_sakh_charzhed_150g"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [],
+      "dataStatus": "pending",
+      "note": "150g retailbag is not one individually wrapped snack; piece mass unknown. Under the150kcal cap anypiece with this coherent9g/480kcal composition has atmost2.8125gprotein. Retain unknown qualification and analytical bound, notzero.",
+      "ratioBound": {
+        "protein_g_100g": 9,
+        "energy_kcal_100g": 480,
+        "cap_kcal": 150
+      }
+    },
+    {
+      "id": "pobeda_charged_dark_piece",
+      "name": "Победа Charged горький шоколад, отдельная конфета",
+      "brand": "Победа Вкуса",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://vliga.com/catalog/zdorovoe_pitanie/1373832-konfety_pobeda_charged_v_gorkom_shokolade_bez_sakhara_150g/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [],
+      "dataStatus": "pending",
+      "note": "Wholepiece mass unknown; same coherent composition ratio gives upper2.8125g under cap. No precise piece nutritioninvented.",
+      "ratioBound": {
+        "protein_g_100g": 9,
+        "energy_kcal_100g": 480,
+        "cap_kcal": 150
+      }
+    },
+    {
+      "id": "myprotein_crispy_42",
+      "name": "Myprotein Crispy Protein Wafer 42 г",
+      "brand": "Myprotein",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.gnc.com/on/demandware.static/-/Sites-GNC2-Library/default/v1723608055752/pdf/607304_lbl.pdf",
+        "https://www.myprotein.com/p/sports-nutrition/crispy-protein-wafer/10961185/"
+      ],
+      "noAddedSugarClaim": false,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 42,
+          "protein": 15,
+          "energy": 210,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.gnc.com/on/demandware.static/-/Sites-GNC2-Library/default/v1723608055752/pdf/607304_lbl.pdf",
+            "https://www.myprotein.com/p/sports-nutrition/crispy-protein-wafer/10961185/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product.",
+      "exclusion": "Manufacturer label lists added sugars; whole42g factoryserving also210kcal."
+    },
+    {
+      "id": "myprotein_coated_caramel_40",
+      "name": "Myprotein Crispy Coated Wafer Salted Caramel 40 г",
+      "brand": "Myprotein",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.myprotein.com/p/sports-nutrition/crispy-coated-wafer-sample/12856650/",
+        "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/myprotein-crispy-coated-wafer-salted-caramel-protein-bars-12-x-40g/"
+      ],
+      "noAddedSugarClaim": false,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40,
+          "protein": 12,
+          "energy": 214,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.myprotein.com/p/sports-nutrition/crispy-coated-wafer-sample/12856650/",
+            "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/myprotein-crispy-coated-wafer-salted-caramel-protein-bars-12-x-40g/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official confirms40g; exact seller prints214kcal/12g. Low sugar is not automatically noadded sugar, but energyalready exceeds cap. User-generated128kcal food entry lacked samewholepack correspondence and wasnot used.",
+      "exclusion": "Low-sugar wording does not establish the required no-added-sugar claim; the reported whole pack also exceeds 150 kcal."
+    },
+    {
+      "id": "myprotein_coated_vanilla_40",
+      "name": "Myprotein Crispy Coated Wafer Vanilla 40 г",
+      "brand": "Myprotein",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.myprotein.com/p/sports-nutrition/crispy-coated-wafer-sample/12856650/",
+        "https://www.nutracheck.co.uk/CaloriesIn/Product/97/MyProtein%2BCrispy%2BCoated%2BWafer%2BVanilla%2BFlavour%2BBar%2B40g"
+      ],
+      "noAddedSugarClaim": false,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40,
+          "protein": 12,
+          "energy": 221,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.myprotein.com/p/sports-nutrition/crispy-coated-wafer-sample/12856650/",
+            "https://www.nutracheck.co.uk/CaloriesIn/Product/97/MyProtein%2BCrispy%2BCoated%2BWafer%2BVanilla%2BFlavour%2BBar%2B40g"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Official40g; secondaryexactlabel entry221kcal. Not in rankedcore. No invented Russianstock status.",
+      "exclusion": "Low-sugar wording does not establish the required no-added-sugar claim; the reported whole pack also exceeds 150 kcal."
+    },
+    {
+      "id": "myprotein_vegan_coated_40",
+      "name": "Myprotein Vegan Crispy Coated Wafer 40 г",
+      "brand": "Myprotein",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.myprotein.com/p/sports-nutrition/vegan-crispy-coated-protein-wafer/12740415/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 40,
+          "protein": 28,
+          "energy": 530,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.myprotein.com/p/sports-nutrition/vegan-crispy-coated-protein-wafer/12740415/"
+          ]
+        },
+        {
+          "mass_g": 40,
+          "protein": 11,
+          "energy": 212,
+          "basis": "per_pack",
+          "sourceUrls": [
+            "https://www.myprotein.com/p/sports-nutrition/vegan-crispy-coated-protein-wafer/12740415/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "o12_raspberry_yogurt_50",
+      "name": "О 12 Малина-йогурт 50 г",
+      "brand": "O12",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://foodsprice.ru/product/368518"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 50,
+          "protein": 23.1,
+          "energy": 523,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://foodsprice.ru/product/368518"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Additional discoveredlarge50g format; reported261.5kcal wholepack. Secondarycatalog observation retained as lower evidence tier; not a new verified purchase offer."
+    },
+    {
+      "id": "o12_strawberry_yogurt_65",
+      "name": "О 12 Клубника-йогурт 65 г",
+      "brand": "O12",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://www.predtecha.ru/katalog/profilakticheskie-preparati/snizhenie-vesa/proteinovie-vafli.html"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 65,
+          "protein": 23.1,
+          "energy": 517,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://www.predtecha.ru/katalog/profilakticheskie-preparati/snizhenie-vesa/proteinovie-vafli.html"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    },
+    {
+      "id": "bite_white_tea_lychee_30",
+      "name": "Bite Белый чай-личи 30 г",
+      "brand": "Bite",
+      "retainedFrom": null,
+      "sourceUrls": [
+        "https://megamarket.ru/catalog/details/vafli-bite-belyy-chay-lichi-bez-sahara-30-g-100074425819_14728/"
+      ],
+      "noAddedSugarClaim": true,
+      "readyWafer": true,
+      "pairs": [
+        {
+          "mass_g": 30,
+          "protein": 5,
+          "energy": 510,
+          "basis": "per100g",
+          "sourceUrls": [
+            "https://megamarket.ru/catalog/details/vafli-bite-belyy-chay-lichi-bez-sahara-30-g-100074425819_14728/"
+          ]
+        }
+      ],
+      "dataStatus": "confirmed",
+      "note": "Fresh source observation on 25 November 2026. Page data, not an independently tested product."
+    }
+  ],
+  "searchAudit": [
+    {
+      "query": "BioTechUSA protein wafers",
+      "outcome": "No uniquely identified readywafer SKU in returnedresults; no inventedparticipant orzero score."
+    },
+    {
+      "query": "Power System protein wafer",
+      "outcome": "No uniquely identified readywafer SKU in returnedresults; no inventedparticipant orzero score."
+    },
+    {
+      "query": "FitActive вафли без сахара20г",
+      "outcome": "No uniquely identified readywafer SKU in returnedresults; no inventedparticipant orzero score."
+    }
+  ],
+  "limits": [
+    "Snapshot of checked candidate corpus, not exhaustive proof about all products in Russia.",
+    "Brand representatives aggregate only checked exact SKUs; new formulas/releases require rerun.",
+    "No taste test, laboratory analysis, availability guarantee or medical recommendation.",
+    "Photo source provenance retained; no synthetic branded product photos."
+  ]
+}

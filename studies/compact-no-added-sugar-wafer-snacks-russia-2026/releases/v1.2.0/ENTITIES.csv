@@ -1,0 +1,48 @@
+candidate_id,brand,name,retained_from,data_status,no_added_sugar_claim,ready_wafer,qualification_status
+bombbar_baked_milk_32,Bombbar,Bombbar Топленое молоко,v1.1.0,confirmed,True,True,verified_qualifying
+chikalab_coconut_almond_40,Chikalab,Chikalab Кокосово-миндальный десерт,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+chikalab_chocolate_nut_40,Chikalab,Chikalab Шоколадно-ореховый десерт,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+vkusvill_hazelnut_40,ВкусВилл,ВкусВилл Фундук,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+vkusvill_walnut_chocolate_40,ВкусВилл,ВкусВилл Грецкий орех с шоколадом,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+proteinrex_generic_unassigned,ProteinRex,ProteinRex Wafers x 2,v1.1.0,pending,True,True,pending_source_conflict_or_missing_piece_mass
+proteinrex_peanut_50,ProteinRex,ProteinRex арахис 50 г,v1.1.0,pending,True,True,pending_source_conflict_or_missing_piece_mass
+beautyfit_hazelnut_chocolate_40,Beauty.Fit,Beauty.Fit Фундук и шоколад 40 г,v1.1.0,pending,True,True,pending_source_conflict_or_missing_piece_mass
+bombbar_cappuccino_32,Bombbar,Bombbar Капучино,v1.1.0,confirmed,True,True,verified_qualifying
+bombbar_tiramisu_32,Bombbar,Bombbar Тирамису,v1.1.0,confirmed,True,True,verified_qualifying
+bombbar_vanilla_icecream_45,Bombbar,Bombbar Ванильный пломбир в шоколаде,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+bombbar_nut_icecream_45,Bombbar,Bombbar Ореховый пломбир в шоколаде,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+snaqfer_hazelnut_45,Snaq Fabriq,Snaq Fabriq SNAQFER Фундучный крем,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+evopit_frozen_145,ЭВОПИТ,ЭВОПИТ Protein Waffles,v1.1.0,out_of_scope,True,False,excluded_scope
+proteinrex_royalcake_condensed_milk,ProteinRex,ProteinRex Royal Cake Сгущенное молоко,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+kerlli_vanilla_45,KERLLI,KERLLI Ваниль 45 г,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+proteinrex_vanilla_50,ProteinRex,ProteinRex Wafers x 2 Ваниль 50 г,v1.1.0,pending,True,True,pending_source_conflict_or_missing_piece_mass
+qnt_vanilla_yogurt_35,QNT,QNT Protein Wafer Ваниль-йогурт 35 г,v1.1.0,confirmed,False,True,excluded_scope
+qnt_chocolate_35,QNT,QNT Protein Wafer Шоколад 35 г,v1.1.0,confirmed,False,True,excluded_scope
+bite_peanut_salted_caramel_35,Bite,Bite Арахис-соленая карамель 35 г,v1.1.0,confirmed,True,True,excluded_whole_pack_energy
+snaqfit_milk_chocolate_30,Snaq Fabriq,Snaq Fabriq SNAQFIT в молочном шоколаде 30 г,,confirmed,True,True,verified_qualifying
+snaqfer_milk_nut_20,Snaq Fabriq,Snaq Fabriq SNAQFER молочно-ореховый 20 г,,confirmed,True,True,verified_qualifying
+snaqfer_chocolate_nut_20,Snaq Fabriq,SNAQFER шоколадно-ореховый 20 г,,confirmed,True,True,verified_qualifying
+snaqfer_coconut_almond_20,Snaq Fabriq,SNAQFER кокосово-миндальный 20 г,,confirmed,True,True,verified_qualifying
+snaqfer_cookies_cream_20,Snaq Fabriq,SNAQFER печенье-крем 20 г,,confirmed,True,True,verified_qualifying
+snaq_cream_23,Snaq Fabriq,"Snaq Fabriq Сливочный крем, 23 г",,confirmed,True,True,verified_qualifying
+snaq_vanilla_45,Snaq Fabriq,Snaq Fabriq ванильный крем 45 г,,confirmed,True,True,excluded_whole_pack_energy
+snaq_dubai_45,Snaq Fabriq,Snaq Fabriq фисташка-катаифи 45 г,,confirmed,True,True,excluded_whole_pack_energy
+snaq_hazelnut_120,Snaq Fabriq,Snaq Fabriq шоколад-фундук 120 г,,confirmed,True,True,excluded_whole_pack_energy
+snaq_cream_120,Snaq Fabriq,Snaq Fabriq сливочные 120 г,,confirmed,True,True,excluded_whole_pack_energy
+snaq_hazelnut_100,Snaq Fabriq,Snaq Fabriq шоколад-фундук 100 г,,confirmed,True,True,excluded_whole_pack_energy
+snaq_cream_100,Snaq Fabriq,Snaq Fabriq сливочные 100 г,,confirmed,True,True,excluded_whole_pack_energy
+chika_cream_nut_40,Chikalab,Chikalab сливочно-ореховый десерт 40 г,,confirmed,True,True,excluded_whole_pack_energy
+chika_cookies_cream_40,Chikalab,Chikalab печенье-крем 40 г,,confirmed,True,True,excluded_whole_pack_energy
+bitey_milk_chocolate_15,Bitey,Bitey Молочный шоколад 15 г,,confirmed,True,True,verified_qualifying
+bitey_caramel_15,Bitey,Bitey Карамель 15 г,,confirmed,True,True,verified_qualifying
+akkond_cocoa_16,АККОНД,АККОНД Мне без сахара с какао 16 г,,confirmed,True,True,verified_qualifying
+meni_banana_strawberry_30,MENI,MENI Банан-клубника 30 г,,pending,True,True,pending_source_conflict_or_missing_piece_mass
+pobeda_charged_milk_piece,Победа Вкуса,"Победа Вкуса Charged молочный шоколад, отдельная конфета",,pending,True,True,pending_source_conflict_or_missing_piece_mass
+pobeda_charged_dark_piece,Победа Вкуса,"Победа Charged горький шоколад, отдельная конфета",,pending,True,True,pending_source_conflict_or_missing_piece_mass
+myprotein_crispy_42,Myprotein,Myprotein Crispy Protein Wafer 42 г,,confirmed,False,True,excluded_scope
+myprotein_coated_caramel_40,Myprotein,Myprotein Crispy Coated Wafer Salted Caramel 40 г,,confirmed,False,True,excluded_scope
+myprotein_coated_vanilla_40,Myprotein,Myprotein Crispy Coated Wafer Vanilla 40 г,,confirmed,False,True,excluded_scope
+myprotein_vegan_coated_40,Myprotein,Myprotein Vegan Crispy Coated Wafer 40 г,,confirmed,True,True,excluded_whole_pack_energy
+o12_raspberry_yogurt_50,O12,О 12 Малина-йогурт 50 г,,confirmed,True,True,excluded_whole_pack_energy
+o12_strawberry_yogurt_65,O12,О 12 Клубника-йогурт 65 г,,confirmed,True,True,excluded_whole_pack_energy
+bite_white_tea_lychee_30,Bite,Bite Белый чай-личи 30 г,,confirmed,True,True,excluded_whole_pack_energy

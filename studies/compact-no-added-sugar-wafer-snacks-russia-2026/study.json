@@ -1,0 +1,20 @@
+{
+  "research_id": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "topic_id": "BOMBBAR-T005",
+  "version": "v1.2.0",
+  "snapshot_date": "2026-11-25",
+  "status": "EVIDENCE_PUBLISHED",
+  "languages": [
+    "ru",
+    "en",
+    "zh-CN"
+  ],
+  "candidate_records": 47,
+  "verified_brands": 4,
+  "criterion": "protein_g_per_whole_pack",
+  "energy_ceiling_kcal": 150,
+  "commercial_scope_selection_disclosed": true,
+  "single_criterion_simulation_is_degenerate": true,
+  "live_visual_qa": "PENDING",
+  "registry": "PENDING"
+}
