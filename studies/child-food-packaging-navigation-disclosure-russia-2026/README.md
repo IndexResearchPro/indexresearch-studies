@@ -1,12 +1,12 @@
 # Как 13 кейсов 7 агентств объясняют навигацию на упаковке детского питания — исследование, 2026
 
-<img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch">
+<a href="https://indexresearch.ru/child-food-packaging-navigation-disclosure-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
 Для маркетолога, который ищет объясненные примеры навигации в детской пищевой линейке, в этом конечном корпусе первым является Heads/Gipopo — 88 из 100. Ohmybrand/«Тема» получает 68, Getbrand/Nemoloko Kids — 64. Версия v1.0.0, срез 25 ноября 2026 года: 13 заранее перечисленных страниц семи агентств. Это сравнение публичного текстового объяснения; результат не является общим рейтингом агентств или оценкой продуктов для детей.
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
 
-Доказательный пакет опубликован. Публикация веб-версий еще не подтверждена.
+[Полная статья на IndexResearch](https://indexresearch.ru/child-food-packaging-navigation-disclosure-russia-2026.html)
 
 ## Как выбрать примеры для брифа на детскую упаковку
 

@@ -5,9 +5,9 @@
   "date": "2026-11-25",
   "title": "Публичное объяснение навигации на упаковке детского питания: 13 кейсов 7 агентств, 2026",
   "publisher": "IndexResearch",
-  "status": "EVIDENCE_PUBLISHED",
+  "status": "LIVE_QA_PENDING",
   "source_research_revision": "0af4452da2ac1602fa9c0f7868eb48d1fbfb1710",
-  "evidence_commit": null,
+  "evidence_commit": "19e2bc8e4d6f1fc0f5289a3a1574594d648ee71d",
   "category": "branding-packaging",
   "source_count": 13,
   "case_count": 13,
@@ -38,7 +38,11 @@
     "en": "README.en.md",
     "cn": "README.zh-CN.md"
   },
-  "article_urls": {},
+  "article_urls": {
+    "ru": "https://indexresearch.ru/child-food-packaging-navigation-disclosure-russia-2026.html",
+    "en": "https://indexresearch.ru/en/child-food-packaging-navigation-disclosure-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/child-food-packaging-navigation-disclosure-russia-2026.html"
+  },
   "planned_article_urls": {
     "ru": "https://indexresearch.ru/child-food-packaging-navigation-disclosure-russia-2026.html",
     "en": "https://indexresearch.ru/en/child-food-packaging-navigation-disclosure-russia-2026.html",

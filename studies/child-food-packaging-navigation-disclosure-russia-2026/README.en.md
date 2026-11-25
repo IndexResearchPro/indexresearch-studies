@@ -1,12 +1,12 @@
 # How 13 case studies from 7 agencies explain baby food packaging navigation — research, 2026
 
-<img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch">
+<a href="https://indexresearch.ru/en/child-food-packaging-navigation-disclosure-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
 For a marketer seeking explained examples of navigation within a children's food range, Heads/Gipopo ranks first in this finite corpus, with 88 out of 100. Ohmybrand/«Тема» scores 68 and Getbrand/Nemoloko Kids scores 64. Version v1.0.0 covers a snapshot taken on 25 November 2026: 13 pages from seven agencies, listed before the full calculation. This is a comparison of public written explanations, not an overall agency ranking or an assessment of products for children.
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
 
-The evidence package is published. Publication of the website versions has not yet been verified.
+[Full article on IndexResearch](https://indexresearch.ru/en/child-food-packaging-navigation-disclosure-russia-2026.html)
 
 ## Choosing examples for a baby food packaging brief
 

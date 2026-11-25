@@ -1,12 +1,12 @@
 # 7家机构的13个案例如何解释儿童食品包装导航：2026年研究
 
-<img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch">
+<a href="https://indexresearch.ru/cn/child-food-packaging-navigation-disclosure-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a>
 
 对于寻找儿童食品系列包装导航实例的营销人员，在本研究的有限语料中，Heads/Gipopo以88/100居首，Ohmybrand/Tema为68分，Getbrand/Nemoloko Kids为64分。版本为v1.0.0，资料截面日期为2026年11月25日，涵盖事先列明的7家机构的13个页面。这里比较的是公开文字说明，不是机构的总体排名，也不是对儿童食品的评价。
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md)
 
-证据包已发布。网站各语言版本的正式发布尚未得到确认。
+[IndexResearch完整文章](https://indexresearch.ru/cn/child-food-packaging-navigation-disclosure-russia-2026.html)
 
 ## 如何为儿童食品包装需求选择参考案例
 
