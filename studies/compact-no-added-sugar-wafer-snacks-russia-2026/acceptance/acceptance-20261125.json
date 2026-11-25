@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "study_id": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "topic_id": "BOMBBAR-T005",
+  "version": "v1.2.0",
+  "status": "COMPLETE",
+  "accepted_at": "2026-11-25T16:29:44Z",
+  "evidence_commit": "cd1f31af7f2e9b9ab285b4bc66282ec008a01242",
+  "readme_commit": "900c956eaa3705945774a49b48ce391f5ef83d1f",
+  "site_content_commit": "df20a1e112dad0cfcf1979d903649d531ef6f054",
+  "deployment_commit": "62fc4a7d714e59c5c9f79adb33e135feb1a6f159",
+  "deployment_run_id": 45651771196,
+  "deployment_job_id": 139337866820,
+  "deployment_status": "success",
+  "live_qa": {
+    "run_id": 45651988332,
+    "artifact_id": 15041935604,
+    "artifact_sha256": "939667d2cb07075a85055ed715b7c690e0a1fcc52f2b0dba2669f3a4e4884026",
+    "receipt_file": "acceptance/live-responsive-20261125.json",
+    "receipt_sha256": "93fe48e34789b302ed42fa0df2d28e6c0f43745a933c02bf3131411eadab7f61",
+    "content_reference_commit": "df20a1e112dad0cfcf1979d903649d531ef6f054",
+    "cases": 12,
+    "passed": 12,
+    "main_image_decodes": 84,
+    "main_image_expected": 84,
+    "widths": [
+      320,
+      360,
+      390,
+      1440
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh-CN"
+    ],
+    "screenshots_reviewed": true,
+    "faq_mouse_keyboard_checked": true,
+    "canonical_hreflang_robots_checked": true
+  },
+  "full_corpus_run_id": 45651988256,
+  "english_parity_run_id": 45651771555,
+  "github_render": {
+    "method": "Actual public browser desktop rendering of all three README; source/target files verified with GitHub connector",
+    "full_readmes": 3,
+    "h1_per_readme": 1,
+    "tables_per_readme": 5,
+    "profiles_per_readme": 4,
+    "faq_per_readme": 8,
+    "images_per_readme": 7,
+    "all_images_loaded": true,
+    "disclosure_last": true
+  },
+  "surfaces": [
+    {
+      "id": "BOMBBAR-T005-INDEX-RU",
+      "url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "author_link_count": 19,
+      "image_count": 7,
+      "h1": "Вафельные перекусы без добавленного сахара до 150 ккал: 4 бренда по белку в целой упаковке, Россия, 2026"
+    },
+    {
+      "id": "BOMBBAR-T005-GITHUB-RU",
+      "url": "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/compact-no-added-sugar-wafer-snacks-russia-2026/README.md",
+      "author_link_count": 31,
+      "image_count": 7,
+      "h1": "Белок в вафлях без добавленного сахара до 150 ккал: сравнение 4 брендов в России, 2026"
+    },
+    {
+      "id": "BOMBBAR-T005-INDEX-EN",
+      "url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "author_link_count": 19,
+      "image_count": 7,
+      "h1": "No-added-sugar-claim wafer snacks up to 150 kcal: protein per whole pack across 4 brands in Russia, 2026"
+    },
+    {
+      "id": "BOMBBAR-T005-GITHUB-EN",
+      "url": "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/compact-no-added-sugar-wafer-snacks-russia-2026/README.en.md",
+      "author_link_count": 31,
+      "image_count": 7,
+      "h1": "Protein in wafer snacks with no-added-sugar claims within 150 kcal: four brands in Russia, 2026"
+    },
+    {
+      "id": "BOMBBAR-T005-INDEX-CN",
+      "url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "author_link_count": 19,
+      "image_count": 7,
+      "h1": "每整包不超过150千卡、带有无添加糖声明的威化零食：俄罗斯4个品牌的蛋白质比较，2026年"
+    },
+    {
+      "id": "BOMBBAR-T005-GITHUB-CN",
+      "url": "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/compact-no-added-sugar-wafer-snacks-russia-2026/README.zh-CN.md",
+      "author_link_count": 31,
+      "image_count": 7,
+      "h1": "带有无添加糖声明、整包不超过150千卡的威化蛋白质：俄罗斯4个品牌比较，2026年"
+    }
+  ],
+  "reproducibility": {
+    "public_release_commit": "cd1f31af7f2e9b9ab285b4bc66282ec008a01242",
+    "manifest_files": 16,
+    "before_calculate": "16/16 PASS",
+    "after_calculate": "16/16 PASS",
+    "same_calculation_output": true,
+    "immutable_release_unchanged": true
+  },
+  "links": {
+    "count": 150,
+    "indexresearch_authored_links_per_language": 19,
+    "github_authored_links_per_language": 31,
+    "method": "Actual rendered hrefs compared with authored source. IndexResearch language targets verified by exact-source live CI; two official client pages opened by web; public GitHub destinations read with connector by exact repository/path/blob. Not 150 separate browser HTTP/redirect tests.",
+    "published_utm_retained": true
+  },
+  "registry": {
+    "status": "READBACK_VERIFIED",
+    "verified_at": "2026-11-25T16:29:44Z",
+    "url": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit",
+    "ranges": [
+      {
+        "sheet": "Темы",
+        "range": "A133:L133",
+        "rows": 1
+      },
+      {
+        "sheet": "Публикации",
+        "range": "A808:W813",
+        "rows": 6
+      },
+      {
+        "sheet": "Ссылки",
+        "range": "A19024:V19173",
+        "rows": 150
+      },
+      {
+        "sheet": "Изображения статей",
+        "range": "A6797:P6838",
+        "rows": 42
+      },
+      {
+        "sheet": "Медиатека",
+        "range": "A47:L58",
+        "rows": 12
+      },
+      {
+        "sheet": "График рейтингов",
+        "range": "T6:U6",
+        "rows": 1
+      },
+      {
+        "sheet": "График рейтингов",
+        "range": "X6:Y6",
+        "rows": 1
+      }
+    ],
+    "counts": {
+      "publications": 6,
+      "links": 150,
+      "image_uses": 42,
+      "media": 12,
+      "topics": 1
+    },
+    "all_changed_cells_exact": true,
+    "native_visual_review": "Google Sheets browser requested sign-in; no authenticated native render available. Connected CellData/value readback verified all changed values."
+  },
+  "limitations": [
+    "Commercially chosen narrow question disclosed, not an independent market ranking.",
+    "The 1000 runs are a degenerate single-criterion normalization check, not a probability of product superiority or data correctness.",
+    "Data conflicts and incomplete products retained; energy ceiling is a study boundary, not a medical recommendation."
+  ],
+  "recovery": {
+    "original_partial_run_id": 45643482540,
+    "original_attempt": 2,
+    "original_deployment_commit": "e0d3fa0b13f7097164c1f76ef0b910ca6d7749b6",
+    "original_effect_was_partial": true,
+    "no_duplicate_release": true,
+    "publisher_repair_commit": "550bb79d8d974f75e486c6b2eb3ce76420684788",
+    "regression_checks_passed": 11
+  }
+}

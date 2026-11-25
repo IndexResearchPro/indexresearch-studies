@@ -1,0 +1,1906 @@
+{
+  "schema_version": 1,
+  "research_id": "compact-no-added-sugar-wafer-snacks-russia-2026",
+  "topic_id": "BOMBBAR-T005",
+  "started_at": "2026-11-25T16:14:42.622635+00:00",
+  "status": "PASS",
+  "source_sha": "62fc4a7d714e59c5c9f79adb33e135feb1a6f159",
+  "deployment_sha": "62fc4a7d714e59c5c9f79adb33e135feb1a6f159",
+  "deployment_run_id": "45651771196",
+  "content_reference_commit": "df20a1e112dad0cfcf1979d903649d531ef6f054",
+  "manifest_sha256": "29214469c67231d945d27019cab3c46a05a3d4a59504b68382a321c7ad4ca099",
+  "run_url": "https://github.com/IndexResearchPro/indexresearch/actions/runs/45651988332",
+  "scope": "Live public Chromium renders, fresh contexts, no saved session",
+  "visual_inspection": "Required separately; CI does not assert editorial acceptance",
+  "required_case_count": 12,
+  "required_main_image_decode_count": 84,
+  "cases": [
+    {
+      "id": "ru-320",
+      "url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:14:43.329799+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "ru-320-top.png",
+        "ru-320-full.png",
+        "ru-320-chart-1.png",
+        "ru-320-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "ru",
+      "headings": [
+        "Вафельные перекусы без добавленного сахара до 150 ккал: 4 бренда по белку в целой упаковке, Россия, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "./assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Редакционная иллюстрация: вафельный перекус, кухонные весы и блокнот.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 308,
+          "rendered_height": 129.359375,
+          "visible": true,
+          "alt": "Белок в целой подходящей упаковке: четыре подтвержденных бренда",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "BOMBBAR: вафли «Топленое молоко», индивидуальная упаковка 32 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "АККОНД «Мне без сахара» с какао: отдельная упакованная вафля 16 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Bitey «Молочный шоколад»: индивидуальная упаковка 15 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 308,
+          "rendered_height": 212.515625,
+          "visible": true,
+          "alt": "Подтвержденный результат и верхние границы спорных наблюдений",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 320,
+        "document_width": 320,
+        "client_width": 320,
+        "body_width": 320,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 304,
+          "top": 193.578125,
+          "bottom": 491.828125,
+          "width": 288,
+          "height": 298.25
+        },
+        "header": {
+          "left": 0,
+          "right": 320,
+          "top": 0,
+          "bottom": 71,
+          "width": 320,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:14:48.323640+00:00"
+    },
+    {
+      "id": "ru-360",
+      "url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:14:48.332199+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "ru-360-top.png",
+        "ru-360-full.png",
+        "ru-360-chart-1.png",
+        "ru-360-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "ru",
+      "headings": [
+        "Вафельные перекусы без добавленного сахара до 150 ккал: 4 бренда по белку в целой упаковке, Россия, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "./assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Редакционная иллюстрация: вафельный перекус, кухонные весы и блокнот.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 348,
+          "rendered_height": 146.15625,
+          "visible": true,
+          "alt": "Белок в целой подходящей упаковке: четыре подтвержденных бренда",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "BOMBBAR: вафли «Топленое молоко», индивидуальная упаковка 32 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "АККОНД «Мне без сахара» с какао: отдельная упакованная вафля 16 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Bitey «Молочный шоколад»: индивидуальная упаковка 15 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 348,
+          "rendered_height": 240.109375,
+          "visible": true,
+          "alt": "Подтвержденный результат и верхние границы спорных наблюдений",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 360,
+        "document_width": 360,
+        "client_width": 360,
+        "body_width": 360,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 344,
+          "top": 167.1875,
+          "bottom": 428.15625,
+          "width": 328,
+          "height": 260.96875
+        },
+        "header": {
+          "left": 0,
+          "right": 360,
+          "top": 0,
+          "bottom": 71,
+          "width": 360,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:14:53.055420+00:00"
+    },
+    {
+      "id": "ru-390",
+      "url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:14:53.064636+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "ru-390-top.png",
+        "ru-390-full.png",
+        "ru-390-chart-1.png",
+        "ru-390-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "ru",
+      "headings": [
+        "Вафельные перекусы без добавленного сахара до 150 ккал: 4 бренда по белку в целой упаковке, Россия, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "./assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Редакционная иллюстрация: вафельный перекус, кухонные весы и блокнот.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 378,
+          "rendered_height": 158.75,
+          "visible": true,
+          "alt": "Белок в целой подходящей упаковке: четыре подтвержденных бренда",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "BOMBBAR: вафли «Топленое молоко», индивидуальная упаковка 32 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "АККОНД «Мне без сахара» с какао: отдельная упакованная вафля 16 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Bitey «Молочный шоколад»: индивидуальная упаковка 15 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 378,
+          "rendered_height": 260.8125,
+          "visible": true,
+          "alt": "Подтвержденный результат и верхние границы спорных наблюдений",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 390,
+        "document_width": 390,
+        "client_width": 390,
+        "body_width": 390,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 374,
+          "top": 167.1875,
+          "bottom": 390.875,
+          "width": 358,
+          "height": 223.6875
+        },
+        "header": {
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "bottom": 71,
+          "width": 390,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:14:57.522664+00:00"
+    },
+    {
+      "id": "ru-1440",
+      "url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:14:57.529359+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "ru-1440-top.png",
+        "ru-1440-full.png",
+        "ru-1440-chart-1.png",
+        "ru-1440-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "ru",
+      "headings": [
+        "Вафельные перекусы без добавленного сахара до 150 ккал: 4 бренда по белку в целой упаковке, Россия, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "./assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 38,
+          "rendered_height": 38,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Редакционная иллюстрация: вафельный перекус, кухонные весы и блокнот.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 800,
+          "rendered_height": 336,
+          "visible": true,
+          "alt": "Белок в целой подходящей упаковке: четыре подтвержденных бренда",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "BOMBBAR: вафли «Топленое молоко», индивидуальная упаковка 32 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT: молочный шоколад с хрустящей вафлей, 30 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "АККОНД «Мне без сахара» с какао: отдельная упакованная вафля 16 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Bitey «Молочный шоколад»: индивидуальная упаковка 15 г.",
+          "decoded": true
+        },
+        {
+          "src": "./assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/ru/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 800,
+          "rendered_height": 552,
+          "visible": true,
+          "alt": "Подтвержденный результат и верхние границы спорных наблюдений",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "client_width": 1440,
+        "body_width": 1440,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 160,
+          "right": 1280,
+          "top": 199.84375,
+          "bottom": 389.640625,
+          "width": 1120,
+          "height": 189.796875
+        },
+        "header": {
+          "left": 0,
+          "right": 1440,
+          "top": 0,
+          "bottom": 83,
+          "width": 1440,
+          "height": 83
+        }
+      },
+      "finished_at": "2026-11-25T16:15:02.233524+00:00"
+    },
+    {
+      "id": "en-320",
+      "url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:02.243518+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "en-320-top.png",
+        "en-320-full.png",
+        "en-320-chart-1.png",
+        "en-320-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "en",
+      "headings": [
+        "No-added-sugar-claim wafer snacks up to 150 kcal: protein per whole pack across 4 brands in Russia, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Editorial illustration of a wafer snack, kitchen scale and notebook.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 308,
+          "rendered_height": 129.359375,
+          "visible": true,
+          "alt": "Protein per eligible whole pack across four verified brands",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "BOMBBAR Baked Milk wafers, individually packed at 32 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT milk chocolate with crispy wafer, 30 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "AKKOND “Mne bez sakhara” cocoa wafer, individually wrapped at 16 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Bitey Milk Chocolate wafer in an individual 15-g pack.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 308,
+          "rendered_height": 212.515625,
+          "visible": true,
+          "alt": "Verified result and upper bounds of unresolved observations",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 320,
+        "document_width": 320,
+        "client_width": 320,
+        "body_width": 320,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 304,
+          "top": 167.1875,
+          "bottom": 428.15625,
+          "width": 288,
+          "height": 260.96875
+        },
+        "header": {
+          "left": 0,
+          "right": 320,
+          "top": 0,
+          "bottom": 71,
+          "width": 320,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:15:07.008471+00:00"
+    },
+    {
+      "id": "en-360",
+      "url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:07.021916+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "en-360-top.png",
+        "en-360-full.png",
+        "en-360-chart-1.png",
+        "en-360-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "en",
+      "headings": [
+        "No-added-sugar-claim wafer snacks up to 150 kcal: protein per whole pack across 4 brands in Russia, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Editorial illustration of a wafer snack, kitchen scale and notebook.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 348,
+          "rendered_height": 146.15625,
+          "visible": true,
+          "alt": "Protein per eligible whole pack across four verified brands",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "BOMBBAR Baked Milk wafers, individually packed at 32 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT milk chocolate with crispy wafer, 30 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "AKKOND “Mne bez sakhara” cocoa wafer, individually wrapped at 16 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Bitey Milk Chocolate wafer in an individual 15-g pack.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 348,
+          "rendered_height": 240.109375,
+          "visible": true,
+          "alt": "Verified result and upper bounds of unresolved observations",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 360,
+        "document_width": 360,
+        "client_width": 360,
+        "body_width": 360,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 344,
+          "top": 167.1875,
+          "bottom": 390.875,
+          "width": 328,
+          "height": 223.6875
+        },
+        "header": {
+          "left": 0,
+          "right": 360,
+          "top": 0,
+          "bottom": 71,
+          "width": 360,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:15:11.438143+00:00"
+    },
+    {
+      "id": "en-390",
+      "url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:11.448401+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "en-390-top.png",
+        "en-390-full.png",
+        "en-390-chart-1.png",
+        "en-390-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "en",
+      "headings": [
+        "No-added-sugar-claim wafer snacks up to 150 kcal: protein per whole pack across 4 brands in Russia, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Editorial illustration of a wafer snack, kitchen scale and notebook.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 378,
+          "rendered_height": 158.75,
+          "visible": true,
+          "alt": "Protein per eligible whole pack across four verified brands",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "BOMBBAR Baked Milk wafers, individually packed at 32 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT milk chocolate with crispy wafer, 30 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "AKKOND “Mne bez sakhara” cocoa wafer, individually wrapped at 16 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Bitey Milk Chocolate wafer in an individual 15-g pack.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 378,
+          "rendered_height": 260.8125,
+          "visible": true,
+          "alt": "Verified result and upper bounds of unresolved observations",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 390,
+        "document_width": 390,
+        "client_width": 390,
+        "body_width": 390,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 374,
+          "top": 167.1875,
+          "bottom": 353.59375,
+          "width": 358,
+          "height": 186.40625
+        },
+        "header": {
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "bottom": 71,
+          "width": 390,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:15:15.922114+00:00"
+    },
+    {
+      "id": "en-1440",
+      "url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:15.931579+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "en-1440-top.png",
+        "en-1440-full.png",
+        "en-1440-chart-1.png",
+        "en-1440-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "en",
+      "headings": [
+        "No-added-sugar-claim wafer snacks up to 150 kcal: protein per whole pack across 4 brands in Russia, 2026"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 38,
+          "rendered_height": 38,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Editorial illustration of a wafer snack, kitchen scale and notebook.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 800,
+          "rendered_height": 336,
+          "visible": true,
+          "alt": "Protein per eligible whole pack across four verified brands",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "BOMBBAR Baked Milk wafers, individually packed at 32 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT milk chocolate with crispy wafer, 30 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "AKKOND “Mne bez sakhara” cocoa wafer, individually wrapped at 16 g.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Bitey Milk Chocolate wafer in an individual 15-g pack.",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/en/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 800,
+          "rendered_height": 552,
+          "visible": true,
+          "alt": "Verified result and upper bounds of unresolved observations",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "client_width": 1440,
+        "body_width": 1440,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 160,
+          "right": 1280,
+          "top": 199.84375,
+          "bottom": 389.640625,
+          "width": 1120,
+          "height": 189.796875
+        },
+        "header": {
+          "left": 0,
+          "right": 1440,
+          "top": 0,
+          "bottom": 83,
+          "width": 1440,
+          "height": 83
+        }
+      },
+      "finished_at": "2026-11-25T16:15:20.965726+00:00"
+    },
+    {
+      "id": "cn-320",
+      "url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:20.978999+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "cn-320-top.png",
+        "cn-320-full.png",
+        "cn-320-chart-1.png",
+        "cn-320-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "zh-CN",
+      "headings": [
+        "每整包不超过150千卡、带有无添加糖声明的威化零食：俄罗斯4个品牌的蛋白质比较，2026年"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "编辑插图：威化零食、厨房秤与记录本。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 308,
+          "rendered_height": 129.359375,
+          "visible": true,
+          "alt": "四个已核实品牌每合格整包的蛋白质",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "BOMBBAR烘焙牛奶威化，32克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT牛奶巧克力脆威化，30克。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "АККОНД“Мне без сахара”可可威化，16克独立密封。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 288,
+          "rendered_height": 162,
+          "visible": true,
+          "alt": "Bitey牛奶巧克力威化，15克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 308,
+          "rendered_height": 212.515625,
+          "visible": true,
+          "alt": "已核实结果与未解决观察的上界",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 320,
+        "document_width": 320,
+        "client_width": 320,
+        "body_width": 320,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 304,
+          "top": 167.1875,
+          "bottom": 353.59375,
+          "width": 288,
+          "height": 186.40625
+        },
+        "header": {
+          "left": 0,
+          "right": 320,
+          "top": 0,
+          "bottom": 71,
+          "width": 320,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:15:25.286317+00:00"
+    },
+    {
+      "id": "cn-360",
+      "url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:25.300054+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "cn-360-top.png",
+        "cn-360-full.png",
+        "cn-360-chart-1.png",
+        "cn-360-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "zh-CN",
+      "headings": [
+        "每整包不超过150千卡、带有无添加糖声明的威化零食：俄罗斯4个品牌的蛋白质比较，2026年"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "编辑插图：威化零食、厨房秤与记录本。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 348,
+          "rendered_height": 146.15625,
+          "visible": true,
+          "alt": "四个已核实品牌每合格整包的蛋白质",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "BOMBBAR烘焙牛奶威化，32克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT牛奶巧克力脆威化，30克。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "АККОНД“Мне без сахара”可可威化，16克独立密封。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 328,
+          "rendered_height": 184.5,
+          "visible": true,
+          "alt": "Bitey牛奶巧克力威化，15克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 348,
+          "rendered_height": 240.109375,
+          "visible": true,
+          "alt": "已核实结果与未解决观察的上界",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 360,
+        "document_width": 360,
+        "client_width": 360,
+        "body_width": 360,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 344,
+          "top": 167.1875,
+          "bottom": 353.59375,
+          "width": 328,
+          "height": 186.40625
+        },
+        "header": {
+          "left": 0,
+          "right": 360,
+          "top": 0,
+          "bottom": 71,
+          "width": 360,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:15:29.620686+00:00"
+    },
+    {
+      "id": "cn-390",
+      "url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:29.631320+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "cn-390-top.png",
+        "cn-390-full.png",
+        "cn-390-chart-1.png",
+        "cn-390-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "zh-CN",
+      "headings": [
+        "每整包不超过150千卡、带有无添加糖声明的威化零食：俄罗斯4个品牌的蛋白质比较，2026年"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 33,
+          "rendered_height": 36,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "编辑插图：威化零食、厨房秤与记录本。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 378,
+          "rendered_height": 158.75,
+          "visible": true,
+          "alt": "四个已核实品牌每合格整包的蛋白质",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "BOMBBAR烘焙牛奶威化，32克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT牛奶巧克力脆威化，30克。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "АККОНД“Мне без сахара”可可威化，16克独立密封。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 358,
+          "rendered_height": 201.375,
+          "visible": true,
+          "alt": "Bitey牛奶巧克力威化，15克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 378,
+          "rendered_height": 260.8125,
+          "visible": true,
+          "alt": "已核实结果与未解决观察的上界",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 390,
+        "document_width": 390,
+        "client_width": 390,
+        "body_width": 390,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 16,
+          "right": 374,
+          "top": 167.1875,
+          "bottom": 316.3125,
+          "width": 358,
+          "height": 149.125
+        },
+        "header": {
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "bottom": 71,
+          "width": 390,
+          "height": 71
+        }
+      },
+      "finished_at": "2026-11-25T16:15:34.037396+00:00"
+    },
+    {
+      "id": "cn-1440",
+      "url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "started_at": "2026-11-25T16:15:34.046696+00:00",
+      "status": "PASS",
+      "errors": [],
+      "screenshots": [
+        "cn-1440-top.png",
+        "cn-1440-full.png",
+        "cn-1440-chart-1.png",
+        "cn-1440-chart-2.png"
+      ],
+      "http_status": 200,
+      "final_url": "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+      "lang": "zh-CN",
+      "headings": [
+        "每整包不超过150千卡、带有无添加糖声明的威化零食：俄罗斯4个品牌的蛋白质比较，2026年"
+      ],
+      "h1_visible": true,
+      "header_visible": true,
+      "images": [
+        {
+          "src": "../assets/indexresearch-shield.png",
+          "current_src": "https://indexresearch.ru/assets/indexresearch-shield.png",
+          "in_main": false,
+          "complete": true,
+          "natural_width": 850,
+          "natural_height": 850,
+          "rendered_width": 38,
+          "rendered_height": 38,
+          "visible": true,
+          "alt": "",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/00-editorial-cover.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "编辑插图：威化零食、厨房秤与记录本。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/protein.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 336,
+          "rendered_width": 800,
+          "rendered_height": 336,
+          "visible": true,
+          "alt": "四个已核实品牌每合格整包的蛋白质",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/01-bombbar-baked-milk.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "BOMBBAR烘焙牛奶威化，32克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/02-snaqfit-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Snaq Fabriq SNAQFIT牛奶巧克力脆威化，30克。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/03-akkond-cocoa.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "АККОНД“Мне без сахара”可可威化，16克独立密封。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/photos/04-bitey-milk-chocolate.jpg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 1200,
+          "natural_height": 675,
+          "rendered_width": 680,
+          "rendered_height": 382.5,
+          "visible": true,
+          "alt": "Bitey牛奶巧克力威化，15克独立包装。",
+          "decoded": true
+        },
+        {
+          "src": "../assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "current_src": "https://indexresearch.ru/assets/research/compact-no-added-sugar-wafer-snacks-russia-2026/cn/bounds.svg",
+          "in_main": true,
+          "complete": true,
+          "natural_width": 800,
+          "natural_height": 552,
+          "rendered_width": 800,
+          "rendered_height": 552,
+          "visible": true,
+          "alt": "已核实结果与未解决观察的上界",
+          "decoded": true
+        }
+      ],
+      "main_image_count": 7,
+      "expected_main_image_count": 7,
+      "layout": {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "client_width": 1440,
+        "body_width": 1440,
+        "horizontal_overflow": false,
+        "h1": {
+          "left": 160,
+          "right": 1280,
+          "top": 199.84375,
+          "bottom": 326.375,
+          "width": 1120,
+          "height": 126.53125
+        },
+        "header": {
+          "left": 0,
+          "right": 1440,
+          "top": 0,
+          "bottom": 83,
+          "width": 1440,
+          "height": 83
+        }
+      },
+      "finished_at": "2026-11-25T16:15:38.998857+00:00"
+    }
+  ],
+  "errors": [],
+  "browser_version": "159.0.8154.6",
+  "finished_at": "2026-11-25T16:15:39.062016+00:00"
+}

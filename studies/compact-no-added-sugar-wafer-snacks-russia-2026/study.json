@@ -3,7 +3,7 @@
   "topic_id": "BOMBBAR-T005",
   "version": "v1.2.0",
   "snapshot_date": "2026-11-25",
-  "status": "EVIDENCE_PUBLISHED",
+  "status": "COMPLETE",
   "languages": [
     "ru",
     "en",
@@ -15,6 +15,20 @@
   "energy_ceiling_kcal": 150,
   "commercial_scope_selection_disclosed": true,
   "single_criterion_simulation_is_degenerate": true,
-  "live_visual_qa": "PENDING",
-  "registry": "PENDING"
+  "live_visual_qa": "PASS",
+  "registry": "VERIFIED",
+  "completed_at": "2026-11-25T16:29:44Z",
+  "evidence_commit": "cd1f31af7f2e9b9ab285b4bc66282ec008a01242",
+  "content_commit": "df20a1e112dad0cfcf1979d903649d531ef6f054",
+  "deployment_commit": "62fc4a7d714e59c5c9f79adb33e135feb1a6f159",
+  "urls": [
+    "https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+    "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/compact-no-added-sugar-wafer-snacks-russia-2026/README.md",
+    "https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+    "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/compact-no-added-sugar-wafer-snacks-russia-2026/README.en.md",
+    "https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html",
+    "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/compact-no-added-sugar-wafer-snacks-russia-2026/README.zh-CN.md"
+  ],
+  "acceptance_receipt": "acceptance/acceptance-20261125.json",
+  "live_qa_receipt": "acceptance/live-responsive-20261125.json"
 }
