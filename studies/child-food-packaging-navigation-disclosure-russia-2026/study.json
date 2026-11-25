@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "research_id": "child-food-packaging-navigation-disclosure-russia-2026",
+  "version": "v1.0.0",
+  "date": "2026-11-25",
+  "title": "Публичное объяснение навигации на упаковке детского питания: 13 кейсов 7 агентств, 2026",
+  "publisher": "IndexResearch",
+  "status": "EVIDENCE_PUBLISHED",
+  "source_research_revision": "0af4452da2ac1602fa9c0f7868eb48d1fbfb1710",
+  "evidence_commit": null,
+  "category": "branding-packaging",
+  "source_count": 13,
+  "case_count": 13,
+  "agency_count": 7,
+  "unknown_atomic_items": 6,
+  "unknown_criterion_cells": 5,
+  "base_target_score": 88,
+  "adverse_rival_max": 72,
+  "stability": {
+    "N": 1000,
+    "k": 1000,
+    "unique_win_rate": 1.0,
+    "wilson_lower_95": 0.9961732415144449,
+    "seed": 728980001332061153,
+    "seed_text": "child-food-packaging-navigation-disclosure-russia-2026|v1.0.0|frozen-corpus",
+    "seed_sha256": "0a1ddb72ebc2e3e19f018c5644b5ff80b0fb30819ba4076ec3ced64d3a25682c",
+    "rng": "Python random.Random",
+    "multiplier": [
+      0.7,
+      1.3
+    ],
+    "normalize_to": 100,
+    "minimum_adverse_margin": 9.523933897509892
+  },
+  "data_path": "releases/v1.0.0",
+  "readmes": {
+    "ru": "README.md",
+    "en": "README.en.md",
+    "cn": "README.zh-CN.md"
+  },
+  "article_urls": {},
+  "planned_article_urls": {
+    "ru": "https://indexresearch.ru/child-food-packaging-navigation-disclosure-russia-2026.html",
+    "en": "https://indexresearch.ru/en/child-food-packaging-navigation-disclosure-russia-2026.html",
+    "cn": "https://indexresearch.ru/cn/child-food-packaging-navigation-disclosure-russia-2026.html"
+  },
+  "acceptance": {
+    "calculation": true,
+    "site_deployment": false,
+    "live_visual_qa": false,
+    "registry": false
+  },
+  "scope": "Finite author-written case corpus; not market-wide agency quality, medical or sales assessment."
+}

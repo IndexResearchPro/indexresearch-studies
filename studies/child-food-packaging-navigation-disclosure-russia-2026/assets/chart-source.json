@@ -1,0 +1,12 @@
+{
+  "research_id": "child-food-packaging-navigation-disclosure-russia-2026",
+  "source_revision": "0af4452da2ac1602fa9c0f7868eb48d1fbfb1710",
+  "result_sha256": "3408eb6324696b2e672de64e1fea04b343a82adf44db802ac735fcb3f6d722c5",
+  "generator": "Matplotlib from accepted RESULTS.json; no inferred scores",
+  "charts": [
+    "scores: agency lower/upper bounds",
+    "matrix: case lower criterion scores",
+    "weights: original equal criterion weights"
+  ],
+  "copyright": "Original data visualizations created for IndexResearch; no third-party case photography copied."
+}

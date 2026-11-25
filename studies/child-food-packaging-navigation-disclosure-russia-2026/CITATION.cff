@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the finite corpus and the disclosure limits together with its result."
+title: "Публичное объяснение навигации на упаковке детского питания: 13 кейсов 7 агентств, 2026"
+type: dataset
+version: "v1.0.0"
+date-released: "2026-11-25"
+authors:
+  - name: "IndexResearch"
+url: "https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/child-food-packaging-navigation-disclosure-russia-2026"

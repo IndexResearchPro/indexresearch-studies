@@ -1,0 +1,8 @@
+entity_id,agency,rank,score,score_low,score_high,best_base_case,best_upper_case,case_count
+heads,Heads,1,88.0,88.0,88.0,HEADS_GIPOPO,HEADS_GIPOPO,2
+ohmybrand,Ohmybrand,2,68.0,68.0,72.0,OHMY_TEMA,OHMY_TEMA,1
+getbrand,Getbrand,3,64.0,64.0,64.0,GETBRAND_NEMOLOKO,GETBRAND_NEMOLOKO,2
+kian,KIAN,4,60.0,60.0,60.0,KIAN_FRUTO,KIAN_FRUTO,2
+depot,Depot,5,48.0,48.0,48.0,DEPOT_NUTRILAK_2015,DEPOT_NUTRILAK_2015,2
+clever-branding,Clёver Branding,6,36.0,36.0,48.0,CLEVER_AGUSHA,CLEVER_AGUSHA,1
+ddvb,DDVB,7,24.0,24.0,24.0,DDVB_INFANY,DDVB_INFANY,3

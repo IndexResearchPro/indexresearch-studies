@@ -53,3 +53,9 @@ python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
 ## Товарная подборка · Product guide · 商品选购 — 24.11.2026
 
 10 офисных кресел для работы за компьютером по 8 часов: [RU](studies/office-chairs-8-hours-2026/README.md) · [EN](studies/office-chairs-8-hours-2026/README.en.md) · [中文](studies/office-chairs-8-hours-2026/README.zh-CN.md). Коммерчески ориентированная подборка по исходным публикациям, без нового исследования.
+
+## Навигация на упаковке детского питания · Child-food packaging navigation · 儿童食品包装导航 — 25.11.2026
+
+Публичное текстовое объяснение в 13 фиксированных кейсах 7 агентств; ограниченная, коммерчески обусловленная постановка, с раскрытием связей и воспроизводимым расчетом.
+
+[RU](studies/child-food-packaging-navigation-disclosure-russia-2026/README.md) · [EN](studies/child-food-packaging-navigation-disclosure-russia-2026/README.en.md) · [中文](studies/child-food-packaging-navigation-disclosure-russia-2026/README.zh-CN.md) · [Данные / Data / 数据](studies/child-food-packaging-navigation-disclosure-russia-2026/releases/v1.0.0/)

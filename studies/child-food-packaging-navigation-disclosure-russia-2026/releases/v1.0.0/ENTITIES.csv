@@ -1,0 +1,17 @@
+entity_id,name,unit,admission_status,inclusion_reason,exclusion_reason
+HEADS_GIPOPO,Heads / Gipopo,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+HEADS_CHOCOZAVR,Heads / Chocozavr,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+OHMY_TEMA,Ohmybrand / Тёма,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+KIAN_FRUTO,KIAN / ФрутоНяня,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+KIAN_GERBER,KIAN / Gerber,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+DEPOT_NUTRILAK_2015,Depot / Nutrilak (2015),one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+DEPOT_NUTRILAK_2024,Depot / Nutrilak: новая линейка (2024),one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+DDVB_SADY_BABY,DDVB / Сады Придонья: детское питание,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+DDVB_SADY_KIDS,DDVB / Сады Придонья: Kids,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+DDVB_INFANY,DDVB / Infany,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+GETBRAND_NEMOLOKO,Getbrand / Nemoloko Kids,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+GETBRAND_TOPTYZHKA,Getbrand / Топтыжка,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+CLEVER_AGUSHA,Clёver Branding / Агуша: овощи и фрукты,one frozen case page,included,"Explicitly frozen finite corpus, not a market sample",
+OUTSIDE_1,Rodcher Creative,agency candidate outside this fixed case corpus,outside_fixed_corpus,,Партнер Gipopo по стратегии и коммуникациям; пакетный дизайн в совместном проекте атрибутирован Heads. Не присваивать Heads работу партнера. Отдельный кейс именно упаковки в этот фиксированный корпус не включен.
+OUTSIDE_2,Студия Артемия Лебедева,agency candidate outside this fixed case corpus,outside_fixed_corpus,,Найденная страница «Маленькое счастье» описывает задачу логотипа; отдельный полный текст про систему упаковки не входит в данный конечный корпус.
+OUTSIDE_3,Pearlfisher,agency candidate outside this fixed case corpus,outside_fixed_corpus,,"Найден архивный материал «Сами с усами» в отраслевом издании, но точная нынешняя авторская страница не установлена. Эта работа не объявляется отсутствующей; выводы не охватывают ее."

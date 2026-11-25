@@ -1,0 +1,437 @@
+{
+  "research_id": "child-food-packaging-navigation-disclosure-russia-2026",
+  "version": "v1.0.0",
+  "protocol_sha256": "087e49b2b99b7d5751396344461cd43546ab6a28e464100aee973c7121ef4f79",
+  "protocol_git_blob": "a16879667d4e6e3ab4b23820e422da9c67a93a67",
+  "scope": "13 fixed readable case pages, seven agencies, textual disclosure only",
+  "target": "Heads",
+  "criteria_order": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "weights": [
+    20,
+    20,
+    20,
+    20,
+    20
+  ],
+  "aggregation": "best whole case per agency; reselected in each trial; no cross-case cell mixing",
+  "tie_epsilon": 1e-09,
+  "missing_policy": "lower bound for all; target lower versus each rival upper",
+  "unknown_atomic_items": 6,
+  "base_unique_first": true,
+  "adverse_unique_first": true,
+  "base_margin": 20.0,
+  "adverse_margin": 16.0,
+  "agencies": [
+    {
+      "entity_id": "heads",
+      "agency": "Heads",
+      "rank": 1,
+      "score": 88.0,
+      "score_low": 88.0,
+      "score_high": 88.0,
+      "best_base_case": "HEADS_GIPOPO",
+      "best_upper_case": "HEADS_GIPOPO",
+      "case_count": 2
+    },
+    {
+      "entity_id": "ohmybrand",
+      "agency": "Ohmybrand",
+      "rank": 2,
+      "score": 68.0,
+      "score_low": 68.0,
+      "score_high": 72.0,
+      "best_base_case": "OHMY_TEMA",
+      "best_upper_case": "OHMY_TEMA",
+      "case_count": 1
+    },
+    {
+      "entity_id": "getbrand",
+      "agency": "Getbrand",
+      "rank": 3,
+      "score": 64.0,
+      "score_low": 64.0,
+      "score_high": 64.0,
+      "best_base_case": "GETBRAND_NEMOLOKO",
+      "best_upper_case": "GETBRAND_NEMOLOKO",
+      "case_count": 2
+    },
+    {
+      "entity_id": "kian",
+      "agency": "KIAN",
+      "rank": 4,
+      "score": 60.0,
+      "score_low": 60.0,
+      "score_high": 60.0,
+      "best_base_case": "KIAN_FRUTO",
+      "best_upper_case": "KIAN_FRUTO",
+      "case_count": 2
+    },
+    {
+      "entity_id": "depot",
+      "agency": "Depot",
+      "rank": 5,
+      "score": 48.0,
+      "score_low": 48.0,
+      "score_high": 48.0,
+      "best_base_case": "DEPOT_NUTRILAK_2015",
+      "best_upper_case": "DEPOT_NUTRILAK_2015",
+      "case_count": 2
+    },
+    {
+      "entity_id": "clever-branding",
+      "agency": "Clёver Branding",
+      "rank": 6,
+      "score": 36.0,
+      "score_low": 36.0,
+      "score_high": 48.0,
+      "best_base_case": "CLEVER_AGUSHA",
+      "best_upper_case": "CLEVER_AGUSHA",
+      "case_count": 1
+    },
+    {
+      "entity_id": "ddvb",
+      "agency": "DDVB",
+      "rank": 7,
+      "score": 24.0,
+      "score_low": 24.0,
+      "score_high": 24.0,
+      "best_base_case": "DDVB_INFANY",
+      "best_upper_case": "DDVB_INFANY",
+      "case_count": 3
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "HEADS_GIPOPO",
+      "agency": "Heads",
+      "brand": "Gipopo",
+      "criteria_low": [
+        5,
+        5,
+        4,
+        4,
+        4
+      ],
+      "criteria_high": [
+        5,
+        5,
+        4,
+        4,
+        4
+      ],
+      "score": 88.0,
+      "score_low": 88.0,
+      "score_high": 88.0,
+      "rank": 1
+    },
+    {
+      "case_id": "OHMY_TEMA",
+      "agency": "Ohmybrand",
+      "brand": "Тёма",
+      "criteria_low": [
+        2,
+        5,
+        4,
+        4,
+        2
+      ],
+      "criteria_high": [
+        2,
+        5,
+        5,
+        4,
+        2
+      ],
+      "score": 68.0,
+      "score_low": 68.0,
+      "score_high": 72.0,
+      "rank": 2
+    },
+    {
+      "case_id": "GETBRAND_NEMOLOKO",
+      "agency": "Getbrand",
+      "brand": "Nemoloko Kids",
+      "criteria_low": [
+        5,
+        4,
+        2,
+        3,
+        2
+      ],
+      "criteria_high": [
+        5,
+        4,
+        2,
+        3,
+        2
+      ],
+      "score": 64.0,
+      "score_low": 64.0,
+      "score_high": 64.0,
+      "rank": 3
+    },
+    {
+      "case_id": "KIAN_FRUTO",
+      "agency": "KIAN",
+      "brand": "ФрутоНяня",
+      "criteria_low": [
+        3,
+        4,
+        2,
+        3,
+        3
+      ],
+      "criteria_high": [
+        3,
+        4,
+        2,
+        3,
+        3
+      ],
+      "score": 60.0,
+      "score_low": 60.0,
+      "score_high": 60.0,
+      "rank": 4
+    },
+    {
+      "case_id": "DEPOT_NUTRILAK_2015",
+      "agency": "Depot",
+      "brand": "Nutrilak (2015)",
+      "criteria_low": [
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "criteria_high": [
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "score": 48.0,
+      "score_low": 48.0,
+      "score_high": 48.0,
+      "rank": 5
+    },
+    {
+      "case_id": "HEADS_CHOCOZAVR",
+      "agency": "Heads",
+      "brand": "Chocozavr",
+      "criteria_low": [
+        1,
+        3,
+        2,
+        3,
+        3
+      ],
+      "criteria_high": [
+        1,
+        3,
+        2,
+        3,
+        3
+      ],
+      "score": 48.0,
+      "score_low": 48.0,
+      "score_high": 48.0,
+      "rank": 5
+    },
+    {
+      "case_id": "KIAN_GERBER",
+      "agency": "KIAN",
+      "brand": "Gerber",
+      "criteria_low": [
+        0,
+        4,
+        2,
+        3,
+        2
+      ],
+      "criteria_high": [
+        0,
+        4,
+        2,
+        3,
+        2
+      ],
+      "score": 44.0,
+      "score_low": 44.0,
+      "score_high": 44.0,
+      "rank": 7
+    },
+    {
+      "case_id": "CLEVER_AGUSHA",
+      "agency": "Clёver Branding",
+      "brand": "Агуша: овощи и фрукты",
+      "criteria_low": [
+        1,
+        1,
+        0,
+        3,
+        4
+      ],
+      "criteria_high": [
+        1,
+        3,
+        1,
+        3,
+        4
+      ],
+      "score": 36.0,
+      "score_low": 36.0,
+      "score_high": 48.0,
+      "rank": 8
+    },
+    {
+      "case_id": "DEPOT_NUTRILAK_2024",
+      "agency": "Depot",
+      "brand": "Nutrilak: новая линейка (2024)",
+      "criteria_low": [
+        0,
+        4,
+        0,
+        3,
+        2
+      ],
+      "criteria_high": [
+        0,
+        4,
+        0,
+        3,
+        2
+      ],
+      "score": 36.0,
+      "score_low": 36.0,
+      "score_high": 36.0,
+      "rank": 8
+    },
+    {
+      "case_id": "DDVB_INFANY",
+      "agency": "DDVB",
+      "brand": "Infany",
+      "criteria_low": [
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "criteria_high": [
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "score": 24.0,
+      "score_low": 24.0,
+      "score_high": 24.0,
+      "rank": 10
+    },
+    {
+      "case_id": "DDVB_SADY_BABY",
+      "agency": "DDVB",
+      "brand": "Сады Придонья: детское питание",
+      "criteria_low": [
+        0,
+        0,
+        0,
+        4,
+        1
+      ],
+      "criteria_high": [
+        0,
+        0,
+        0,
+        4,
+        1
+      ],
+      "score": 20.0,
+      "score_low": 20.0,
+      "score_high": 20.0,
+      "rank": 11
+    },
+    {
+      "case_id": "DDVB_SADY_KIDS",
+      "agency": "DDVB",
+      "brand": "Сады Придонья: Kids",
+      "criteria_low": [
+        0,
+        0,
+        1,
+        3,
+        1
+      ],
+      "criteria_high": [
+        0,
+        0,
+        2,
+        3,
+        1
+      ],
+      "score": 20.0,
+      "score_low": 20.0,
+      "score_high": 24.0,
+      "rank": 11
+    },
+    {
+      "case_id": "GETBRAND_TOPTYZHKA",
+      "agency": "Getbrand",
+      "brand": "Топтыжка",
+      "criteria_low": [
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "criteria_high": [
+        1,
+        0,
+        0,
+        3,
+        1
+      ],
+      "score": 16.0,
+      "score_low": 16.0,
+      "score_high": 20.0,
+      "rank": 13
+    }
+  ],
+  "stability": {
+    "N": 1000,
+    "k": 1000,
+    "unique_win_rate": 1.0,
+    "wilson_lower_95": 0.9961732415144449,
+    "seed": 728980001332061153,
+    "seed_text": "child-food-packaging-navigation-disclosure-russia-2026|v1.0.0|frozen-corpus",
+    "seed_sha256": "0a1ddb72ebc2e3e19f018c5644b5ff80b0fb30819ba4076ec3ced64d3a25682c",
+    "rng": "Python random.Random",
+    "multiplier": [
+      0.7,
+      1.3
+    ],
+    "normalize_to": 100,
+    "minimum_adverse_margin": 9.523933897509892
+  },
+  "calculation_status": "ACCEPTED_FINITE_CORPUS_CALCULATION",
+  "public_release_status": "not_asserted_by_calculator",
+  "limitations": [
+    "No independent second coder.",
+    "Agency-authored text, not verified commercial effectiveness.",
+    "Purposive finite corpus selected after exploratory reading.",
+    "Unequal number of case pages per agency; best-case result is an opportunity measure within this corpus only.",
+    "Images and unlisted pages are not measured.",
+    "A zero is missing textual explanation, not missing agency capability.",
+    "Lower positions with overlapping intervals are not a definitive quality ordering."
+  ]
+}

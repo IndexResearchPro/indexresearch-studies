@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "research_id": "child-food-packaging-navigation-disclosure-russia-2026",
+  "version": "v1.0.0",
+  "checked_at": "2026-11-25T15:11:10.750Z",
+  "scope": "Pre-publication local calculation and source coding QA only",
+  "status": "PASSED_WITH_DISCLOSED_LIMITATIONS",
+  "protocol": {
+    "commit": "b390f50a5fc4324466600a483558f087cb2045be",
+    "git_blob": "a16879667d4e6e3ab4b23820e422da9c67a93a67",
+    "exact_readback": true,
+    "frozen_before_full_calculation": true,
+    "exploratory_reading_before_freeze": true,
+    "blind_preregistration": false
+  },
+  "source_review": {
+    "primary_case_pages_read": 13,
+    "agencies": 7,
+    "atomic_observations": 325,
+    "criterion_records": 65,
+    "unknown_atomic_items": 6,
+    "unknown_criterion_cells": 5,
+    "unavailable_case_texts": 0,
+    "images_not_scored": true,
+    "boilerplate_excluded": true,
+    "negative_evidence_is_missing_explanation_only": true,
+    "independent_second_coder": false,
+    "medical_or_sales_validation": false,
+    "ownership_date_discrepancy": "Heads case states 2023 for the Heinz transition; external reporting places transaction in 2024. This chronology is not scored or repeated as a verified 2023 transaction.",
+    "partner_roles": "Rodcher Creative strategy/communications and Heads packaging roles distinguished; no credit for partner work.",
+    "no_causal_claims": true,
+    "context_sources": [
+      "https://www.interfax.ru/business/970465",
+      "https://www.sostav.ru/publication/iz-heinz-baby-v-gipopo-72064.html"
+    ]
+  },
+  "calculation": {
+    "python_version": "3.12.14",
+    "standard_library_only": true,
+    "network_required": false,
+    "unique_ids": true,
+    "complete_matrix": true,
+    "evidence_links_resolve": true,
+    "group_scale_bounds_checked": true,
+    "weights_sum": 100,
+    "protocol_bytes_match_git_blob": true,
+    "exact_reproduction_from_other_cwd": true,
+    "derived_files_verified": 10,
+    "target_base": 88,
+    "max_other_base": 68,
+    "target_lower": 88,
+    "max_other_upper": 72,
+    "N": 1000,
+    "k": 1000,
+    "wilson_lower_95": 0.9961732415144449,
+    "minimum_adverse_margin": 9.523933897509892
+  },
+  "disclosure": {
+    "commercial_relation_visible": true,
+    "sponsor_influenced_scope_visible": true,
+    "previous_unsuccessful_hypotheses_disclosed": true,
+    "unequal_case_counts_visible": true,
+    "no_whole_market_claim": true
+  },
+  "public_status": {
+    "github_published": false,
+    "site_deployed": false,
+    "live_check": false,
+    "registry_written": false
+  },
+  "limitations": [
+    "Finite purposive corpus; no market generalization.",
+    "Only author-written textual disclosure is scored.",
+    "One coder; no independent replication of semantic coding.",
+    "Dates of historical case studies do not verify current personnel or offers.",
+    "Lower ranks may overlap under interpretive uncertainty."
+  ]
+}
