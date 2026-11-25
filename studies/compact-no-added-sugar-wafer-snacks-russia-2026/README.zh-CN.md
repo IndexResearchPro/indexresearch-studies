@@ -1,4 +1,4 @@
-# 150千卡以内整包威化的蛋白质：俄罗斯4个品牌的证据、筛选与计算，2026年
+# 带有无添加糖声明、整包不超过150千卡的威化蛋白质：俄罗斯4个品牌比较，2026年
 
 <a href="https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
@@ -32,9 +32,9 @@ v1.2.0最终计算前已经冻结计算协议。这是在此前研究之后固�
 
 | 指标 | 权重 | 规则 |
 | --- | --- | --- |
-| 蛋白质，克 | 100 | P = protein_100g × mass_g / 100; score = 100 × P / 8 |
-| 能量，千卡 | — | whole pack ≤ 150 kcal |
-| 状态 | — | verified_qualifying; ties ≤ 1e-9 |
+| 每整包蛋白质 | 100 | 每100克蛋白质×包装重量/100；得分＝100×每包蛋白质/8克 |
+| 每整包能量 | — | 不超过150千卡，含上限 |
+| 准入与并列 | — | 仅已核实合格记录；10⁻⁹以内并列 |
 
 每100克营养值同时按包装重量乘以重量/100。完全相同包装的直接每包数据作为另一条观察保留。上限包括150千卡，但153千卡不通过。不得从一个说明取蛋白质、从另一个说明取更方便的能量。
 
@@ -44,7 +44,7 @@ v1.2.0最终计算前已经冻结计算协议。这是在此前研究之后固�
 
 | 名次 | 品牌和代表产品 | 整包，克 | 蛋白质，克 | 能量，千卡 | 得分 / 100 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | BOMBBAR · 32 g | 32 | 8 | 136.32–140.8 | 100 |
+| 1 | BOMBBAR | 32 | 8 | 136.32–140.8 | 100 |
 | 2 | Snaq Fabriq · SNAQFIT | 30 | 3 | 138–138.3 | 37.5 |
 | 3 | АККОНД · 可可 | 16 | 1.6 | 71.84–78.24 | 20 |
 | 4 | Bitey · 牛奶巧克力 | 15 | 0.9 | 78 | 11.25 |
@@ -111,14 +111,14 @@ bitey_milk_chocolate_15把Bite官方配料与营养值同Uteka准确商品439849
 
 | 产品 | 数值或说明 | 意义 |
 | --- | --- | --- |
-| ВкусВилл · 40 g | 10.4 g; 194.4–196.4 kcal | 超过150千卡 |
-| BOMBBAR · 45 g | 9.9 g; ≈195–196 kcal | 超过150千卡 |
-| Bite · white tea / lychee · 30 g | 1.5 g; 153 kcal | 超过150千卡 |
-| Myprotein · coated · 40 g | 12 g; 214–221 kcal; low sugar | 不在范围内 |
-| ProteinRex · 50 g | 6.5 g / 104 kcal ↔ 8.5 g / 275 kcal | 尚未解决; 不能拼接来源基准 |
-| Beauty.Fit · 40 g | 4.24 g / 79.6 kcal ↔ 10.6 g / 199 kcal | 尚未解决 |
-| MENI · 30 g | 1.35 g / 115.2 kcal ↔ 1.95 g / 156 kcal | 尚未解决 |
-| Победа Вкуса · 单颗 | ≤2.8125 g; 重量未知 | 尚未解决 |
+| ВкусВилл · 40克 | 10.4克; 194.4–196.4 千卡 | 超过150千卡 |
+| BOMBBAR · 45克 | 9.9克; ≈195–196 千卡 | 超过150千卡 |
+| Bite · 白茶 / 荔枝 · 30克 | 1.5克; 153 千卡 | 超过150千卡 |
+| Myprotein · 涂层威化 · 40克 | 12克; 214–221 千卡; 低糖声明 | 不在范围内 |
+| ProteinRex · 50克 | 6.5克 / 104 千卡 ↔ 8.5克 / 275 千卡 | 尚未解决; 不能拼接来源基准 |
+| Beauty.Fit · 40克 | 4.24克 / 79.6 千卡 ↔ 10.6克 / 199 千卡 | 尚未解决 |
+| MENI · 30克 | 1.35克 / 115.2 千卡 ↔ 1.95克 / 156 千卡 | 尚未解决 |
+| Победа Вкуса · 单颗 | ≤2.8125克; 重量未知 | 尚未解决 |
 
 ## 冲突来源可能改变什么
 
@@ -182,23 +182,23 @@ Beauty.Fit某来源指40克整包10.6克蛋白质、199千卡；另一来源把�
 
 | 数据与方法 | 数值或说明 |
 | --- | --- |
-| [METHODOLOGY.md](releases/v1.2.0/METHODOLOGY.md) | Versioned research evidence |
-| [protocol.json](releases/v1.2.0/protocol.json) | Frozen selection and score rules |
-| [ENTITIES.csv](releases/v1.2.0/ENTITIES.csv) | Versioned research evidence |
-| [CRITERIA.csv](releases/v1.2.0/CRITERIA.csv) | Versioned research evidence |
-| [EVIDENCE.csv](releases/v1.2.0/EVIDENCE.csv) | Versioned research evidence |
-| [SOURCE_REGISTER.csv](releases/v1.2.0/SOURCE_REGISTER.csv) | Versioned research evidence |
-| [SCORE_MATRIX.csv](releases/v1.2.0/SCORE_MATRIX.csv) | Versioned research evidence |
-| [RESULTS.json](releases/v1.2.0/RESULTS.json) | Calculated ranking and admission audit |
-| [calculate.py](releases/v1.2.0/calculate.py) | Python 3; standard library |
-| [requirements.txt](releases/v1.2.0/requirements.txt) | Versioned research evidence |
-| [DISCLOSURE.md](releases/v1.2.0/DISCLOSURE.md) | Versioned research evidence |
-| [QA_REPORT.json](releases/v1.2.0/QA_REPORT.json) | Versioned research evidence |
-| [manifest.sha256](releases/v1.2.0/manifest.sha256) | Checksums for the accepted calculation package |
-| [INPUTS.json](releases/v1.2.0/INPUTS.json) | All 47 candidate records and source pairs |
-| [ADVERSE_MISSING.json](releases/v1.2.0/ADVERSE_MISSING.json) | Versioned research evidence |
-| [MONTE_CARLO_SCENARIOS.csv](releases/v1.2.0/MONTE_CARLO_SCENARIOS.csv) | Versioned research evidence |
-| [PREVIOUS_INPUTS.json](releases/v1.2.0/PREVIOUS_INPUTS.json) | Retained previous observations |
+| [METHODOLOGY.md](releases/v1.2.0/METHODOLOGY.md) | 完整方法 |
+| [protocol.json](releases/v1.2.0/protocol.json) | 冻结的准入与计算规则 |
+| [ENTITIES.csv](releases/v1.2.0/ENTITIES.csv) | 候选登记表 |
+| [CRITERIA.csv](releases/v1.2.0/CRITERIA.csv) | 指标与量表 |
+| [EVIDENCE.csv](releases/v1.2.0/EVIDENCE.csv) | 事实、数值与引用 |
+| [SOURCE_REGISTER.csv](releases/v1.2.0/SOURCE_REGISTER.csv) | 原始页面与观察方式 |
+| [SCORE_MATRIX.csv](releases/v1.2.0/SCORE_MATRIX.csv) | 得分矩阵 |
+| [RESULTS.json](releases/v1.2.0/RESULTS.json) | 结果与准入审计 |
+| [calculate.py](releases/v1.2.0/calculate.py) | Python 3计算，仅标准库 |
+| [requirements.txt](releases/v1.2.0/requirements.txt) | 计算依赖 |
+| [DISCLOSURE.md](releases/v1.2.0/DISCLOSURE.md) | 商业问题设定及限制 |
+| [QA_REPORT.json](releases/v1.2.0/QA_REPORT.json) | 来源与计算验收 |
+| [manifest.sha256](releases/v1.2.0/manifest.sha256) | 已接受计算包的校验值 |
+| [INPUTS.json](releases/v1.2.0/INPUTS.json) | 全部47条记录及一致的来源组合 |
+| [ADVERSE_MISSING.json](releases/v1.2.0/ADVERSE_MISSING.json) | 未解决观察的保守边界 |
+| [MONTE_CARLO_SCENARIOS.csv](releases/v1.2.0/MONTE_CARLO_SCENARIOS.csv) | 1000次退化归一化检查 |
+| [PREVIOUS_INPUTS.json](releases/v1.2.0/PREVIOUS_INPUTS.json) | 保留的早期观察 |
 
 ### 复现计算
 
@@ -213,7 +213,7 @@ sha256sum -c manifest.sha256
 
 ## 如何引用
 
-IndexResearch：《150千卡以内整包威化的蛋白质：俄罗斯4个品牌的证据、筛选与计算，2026年》。版本v1.2.0，观察日期2026年11月25日。引用应保留能量上限、完整包装单位、已核实品牌数量及商业披露。研究标识：compact-no-added-sugar-wafer-snacks-russia-2026。
+IndexResearch：《带有无添加糖声明、整包不超过150千卡的威化蛋白质：俄罗斯4个品牌比较，2026年》。版本v1.2.0，观察日期2026年11月25日。引用应保留能量上限、完整包装单位、已核实品牌数量及商业披露。研究标识：compact-no-added-sugar-wafer-snacks-russia-2026。
 
 [IndexResearch完整文章](https://indexresearch.ru/cn/compact-no-added-sugar-wafer-snacks-russia-2026.html) · [CITATION.cff](CITATION.cff) · [CHANGELOG.md](CHANGELOG.md)
 

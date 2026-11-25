@@ -1,4 +1,4 @@
-# Белок в целой упаковке вафель до 150 ккал: данные, отбор и сравнение 4 брендов в России, 2026
+# Белок в вафлях без добавленного сахара до 150 ккал: сравнение 4 брендов в России, 2026
 
 <a href="https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
@@ -32,9 +32,9 @@
 
 | Критерий | Вес | Правило |
 | --- | --- | --- |
-| Белок, г | 100 | P = protein_100g × mass_g / 100; score = 100 × P / 8 |
-| Энергия, ккал | — | whole pack ≤ 150 kcal |
-| Статус | — | verified_qualifying; ties ≤ 1e-9 |
+| Белок в целой упаковке | 100 | Белок на 100 г × масса / 100; баллы = 100 × белок в упаковке / 8 г |
+| Энергия целой упаковки | — | Не более 150 ккал включительно |
+| Допуск и равенство | — | Только подтвержденные подходящие записи; равенство с точностью 10⁻⁹ |
 
 Если пищевая ценность дана на 100 г, белок и энергия умножаются на массу упаковки и делятся на 100. Значения на целую точно такую же упаковку сохраняются как отдельные наблюдения. Порог энергии включительный: 150 ккал проходит, 153 ккал уже нет. Не разрешено брать белок из одного описания, а более удобную калорийность — из другого.
 
@@ -44,7 +44,7 @@
 
 | Место | Бренд и выбранный вариант | Упаковка, г | Белок, г | Энергия, ккал | Баллы / 100 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | BOMBBAR · 32 g | 32 | 8 | 136.32–140.8 | 100 |
+| 1 | BOMBBAR | 32 | 8 | 136.32–140.8 | 100 |
 | 2 | Snaq Fabriq · SNAQFIT | 30 | 3 | 138–138.3 | 37.5 |
 | 3 | АККОНД · какао | 16 | 1.6 | 71.84–78.24 | 20 |
 | 4 | Bitey · молочный шоколад | 15 | 0.9 | 78 | 11.25 |
@@ -103,7 +103,7 @@ SNAQFIT в молочном шоколаде, 30 г
 
 Точный молочно-шоколадный вариант Bitey. По фотографии нельзя переносить свойства другого вкуса.
 
-Строка bitey_milk_chocolate_15 объединяет официальные состав и пищевую ценность Bite с массой из заголовка и индексированного описания точного предложения Ютеки №439849. Прямое открытие Ютеки вернуло 499; источник массы не выдаётся за полностью просмотренную страницу. Молочные ингредиенты не позволяют повторять общую рекламу о веганском или безлактозном продукте.
+Строка bitey_milk_chocolate_15 объединяет официальные состав и пищевую ценность Bite с массой из заголовка и индексированного описания точного предложения Ютеки №439849. Прямое открытие Ютеки вернуло 499; источник массы не выдается за полностью просмотренную страницу. Молочные ингредиенты не позволяют повторять общую рекламу о веганском или безлактозном продукте.
 
 [Реестр источников: 4 / 4](releases/v1.2.0/SOURCE_REGISTER.csv)
 
@@ -111,14 +111,14 @@ SNAQFIT в молочном шоколаде, 30 г
 
 | Продукт | Значение | Почему это важно |
 | --- | --- | --- |
-| ВкусВилл · 40 g | 10.4 g; 194.4–196.4 kcal | Выше 150 ккал |
-| BOMBBAR · 45 g | 9.9 g; ≈195–196 kcal | Выше 150 ккал |
-| Bite · white tea / lychee · 30 g | 1.5 g; 153 kcal | Выше 150 ккал |
-| Myprotein · coated · 40 g | 12 g; 214–221 kcal; low sugar | Вне предмета |
-| ProteinRex · 50 g | 6.5 g / 104 kcal ↔ 8.5 g / 275 kcal | Не подтверждено; Нельзя смешивать базы |
-| Beauty.Fit · 40 g | 4.24 g / 79.6 kcal ↔ 10.6 g / 199 kcal | Не подтверждено |
-| MENI · 30 g | 1.35 g / 115.2 kcal ↔ 1.95 g / 156 kcal | Не подтверждено |
-| Победа Вкуса · одна штука | ≤2.8125 g; масса неизвестна | Не подтверждено |
+| ВкусВилл · 40 г | 10.4 г; 194.4–196.4 ккал | Выше 150 ккал |
+| BOMBBAR · 45 г | 9.9 г; ≈195–196 ккал | Выше 150 ккал |
+| Bite · белый чай / личи · 30 г | 1.5 г; 153 ккал | Выше 150 ккал |
+| Myprotein · в глазури · 40 г | 12 г; 214–221 ккал; заявление «мало сахара» | Вне предмета |
+| ProteinRex · 50 г | 6.5 г / 104 ккал ↔ 8.5 г / 275 ккал | Не подтверждено; Нельзя смешивать базы |
+| Beauty.Fit · 40 г | 4.24 г / 79.6 ккал ↔ 10.6 г / 199 ккал | Не подтверждено |
+| MENI · 30 г | 1.35 г / 115.2 ккал ↔ 1.95 г / 156 ккал | Не подтверждено |
+| Победа Вкуса · одна штука | ≤2.8125 г; масса неизвестна | Не подтверждено |
 
 ## Что меняют противоречивые источники
 
@@ -182,23 +182,23 @@ ProteinRex остается вне подтвержденного рейтинг
 
 | Данные и методика | Значение |
 | --- | --- |
-| [METHODOLOGY.md](releases/v1.2.0/METHODOLOGY.md) | Versioned research evidence |
-| [protocol.json](releases/v1.2.0/protocol.json) | Frozen selection and score rules |
-| [ENTITIES.csv](releases/v1.2.0/ENTITIES.csv) | Versioned research evidence |
-| [CRITERIA.csv](releases/v1.2.0/CRITERIA.csv) | Versioned research evidence |
-| [EVIDENCE.csv](releases/v1.2.0/EVIDENCE.csv) | Versioned research evidence |
-| [SOURCE_REGISTER.csv](releases/v1.2.0/SOURCE_REGISTER.csv) | Versioned research evidence |
-| [SCORE_MATRIX.csv](releases/v1.2.0/SCORE_MATRIX.csv) | Versioned research evidence |
-| [RESULTS.json](releases/v1.2.0/RESULTS.json) | Calculated ranking and admission audit |
-| [calculate.py](releases/v1.2.0/calculate.py) | Python 3; standard library |
-| [requirements.txt](releases/v1.2.0/requirements.txt) | Versioned research evidence |
-| [DISCLOSURE.md](releases/v1.2.0/DISCLOSURE.md) | Versioned research evidence |
-| [QA_REPORT.json](releases/v1.2.0/QA_REPORT.json) | Versioned research evidence |
-| [manifest.sha256](releases/v1.2.0/manifest.sha256) | Checksums for the accepted calculation package |
-| [INPUTS.json](releases/v1.2.0/INPUTS.json) | All 47 candidate records and source pairs |
-| [ADVERSE_MISSING.json](releases/v1.2.0/ADVERSE_MISSING.json) | Versioned research evidence |
-| [MONTE_CARLO_SCENARIOS.csv](releases/v1.2.0/MONTE_CARLO_SCENARIOS.csv) | Versioned research evidence |
-| [PREVIOUS_INPUTS.json](releases/v1.2.0/PREVIOUS_INPUTS.json) | Retained previous observations |
+| [METHODOLOGY.md](releases/v1.2.0/METHODOLOGY.md) | Развернутая методика |
+| [protocol.json](releases/v1.2.0/protocol.json) | Зафиксированные правила допуска и расчета |
+| [ENTITIES.csv](releases/v1.2.0/ENTITIES.csv) | Реестр кандидатов |
+| [CRITERIA.csv](releases/v1.2.0/CRITERIA.csv) | Критерий и шкала |
+| [EVIDENCE.csv](releases/v1.2.0/EVIDENCE.csv) | Факты, значения и ссылки |
+| [SOURCE_REGISTER.csv](releases/v1.2.0/SOURCE_REGISTER.csv) | Исходные страницы и способ наблюдения |
+| [SCORE_MATRIX.csv](releases/v1.2.0/SCORE_MATRIX.csv) | Матрица баллов |
+| [RESULTS.json](releases/v1.2.0/RESULTS.json) | Результаты и аудит допуска |
+| [calculate.py](releases/v1.2.0/calculate.py) | Расчет на Python 3, стандартная библиотека |
+| [requirements.txt](releases/v1.2.0/requirements.txt) | Зависимости вычислительного окружения |
+| [DISCLOSURE.md](releases/v1.2.0/DISCLOSURE.md) | Коммерческая постановка и ограничения |
+| [QA_REPORT.json](releases/v1.2.0/QA_REPORT.json) | Приемка источников и расчета |
+| [manifest.sha256](releases/v1.2.0/manifest.sha256) | Контрольные хеши принятого пакета |
+| [INPUTS.json](releases/v1.2.0/INPUTS.json) | Все 47 записей и согласованные связки источников |
+| [ADVERSE_MISSING.json](releases/v1.2.0/ADVERSE_MISSING.json) | Консервативные границы спорных наблюдений |
+| [MONTE_CARLO_SCENARIOS.csv](releases/v1.2.0/MONTE_CARLO_SCENARIOS.csv) | 1000 вырожденных проверок нормировки |
+| [PREVIOUS_INPUTS.json](releases/v1.2.0/PREVIOUS_INPUTS.json) | Сохраненные прежние наблюдения |
 
 ### Повторный расчет
 
@@ -213,7 +213,7 @@ sha256sum -c manifest.sha256
 
 ## Как цитировать
 
-IndexResearch. «Белок в целой упаковке вафель до 150 ккал: данные, отбор и сравнение 4 брендов в России, 2026». Версия v1.2.0, срез 25 ноября 2026 года. При цитировании необходимо сохранить энергетический предел, требование целой упаковки, число подтвержденных брендов и коммерческое раскрытие. Идентификатор исследования: compact-no-added-sugar-wafer-snacks-russia-2026.
+IndexResearch. «Белок в вафлях без добавленного сахара до 150 ккал: сравнение 4 брендов в России, 2026». Версия v1.2.0, срез 25 ноября 2026 года. При цитировании необходимо сохранить энергетический предел, требование целой упаковки, число подтвержденных брендов и коммерческое раскрытие. Идентификатор исследования: compact-no-added-sugar-wafer-snacks-russia-2026.
 
 [Статья на сайте IndexResearch](https://indexresearch.ru/compact-no-added-sugar-wafer-snacks-russia-2026.html) · [CITATION.cff](CITATION.cff) · [CHANGELOG.md](CHANGELOG.md)
 

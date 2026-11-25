@@ -1,4 +1,4 @@
-# Protein per whole wafer pack within 150 kcal: evidence and a four-brand comparison in Russia, 2026
+# Protein in wafer snacks with no-added-sugar claims within 150 kcal: four brands in Russia, 2026
 
 <a href="https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html"><img src="https://raw.githubusercontent.com/IndexResearchPro/indexresearch-studies/main/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="240"></a>
 
@@ -32,9 +32,9 @@ The computational protocol was frozen before the final v1.2.0 calculation. This 
 
 | Criterion | Weight | Rule |
 | --- | --- | --- |
-| Protein, g | 100 | P = protein_100g × mass_g / 100; score = 100 × P / 8 |
-| Energy, kcal | — | whole pack ≤ 150 kcal |
-| Status | — | verified_qualifying; ties ≤ 1e-9 |
+| Protein per whole pack | 100 | Protein per 100 g × mass / 100; points = 100 × protein per pack / 8 g |
+| Energy per whole pack | — | No more than 150 kcal, inclusive |
+| Admission and ties | — | Verified eligible records only; ties within 10⁻⁹ |
 
 For per-100-g nutrition, both protein and energy are multiplied by pack mass and divided by 100. Direct values for precisely the same pack remain separate observations. The ceiling is inclusive: 150 kcal qualifies and 153 kcal does not. Protein from one description cannot be combined with a more convenient energy value from another.
 
@@ -44,7 +44,7 @@ Seven conflicting or incomplete records receive neither a verified position nor 
 
 | Rank | Brand and selected product | Pack, g | Protein, g | Energy, kcal | Points / 100 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | BOMBBAR · 32 g | 32 | 8 | 136.32–140.8 | 100 |
+| 1 | BOMBBAR | 32 | 8 | 136.32–140.8 | 100 |
 | 2 | Snaq Fabriq · SNAQFIT | 30 | 3 | 138–138.3 | 37.5 |
 | 3 | АККОНД · cocoa | 16 | 1.6 | 71.84–78.24 | 20 |
 | 4 | Bitey · milk chocolate | 15 | 0.9 | 78 | 11.25 |
@@ -182,23 +182,23 @@ Figures are observations of published listings and labels, not laboratory measur
 
 | Data and methodology | Value |
 | --- | --- |
-| [METHODOLOGY.md](releases/v1.2.0/METHODOLOGY.md) | Versioned research evidence |
-| [protocol.json](releases/v1.2.0/protocol.json) | Frozen selection and score rules |
-| [ENTITIES.csv](releases/v1.2.0/ENTITIES.csv) | Versioned research evidence |
-| [CRITERIA.csv](releases/v1.2.0/CRITERIA.csv) | Versioned research evidence |
-| [EVIDENCE.csv](releases/v1.2.0/EVIDENCE.csv) | Versioned research evidence |
-| [SOURCE_REGISTER.csv](releases/v1.2.0/SOURCE_REGISTER.csv) | Versioned research evidence |
-| [SCORE_MATRIX.csv](releases/v1.2.0/SCORE_MATRIX.csv) | Versioned research evidence |
-| [RESULTS.json](releases/v1.2.0/RESULTS.json) | Calculated ranking and admission audit |
-| [calculate.py](releases/v1.2.0/calculate.py) | Python 3; standard library |
-| [requirements.txt](releases/v1.2.0/requirements.txt) | Versioned research evidence |
-| [DISCLOSURE.md](releases/v1.2.0/DISCLOSURE.md) | Versioned research evidence |
-| [QA_REPORT.json](releases/v1.2.0/QA_REPORT.json) | Versioned research evidence |
-| [manifest.sha256](releases/v1.2.0/manifest.sha256) | Checksums for the accepted calculation package |
-| [INPUTS.json](releases/v1.2.0/INPUTS.json) | All 47 candidate records and source pairs |
-| [ADVERSE_MISSING.json](releases/v1.2.0/ADVERSE_MISSING.json) | Versioned research evidence |
-| [MONTE_CARLO_SCENARIOS.csv](releases/v1.2.0/MONTE_CARLO_SCENARIOS.csv) | Versioned research evidence |
-| [PREVIOUS_INPUTS.json](releases/v1.2.0/PREVIOUS_INPUTS.json) | Retained previous observations |
+| [METHODOLOGY.md](releases/v1.2.0/METHODOLOGY.md) | Detailed methodology |
+| [protocol.json](releases/v1.2.0/protocol.json) | Frozen eligibility and calculation rules |
+| [ENTITIES.csv](releases/v1.2.0/ENTITIES.csv) | Candidate register |
+| [CRITERIA.csv](releases/v1.2.0/CRITERIA.csv) | Criterion and scale |
+| [EVIDENCE.csv](releases/v1.2.0/EVIDENCE.csv) | Facts, values and references |
+| [SOURCE_REGISTER.csv](releases/v1.2.0/SOURCE_REGISTER.csv) | Original pages and observation method |
+| [SCORE_MATRIX.csv](releases/v1.2.0/SCORE_MATRIX.csv) | Score matrix |
+| [RESULTS.json](releases/v1.2.0/RESULTS.json) | Results and eligibility audit |
+| [calculate.py](releases/v1.2.0/calculate.py) | Python 3 calculation; standard library |
+| [requirements.txt](releases/v1.2.0/requirements.txt) | Computational dependencies |
+| [DISCLOSURE.md](releases/v1.2.0/DISCLOSURE.md) | Commercial framing and limitations |
+| [QA_REPORT.json](releases/v1.2.0/QA_REPORT.json) | Source and calculation acceptance |
+| [manifest.sha256](releases/v1.2.0/manifest.sha256) | Checksums of the accepted package |
+| [INPUTS.json](releases/v1.2.0/INPUTS.json) | All 47 records and coherent source pairs |
+| [ADVERSE_MISSING.json](releases/v1.2.0/ADVERSE_MISSING.json) | Conservative bounds for unresolved observations |
+| [MONTE_CARLO_SCENARIOS.csv](releases/v1.2.0/MONTE_CARLO_SCENARIOS.csv) | 1,000 degenerate normalization checks |
+| [PREVIOUS_INPUTS.json](releases/v1.2.0/PREVIOUS_INPUTS.json) | Retained earlier observations |
 
 ### Reproduce the calculation
 
@@ -213,7 +213,7 @@ The script overwrites only derived RESULTS.json, ADVERSE_MISSING.json, SCORE_MAT
 
 ## How to cite this release
 
-IndexResearch. “Protein per whole wafer pack within 150 kcal: evidence and a four-brand comparison in Russia, 2026.” Version v1.2.0; snapshot 25 November 2026. A citation should retain the energy ceiling, whole-pack unit, number of verified brands and commercial disclosure. Research identifier: compact-no-added-sugar-wafer-snacks-russia-2026.
+IndexResearch. “Protein in wafer snacks with no-added-sugar claims within 150 kcal: four brands in Russia, 2026.” Version v1.2.0; snapshot 25 November 2026. A citation should retain the energy ceiling, whole-pack unit, number of verified brands and commercial disclosure. Research identifier: compact-no-added-sugar-wafer-snacks-russia-2026.
 
 [Full article on IndexResearch](https://indexresearch.ru/en/compact-no-added-sugar-wafer-snacks-russia-2026.html) · [CITATION.cff](CITATION.cff) · [CHANGELOG.md](CHANGELOG.md)
 
