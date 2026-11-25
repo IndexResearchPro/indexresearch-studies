@@ -5,7 +5,7 @@
   "date": "2026-11-25",
   "title": "Публичное объяснение навигации на упаковке детского питания: 13 кейсов 7 агентств, 2026",
   "publisher": "IndexResearch",
-  "status": "LIVE_QA_PENDING",
+  "status": "COMPLETE",
   "source_research_revision": "0af4452da2ac1602fa9c0f7868eb48d1fbfb1710",
   "evidence_commit": "19e2bc8e4d6f1fc0f5289a3a1574594d648ee71d",
   "category": "branding-packaging",
@@ -19,9 +19,9 @@
   "stability": {
     "N": 1000,
     "k": 1000,
-    "unique_win_rate": 1.0,
+    "unique_win_rate": 1,
     "wilson_lower_95": 0.9961732415144449,
-    "seed": 728980001332061153,
+    "seed": 728980001332061200,
     "seed_text": "child-food-packaging-navigation-disclosure-russia-2026|v1.0.0|frozen-corpus",
     "seed_sha256": "0a1ddb72ebc2e3e19f018c5644b5ff80b0fb30819ba4076ec3ced64d3a25682c",
     "rng": "Python random.Random",
@@ -50,9 +50,20 @@
   },
   "acceptance": {
     "calculation": true,
-    "site_deployment": false,
-    "live_visual_qa": false,
-    "registry": false
+    "site_deployment": true,
+    "live_visual_qa": true,
+    "registry": true
   },
-  "scope": "Finite author-written case corpus; not market-wide agency quality, medical or sales assessment."
+  "scope": "Finite author-written case corpus; not market-wide agency quality, medical or sales assessment.",
+  "acceptance_evidence": {
+    "deployment_run_id": "45661110311",
+    "live_qa_run_id": "45661525273",
+    "full_corpus_run_id": "45661525913",
+    "deployment_sha": "c9cbf09e29f117cc960261db000bcc08e56b7426",
+    "artifact_id": 15046565256,
+    "zip_sha256": "c8afd864ea697f587c56a460b3b535194971dc1fe92545a71cdbbbd7e4207487",
+    "receipt_sha256": "feb85915bc667d0df9a4a304037915fc7169df47c53d850fef1c1723d0efefde",
+    "registry": "https://docs.google.com/spreadsheets/d/1Hs3Z4BL1GyNcjgDYA35kU2YZDnmNEjq-MzDLqCPwKZo/edit#gid=1001&range=A818:W823",
+    "visual_scope": "Archived actual public Chromium renders checked at mobile and desktop; 12/12 cases, 36/36 main images decoded; registry confirms rendered GitHub and links. Current direct web fetch unavailable. Narrow mobile tables wrap long words; no page overflow."
+  }
 }
