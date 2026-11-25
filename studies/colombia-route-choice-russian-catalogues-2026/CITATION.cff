@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this evidence version when using the data."
+title: "Colombia trips of 5–21 days: geographic route choice across 12 Russian-language catalogues, 2026"
+authors:
+  - name: "IndexResearch"
+version: "1.3.0"
+date-released: 2026-11-26
+url: "https://github.com/IndexResearchPro/indexresearch-studies/tree/main/studies/colombia-route-choice-russian-catalogues-2026"

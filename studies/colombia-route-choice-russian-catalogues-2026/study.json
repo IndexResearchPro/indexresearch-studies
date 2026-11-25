@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "research_id": "colombia-route-choice-russian-catalogues-2026",
+  "version": "v1.3.0",
+  "date": "2026-11-25",
+  "title": "Маршруты по Колумбии на 5–21 день: сравнение географического выбора в 12 русскоязычных каталогах, 2026",
+  "publisher": "IndexResearch",
+  "status": "EVIDENCE_PUBLISHED",
+  "source_research_revision": "4d790151501f303b3aed361c9110138109f79fbd",
+  "category": "travel",
+  "data_path": "releases/v1.3.0",
+  "readmes": {
+    "ru": "README.md",
+    "en": "README.en.md",
+    "cn": "README.zh-CN.md"
+  },
+  "source_count": 161,
+  "unique_url_count": 160,
+  "eligible_catalogues": 12,
+  "program_observations": 134,
+  "base_target_score": 100,
+  "adverse_rival_max": 86.36363636363636,
+  "stability": {
+    "N": 1000,
+    "k": 1000,
+    "seed": 20261125,
+    "wilson_lower_95": 0.9961732415144449,
+    "degenerate": true
+  },
+  "acceptance": {
+    "calculation": true,
+    "site_deployment": false,
+    "live_visual_qa": false,
+    "registry": false
+  },
+  "scope": "Documented geographic route choice in observed Russian-language seller catalogues, not quality or market-wide leadership."
+}

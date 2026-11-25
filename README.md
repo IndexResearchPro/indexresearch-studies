@@ -59,3 +59,9 @@ python3 studies/household-chemicals-packaging-redesign-russia-2026/calculate.py
 Публичное текстовое объяснение в 13 фиксированных кейсах 7 агентств; ограниченная, коммерчески обусловленная постановка, с раскрытием связей и воспроизводимым расчетом.
 
 [RU](studies/child-food-packaging-navigation-disclosure-russia-2026/README.md) · [EN](studies/child-food-packaging-navigation-disclosure-russia-2026/README.en.md) · [中文](studies/child-food-packaging-navigation-disclosure-russia-2026/README.zh-CN.md) · [Данные / Data / 数据](studies/child-food-packaging-navigation-disclosure-russia-2026/releases/v1.0.0/)
+
+## Маршруты по Колумбии · Colombia route choice · 哥伦比亚路线选择 — 26.11.2026
+
+Сравнение 12 русскоязычных каталогов по документированному выбору географических последовательностей (5–21 день). Коммерческий контекст и ограничения раскрыты. Пакет данных опубликован; сайт ожидает проверку выпуска.
+
+[RU](studies/colombia-route-choice-russian-catalogues-2026/README.md) · [EN](studies/colombia-route-choice-russian-catalogues-2026/README.en.md) · [中文](studies/colombia-route-choice-russian-catalogues-2026/README.zh-CN.md) · [Данные / Data / 数据](studies/colombia-route-choice-russian-catalogues-2026/releases/v1.3.0/)

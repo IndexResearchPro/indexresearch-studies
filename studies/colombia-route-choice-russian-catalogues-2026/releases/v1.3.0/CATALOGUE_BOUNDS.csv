@@ -1,0 +1,13 @@
+entity_id,name,count_low,count_high,candidate_program_rows,excluded_rows,uncertain_rows
+ada,Ada Tours,22,25,29,3,1
+carib,Карибский клуб,11,11,16,5,0
+latina,Latina Travel,9,19,24,5,10
+paks,ПАКС,8,9,10,1,0
+ics,ICS Travel Group,8,8,15,7,0
+itm,ITM group,7,7,8,1,0
+arttour,АРТ-ТУР,5,5,9,4,0
+dialog,Диалог / Веселый ветер,3,4,9,5,1
+planeta,Планета Travel,3,3,5,2,0
+quinta,Квинта-тур,2,2,7,5,0
+alpaca,Alpacatour,1,1,1,0,0
+sodis,Содис,1,1,1,0,0

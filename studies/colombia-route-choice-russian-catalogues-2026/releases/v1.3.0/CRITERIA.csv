@@ -1,0 +1,2 @@
+criterion_id,name,weight,scale_min,scale_max,rubric,question_link
+C1,"Distinct documented Colombia-only geographic route sequences, 5–21 days",1,0,unbounded integer count,Count normalized route groups; base lower bound; adverse target lower against every rival upper.,"Published geographic choice before inquiry, not trip quality."

@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-11-25T19:43:00Z",
+  "runtime": "3.12.14",
+  "calculation_repeated": true,
+  "same_results": true,
+  "unique_ids_and_source_references": true,
+  "matrix_evidence_counts_reconciled": true,
+  "minimum_catalogue_count": 12,
+  "protocol_fixed_before_counting": true,
+  "protocol_initial_commit": "a367481d7b5a558179277958d8a99ce5e0e1658c",
+  "primary_read_scope": "official catalogues, linked programs, Carib pagination 1-3, ITM embedded catalogue links, Sodis program list, Alpacatour linked PDF",
+  "copyright_full_snapshots_published": false,
+  "known_coding_uncertainties": "Explicit lower/upper groups; generous rival upper; no quality inference",
+  "site_or_github_render_verified_at_this_point": false,
+  "later_live_qa": "to be recorded separately after deployment; not claimed in immutable calculation package"
+}
