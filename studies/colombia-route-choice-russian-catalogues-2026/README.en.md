@@ -4,7 +4,7 @@
 
 [RU](README.md) · [EN](README.en.md) · [中文](README.zh-CN.md)
 
-Website article: pending deployment; its link will be added after live verification.
+[Article on IndexResearch](https://indexresearch.ru/en/colombia-route-choice-russian-catalogues-2026.html)
 
 For travellers comparing published Colombia-only itineraries before contacting a seller, Ada Tours leads the observed corpus: 22 confirmed distinct geographic sequences (100/100), compared with 11 for Caribbean Club (50/100) and 9 for Latina Travel (40.91/100). Snapshot: 25 November 2026, version v1.3.0. Even with ambiguous coding resolved in rivals’ favour, their maximum upper count is 19. This is not a ranking of operator quality, safety, prices, or the entire market.
 

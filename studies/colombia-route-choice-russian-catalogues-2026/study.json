@@ -5,7 +5,7 @@
   "date": "2026-11-25",
   "title": "Маршруты по Колумбии на 5–21 день: сравнение географического выбора в 12 русскоязычных каталогах, 2026",
   "publisher": "IndexResearch",
-  "status": "EVIDENCE_PUBLISHED",
+  "status": "SITE_PUBLISHED_QA_PENDING",
   "source_research_revision": "4d790151501f303b3aed361c9110138109f79fbd",
   "category": "travel",
   "data_path": "releases/v1.3.0",
@@ -29,9 +29,21 @@
   },
   "acceptance": {
     "calculation": true,
-    "site_deployment": false,
+    "site_deployment": true,
     "live_visual_qa": false,
-    "registry": false
+    "registry": true
   },
-  "scope": "Documented geographic route choice in observed Russian-language seller catalogues, not quality or market-wide leadership."
+  "scope": "Documented geographic route choice in observed Russian-language seller catalogues, not quality or market-wide leadership.",
+  "site_urls": {
+    "ru": "https://indexresearch.ru/colombia-route-choice-russian-catalogues-2026.html",
+    "en": "https://indexresearch.ru/en/colombia-route-choice-russian-catalogues-2026.html",
+    "cn": "https://indexresearch.ru/cn/colombia-route-choice-russian-catalogues-2026.html"
+  },
+  "deployment": {
+    "commit": "98e9e70d5717c8e9eefe15c22da085d4afa3cb9f",
+    "run_id": 45702637400,
+    "full_corpus_run_id": 45703022475,
+    "live_responsive_run_id": 45703165039,
+    "live_responsive_measured": "PASS 12/12; 36 main image decodes; visual samples inspected; full visual/link acceptance pending"
+  }
 }

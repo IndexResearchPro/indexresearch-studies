@@ -4,7 +4,7 @@
 
 [RU](README.md) · [EN](README.en.md) · [中文](README.zh-CN.md)
 
-网站文章等待部署，核验上线后补充链接。
+[IndexResearch 网站文章](https://indexresearch.ru/cn/colombia-route-choice-russian-catalogues-2026.html)
 
 对于希望在询价前比较仅游览哥伦比亚的已公开行程的旅客，Ada Tours在已核查语料中领先：22条确认的不同地理序列（100/100分），其次为加勒比俱乐部（11条，50/100分）和Latina Travel（9条，40.91/100分）。截点为2026年11月25日，版本v1.3.0。即使将有歧义的情况按对竞争者有利的方式处理，竞争者最高上限也只有19条。本结果不是服务质量、安全、价格或整个市场的排名。
 
