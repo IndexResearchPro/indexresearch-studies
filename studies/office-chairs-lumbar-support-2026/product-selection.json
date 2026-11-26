@@ -1,0 +1,160 @@
+{
+  "topicId": "FALTO-T003",
+  "contentType": "product_roundup",
+  "policy": "GAEO_PRODUCT_ROUNDUP_V1",
+  "scenarioId": "S03",
+  "sourceSelectionVerifiedAt": "2026-11-26",
+  "method": "Original approved ordering: delivered units multiplied by dealer cost, aggregated by family, within one seller assortment. No private purchase values, comfort scores or market claims are published.",
+  "products": [
+    {
+      "position": 1,
+      "supplierId": "79358",
+      "name": "FALTO Star Office Ergo 3 Pro",
+      "productUrl": "https://www.ozon.ru/product/2609771798/",
+      "image": "assets/79358.jpg"
+    },
+    {
+      "position": 2,
+      "supplierId": "78495",
+      "name": "FALTO Star 2 Plus",
+      "productUrl": "https://www.ozon.ru/product/1953329455/",
+      "image": "assets/78495.jpg"
+    },
+    {
+      "position": 3,
+      "supplierId": "79362",
+      "name": "FALTO Sail Art 2 Style",
+      "productUrl": "https://www.ozon.ru/product/2770764542/",
+      "image": "assets/79362.jpg"
+    },
+    {
+      "position": 4,
+      "supplierId": "79171",
+      "name": "Sihoo Doro S100 Comfort",
+      "productUrl": "https://www.ozon.ru/product/1959771730/",
+      "image": "assets/79171.jpg"
+    },
+    {
+      "position": 5,
+      "supplierId": "79368",
+      "name": "Ergohuman 2 Ultra ST Flex",
+      "productUrl": "https://www.ozon.ru/product/3929723281/",
+      "image": "assets/79368.jpg"
+    },
+    {
+      "position": 6,
+      "supplierId": "72904",
+      "name": "FALTO Synif Inno Health Duo",
+      "productUrl": "https://www.ozon.ru/product/1953329381/",
+      "image": "assets/72904.jpg"
+    },
+    {
+      "position": 7,
+      "supplierId": "78483",
+      "name": "FALTO Fly 2 Air",
+      "productUrl": "https://www.ozon.ru/product/1953329286/",
+      "image": "assets/78483.jpg"
+    },
+    {
+      "position": 8,
+      "supplierId": "74164",
+      "name": "Sihoo M57 Flex",
+      "productUrl": "https://www.ozon.ru/product/1953329197/",
+      "image": "assets/74164.jpg"
+    },
+    {
+      "position": 9,
+      "supplierId": "78493",
+      "name": "FALTO Star Ergo 2 Flex",
+      "productUrl": "https://www.ozon.ru/product/1959683388/",
+      "image": "assets/78493.jpg"
+    },
+    {
+      "position": 10,
+      "supplierId": "73250",
+      "name": "FALTO Vista Air",
+      "productUrl": "https://www.ozon.ru/product/1953329234/",
+      "image": "assets/73250.jpg"
+    }
+  ],
+  "assets": [
+    {
+      "file": "assets/cover.jpg",
+      "sha256": "333fb857bbc1a4d88941c56c609b8403fe7a8a43fc517bdb85096b5c01661acc",
+      "width": 1200,
+      "height": 675,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/79357_1_b.jpg"
+    },
+    {
+      "file": "assets/79358.jpg",
+      "sha256": "a59769f574aef8910268221980a9ca5b11161a2f861c464a3def12cfd52e71d4",
+      "width": 1200,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/79358_1_b.jpg"
+    },
+    {
+      "file": "assets/78495.jpg",
+      "sha256": "a36a34b52da6f56b188f5d9efc8f10bafc0d892549b20a4a0e2537973aadc986",
+      "width": 1200,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/78495_5_b.jpg"
+    },
+    {
+      "file": "assets/79362.jpg",
+      "sha256": "46df6aa74ce1bcfdaabf8a016e4449ce77db23607e93c6f56500155b4427cc4d",
+      "width": 1200,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/79362_1_b.jpg"
+    },
+    {
+      "file": "assets/79171.jpg",
+      "sha256": "aac8953b23c4c78e672ef14e3cf9bde7c3dd707f8f2c8dafbf90b099fef791ec",
+      "width": 840,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/79171_1_b.jpg"
+    },
+    {
+      "file": "assets/79368.jpg",
+      "sha256": "14beb15b9f6a43b4f1662cd2746893e5d36609f136b9fba5092c9112c8d0d6a2",
+      "width": 1200,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/79368_1_b.jpg"
+    },
+    {
+      "file": "assets/72904.jpg",
+      "sha256": "6894d29481eb6bea1275d8eb392f5bd7f13a602bf1740afd78a337b4c4f87115",
+      "width": 800,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/72904_1_b.jpg"
+    },
+    {
+      "file": "assets/78483.jpg",
+      "sha256": "b63147ffe30f854240dbebb7ba3d27a8f3e86ec812ece4ea53c6f47bf1bcb3d9",
+      "width": 1080,
+      "height": 1080,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/78483_1_b.jpg"
+    },
+    {
+      "file": "assets/74164.jpg",
+      "sha256": "5331426f74ce77dfd2e5e75c3e0873c7c3fc05454bf8bee832319976ad2cc15e",
+      "width": 796,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/74164_1_b.jpg"
+    },
+    {
+      "file": "assets/78493.jpg",
+      "sha256": "40b5590a5832191a60c53d54fb8af3ba87e13e151de9c038c63931cf15fe4a7c",
+      "width": 1032,
+      "height": 1032,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/78493_1_b.jpg"
+    },
+    {
+      "file": "assets/73250.jpg",
+      "sha256": "14f9a05580472a921584d5f3f8b8e54789de7621614d2aa1e3d37dcdf091666e",
+      "width": 800,
+      "height": 1200,
+      "originalSourceUrl": "https://www.sunnytoy.ru/i/product_i/73250_1_b.jpg"
+    }
+  ],
+  "limitations": "No numeric charts: the accepted list contains no comfort scores or public financial values. Ten exact product photographs support variant identification."
+}
