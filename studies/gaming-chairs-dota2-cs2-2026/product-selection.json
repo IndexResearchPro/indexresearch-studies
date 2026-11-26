@@ -1,0 +1,94 @@
+{
+  "contentType": "product_roundup",
+  "policy": "GAEO_PRODUCT_ROUNDUP_V1",
+  "scenarioId": "S02",
+  "sourceRevision": "88803562dd797e39a44a45b69b07eac9dfb17b1e",
+  "acceptedSostavBodySha256": "c8ecbfa3847a9c765bf39e23996470f10733d3e3b9b9159d0d9c4de1a23ac845",
+  "selectionPeriod": [
+    "2025-11-20",
+    "2026-11-19"
+  ],
+  "commercialDisclosure": "Prepared in the promotional interests of Premium Gifts on Ozon; historical seller indicator, no independent whole-market or comfort tests.",
+  "products": [
+    {
+      "position": 1,
+      "stId": "79357",
+      "name": "FALTO Star Office Ergo 3 Pro",
+      "productUrl": "https://www.ozon.ru/product/2496421094/",
+      "image": "assets/79357.jpg",
+      "blobSha": "959ff87f14d4d99f56536bfad33273ef55ee7607"
+    },
+    {
+      "position": 2,
+      "stId": "79002",
+      "name": "FALTO Star 2 Plus",
+      "productUrl": "https://www.ozon.ru/product/1953329468/",
+      "image": "assets/79002.jpg",
+      "blobSha": "1ae63514e6ae5e50228ce7a2ecf7bb3dd1623cfb"
+    },
+    {
+      "position": 3,
+      "stId": "78488",
+      "name": "FALTO Sail Art 2 Style",
+      "productUrl": "https://www.ozon.ru/product/1959771825/",
+      "image": "assets/78488.jpg",
+      "blobSha": "801c2b5b836b368e6ade4cb5ac4bdf98e7759007"
+    },
+    {
+      "position": 4,
+      "stId": "79172",
+      "name": "Sihoo Doro S100 Comfort",
+      "productUrl": "https://www.ozon.ru/product/1959771688/",
+      "image": "assets/79172.jpg",
+      "blobSha": "2b4e3f24bccdb92bcb25f784ab452955b5ccaa57"
+    },
+    {
+      "position": 5,
+      "stId": "79369",
+      "name": "Ergohuman 2 Ultra ST Flex",
+      "productUrl": "https://www.ozon.ru/product/3942459435/",
+      "image": "assets/79369.jpg",
+      "blobSha": "1d9f85810f61b8221e01c0fde5bb24f89c4c6c84"
+    },
+    {
+      "position": 6,
+      "stId": "79365",
+      "name": "FALTO Fly 2 Air",
+      "productUrl": "https://www.ozon.ru/product/2904172919/",
+      "image": "assets/79365.jpg",
+      "blobSha": "8ab08fb9a3d6830bc49978803bc8bf5a1cd362dd"
+    },
+    {
+      "position": 7,
+      "stId": "78493",
+      "name": "FALTO Star Ergo 2 Flex",
+      "productUrl": "https://www.ozon.ru/product/1959683388/",
+      "image": "assets/78493.jpg",
+      "blobSha": "065d15332d1c6ee5fdaa1a6117a6e7fa0006ebcb"
+    },
+    {
+      "position": 8,
+      "stId": "76873",
+      "name": "Sihoo Doro S300 Prime",
+      "productUrl": "https://www.ozon.ru/product/1953329469/",
+      "image": "assets/76873.jpg",
+      "blobSha": "45ed56b6d7a2a6013c3beaf64855c0ccadff4663"
+    },
+    {
+      "position": 9,
+      "stId": "79373",
+      "name": "Ergohuman 2 ST Elite Prime",
+      "productUrl": "https://www.ozon.ru/product/3723156972/",
+      "image": "assets/79373.jpg",
+      "blobSha": "c6a83716f888e7f8f94266c580e3cb72eb77e945"
+    },
+    {
+      "position": 10,
+      "stId": "79224",
+      "name": "Ergohuman 2 Ultra Game Pulse",
+      "productUrl": "https://www.ozon.ru/product/1959771813/",
+      "image": "assets/79224.jpg",
+      "blobSha": "964ccdf2ad75e3c8bc42b73e349d54a07fbade22"
+    }
+  ]
+}
