@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "topicId": "BOMBBAR-T006",
+  "researchId": "no-added-sugar-protein-candy-2026",
+  "contentType": "product_roundup",
+  "policy": "GAEO_PRODUCT_ROUNDUP_V1",
+  "version": "v1.0.0",
+  "publishedDate": "2026-11-28",
+  "factsChecked": "2026-11-28",
+  "mainSelectionCount": 3,
+  "comparisonFormatCount": 2,
+  "selectionRule": "Three chewy flavours with the exact no-added-sugar statement visually confirmed; two differently labelled classic formats compared separately. No scores or market ranking.",
+  "products": [
+    {
+      "id": "watermelon",
+      "nameRu": "Арбуз",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_arbuz_50g_10.html",
+      "unitNetWeightG": 50,
+      "role": "main_selection",
+      "image": "assets/watermelon-product.jpg",
+      "retailSetUnits": 3,
+      "sugarClaim": {
+        "text": "Без добавления сахара / no sugar added",
+        "source": "visually inspected official front image",
+        "naturallyOccurringSugarsDeclared": true,
+        "zeroSugarClaimVerified": false
+      },
+      "nutritionPer100G": {
+        "energyKcal": 231,
+        "proteinG": 50,
+        "fatG": 0.2,
+        "fiberG": 10,
+        "carbohydrateGAsPrinted": 2.4
+      },
+      "nutritionPer50G": {
+        "energyKcal": 116,
+        "proteinG": 25,
+        "fatG": 0.1,
+        "fiberG": 5,
+        "carbohydrateGAsPrinted": 1.2
+      },
+      "carbohydrateConsistency": "consistent",
+      "storage": {
+        "frontImageRangeC": [
+          2,
+          6
+        ],
+        "pageWording": "+4 ±2 °C",
+        "afterOpeningHoursMax": 24,
+        "shelfLifeMonths": 2,
+        "requiresRefrigeration": true
+      },
+      "deliveryGeographyFromProductText": "Москва и Московская область, с соблюдением температурного режима",
+      "proteinSourceQuantitiesDisclosed": false,
+      "comparativeCarbohydrateG": 1.2
+    },
+    {
+      "id": "mango",
+      "nameRu": "Манго-Маракуйя",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_mango_marakuyya_50g_10.html",
+      "unitNetWeightG": 50,
+      "role": "main_selection",
+      "image": "assets/mango-product.jpg",
+      "retailSetUnits": 3,
+      "sugarClaim": {
+        "text": "Без добавления сахара / no sugar added",
+        "source": "visually inspected official front image",
+        "naturallyOccurringSugarsDeclared": true,
+        "zeroSugarClaimVerified": false
+      },
+      "nutritionPer100G": {
+        "energyKcal": 231,
+        "proteinG": 50,
+        "fatG": 0.2,
+        "fiberG": 10,
+        "carbohydrateGAsPrinted": 2.4
+      },
+      "nutritionPer50G": {
+        "energyKcal": 116,
+        "proteinG": 25,
+        "fatG": 0.1,
+        "fiberG": 5,
+        "carbohydrateGAsPrinted": 1.2
+      },
+      "carbohydrateConsistency": "consistent",
+      "storage": {
+        "frontImageRangeC": [
+          2,
+          6
+        ],
+        "pageWording": "+4 ±2 °C",
+        "afterOpeningHoursMax": 24,
+        "shelfLifeMonths": 2,
+        "requiresRefrigeration": true
+      },
+      "deliveryGeographyFromProductText": "Москва и Московская область, с соблюдением температурного режима",
+      "proteinSourceQuantitiesDisclosed": false,
+      "comparativeCarbohydrateG": 1.2
+    },
+    {
+      "id": "kiwi",
+      "nameRu": "Киви-чиа",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_kivi_chia_50g_10.html",
+      "unitNetWeightG": 50,
+      "role": "main_selection",
+      "image": "assets/kiwi-product.jpg",
+      "retailSetUnits": 3,
+      "sugarClaim": {
+        "text": "Без добавления сахара / no sugar added",
+        "source": "visually inspected official front image",
+        "naturallyOccurringSugarsDeclared": true,
+        "zeroSugarClaimVerified": false
+      },
+      "nutritionPer100G": {
+        "energyKcal": 239,
+        "proteinG": 50,
+        "fatG": 0.8,
+        "fiberG": 10,
+        "carbohydrateGAsPrinted": 10
+      },
+      "nutritionPer50G": {
+        "energyKcal": 120,
+        "proteinG": 25,
+        "fatG": 0.4,
+        "fiberG": 5,
+        "carbohydrateGAsPrinted": 1.5
+      },
+      "carbohydrateConsistency": "conflict_10_per100_vs1.5_per50",
+      "storage": {
+        "frontImageRangeC": [
+          2,
+          6
+        ],
+        "pageWording": "+4 ±2 °C",
+        "afterOpeningHoursMax": 24,
+        "shelfLifeMonths": 2,
+        "requiresRefrigeration": true
+      },
+      "deliveryGeographyFromProductText": "Москва и Московская область, с соблюдением температурного режима",
+      "proteinSourceQuantitiesDisclosed": false,
+      "comparativeCarbohydrateG": null
+    },
+    {
+      "id": "classic-flax",
+      "nameRu": "Лен, фундук, финик",
+      "productUrl": "https://www.bombbar.ru/product/proteinovie_konfeti_len_funduk_finik.html",
+      "unitNetWeightG": 18,
+      "role": "format_comparison",
+      "image": "assets/classic-flax-product.jpg",
+      "retailSetUnits": 20,
+      "manufacturerFrontClaim": "БЕЗ САХАРА",
+      "exactNoAddedSugarWordingVerified": false,
+      "containsDateFruit": true,
+      "proteinGPer100": 30,
+      "proteinGPerUnit": 5.4,
+      "portionConsistencyWarning": "Several per-unit values do not match 18 percent of per-100 g figures. Do not silently correct them.",
+      "storageTemperatureVerified": false
+    },
+    {
+      "id": "classic-coconut",
+      "nameRu": "Финик, кокос, кешью",
+      "productUrl": "https://www.bombbar.ru/product/proteinovie_konfeti_finik_kokos_keshyu.html",
+      "unitNetWeightG": 18,
+      "role": "format_comparison",
+      "image": "assets/classic-coconut-product.jpg",
+      "retailSetUnits": 20,
+      "manufacturerFrontClaim": "БЕЗ САХАРА",
+      "exactNoAddedSugarWordingVerified": false,
+      "containsDateFruit": true,
+      "proteinGPer100": 30,
+      "proteinGPerUnit": 5.4,
+      "portionConsistencyWarning": "Several per-unit values do not match 18 percent of per-100 g figures. Do not silently correct them.",
+      "storageTemperatureVerified": false
+    }
+  ],
+  "media": [
+    {
+      "assetId": "watermelon-product",
+      "url": "https://www.cpanel.bombbar.ru/uploads/pictures/shop/shop_nomenclature_picture/shop_nomenclature_picture_5817.jpg?1000000157",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_arbuz_50g_10.html",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 1890385,
+      "sha256": "8a79cb856b414ea499847b10739c4af7dcb619e95b05ed752c5c5729f723c7d4",
+      "role": "product",
+      "view": "front",
+      "transformed": false,
+      "file": "assets/watermelon-product.jpg"
+    },
+    {
+      "assetId": "mango-product",
+      "url": "https://www.cpanel.bombbar.ru/uploads/pictures/shop/shop_nomenclature_picture/shop_nomenclature_picture_5821.jpg?1000000157",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_mango_marakuyya_50g_10.html",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 1848356,
+      "sha256": "2947265b860654739072e9e7232418793c526c4b5e726fa30d39f18c433c4595",
+      "role": "product",
+      "view": "front",
+      "transformed": false,
+      "file": "assets/mango-product.jpg"
+    },
+    {
+      "assetId": "kiwi-product",
+      "url": "https://www.cpanel.bombbar.ru/uploads/pictures/shop/shop_nomenclature_picture/shop_nomenclature_picture_5819.jpg?1000000157",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_kivi_chia_50g_10.html",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 1804402,
+      "sha256": "a7c7b5747bf06cf826e51f956f320e140ae01a8ad7adffe6f4cd7c022b2f6260",
+      "role": "product",
+      "view": "front",
+      "transformed": false,
+      "file": "assets/kiwi-product.jpg"
+    },
+    {
+      "assetId": "classic-flax-product",
+      "url": "https://www.cpanel.bombbar.ru/uploads/pictures/shop/shop_nomenclature_picture/shop_nomenclature_picture_546.jpg?1000000157",
+      "productUrl": "https://www.bombbar.ru/product/proteinovie_konfeti_len_funduk_finik.html",
+      "width": 667,
+      "height": 667,
+      "bytes": 95438,
+      "sha256": "1166a4f54c569a2833419ea993bcfb76f9b908a1008fc4b0629fa0acd7a5c18a",
+      "role": "product",
+      "view": "retail_display_box_and_individual_candy_front",
+      "transformed": false,
+      "file": "assets/classic-flax-product.jpg"
+    },
+    {
+      "assetId": "classic-coconut-product",
+      "url": "https://www.cpanel.bombbar.ru/uploads/pictures/shop/shop_nomenclature_picture/shop_nomenclature_picture_544.jpg?1000000157",
+      "productUrl": "https://www.bombbar.ru/product/proteinovie_konfeti_finik_kokos_keshyu.html",
+      "width": 667,
+      "height": 667,
+      "bytes": 95147,
+      "sha256": "af8ecc8b97f3105d99872f660eed1a84f3d120d613d046e5240420b19ff23606",
+      "role": "product",
+      "view": "retail_display_box_and_individual_candy_front",
+      "transformed": false,
+      "file": "assets/classic-coconut-product.jpg"
+    },
+    {
+      "assetId": "watermelon-cover",
+      "url": "https://www.cpanel.bombbar.ru/uploads/pictures/shop/shop_nomenclature_picture/shop_nomenclature_picture_5818.jpg?1000000157",
+      "productUrl": "https://www.bombbar.ru/product/konfeti_zhevatelnie_bombbar_so_vkusom_arbuz_50g_10.html",
+      "width": 3000,
+      "height": 3000,
+      "bytes": 440460,
+      "sha256": "9be2132b3c7627ac256f98a2c10c2722ab3f23f8dd13cb40f589d5d56c3d3ebf",
+      "role": "cover",
+      "view": "front_three_quarter",
+      "transformed": false,
+      "file": "assets/watermelon-cover.jpg"
+    }
+  ],
+  "candidateNotVerified": {
+    "name": "Date, peanut and sesame",
+    "reason": "A selector label was found, but an exact individual product page and recipe were not established."
+  },
+  "disclosure": "This editorial guide covers BOMBBAR's own assortment. GAEO works with BOMBBAR on promotion. The main selection contains three flavours with verified “no sugar added” packaging; two additional formats illustrate a different packaging claim. Order is not a market ranking and no product scores were assigned. Official product pages and original manufacturer photographs were checked on 28 November 2026. No tasting or laboratory testing was performed. Nutrition figures are manufacturer claims; observed discrepancies are stated in the text. Photographs show specific packaging versions, which may change along with recipes. Medical promises from promotional descriptions were not used. This is not an exhaustive review of the Russian confectionery market."
+}
