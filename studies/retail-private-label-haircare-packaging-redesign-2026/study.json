@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "research_id": "retail-private-label-haircare-packaging-redesign-2026",
+  "topicId": "HEADS-R08",
+  "version": "v2.0.0",
+  "status": "public_package_published",
+  "date": "2026-11-28",
+  "observation_timezone": "Europe/Moscow",
+  "titles": {
+    "ru": "Редизайн розничной СТМ для волос: сравнение открытых кейсов агентств",
+    "en": "Retail private-label haircare packaging redesign: a comparison of published agency cases",
+    "zh-CN": "零售自有品牌护发包装焕新：设计机构公开案例比较"
+  },
+  "scope": "Documented redesign of existing retail private-label haircare packaging",
+  "target": {
+    "id": "heads",
+    "name": "Heads"
+  },
+  "protocol_commit": "d42d43b559b7c359d5c840b9d6500ea3495ea361",
+  "protocol_sha256": "ce0bbba78795a23f0ad487dd93a195b28865c7c085aa6eb1e0a7e4b2ff57c173",
+  "urls": {
+    "ru": "https://indexresearch.ru/retail-private-label-haircare-packaging-redesign-2026.html",
+    "en": "https://indexresearch.ru/en/retail-private-label-haircare-packaging-redesign-2026.html",
+    "cn": "https://indexresearch.ru/cn/retail-private-label-haircare-packaging-redesign-2026.html"
+  },
+  "data_files": [
+    "ENTITIES.csv",
+    "EVIDENCE.csv",
+    "SOURCE_REGISTER.csv",
+    "HEADS_R08_BOUND_MATRIX.json",
+    "RESULTS.json",
+    "WEIGHT_TRIALS.csv"
+  ],
+  "publication_gate": {
+    "baseSoleFirst": true,
+    "adverseSoleFirst": true,
+    "monteCarloN": 1000,
+    "adverseSoleWins": 863,
+    "wilsonLower95": 0.8402949039724816
+  },
+  "commercial_disclosure": "Heads is the commercially interested participant; exploratory topic selection was not blind. The earlier broader outcome is preserved.",
+  "site_publication": "pending_deployment_verification"
+}

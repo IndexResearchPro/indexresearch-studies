@@ -1,0 +1,18 @@
+{
+  "sourceMatrixSha256": "b9335b278589fcbcf95be9fc6cd76fe63b7feb87777a602723bd446cf7a30881",
+  "sourceCalculation": "calculate.py run(d, trials=rows); identical summary asserted against RESULTS.json",
+  "seed": 3909416463,
+  "N": 1000,
+  "strictWins": 863,
+  "strictLosses": 137,
+  "ties": 0,
+  "marginDefinition": "target lower score minus maximum competitor upper score; score points out of 100",
+  "minimumMargin": -3.092767076916857,
+  "medianMargin": 3.175421230709766,
+  "maximumMargin": 9.571427717820455,
+  "histogramBinWidth": 1,
+  "histogramFirstLeft": -4,
+  "histogramLastRight": 10,
+  "targetContributionLowSum": 90.0,
+  "targetContributionHighSum": 90.0
+}

@@ -1,0 +1,6 @@
+criterion_id,raw_low,raw_high,raw_maximum,weight,contribution_low,contribution_high
+brief_similarity,3,3,3,0.2,20.0,20.0
+recognition_continuity,2,2,2,0.2,20.0,20.0
+functional_navigation,2,2,2,0.2,20.0,20.0
+format_information_system,2,2,2,0.2,20.0,20.0
+handover_rules,1,1,2,0.2,10.0,10.0

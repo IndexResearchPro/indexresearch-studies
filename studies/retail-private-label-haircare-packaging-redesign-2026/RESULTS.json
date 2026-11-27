@@ -1,0 +1,203 @@
+{
+  "topicId": "HEADS-R08",
+  "pythonVersion": "3.12.14",
+  "algorithm": "Python random.Random; independent Uniform(0.70,1.30); normalized weights",
+  "seed": 3909416463,
+  "N": 1000,
+  "tieEpsilon": 1e-09,
+  "basePointScorePolicy": "No fabricated point values for unknown cells; report base intervals.",
+  "equalWeightGroupBounds": {
+    "heads": {
+      "low": 90.00000000000001,
+      "high": 90.00000000000001,
+      "bestUpperCases": [
+        "heads-valori"
+      ],
+      "bestConfirmedLowerCases": [
+        "heads-valori"
+      ]
+    },
+    "depot-brandhub": {
+      "low": 33.333333333333336,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "depot-laf",
+        "brandhub-lialab",
+        "depot-klern_parfum",
+        "depot-amberica",
+        "depot-garda_pozitsionirovanie_i_diza",
+        "depot-arkhangelskie_vodorosli",
+        "depot-podarochnye_nabory_axe",
+        "brandhub-velvety"
+      ],
+      "bestConfirmedLowerCases": [
+        "depot-syoss"
+      ]
+    },
+    "ddvb": {
+      "low": 0,
+      "high": 83.33333333333334,
+      "bestUpperCases": [
+        "ddvb-prelest"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "andva": {
+      "low": 0.0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "andva-prettygarden",
+        "andva-pauvau"
+      ],
+      "bestConfirmedLowerCases": [
+        "andva-prettygarden"
+      ]
+    },
+    "antre": {
+      "low": 0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "antre-dolce-milk",
+        "antre-bimunica-3",
+        "antre-icon-skin",
+        "antre-n4w",
+        "antre-alisa-svoboda",
+        "antre-sanosan",
+        "antre-icon-skin2",
+        "antre-balet",
+        "antre-secret-story",
+        "antre-deline",
+        "antre-la-creme",
+        "antre-tik-tak",
+        "antre-balet-dekor",
+        "antre-zima",
+        "antre-letual",
+        "antre-dizajn-upakovki-miss-skinni-v-aziaskom-stile",
+        "antre-latte-beauty",
+        "antre-glam-team"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "repina": {
+      "low": 0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "repina-palmolive"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "getbrand": {
+      "low": 0.0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "getbrand-pharmlevel",
+        "getbrand-forx",
+        "getbrand-kurnosiki"
+      ],
+      "bestConfirmedLowerCases": [
+        "getbrand-selencin"
+      ]
+    },
+    "serenity": {
+      "low": 10.0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "serenity-osnova"
+      ],
+      "bestConfirmedLowerCases": [
+        "serenity-osnova"
+      ]
+    },
+    "clever": {
+      "low": 0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "clever-lafresh",
+        "clever-naturalistyka-spa",
+        "clever-naturalistyka-men"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "radar": {
+      "low": 0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "radar-vkusvill"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "mesnyankin-melenchuk": {
+      "low": 16.666666666666668,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "mm-gubernskie",
+        "mm-peptides"
+      ],
+      "bestConfirmedLowerCases": [
+        "mm-gubernskie"
+      ]
+    },
+    "yuno": {
+      "low": 0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "yuno-iva"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "ice-agency": {
+      "low": 10.0,
+      "high": 80.0,
+      "bestUpperCases": [
+        "ice-gliss-kur"
+      ],
+      "bestConfirmedLowerCases": [
+        "ice-gliss-kur"
+      ]
+    },
+    "soldis": {
+      "low": 0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "soldis-swisslab",
+        "soldis-yvesrocher"
+      ],
+      "bestConfirmedLowerCases": []
+    },
+    "otvetdesign": {
+      "low": 10.0,
+      "high": 86.66666666666667,
+      "bestUpperCases": [
+        "otvet-lakri-older"
+      ],
+      "bestConfirmedLowerCases": [
+        "otvet-lakri-2022"
+      ]
+    }
+  },
+  "targetLowerScore": 90.00000000000001,
+  "strongestCompetitorUpperScore": 86.66666666666667,
+  "baseSoleFirstForEveryAllowedCompletion": true,
+  "adverseSoleFirstAtEqualWeights": true,
+  "adverseStrictWins": 863,
+  "adverseWinRate": 0.863,
+  "wilsonLower95": 0.8402949039724816,
+  "blockerDrawCounts": {
+    "depot-brandhub": 137,
+    "andva": 137,
+    "antre": 137,
+    "repina": 137,
+    "getbrand": 137,
+    "serenity": 137,
+    "clever": 137,
+    "radar": 137,
+    "mesnyankin-melenchuk": 137,
+    "yuno": 137,
+    "soldis": 137,
+    "otvetdesign": 137
+  },
+  "numericalGatePassed": true,
+  "eligibilityAndDiscoveryGatePassed": true,
+  "publicationGatePassed": true,
+  "interpretation": "Model sensitivity conditional on this bounded evidence corpus, not a probability of real-world quality or market superiority."
+}

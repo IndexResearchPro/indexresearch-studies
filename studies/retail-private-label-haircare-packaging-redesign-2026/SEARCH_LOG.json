@@ -1,0 +1,136 @@
+[
+  {
+    "archive": "corpus-discovery.json",
+    "queries": [],
+    "method": "Finite portfolio/case discovery and named guide queries; full primary pages read separately.",
+    "queriesNotRetainedInThisArchive": true,
+    "sourceResultsArchive": "corpus-discovery.json contains five fulfilled source-result batches; exact query bodies are not reconstructed."
+  },
+  {
+    "archive": "guide-discovery.json",
+    "queries": [
+      {
+        "q": "site:wellhead.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:depotwpf.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:ddvb.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:andva.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:antre.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:repinabranding.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:ohmybrand.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:getbrand.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:brand-hub.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:brandbrothers.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:soldis.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:serenity.agency (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:cleverbranding.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:radar.agency (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:mesnyankinmelenchuk.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:yuno.team (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:otvetdesign.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      },
+      {
+        "q": "site:icepromotion.ru (косметика OR волос OR шампунь) (брендбук OR гайд OR тиражирование OR формат OR преемственность OR навигация)"
+      }
+    ],
+    "method": "Finite portfolio/case discovery and named guide queries; full primary pages read separately."
+  },
+  {
+    "archive": "c5-final-case-queries.json",
+    "queries": [
+      {
+        "q": "site:depotwpf.ru \"Сьёсс\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:depotwpf.ru \"Палетт\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:depotwpf.ru \"Чистая Линия\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:depotwpf.ru \"Klern parfumerie\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:ddvb.ru \"Прелесть\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:andva.ru \"Pretty Garden\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:antre.ru \"Bio Arctic\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:antre.ru \"Faberlic Men\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:antre.ru \"Штрудель\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:antre.ru \"Ботаника\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:getbrand.ru \"Эвисент\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:getbrand.ru \"Селенцин\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:getbrand.ru \"Псорилом\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:cleverbranding.ru \"ТОНИКА\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:cleverbranding.ru \"MILK\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      },
+      {
+        "q": "site:cleverbranding.ru \"Naturalistyka SPA\" (\"брендбук\" OR \"гайд\" OR \"передали\" OR \"руководство\" OR \"правила\")"
+      }
+    ],
+    "method": "Finite portfolio/case discovery and named guide queries; full primary pages read separately."
+  },
+  {
+    "archive": "c5-final-extra-queries.json",
+    "queryCases": [
+      "Barberlab",
+      "Faberlic Champion",
+      "Taft",
+      "Valori"
+    ],
+    "purpose": "Exact agency-domain query for brandbook, guide, handover and rules. No additional applicable level-2 handover evidence found."
+  },
+  {
+    "correction": "Radar official domain is radar-online.ru; correct-domain and authored Sostav sources were reviewed. Queries against radar.agency never support an absence claim."
+  }
+]

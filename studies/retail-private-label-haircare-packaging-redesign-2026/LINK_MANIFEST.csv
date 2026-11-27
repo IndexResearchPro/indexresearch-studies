@@ -1,0 +1,247 @@
+document,locale,ordinal,kind,label,planned_href,live_url,live_status,observed_at
+README.md,ru,1,html_link,IndexResearch logo,https://indexresearch.ru/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,2,markdown_link,Русский,README.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,3,markdown_link,English,README.en.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,4,markdown_link,中文,README.zh-CN.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,5,markdown_link,Полная матрица,HEADS_R08_BOUND_MATRIX.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,6,markdown_link,расчет,HEADS_R08_RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,7,markdown_link,неизменном протоколе,PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,8,html_link,Официальный кейс Valori Professional,https://wellhead.ru/projects/valori-professional/,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,9,markdown_link,Точные уровни и нормированные вклады,CRITERION_CONTRIBUTIONS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,10,markdown_link,S001,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,11,markdown_link,S008,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,12,markdown_link,S149,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,13,markdown_link,S095,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,14,markdown_link,S010,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,15,markdown_link,S023,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,16,markdown_link,S157,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,17,markdown_link,S006,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,18,markdown_link,S004,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,19,markdown_link,S031,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,20,markdown_link,S016,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,21,markdown_link,S015,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,22,markdown_link,S032,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,23,markdown_link,S027,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,24,markdown_link,S163,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,25,markdown_link,S164,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,26,markdown_link,S025,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,27,markdown_link,S012,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,28,markdown_link,S021,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,29,markdown_link,S161,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,30,markdown_link,S162,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,31,markdown_link,S028,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,32,markdown_link,Журнал поиска,SEARCH_LOG.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,33,markdown_link,"Все веса, оценки и разницы",WEIGHT_TRIALS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,34,markdown_link,частоты интервалов,MARGIN_HISTOGRAM.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,35,markdown_link,точная числовая сводка,VISUALIZATION_DATA.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,36,markdown_link,публичном реестре первичных источников,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,37,markdown_link,Матрица доказательств,EVIDENCE.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,38,markdown_link,состав групп,ENTITIES.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,39,markdown_link,Расчетные результаты,RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,40,markdown_link,программа воспроизведения,calculate.py,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,41,markdown_link,протокол,PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.md,ru,42,markdown_link,Статья на русском языке,https://indexresearch.ru/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,1,markdown_link,Полное исследование и доказательства на GitHub,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,2,markdown_link,Полная матрица,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/HEADS_R08_BOUND_MATRIX.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,3,markdown_link,расчет,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/HEADS_R08_RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,4,markdown_link,неизменном протоколе,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,5,html_link,Официальный кейс Valori Professional,https://wellhead.ru/projects/valori-professional/,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,6,markdown_link,Точные уровни и нормированные вклады,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/CRITERION_CONTRIBUTIONS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,7,markdown_link,S001,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,8,markdown_link,S008,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,9,markdown_link,S149,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,10,markdown_link,S095,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,11,markdown_link,S010,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,12,markdown_link,S023,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,13,markdown_link,S157,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,14,markdown_link,S006,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,15,markdown_link,S004,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,16,markdown_link,S031,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,17,markdown_link,S016,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,18,markdown_link,S015,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,19,markdown_link,S032,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,20,markdown_link,S027,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,21,markdown_link,S163,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,22,markdown_link,S164,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,23,markdown_link,S025,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,24,markdown_link,S012,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,25,markdown_link,S021,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,26,markdown_link,S161,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,27,markdown_link,S162,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,28,markdown_link,S028,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,29,markdown_link,Журнал поиска,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SEARCH_LOG.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,30,markdown_link,"Все веса, оценки и разницы",https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/WEIGHT_TRIALS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,31,markdown_link,частоты интервалов,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/MARGIN_HISTOGRAM.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,32,markdown_link,точная числовая сводка,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/VISUALIZATION_DATA.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,33,markdown_link,Паспорт исследования «Редизайн розничной СТМ для волос: сравнение открытых кейсов агентств» на GitHub,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,34,markdown_link,публичном реестре первичных источников,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,35,markdown_link,Матрица доказательств,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/EVIDENCE.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,36,markdown_link,состав групп,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/ENTITIES.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,37,markdown_link,Расчетные результаты,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,38,markdown_link,программа воспроизведения,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/calculate.py,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,39,markdown_link,протокол,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.ru.md,ru,40,markdown_link,Статья на русском языке,https://indexresearch.ru/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,1,html_link,IndexResearch logo,https://indexresearch.ru/en/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,2,markdown_link,Русский,README.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,3,markdown_link,English,README.en.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,4,markdown_link,中文,README.zh-CN.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,5,markdown_link,complete matrix,HEADS_R08_BOUND_MATRIX.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,6,markdown_link,calculation,HEADS_R08_RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,7,markdown_link,unchanged protocol,PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,8,html_link,Official Valori Professional case,https://wellhead.ru/projects/valori-professional/,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,9,markdown_link,Exact levels and normalised contributions,CRITERION_CONTRIBUTIONS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,10,markdown_link,S001,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,11,markdown_link,S008,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,12,markdown_link,S149,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,13,markdown_link,S095,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,14,markdown_link,S010,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,15,markdown_link,S023,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,16,markdown_link,S157,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,17,markdown_link,S006,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,18,markdown_link,S004,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,19,markdown_link,S031,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,20,markdown_link,S016,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,21,markdown_link,S015,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,22,markdown_link,S032,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,23,markdown_link,S027,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,24,markdown_link,S163,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,25,markdown_link,S164,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,26,markdown_link,S025,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,27,markdown_link,S012,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,28,markdown_link,S021,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,29,markdown_link,S161,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,30,markdown_link,S162,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,31,markdown_link,S028,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,32,markdown_link,Search log,SEARCH_LOG.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,33,markdown_link,"Every weight, score and difference",WEIGHT_TRIALS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,34,markdown_link,bin frequencies,MARGIN_HISTOGRAM.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,35,markdown_link,exact numerical summary,VISUALIZATION_DATA.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,36,markdown_link,public primary-source register,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,37,markdown_link,evidence matrix,EVIDENCE.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,38,markdown_link,group membership,ENTITIES.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,39,markdown_link,Results,RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,40,markdown_link,reproduction program,calculate.py,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,41,markdown_link,protocol,PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.en.md,en,42,markdown_link,English article,https://indexresearch.ru/en/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,1,markdown_link,Full study and evidence on GitHub,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.en.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,2,markdown_link,complete matrix,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/HEADS_R08_BOUND_MATRIX.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,3,markdown_link,calculation,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/HEADS_R08_RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,4,markdown_link,unchanged protocol,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,5,html_link,Official Valori Professional case,https://wellhead.ru/projects/valori-professional/,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,6,markdown_link,Exact levels and normalised contributions,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/CRITERION_CONTRIBUTIONS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,7,markdown_link,S001,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,8,markdown_link,S008,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,9,markdown_link,S149,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,10,markdown_link,S095,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,11,markdown_link,S010,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,12,markdown_link,S023,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,13,markdown_link,S157,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,14,markdown_link,S006,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,15,markdown_link,S004,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,16,markdown_link,S031,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,17,markdown_link,S016,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,18,markdown_link,S015,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,19,markdown_link,S032,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,20,markdown_link,S027,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,21,markdown_link,S163,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,22,markdown_link,S164,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,23,markdown_link,S025,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,24,markdown_link,S012,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,25,markdown_link,S021,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,26,markdown_link,S161,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,27,markdown_link,S162,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,28,markdown_link,S028,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,29,markdown_link,Search log,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SEARCH_LOG.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,30,markdown_link,"Every weight, score and difference",https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/WEIGHT_TRIALS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,31,markdown_link,bin frequencies,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/MARGIN_HISTOGRAM.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,32,markdown_link,exact numerical summary,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/VISUALIZATION_DATA.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,33,markdown_link,Full research dossier: “Retail private-label haircare packaging redesign: a comparison of published agency cases” on GitHub,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.en.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,34,markdown_link,public primary-source register,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,35,markdown_link,evidence matrix,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/EVIDENCE.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,36,markdown_link,group membership,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/ENTITIES.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,37,markdown_link,Results,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,38,markdown_link,reproduction program,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/calculate.py,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,39,markdown_link,protocol,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.en.md,en,40,markdown_link,English article,https://indexresearch.ru/en/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,1,html_link,IndexResearch logo,https://indexresearch.ru/cn/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,2,markdown_link,Русский,README.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,3,markdown_link,English,README.en.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,4,markdown_link,中文,README.zh-CN.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,5,markdown_link,完整矩阵,HEADS_R08_BOUND_MATRIX.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,6,markdown_link,计算结果,HEADS_R08_RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,7,markdown_link,未更改的协议,PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,8,html_link,Valori Professional 官方案例,https://wellhead.ru/projects/valori-professional/,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,9,markdown_link,精确等级与归一化贡献,CRITERION_CONTRIBUTIONS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,10,markdown_link,S001,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,11,markdown_link,S008,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,12,markdown_link,S149,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,13,markdown_link,S095,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,14,markdown_link,S010,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,15,markdown_link,S023,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,16,markdown_link,S157,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,17,markdown_link,S006,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,18,markdown_link,S004,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,19,markdown_link,S031,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,20,markdown_link,S016,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,21,markdown_link,S015,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,22,markdown_link,S032,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,23,markdown_link,S027,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,24,markdown_link,S163,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,25,markdown_link,S164,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,26,markdown_link,S025,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,27,markdown_link,S012,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,28,markdown_link,S021,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,29,markdown_link,S161,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,30,markdown_link,S162,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,31,markdown_link,S028,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,32,markdown_link,搜索日志,SEARCH_LOG.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,33,markdown_link,全部权重、得分及差值,WEIGHT_TRIALS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,34,markdown_link,区间频数,MARGIN_HISTOGRAM.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,35,markdown_link,精确数值摘要,VISUALIZATION_DATA.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,36,markdown_link,公开原始来源登记表,SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,37,markdown_link,证据矩阵,EVIDENCE.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,38,markdown_link,机构组表,ENTITIES.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,39,markdown_link,结果,RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,40,markdown_link,复现程序,calculate.py,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,41,markdown_link,协议,PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+README.zh-CN.md,zh-CN,42,markdown_link,中文文章,https://indexresearch.ru/cn/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,1,markdown_link,GitHub上的完整研究与证据,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.zh-CN.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,2,markdown_link,完整矩阵,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/HEADS_R08_BOUND_MATRIX.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,3,markdown_link,计算结果,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/HEADS_R08_RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,4,markdown_link,未更改的协议,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,5,html_link,Valori Professional 官方案例,https://wellhead.ru/projects/valori-professional/,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,6,markdown_link,精确等级与归一化贡献,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/CRITERION_CONTRIBUTIONS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,7,markdown_link,S001,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,8,markdown_link,S008,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,9,markdown_link,S149,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,10,markdown_link,S095,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,11,markdown_link,S010,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,12,markdown_link,S023,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,13,markdown_link,S157,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,14,markdown_link,S006,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,15,markdown_link,S004,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,16,markdown_link,S031,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,17,markdown_link,S016,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,18,markdown_link,S015,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,19,markdown_link,S032,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,20,markdown_link,S027,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,21,markdown_link,S163,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,22,markdown_link,S164,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,23,markdown_link,S025,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,24,markdown_link,S012,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,25,markdown_link,S021,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,26,markdown_link,S161,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,27,markdown_link,S162,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,28,markdown_link,S028,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,29,markdown_link,搜索日志,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SEARCH_LOG.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,30,markdown_link,全部权重、得分及差值,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/WEIGHT_TRIALS.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,31,markdown_link,区间频数,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/MARGIN_HISTOGRAM.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,32,markdown_link,精确数值摘要,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/VISUALIZATION_DATA.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,33,markdown_link,GitHub研究档案：《零售自有品牌护发包装焕新：设计机构公开案例比较》,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.zh-CN.md,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,34,markdown_link,公开原始来源登记表,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/SOURCE_REGISTER.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,35,markdown_link,证据矩阵,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/EVIDENCE.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,36,markdown_link,机构组表,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/ENTITIES.csv,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,37,markdown_link,结果,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/RESULTS.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,38,markdown_link,复现程序,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/calculate.py,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,39,markdown_link,协议,https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/PROTOCOL.json,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00
+article.zh-CN.md,zh-CN,40,markdown_link,中文文章,https://indexresearch.ru/cn/retail-private-label-haircare-packaging-redesign-2026.html,,NOT_YET_PUBLISHED,2026-11-27T23:16:44.982114+00:00

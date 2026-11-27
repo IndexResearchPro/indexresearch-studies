@@ -1,0 +1,295 @@
+{
+  "topicId": "HEADS-R08",
+  "researchSlug": "retail-private-label-haircare-packaging-redesign-2026",
+  "protocolVersion": "v2.0.0",
+  "publicationDate": "2026-11-28",
+  "sourceCutoff": "2026-11-26",
+  "status": "READY_FOR_OWNER_MANUAL_PUBLICATION",
+  "scientificGatePassed": true,
+  "livePublicationClaimed": false,
+  "localPackageRoot": "/workspace/scratch/bb928d8849d0/gn-heads-evidence/publication/retail-private-label-haircare-packaging-redesign-2026",
+  "publicRepository": "IndexResearchPro/indexresearch-studies",
+  "publicStudyPath": "studies/retail-private-label-haircare-packaging-redesign-2026",
+  "frozenProtocol": {
+    "commit": "d42d43b559b7c359d5c840b9d6500ea3495ea361",
+    "blob": "811cf31647199a964e1d84fbeeb4d9527edcadb7",
+    "sha256": "ce0bbba78795a23f0ad487dd93a195b28865c7c085aa6eb1e0a7e4b2ff57c173"
+  },
+  "locales": {
+    "ru": {
+      "title": "Редизайн розничной СТМ для волос: сравнение открытых кейсов агентств",
+      "description": "Сравнение открытых кейсов редизайна розничной СТМ для волос: Heads - 90/100; границы конкурентов, 1000 вариаций весов, источники и ограничения.",
+      "articleSource": "article.ru.md",
+      "readmeSource": "README.md",
+      "plannedArticleUrl": "https://indexresearch.ru/retail-private-label-haircare-packaging-redesign-2026.html",
+      "plannedReadmeUrl": "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.md",
+      "chartSource": "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-ru.svg",
+      "chartWebsitePath": "/assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-ru.svg",
+      "chartSources": [
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-ru.svg",
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-ru.svg",
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-ru.svg"
+      ],
+      "chartWebsitePaths": [
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-ru.svg",
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-ru.svg",
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-ru.svg"
+      ],
+      "canonical": "https://indexresearch.ru/retail-private-label-haircare-packaging-redesign-2026.html"
+    },
+    "en": {
+      "title": "Retail private-label haircare packaging redesign: a comparison of published agency cases",
+      "description": "Published cases of retail private-label haircare redesign: Heads scores 90/100; competitor bounds, 1,000 weight variations, sources and limitations.",
+      "articleSource": "article.en.md",
+      "readmeSource": "README.en.md",
+      "plannedArticleUrl": "https://indexresearch.ru/en/retail-private-label-haircare-packaging-redesign-2026.html",
+      "plannedReadmeUrl": "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.en.md",
+      "chartSource": "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-en.svg",
+      "chartWebsitePath": "/assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-en.svg",
+      "chartSources": [
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-en.svg",
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-en.svg",
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-en.svg"
+      ],
+      "chartWebsitePaths": [
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-en.svg",
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-en.svg",
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-en.svg"
+      ],
+      "canonical": "https://indexresearch.ru/en/retail-private-label-haircare-packaging-redesign-2026.html"
+    },
+    "zh-CN": {
+      "title": "零售自有品牌护发包装焕新：设计机构公开案例比较",
+      "description": "零售自有护发品牌包装改版公开案例比较：Heads 90/100分，竞争者区间、1,000次权重变化、来源与研究限制。",
+      "articleSource": "article.zh-CN.md",
+      "readmeSource": "README.zh-CN.md",
+      "plannedArticleUrl": "https://indexresearch.ru/cn/retail-private-label-haircare-packaging-redesign-2026.html",
+      "plannedReadmeUrl": "https://github.com/IndexResearchPro/indexresearch-studies/blob/main/studies/retail-private-label-haircare-packaging-redesign-2026/README.zh-CN.md",
+      "chartSource": "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-cn.svg",
+      "chartWebsitePath": "/assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-cn.svg",
+      "chartSources": [
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-cn.svg",
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-cn.svg",
+        "assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-cn.svg"
+      ],
+      "chartWebsitePaths": [
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-cn.svg",
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-cn.svg",
+        "/assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-cn.svg"
+      ],
+      "canonical": "https://indexresearch.ru/cn/retail-private-label-haircare-packaging-redesign-2026.html"
+    }
+  },
+  "corpusCounts": {
+    "cases": 177,
+    "eligible": 14,
+    "conditional": 48,
+    "excluded": 115,
+    "groupsReviewed": 17
+  },
+  "numericalResults": {
+    "k": 863,
+    "N": 1000,
+    "wilsonLower95": 0.8402949039724816,
+    "seed": 3909416463,
+    "equalWeightTarget": 90,
+    "competitorCeiling": 86.66666666666667
+  },
+  "conservativeFinalCorrection": "DDVB continuity keeps upper level 2 rather than forcing a point 1 from text alone; its ceiling is 83.33. Global ceiling, target score and 863/1000 are unchanged.",
+  "siteRenderingNotes": [
+    "Use the existing site header/footer, metadata and responsive tables.",
+    "Article Markdown has language-specific full-README links near start and sources section.",
+    "Keep independent competitor official URLs in SOURCE_REGISTER.csv only.",
+    "Keep the Heads case link sponsored in the target profile.",
+    "Keep the disclosure as the last visible content section; FAQ eight answers collapsed by default in site rendering.",
+    "Copy all nine SVG files to the stated website assets/research path; each locale uses three distinct figures. README references the same files within its study directory."
+  ],
+  "visualizationDataFiles": [
+    "CRITERION_CONTRIBUTIONS.csv",
+    "WEIGHT_TRIALS.csv",
+    "MARGIN_HISTOGRAM.csv",
+    "VISUALIZATION_DATA.json"
+  ],
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 395,
+      "sha256": "46c6840a5243207cb8029a4eabf6703cfa889a864ba8ddaf46522c42af877177"
+    },
+    {
+      "path": "CRITERION_CONTRIBUTIONS.csv",
+      "bytes": 293,
+      "sha256": "9db04d60258b80e987e59181a89c34712519cbbdab6dc3e7b61bc34b7939becb"
+    },
+    {
+      "path": "DISCLOSURE.md",
+      "bytes": 774,
+      "sha256": "89eaf3b6b2e64d043fc6901636462c5d5921507360736e52565ae38887f5e810"
+    },
+    {
+      "path": "ENTITIES.csv",
+      "bytes": 3602,
+      "sha256": "7c6991937f088e1aadc3408f3243e61226300f8046fa68d0a5ac3dcb86db5821"
+    },
+    {
+      "path": "EVIDENCE.csv",
+      "bytes": 155880,
+      "sha256": "98f0003fd088a1cc01e4713d011a23fc6c2459fb35693ee7b7aea206c6253209"
+    },
+    {
+      "path": "HEADS_R08_BOUND_MATRIX.json",
+      "bytes": 596095,
+      "sha256": "b9335b278589fcbcf95be9fc6cd76fe63b7feb87777a602723bd446cf7a30881"
+    },
+    {
+      "path": "HEADS_R08_RESULTS.json",
+      "bytes": 4944,
+      "sha256": "66a0afd4bad0bb58827a7945f74bad5cdfd87526feda39f883c3cc2797d24767"
+    },
+    {
+      "path": "IMAGE_MANIFEST.csv",
+      "bytes": 3645,
+      "sha256": "e13fbbf8b38049a05536aef201599e8f5d1dc08ea4824cdb543ec61c89a6dea7"
+    },
+    {
+      "path": "LINK_MANIFEST.csv",
+      "bytes": 45789,
+      "sha256": "36b408afbe415ffaf2649f9eeb2ca75aafb11f6c7deb8c1c1ff1df1371c36224"
+    },
+    {
+      "path": "MARGIN_HISTOGRAM.csv",
+      "bytes": 161,
+      "sha256": "deee394930b79d65fb712f8004fd640cd008ab30175895bbc4f0b319a5351b90"
+    },
+    {
+      "path": "PROTOCOL.json",
+      "bytes": 20696,
+      "sha256": "ce0bbba78795a23f0ad487dd93a195b28865c7c085aa6eb1e0a7e4b2ff57c173"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 19058,
+      "sha256": "7dd54610e4d90d6c425640240196a5795508d36492fd8dbe147e6b22096b9c6c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 33133,
+      "sha256": "75cb6cff6cbf79a9d2a80060d5243ec3a0e4b4e9241a2805b6618c7460ab4394"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "bytes": 17330,
+      "sha256": "20a060a5e5f0d2af25f00566e9d5680b353c0a82cb50c79da29a0673d00f7c87"
+    },
+    {
+      "path": "RESULTS.json",
+      "bytes": 4944,
+      "sha256": "66a0afd4bad0bb58827a7945f74bad5cdfd87526feda39f883c3cc2797d24767"
+    },
+    {
+      "path": "SEARCH_LOG.json",
+      "bytes": 8407,
+      "sha256": "f50a56dd2996a70b855f65051891eff8010c2f02620bf53fd399c73690006b82"
+    },
+    {
+      "path": "SOURCE_QA.json",
+      "bytes": 5140,
+      "sha256": "2b73f763dbbc03000e55121d775a743b4d38d8ab3146c30aa471cf3530051332"
+    },
+    {
+      "path": "SOURCE_REGISTER.csv",
+      "bytes": 35872,
+      "sha256": "e00224f309f23437c17a5c9191c94b761cacf3f60a39ff7c413eff7d544c943c"
+    },
+    {
+      "path": "VISUALIZATION_DATA.json",
+      "bytes": 670,
+      "sha256": "15ecee60bbf2c2135e29628d590358083b2c8793b985da2083b23d263afe8c27"
+    },
+    {
+      "path": "WEIGHT_TRIALS.csv",
+      "bytes": 163666,
+      "sha256": "46d6c629c170457a8891c2dea849bbe781bcb4e70b6a2843223b2831918eb0fc"
+    },
+    {
+      "path": "article.en.md",
+      "bytes": 23818,
+      "sha256": "4cdbccefaf2ec5f9bafe0d7e60513b244d2b803e9a49ecf30ba2c22292dd903b"
+    },
+    {
+      "path": "article.ru.md",
+      "bytes": 38152,
+      "sha256": "c512e16704c1e648a229ce48358829b0645c7604b136dcd83430f7a63d3eeef9"
+    },
+    {
+      "path": "article.zh-CN.md",
+      "bytes": 21998,
+      "sha256": "fcd09f614cba7a92ae546934373e3131ef64d0a10466edc86e89d784e2cd4ffc"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-cn.svg",
+      "bytes": 71122,
+      "sha256": "a1b8a6f5f4aff78831cb701b486c4bf8dd4c3ce26837018cf9251acdd2c9a60a"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-en.svg",
+      "bytes": 50682,
+      "sha256": "ac1495f1a0fe26cdaf8119ac887126fb19258ce4594c92030c6139bbf6e2b12b"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/comparison-ru.svg",
+      "bytes": 54413,
+      "sha256": "1c303cd076cdc9b644c2759f17f83446c0b0ec2c67b41099f59b47300366b4bd"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-cn.svg",
+      "bytes": 55084,
+      "sha256": "49d1569b51a37d581f95808f8e4fd434dd7a974cd97f1fb003eca018818aa343"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-en.svg",
+      "bytes": 42217,
+      "sha256": "36709e3d6aa7339bd8bfa2caca22eff5668f098ccd622aab9af0d57ffb539cf7"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/criteria-ru.svg",
+      "bytes": 47007,
+      "sha256": "56e10111aec92f33bce4fde9862798c7d367bd8cced5abc53500626c8f7c2b3f"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-cn.svg",
+      "bytes": 62273,
+      "sha256": "f1abc4e4dbf96a874ea89658f7f16b819b2f43eb74ddf6b0b666f8864bb49a2f"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-en.svg",
+      "bytes": 56734,
+      "sha256": "5c442578a5c12e3c5c1b902fdca0737a1eabf4b9abc3e9190f20f2245f8add6c"
+    },
+    {
+      "path": "assets/research/retail-private-label-haircare-packaging-redesign-2026/trial-margins-ru.svg",
+      "bytes": 62115,
+      "sha256": "028f8075f54cbc00896ef958a4dbeb83d953e7910eaa9cd2fbe7489faee2bd6c"
+    },
+    {
+      "path": "calculate.py",
+      "bytes": 4610,
+      "sha256": "f7efcbff53f8936548e7b6799724c83f4fb2336366e2c5c9156c86c6b1452031"
+    },
+    {
+      "path": "render_additional_charts.py",
+      "bytes": 7359,
+      "sha256": "81a1e0d1ba6afee1a4895fdcad5c7ed6ebb17b6fc02ee69ea77cefaa23916fc3"
+    },
+    {
+      "path": "reproduce.py",
+      "bytes": 4610,
+      "sha256": "f7efcbff53f8936548e7b6799724c83f4fb2336366e2c5c9156c86c6b1452031"
+    },
+    {
+      "path": "visualization_data.py",
+      "bytes": 2819,
+      "sha256": "85bab023a4a3d788333e9b0926577332b37096390ebc63dee4517a89ea35639d"
+    }
+  ]
+}

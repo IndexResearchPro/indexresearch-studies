@@ -1,0 +1,886 @@
+case_id,group_id,eligibility,criterion,low,high,finding,source_ids
+heads-valori,heads,eligible,brief_similarity,3,3,Existing Lenta retail private-label haircare and styling brand; agency-authored Workspace completion field is September 2026.,S001
+heads-valori,heads,eligible,handover_rules,1,1,"A created brandbook with typography, colour and packaging rules is named; explicit handover remains unconfirmed after finite exact-case searches, so level 1.",S001
+heads-valori,heads,eligible,recognition_continuity,2,2,Названа сохраняемая насыщенная палитра; оригинальный JPG показывает старое и новое оформление.,S001
+heads-valori,heads,eligible,functional_navigation,2,2,Описаны плашки для ухода и градиенты для стайлинга; примеры обеих групп видны. Воск однотонный: универсальность кода всем SKU не заявляется.,S001
+heads-valori,heads,eligible,format_information_system,2,2,"Названы роли названия, назначения и преимуществ; их иерархия видна на банке воска и флаконе спрея.",S001
+depot-laf,depot-brandhub,eligible,brief_similarity,1,1,confirmed_case_and_completion_date,S004
+depot-laf,depot-brandhub,eligible,recognition_continuity,0,2,Название LAF сохранено; конкретный сохраняемый визуальный актив ещё не установлен.,S004
+depot-laf,depot-brandhub,eligible,functional_navigation,0,2,Названы губы/глаза/брови/лицо и общий зелёный цвет; соответствие групп разным кодам пока не установлено.,S004
+depot-laf,depot-brandhub,eligible,format_information_system,1,2,Заявлена система более ста SKU; конкретное правило иерархии двух форматов ещё не проверено.,S004
+depot-laf,depot-brandhub,eligible,handover_rules,0,2,Переданный гайд на прочитанной странице не установлен; ограниченная проверка ещё не закончена.,S004
+depot-palette,depot-brandhub,eligible,brief_similarity,0,2,existing_cosmetic_redesign_with_source_reported_date; full_scope_and_discovery_pending,S005
+depot-palette,depot-brandhub,eligible,handover_rules,0,1,Applicable full primary case text and exact case/domain guide searches have been reviewed. Explicit handover with two norm groups was not found in that finite corpus. Possible image-only document evidence is conservatively retained up to level 1; no competence claim.,S005
+depot-palette,depot-brandhub,eligible,recognition_continuity,1,2,"Названы сохранённые композиция, героиня и цвет; старое/новое ещё визуально не сверено.",S005
+depot-palette,depot-brandhub,eligible,functional_navigation,0,2,Указана дифференциация оттенков; две функциональные группы пока не подтверждены.,S005
+depot-palette,depot-brandhub,eligible,format_information_system,0,2,Описана композиция коробки; правило для двух форматов пока неизвестно.,S005
+ddvb-prelest,ddvb,conditional,brief_similarity,2,2,"Arnest existing semiprofessional haircare/styling brand; not a retailer private label. A 2019 historical lead exists but exact implementation date remains unresolved, so included adversely.",S006
+ddvb-prelest,ddvb,conditional,handover_rules,0,1,Applicable full primary case text and exact case/domain guide searches have been reviewed. Explicit handover with two norm groups was not found in that finite corpus. Possible image-only document evidence is conservatively retained up to level 1; no competence claim.,S006
+ddvb-prelest,ddvb,conditional,recognition_continuity,1,2,Primary text explicitly claims retained recognisability but names no specific retained visual asset. A possible visual before/after confirmation is not ruled out: upper level 2 is conservatively retained.,S006
+ddvb-prelest,ddvb,conditional,functional_navigation,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+ddvb-prelest,ddvb,conditional,format_information_system,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+ddvb-greenplanet,ddvb,excluded,brief_similarity,0,3,Agency-authored project published 2015-10-19; same project outside the 2020–2026 window.,S007
+ddvb-greenplanet,ddvb,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S007
+ddvb-greenplanet,ddvb,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S007
+ddvb-greenplanet,ddvb,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S007
+ddvb-greenplanet,ddvb,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S007
+andva-prettygarden,andva,eligible,brief_similarity,0,1,documented_redesign; date_unknown,S008
+andva-prettygarden,andva,eligible,recognition_continuity,0,2,Старое разнородное оформление и новый дизайн описаны; сохраняемый визуальный актив ещё не установлен.,S008
+andva-prettygarden,andva,eligible,functional_navigation,0,2,Нежная палитра описана; функциональная карта цветов пока не установлена.,S008
+andva-prettygarden,andva,eligible,format_information_system,0,2,Новый упаковочный дизайн описан; правило иерархии двух форматов ещё не проверено.,S008
+andva-prettygarden,andva,eligible,handover_rules,0,2,Передача гида/правил не установлена.,S008
+antre-bioarctic,antre,conditional,brief_similarity,0,2,Existing Faberlic haircare series. Manufacturer ownership is established; no retail private-label status. Historical 2017 catalogue lead is not used to exclude the case without a visual match.,S010
+antre-bioarctic,antre,conditional,handover_rules,0,1,Applicable full primary case text and exact case/domain guide searches have been reviewed. Explicit handover with two norm groups was not found in that finite corpus. Possible image-only document evidence is conservatively retained up to level 1; no competence claim.,S010
+antre-bioarctic,antre,conditional,recognition_continuity,0,2,Описан новый блеск флаконов и этикетки; сохранённый актив не установлен.,S010
+antre-bioarctic,antre,conditional,functional_navigation,0,2,Назван выбор по типу волос; визуальный код функций не установлен.,S010
+antre-bioarctic,antre,conditional,format_information_system,0,2,Описание покрытия упаковки не устанавливает иерархию двух форматов.,S010
+repina-palmolive,repina,conditional,brief_similarity,0,1,prior_2021_lead; eligibility_unverified,S012
+repina-palmolive,repina,conditional,recognition_continuity,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+repina-palmolive,repina,conditional,functional_navigation,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+repina-palmolive,repina,conditional,format_information_system,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+repina-palmolive,repina,conditional,handover_rules,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+ohmybrand-alloga,ohmybrand,excluded,brief_similarity,0,3,New product brand developed for the founder; no existing-brand redesign in this case.,S013
+ohmybrand-alloga,ohmybrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S013
+ohmybrand-alloga,ohmybrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S013
+ohmybrand-alloga,ohmybrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S013
+ohmybrand-alloga,ohmybrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S013
+ohmybrand-krassa,ohmybrand,excluded,brief_similarity,0,3,Primary case explicitly says the distributor started its own production and commissioned a new brand from beginning to end.,S014
+ohmybrand-krassa,ohmybrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S014
+ohmybrand-krassa,ohmybrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S014
+ohmybrand-krassa,ohmybrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S014
+ohmybrand-krassa,ohmybrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S014
+getbrand-evisent,getbrand,conditional,brief_similarity,0,2,"Existing manufacturer cosmetic line: shampoo and facial cleanser; tablets/supplements are excluded from scoring. Unknown professional status is bounded by 2, not by 3 (retail STM).",S015
+getbrand-evisent,getbrand,conditional,handover_rules,0,1,Applicable full primary case text and exact case/domain guide searches have been reviewed. Explicit handover with two norm groups was not found in that finite corpus. Possible image-only document evidence is conservatively retained up to level 1; no competence claim.,S015
+getbrand-evisent,getbrand,conditional,recognition_continuity,2,2,Первично описаны прежние чёрный/оранжевый и их сохранение с увеличением доли чёрного.,S015
+getbrand-evisent,getbrand,conditional,functional_navigation,0,2,Различены функции шампуня и пенки; правило визуального кода групп ещё не установлено.,S015
+getbrand-evisent,getbrand,conditional,format_information_system,0,2,Описан вывод трёх выгод на лицевую сторону; два разных формата пока не проверены.,S015
+getbrand-selencin,getbrand,eligible,brief_similarity,0,2,"Agency explicitly contrasts old 2019 packaging with new packaging sold in 2020. Only separately described cosmetic hair products are included, not medicines or supplements. Manufacturer brand, not retail STM.",S016
+getbrand-selencin,getbrand,eligible,handover_rules,0,1,Applicable full primary case text and exact case/domain guide searches have been reviewed. Explicit handover with two norm groups was not found in that finite corpus. Possible image-only document evidence is conservatively retained up to level 1; no competence claim.,S016
+getbrand-selencin,getbrand,eligible,recognition_continuity,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+getbrand-selencin,getbrand,eligible,functional_navigation,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+getbrand-selencin,getbrand,eligible,format_information_system,0,2,Сохранён прежний поисковый след; применимость и уровень этого критерия не подтверждены в данном проходе.,
+brandhub-lialab,depot-brandhub,conditional,brief_similarity,0,1,documented_redesign; date_unknown,S017
+brandhub-lialab,depot-brandhub,conditional,recognition_continuity,0,2,Новая айдентика с горным мотивом описана; сохраняемый старый визуальный актив не установлен.,S017
+brandhub-lialab,depot-brandhub,conditional,functional_navigation,0,2,Заявлена возможность категорий через цвета; реализованная карта функций ещё не установлена.,S017
+brandhub-lialab,depot-brandhub,conditional,format_information_system,0,2,Доминирование логотипа описано; иерархия на двух форматах не проверена.,S017
+brandhub-lialab,depot-brandhub,conditional,handover_rules,0,2,Переданный гайд не установлен; общая услуга не доказывает результат этого кейса.,S017
+brandbrothers-fane,brandbrothers,excluded,brief_similarity,0,3,"Creation of a new professional hair brand, including naming; not an existing-brand redesign.",S018
+brandbrothers-fane,brandbrothers,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S018
+brandbrothers-fane,brandbrothers,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S018
+brandbrothers-fane,brandbrothers,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S018
+brandbrothers-fane,brandbrothers,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S018
+brandbrothers-ruxxi,brandbrothers,excluded,brief_similarity,0,3,Creation of a new brand including naming; no prior-brand redesign documented.,S019
+brandbrothers-ruxxi,brandbrothers,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S019
+brandbrothers-ruxxi,brandbrothers,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S019
+brandbrothers-ruxxi,brandbrothers,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S019
+brandbrothers-ruxxi,brandbrothers,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S019
+soldis-mosquitall,soldis,excluded,brief_similarity,0,3,Insect protection/repellent case; no separately documented cosmetic redesign.,S020
+soldis-mosquitall,soldis,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S020
+soldis-mosquitall,soldis,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S020
+soldis-mosquitall,soldis,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S020
+soldis-mosquitall,soldis,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S020
+serenity-osnova,serenity,eligible,brief_similarity,0,1,documented_redesign; date_unknown,S021
+serenity-osnova,serenity,eligible,recognition_continuity,0,2,Сохранение авторитета заявлено; конкретный прежний визуальный актив не установлен.,S021
+serenity-osnova,serenity,eligible,functional_navigation,0,2,"Названы специальный/ежедневный уход, очищение и оттенки продуктов; соответствие групп кодам требует просмотра.",S021
+serenity-osnova,serenity,eligible,format_information_system,1,2,Описаны роли лицевой/оборотной сторон; два различных формата ещё не подтверждены.,S021
+serenity-osnova,serenity,eligible,handover_rules,0,2,"Цвета и шрифты раскрыты, но факт передачи документа/правил не установлен.",S021
+clever-lafresh,clever,conditional,brief_similarity,1,1,Existing Magnit private-label redesign. The full reviewed case shows hand and foot creams separately from hygiene products; only that cosmetic part is scored. All five case illustrations inspected; no haircare/styling part is present in this case.,S023
+clever-lafresh,clever,conditional,recognition_continuity,2,2,Original before/after image retains the handwritten La Fresh logo and avocado motif while changing layout and enclosure; the accompanying case describes correction of the logo.,S023
+clever-lafresh,clever,conditional,functional_navigation,0,2,Названы цветовые решения продуктов; соответствие двум функциональным группам ещё не прочитано.,S023
+clever-lafresh,clever,conditional,format_information_system,1,2,Заявлено развитие дизайна на более чем 50 SKU/категорий; правило иерархии двух форматов ещё не установлено.,S023
+clever-lafresh,clever,conditional,handover_rules,0,2,Указана сдача файлов prepress. Это не подтверждает передачу производственных правил или гида с нормами.,S023
+radar-vkusvill,radar,conditional,brief_similarity,1,1,documented_redesign; implementation_date_unknown,S025
+radar-vkusvill,radar,conditional,recognition_continuity,0,2,Новый знак ВВ производен от названия; сохранённый конкретный визуальный актив требует проверки до/после.,S025
+radar-vkusvill,radar,conditional,functional_navigation,0,2,"Два авторских описания связывают функции с числами/цветом, но код 01 различается: очищение в заявке, увлажнение в рассказе команды.",S025
+radar-vkusvill,radar,conditional,format_information_system,1,2,"Описаны информация по граням, сокращённый логотип и блок ингредиентов; два конкретных формата ещё не сверены.",S025
+radar-vkusvill,radar,conditional,handover_rules,0,2,Факт передачи гида пока не установлен.,S025
+mm-gubernskie,mesnyankin-melenchuk,eligible,brief_similarity,1,1,Agency-reported 2025 redesign of the pharmacy retail private label launched in 2020. Primary original images show facial creams in glass jars; no haircare/styling part is documented.,S027
+mm-gubernskie,mesnyankin-melenchuk,eligible,recognition_continuity,1,2,Сохранение стеклянной упаковки названо; связь конкретного визуального актива с показанными старым и новым состояниями ещё требует просмотра.,S027
+mm-gubernskie,mesnyankin-melenchuk,eligible,functional_navigation,0,2,Описано различение продуктов оттенками; конкретные функциональные группы и коды ещё не сопоставлены.,S027
+mm-gubernskie,mesnyankin-melenchuk,eligible,format_information_system,0,2,Заявлена иерархия серии; применение на двух установленных форматах ещё не проверено.,S027
+mm-gubernskie,mesnyankin-melenchuk,eligible,handover_rules,0,2,Продуктовые материалы упомянуты; переданный гайд не установлен.,S027
+yuno-iva,yuno,conditional,brief_similarity,0,1,documented_redesign; implementation_date_unknown,S028
+yuno-iva,yuno,conditional,recognition_continuity,0,2,Описано новое использование V; сохранение прежнего визуального актива ещё не доказано.,S028
+yuno-iva,yuno,conditional,functional_navigation,0,2,Пастельные оттенки различают линейки; точное соответствие функциональных групп ещё не прочитано.,S028
+yuno-iva,yuno,conditional,format_information_system,1,2,Заявлено масштабирование от маленькой банки до большой коробки; правило информационной иерархии ещё не установлено.,S028
+yuno-iva,yuno,conditional,handover_rules,0,2,Передача гида/производственных правил не установлена.,S028
+otvet-alerana,otvetdesign,excluded,brief_similarity,0,3,Original Alerana branding is 2013/2014; the next redesign is explicitly 2019. Both outside the window.,S030
+otvet-alerana,otvetdesign,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S030
+otvet-alerana,otvetdesign,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S030
+otvet-alerana,otvetdesign,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S030
+otvet-alerana,otvetdesign,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S030
+depot-syoss,depot-brandhub,eligible,brief_similarity,2,2,existing_redesign_component; separate_new_extension_and_finish_discovery,S031
+depot-syoss,depot-brandhub,eligible,handover_rules,0,1,Applicable full primary case text and exact case/domain guide searches have been reviewed. Explicit handover with two norm groups was not found in that finite corpus. Possible image-only document evidence is conservatively retained up to level 1; no competence claim.,S031
+depot-syoss,depot-brandhub,eligible,recognition_continuity,2,2,Full primary narrative names the already recognisable coloured circle and its relocation as a visual anchor; links existing and new states explicitly.,S031
+depot-syoss,depot-brandhub,eligible,functional_navigation,0,2,Ультрапепельная серия выделена; точные коды двух функциональных групп неизвестны.,S031
+depot-syoss,depot-brandhub,eligible,format_information_system,0,2,Иерархия улучшена; два формата упаковки и общее правило не подтверждены.,S031
+ice-gliss-kur,ice-agency,eligible,brief_similarity,0,0,"Agency-authored World Brand Design case explicitly describes existing mass-market haircare, not retail STM or a professional hair brand. Relative implementation statement resolves to late 2025 from its dated 2026 authored publication.",S032
+ice-gliss-kur,ice-agency,eligible,recognition_continuity,1,2,Preservation of brand recognizability explicitly described; named retained asset and before/after comparison not yet verified.,S033
+ice-gliss-kur,ice-agency,eligible,functional_navigation,0,2,Distinct ingredient molecule per line and benefits communicated; functional (not merely ingredient) grouping and visual implementation need checking.,S033
+ice-gliss-kur,ice-agency,eligible,format_information_system,0,2,Six SKUs and expanded RTB information described; consistent hierarchy across at least two formats/volumes unverified.,S033
+ice-gliss-kur,ice-agency,eligible,handover_rules,0,2,Indexed submission has broad Packaging Guidelines deliverables tag; actual document and transfer not established.,S033
+depot-klern_parfum,depot-brandhub,eligible,brief_similarity,1,1,Expansion of existing SPAR cosmetic retail private label; original case images show shower gels and body creams.,S034
+depot-klern_parfum,depot-brandhub,eligible,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S034
+depot-klern_parfum,depot-brandhub,eligible,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S034
+depot-klern_parfum,depot-brandhub,eligible,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S034
+depot-klern_parfum,depot-brandhub,eligible,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S034
+depot-amberica,depot-brandhub,eligible,brief_similarity,0,1,"Existing amber cosmetics brand relaunch; skin/body cosmetics, no haircare/styling private label.",S035
+depot-amberica,depot-brandhub,eligible,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S035
+depot-amberica,depot-brandhub,eligible,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S035
+depot-amberica,depot-brandhub,eligible,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S035
+depot-amberica,depot-brandhub,eligible,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S035
+depot-garda_pozitsionirovanie_i_diza,depot-brandhub,conditional,brief_similarity,0,1,"Industrial dermatological skin-protection system. Cosmetic applicability is uncertain; conservatively retained, not dropped as PPE.",S036
+depot-garda_pozitsionirovanie_i_diza,depot-brandhub,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S036
+depot-garda_pozitsionirovanie_i_diza,depot-brandhub,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S036
+depot-garda_pozitsionirovanie_i_diza,depot-brandhub,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S036
+depot-garda_pozitsionirovanie_i_diza,depot-brandhub,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S036
+depot-obnovlyennaya_chistaya_liniya,depot-brandhub,eligible,brief_similarity,0,2,Existing manufacturer cosmetic brand refresh; haircare component conservatively retained up to professional-hair level.,S037
+depot-obnovlyennaya_chistaya_liniya,depot-brandhub,eligible,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S037
+depot-obnovlyennaya_chistaya_liniya,depot-brandhub,eligible,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S037
+depot-obnovlyennaya_chistaya_liniya,depot-brandhub,eligible,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S037
+depot-obnovlyennaya_chistaya_liniya,depot-brandhub,eligible,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S037
+depot-arkhangelskie_vodorosli,depot-brandhub,conditional,brief_similarity,0,1,Existing company identity and face/body cosmetic system; exact packaging applicability remains conditional.,S038
+depot-arkhangelskie_vodorosli,depot-brandhub,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S038
+depot-arkhangelskie_vodorosli,depot-brandhub,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S038
+depot-arkhangelskie_vodorosli,depot-brandhub,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S038
+depot-arkhangelskie_vodorosli,depot-brandhub,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S038
+depot-podarochnye_nabory_axe,depot-brandhub,conditional,brief_similarity,0,1,Existing consumer body-care gift packaging; extension/redesign applicability remains conditional.,S039
+depot-podarochnye_nabory_axe,depot-brandhub,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S039
+depot-podarochnye_nabory_axe,depot-brandhub,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S039
+depot-podarochnye_nabory_axe,depot-brandhub,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S039
+depot-podarochnye_nabory_axe,depot-brandhub,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S039
+depot-sof,depot-brandhub,excluded,brief_similarity,0,3,"Household cleaning/hygiene brand in Tajikistan, with no separately established Russian cosmetic redesign.",S040
+depot-sof,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S040
+depot-sof,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S040
+depot-sof,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S040
+depot-sof,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S040
+depot-scarlett_rebranding,depot-brandhub,excluded,brief_similarity,0,3,Household electrical appliances.,S041
+depot-scarlett_rebranding,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S041
+depot-scarlett_rebranding,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S041
+depot-scarlett_rebranding,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S041
+depot-scarlett_rebranding,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S041
+depot-venteil_group,depot-brandhub,excluded,brief_similarity,0,3,Corporate architecture/identity; not a documented cosmetic packaging redesign.,S042
+depot-venteil_group,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S042
+depot-venteil_group,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S042
+depot-venteil_group,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S042
+depot-venteil_group,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S042
+depot-regle,depot-brandhub,excluded,brief_similarity,0,3,New brand including naming.,S043
+depot-regle,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S043
+depot-regle,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S043
+depot-regle,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S043
+depot-regle,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S043
+depot-tochka_krasoty,depot-brandhub,excluded,brief_similarity,0,3,"Salon chain identity, not cosmetic packaging.",S044
+depot-tochka_krasoty,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S044
+depot-tochka_krasoty,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S044
+depot-tochka_krasoty,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S044
+depot-tochka_krasoty,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S044
+depot-lab_industries,depot-brandhub,excluded,brief_similarity,0,3,"Corporate identity of the manufacturer, not one cosmetic packaging case.",S045
+depot-lab_industries,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S045
+depot-lab_industries,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S045
+depot-lab_industries,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S045
+depot-lab_industries,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S045
+depot-fanshi,depot-brandhub,excluded,brief_similarity,0,3,New SPAR cosmetic brand including naming.,S046
+depot-fanshi,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S046
+depot-fanshi,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S046
+depot-fanshi,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S046
+depot-fanshi,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S046
+depot-spar_klern,depot-brandhub,excluded,brief_similarity,0,3,Original new Klern brand including naming; later existing-brand extension retained separately.,S047
+depot-spar_klern,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S047
+depot-spar_klern,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S047
+depot-spar_klern,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S047
+depot-spar_klern,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S047
+depot-pharmsept_express,depot-brandhub,excluded,brief_similarity,0,3,"Antiseptic/hygiene product, no separately identified cosmetics.",S048
+depot-pharmsept_express,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S048
+depot-pharmsept_express,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S048
+depot-pharmsept_express,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S048
+depot-pharmsept_express,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S048
+depot-slowmo,depot-brandhub,excluded,brief_similarity,0,3,"Salon name and identity, not cosmetic packaging.",S049
+depot-slowmo,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S049
+depot-slowmo,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S049
+depot-slowmo,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S049
+depot-slowmo,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S049
+depot-silk_sense_ola,depot-brandhub,excluded,brief_similarity,0,3,Feminine hygiene products.,S050
+depot-silk_sense_ola,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S050
+depot-silk_sense_ola,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S050
+depot-silk_sense_ola,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S050
+depot-silk_sense_ola,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S050
+depot-ola,depot-brandhub,excluded,brief_similarity,0,3,Feminine hygiene products.,S051
+depot-ola,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S051
+depot-ola,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S051
+depot-ola,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S051
+depot-ola,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S051
+depot-cirkle,depot-brandhub,excluded,brief_similarity,0,3,Explicitly new Russian solid-shampoo brand.,S052
+depot-cirkle,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S052
+depot-cirkle,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S052
+depot-cirkle,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S052
+depot-cirkle,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S052
+depot-aesthetiks_beauty_group,depot-brandhub,excluded,brief_similarity,0,3,Distributor corporate logo only; separate new CIRKLE brand not combined.,S053
+depot-aesthetiks_beauty_group,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S053
+depot-aesthetiks_beauty_group,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S053
+depot-aesthetiks_beauty_group,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S053
+depot-aesthetiks_beauty_group,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S053
+depot-camay_deo,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S054
+depot-camay_deo,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S054
+depot-camay_deo,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S054
+depot-camay_deo,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S054
+depot-camay_deo,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S054
+depot-theraflex,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S055
+depot-theraflex,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S055
+depot-theraflex,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S055
+depot-theraflex,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S055
+depot-theraflex,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S055
+depot-studio_professional,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S056
+depot-studio_professional,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S056
+depot-studio_professional,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S056
+depot-studio_professional,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S056
+depot-studio_professional,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S056
+depot-master_brilliant,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S057
+depot-master_brilliant,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S057
+depot-master_brilliant,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S057
+depot-master_brilliant,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S057
+depot-master_brilliant,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S057
+depot-lapochka,depot-brandhub,excluded,brief_similarity,0,3,New cosmetic brand; prior fallback primary text establishes creation.,S058
+depot-lapochka,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S058
+depot-lapochka,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S058
+depot-lapochka,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S058
+depot-lapochka,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S058
+depot-vitus,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S059
+depot-vitus,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S059
+depot-vitus,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S059
+depot-vitus,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S059
+depot-vitus,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S059
+depot-invitro,depot-brandhub,excluded,brief_similarity,0,3,Medical services identity.,S060
+depot-invitro,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S060
+depot-invitro,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S060
+depot-invitro,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S060
+depot-invitro,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S060
+depot-printsessa,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S061
+depot-printsessa,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S061
+depot-printsessa,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S061
+depot-printsessa,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S061
+depot-printsessa,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S061
+depot-long_sheng_pharma,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S062
+depot-long_sheng_pharma,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S062
+depot-long_sheng_pharma,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S062
+depot-long_sheng_pharma,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S062
+depot-long_sheng_pharma,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S062
+depot-podarochnye_nabory_dove,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S063
+depot-podarochnye_nabory_dove,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S063
+depot-podarochnye_nabory_dove,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S063
+depot-podarochnye_nabory_dove,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S063
+depot-podarochnye_nabory_dove,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S063
+depot-rexona_women,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S064
+depot-rexona_women,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S064
+depot-rexona_women,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S064
+depot-rexona_women,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S064
+depot-rexona_women,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S064
+depot-beautem,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S065
+depot-beautem,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S065
+depot-beautem,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S065
+depot-beautem,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S065
+depot-beautem,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S065
+depot-generium,depot-brandhub,excluded,brief_similarity,0,3,Pharmaceutical corporate identity.,S066
+depot-generium,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S066
+depot-generium,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S066
+depot-generium,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S066
+depot-generium,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S066
+depot-papa_care,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S067
+depot-papa_care,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S067
+depot-papa_care,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S067
+depot-papa_care,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S067
+depot-papa_care,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S067
+depot-philips_bud_v_kurse_modnykh_novostey,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S068
+depot-philips_bud_v_kurse_modnykh_novostey,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S068
+depot-philips_bud_v_kurse_modnykh_novostey,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S068
+depot-philips_bud_v_kurse_modnykh_novostey,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S068
+depot-philips_bud_v_kurse_modnykh_novostey,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S068
+depot-kaltsiy_d3_nikomed,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S069
+depot-kaltsiy_d3_nikomed,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S069
+depot-kaltsiy_d3_nikomed,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S069
+depot-kaltsiy_d3_nikomed,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S069
+depot-kaltsiy_d3_nikomed,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S069
+depot-biography,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S070
+depot-biography,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S070
+depot-biography,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S070
+depot-biography,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S070
+depot-biography,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S070
+depot-naturage,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S071
+depot-naturage,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S071
+depot-naturage,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S071
+depot-naturage,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S071
+depot-naturage,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S071
+depot-venoteks,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S072
+depot-venoteks,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S072
+depot-venoteks,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S072
+depot-venoteks,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S072
+depot-venoteks,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S072
+depot-alfavit,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S073
+depot-alfavit,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S073
+depot-alfavit,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S073
+depot-alfavit,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S073
+depot-alfavit,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S073
+depot-nivea,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S074
+depot-nivea,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S074
+depot-nivea,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S074
+depot-nivea,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S074
+depot-nivea,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S074
+depot-philips_trend_sezona_vostok,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S075
+depot-philips_trend_sezona_vostok,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S075
+depot-philips_trend_sezona_vostok,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S075
+depot-philips_trend_sezona_vostok,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S075
+depot-philips_trend_sezona_vostok,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S075
+depot-mir_detstva,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S076
+depot-mir_detstva,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S076
+depot-mir_detstva,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S076
+depot-mir_detstva,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S076
+depot-mir_detstva,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S076
+depot-philips_stan_zvezdoy_vecherinki,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S077
+depot-philips_stan_zvezdoy_vecherinki,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S077
+depot-philips_stan_zvezdoy_vecherinki,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S077
+depot-philips_stan_zvezdoy_vecherinki,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S077
+depot-philips_stan_zvezdoy_vecherinki,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S077
+depot-dizao_organics,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S078
+depot-dizao_organics,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S078
+depot-dizao_organics,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S078
+depot-dizao_organics,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S078
+depot-dizao_organics,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S078
+depot-natura_spa,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S079
+depot-natura_spa,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S079
+depot-natura_spa,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S079
+depot-natura_spa,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S079
+depot-natura_spa,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S079
+depot-natura_pure,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S080
+depot-natura_pure,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S080
+depot-natura_pure,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S080
+depot-natura_pure,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S080
+depot-natura_pure,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S080
+depot-kosmeticheskie_maski_dizao,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S081
+depot-kosmeticheskie_maski_dizao,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S081
+depot-kosmeticheskie_maski_dizao,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S081
+depot-kosmeticheskie_maski_dizao,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S081
+depot-kosmeticheskie_maski_dizao,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S081
+depot-ola_spa,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S082
+depot-ola_spa,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S082
+depot-ola_spa,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S082
+depot-ola_spa,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S082
+depot-ola_spa,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S082
+depot-natura_gourmet_blue,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S083
+depot-natura_gourmet_blue,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S083
+depot-natura_gourmet_blue,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S083
+depot-natura_gourmet_blue,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S083
+depot-natura_gourmet_blue,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S083
+depot-natura_gourmet,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S084
+depot-natura_gourmet,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S084
+depot-natura_gourmet,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S084
+depot-natura_gourmet,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S084
+depot-natura_gourmet,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S084
+depot-sredstva_dlya_volos_natura_36_6,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S085
+depot-sredstva_dlya_volos_natura_36_6,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S085
+depot-sredstva_dlya_volos_natura_36_6,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S085
+depot-sredstva_dlya_volos_natura_36_6,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S085
+depot-sredstva_dlya_volos_natura_36_6,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S085
+depot-kosmetika_natura_36_6,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S086
+depot-kosmetika_natura_36_6,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S086
+depot-kosmetika_natura_36_6,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S086
+depot-kosmetika_natura_36_6,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S086
+depot-kosmetika_natura_36_6,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S086
+depot-dobraya_zabota,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S087
+depot-dobraya_zabota,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S087
+depot-dobraya_zabota,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S087
+depot-dobraya_zabota,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S087
+depot-dobraya_zabota,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S087
+depot-ola_bikini_deo,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S088
+depot-ola_bikini_deo,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S088
+depot-ola_bikini_deo,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S088
+depot-ola_bikini_deo,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S088
+depot-ola_bikini_deo,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S088
+depot-ola_fashion,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S089
+depot-ola_fashion,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S089
+depot-ola_fashion,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S089
+depot-ola_fashion,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S089
+depot-ola_fashion,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S089
+depot-slimcode,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S090
+depot-slimcode,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S090
+depot-slimcode,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S090
+depot-slimcode,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S090
+depot-slimcode,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S090
+depot-santimin,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S091
+depot-santimin,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S091
+depot-santimin,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S091
+depot-santimin,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S091
+depot-santimin,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S091
+depot-alerana,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S092
+depot-alerana,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S092
+depot-alerana,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S092
+depot-alerana,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S092
+depot-alerana,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S092
+depot-vision,depot-brandhub,excluded,brief_similarity,0,3,Agency-reported completion before 2020; outside frozen window. Retained in exclusion inventory.,S093
+depot-vision,depot-brandhub,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S093
+depot-vision,depot-brandhub,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S093
+depot-vision,depot-brandhub,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S093
+depot-vision,depot-brandhub,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S093
+antre-greenini,antre,excluded,brief_similarity,0,3,New name and new brand.,S094
+antre-greenini,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S094
+antre-greenini,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S094
+antre-greenini,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S094
+antre-greenini,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S094
+antre-dolce-milk,antre,conditional,brief_similarity,1,1,Existing L’Etoile retailer-exclusive body-care series and packaging extensions; manufacturer Loren Cosmetics is stated.,S095
+antre-dolce-milk,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S095
+antre-dolce-milk,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S095
+antre-dolce-milk,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S095
+antre-dolce-milk,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S095
+antre-bimunica-3,antre,conditional,brief_similarity,0,1,Expansion of an existing baby cosmetic brand from 0+ to 3+; date and existing-subbrand boundary remain conditional.,S096
+antre-bimunica-3,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S096
+antre-bimunica-3,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S096
+antre-bimunica-3,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S096
+antre-bimunica-3,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S096
+antre-bagi-stirka-konczept,antre,excluded,brief_similarity,0,3,Laundry/household cleaning.,S097
+antre-bagi-stirka-konczept,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S097
+antre-bagi-stirka-konczept,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S097
+antre-bagi-stirka-konczept,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S097
+antre-bagi-stirka-konczept,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S097
+antre-bagi-stirka-dizajn,antre,excluded,brief_similarity,0,3,Laundry/household cleaning.,S098
+antre-bagi-stirka-dizajn,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S098
+antre-bagi-stirka-dizajn,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S098
+antre-bagi-stirka-dizajn,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S098
+antre-bagi-stirka-dizajn,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S098
+antre-bimunica-design,antre,excluded,brief_similarity,0,3,Original new Bimunica brand including naming.,S099
+antre-bimunica-design,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S099
+antre-bimunica-design,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S099
+antre-bimunica-design,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S099
+antre-bimunica-design,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S099
+antre-icon-skin,antre,conditional,brief_similarity,0,1,Existing professional skin-care brand visual concept update; not professional haircare.,S100
+antre-icon-skin,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S100
+antre-icon-skin,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S100
+antre-icon-skin,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S100
+antre-icon-skin,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S100
+antre-frau-shmidt,antre,excluded,brief_similarity,0,3,Household cleaning.,S101
+antre-frau-shmidt,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S101
+antre-frau-shmidt,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S101
+antre-frau-shmidt,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S101
+antre-frau-shmidt,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S101
+antre-n4w,antre,conditional,brief_similarity,0,1,"Teen skin-care project; prior-brand status/date uncertain, retained conservatively.",S102
+antre-n4w,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S102
+antre-n4w,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S102
+antre-n4w,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S102
+antre-n4w,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S102
+antre-denta-swiss,antre,excluded,brief_similarity,0,3,Oral hygiene; no separate cosmetics.,S103
+antre-denta-swiss,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S103
+antre-denta-swiss,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S103
+antre-denta-swiss,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S103
+antre-denta-swiss,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S103
+antre-barber-lab,antre,conditional,brief_similarity,0,2,"Faberlic male hair/body/shaving subline; new-versus-existing umbrella extension and date uncertain, retained.",S104
+antre-barber-lab,antre,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S104
+antre-barber-lab,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S104
+antre-barber-lab,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S104
+antre-barber-lab,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S104
+antre-alisa-svoboda,antre,conditional,brief_similarity,0,1,"Manufacturer baby-cosmetic brand; prior-brand/date uncertain, retained.",S105
+antre-alisa-svoboda,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S105
+antre-alisa-svoboda,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S105
+antre-alisa-svoboda,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S105
+antre-alisa-svoboda,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S105
+antre-life-market,antre,excluded,brief_similarity,0,3,Retail identity only.,S106
+antre-life-market,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S106
+antre-life-market,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S106
+antre-life-market,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S106
+antre-life-market,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S106
+antre-bagi-shumanit,antre,excluded,brief_similarity,0,3,Household cleaning.,S107
+antre-bagi-shumanit,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S107
+antre-bagi-shumanit,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S107
+antre-bagi-shumanit,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S107
+antre-bagi-shumanit,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S107
+antre-solmax,antre,excluded,brief_similarity,0,3,"Baby toys, visually confirmed by the published packaging and guide; not cosmetics.",S108
+antre-solmax,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S108
+antre-solmax,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S108
+antre-solmax,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S108
+antre-solmax,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S108
+antre-feg,antre,excluded,brief_similarity,0,3,Cheese/food.,S109
+antre-feg,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S109
+antre-feg,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S109
+antre-feg,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S109
+antre-feg,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S109
+antre-rapira,antre,excluded,brief_similarity,0,3,Razors; no cosmetic packaging.,S110
+antre-rapira,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S110
+antre-rapira,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S110
+antre-rapira,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S110
+antre-rapira,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S110
+antre-sanosan,antre,conditional,brief_similarity,0,1,Baby cosmetic promotional/gift system for existing brand; packaging applicability/date uncertain.,S111
+antre-sanosan,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S111
+antre-sanosan,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S111
+antre-sanosan,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S111
+antre-sanosan,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S111
+antre-icon-skin2,antre,conditional,brief_similarity,0,1,Facial oil series within existing skin-care brand; implementation date unknown.,S112
+antre-icon-skin2,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S112
+antre-icon-skin2,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S112
+antre-icon-skin2,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S112
+antre-icon-skin2,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S112
+antre-balet,antre,conditional,brief_similarity,0,1,Existing manufacturer skin cream redesign; date unknown.,S113
+antre-balet,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S113
+antre-balet,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S113
+antre-balet,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S113
+antre-balet,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S113
+antre-iseul,antre,excluded,brief_similarity,0,3,New cosmetic brand and naming.,S114
+antre-iseul,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S114
+antre-iseul,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S114
+antre-iseul,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S114
+antre-iseul,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S114
+antre-dr.oetker,antre,excluded,brief_similarity,0,3,Food.,S115
+antre-dr.oetker,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S115
+antre-dr.oetker,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S115
+antre-dr.oetker,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S115
+antre-dr.oetker,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S115
+antre-secret-story,antre,conditional,brief_similarity,0,1,Existing make-up range update and packaging body design; date unknown.,S116
+antre-secret-story,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S116
+antre-secret-story,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S116
+antre-secret-story,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S116
+antre-secret-story,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S116
+antre-prosper,antre,excluded,brief_similarity,0,3,Household cleaning.,S117
+antre-prosper,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S117
+antre-prosper,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S117
+antre-prosper,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S117
+antre-prosper,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S117
+antre-shennun,antre,excluded,brief_similarity,0,3,Tea/food.,S118
+antre-shennun,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S118
+antre-shennun,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S118
+antre-shennun,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S118
+antre-shennun,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S118
+antre-deline,antre,conditional,brief_similarity,0,1,Depilation range/new-name boundary uncertain; retained as possible cosmetic extension.,S119
+antre-deline,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S119
+antre-deline,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S119
+antre-deline,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S119
+antre-deline,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S119
+antre-altervest,antre,excluded,brief_similarity,0,3,Food.,S120
+antre-altervest,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S120
+antre-altervest,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S120
+antre-altervest,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S120
+antre-altervest,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S120
+antre-you-mix,antre,excluded,brief_similarity,0,3,Food.,S121
+antre-you-mix,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S121
+antre-you-mix,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S121
+antre-you-mix,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S121
+antre-you-mix,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S121
+antre-dr.oetker2,antre,excluded,brief_similarity,0,3,Food.,S122
+antre-dr.oetker2,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S122
+antre-dr.oetker2,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S122
+antre-dr.oetker2,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S122
+antre-dr.oetker2,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S122
+antre-svoboda,antre,excluded,brief_similarity,0,3,Corporate logo identity; separate cosmetic cases retained.,S123
+antre-svoboda,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S123
+antre-svoboda,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S123
+antre-svoboda,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S123
+antre-svoboda,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S123
+antre-g-klass,antre,excluded,brief_similarity,0,3,Car club identity.,S124
+antre-g-klass,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S124
+antre-g-klass,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S124
+antre-g-klass,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S124
+antre-g-klass,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S124
+antre-zavod-protej,antre,excluded,brief_similarity,0,3,Packaging manufacturer corporate identity.,S125
+antre-zavod-protej,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S125
+antre-zavod-protej,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S125
+antre-zavod-protej,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S125
+antre-zavod-protej,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S125
+antre-fiksiki,antre,excluded,brief_similarity,0,3,Food.,S126
+antre-fiksiki,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S126
+antre-fiksiki,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S126
+antre-fiksiki,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S126
+antre-fiksiki,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S126
+antre-sette-grani,antre,excluded,brief_similarity,0,3,Coffee/food.,S127
+antre-sette-grani,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S127
+antre-sette-grani,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S127
+antre-sette-grani,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S127
+antre-sette-grani,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S127
+antre-grante,antre,excluded,brief_similarity,0,3,Juice/food.,S128
+antre-grante,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S128
+antre-grante,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S128
+antre-grante,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S128
+antre-grante,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S128
+antre-vitamania,antre,excluded,brief_similarity,0,3,New cosmetic series including name; original brand creation.,S129
+antre-vitamania,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S129
+antre-vitamania,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S129
+antre-vitamania,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S129
+antre-vitamania,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S129
+antre-la-creme,antre,conditional,brief_similarity,0,1,"Body cream/name project; new-versus-existing status uncertain, retained.",S130
+antre-la-creme,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S130
+antre-la-creme,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S130
+antre-la-creme,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S130
+antre-la-creme,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S130
+antre-techno-kids,antre,excluded,brief_similarity,0,3,Noncosmetic character/brand.,S131
+antre-techno-kids,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S131
+antre-techno-kids,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S131
+antre-techno-kids,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S131
+antre-techno-kids,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S131
+antre-faberlic-men-campion-edition,antre,conditional,brief_similarity,0,2,Extension of existing manufacturer male cosmetics; date uncertain.,S132
+antre-faberlic-men-campion-edition,antre,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S132
+antre-faberlic-men-campion-edition,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S132
+antre-faberlic-men-campion-edition,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S132
+antre-faberlic-men-campion-edition,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S132
+antre-parodontol,antre,excluded,brief_similarity,0,3,Oral hygiene.,S133
+antre-parodontol,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S133
+antre-parodontol,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S133
+antre-parodontol,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S133
+antre-parodontol,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S133
+antre-pryanik-s-otvetom,antre,excluded,brief_similarity,0,3,Food landing page.,S134
+antre-pryanik-s-otvetom,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S134
+antre-pryanik-s-otvetom,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S134
+antre-pryanik-s-otvetom,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S134
+antre-pryanik-s-otvetom,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S134
+antre-tik-tak,antre,conditional,brief_similarity,0,1,Existing Svoboda baby cosmetic redesign; date uncertain.,S135
+antre-tik-tak,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S135
+antre-tik-tak,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S135
+antre-tik-tak,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S135
+antre-tik-tak,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S135
+antre-faberlic-men,antre,conditional,brief_similarity,0,2,Manufacturer existing male hair/body cosmetic series; extension date uncertain.,S136
+antre-faberlic-men,antre,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S136
+antre-faberlic-men,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S136
+antre-faberlic-men,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S136
+antre-faberlic-men,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S136
+antre-balet-dekor,antre,conditional,brief_similarity,0,1,"Existing Balet make-up range redesign, distinct from skin cream case.",S137
+antre-balet-dekor,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S137
+antre-balet-dekor,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S137
+antre-balet-dekor,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S137
+antre-balet-dekor,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S137
+antre-shtrudel-s-morozhenyim,antre,conditional,brief_similarity,0,2,Manufacturer Faberlic cosmetic-series extension; exact hair scope/date conservatively retained.,S138
+antre-shtrudel-s-morozhenyim,antre,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S138
+antre-shtrudel-s-morozhenyim,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S138
+antre-shtrudel-s-morozhenyim,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S138
+antre-shtrudel-s-morozhenyim,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S138
+antre-dorogaekspo,antre,excluded,brief_similarity,0,3,"Trade-event guide, not cosmetics.",S139
+antre-dorogaekspo,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S139
+antre-dorogaekspo,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S139
+antre-dorogaekspo,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S139
+antre-dorogaekspo,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S139
+antre-zima,antre,conditional,brief_similarity,0,1,Existing winter skin-care gift packaging; date uncertain.,S140
+antre-zima,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S140
+antre-zima,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S140
+antre-zima,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S140
+antre-zima,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S140
+antre-paul-mark,antre,excluded,brief_similarity,0,3,Sanitaryware/plumbing brand.,S141
+antre-paul-mark,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S141
+antre-paul-mark,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S141
+antre-paul-mark,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S141
+antre-paul-mark,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S141
+antre-letual,antre,conditional,brief_similarity,0,1,Perfume gift packaging for L’Etoile; date and extension status uncertain.,S142
+antre-letual,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S142
+antre-letual,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S142
+antre-letual,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S142
+antre-letual,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S142
+antre-znak-kachestva,antre,excluded,brief_similarity,0,3,Canned fish.,S143
+antre-znak-kachestva,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S143
+antre-znak-kachestva,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S143
+antre-znak-kachestva,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S143
+antre-znak-kachestva,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S143
+antre-botanika,antre,conditional,brief_similarity,0,2,Existing manufacturer skin/hair cosmetics extended to haircare and cream colourants; no retail private-label ownership.,S144
+antre-botanika,antre,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S144
+antre-botanika,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S144
+antre-botanika,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S144
+antre-botanika,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S144
+antre-dizajn-upakovki-miss-skinni-v-aziaskom-stile,antre,conditional,brief_similarity,0,1,Faberlic Asian-style skin-care series; new versus extension/date uncertain.,S145
+antre-dizajn-upakovki-miss-skinni-v-aziaskom-stile,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S145
+antre-dizajn-upakovki-miss-skinni-v-aziaskom-stile,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S145
+antre-dizajn-upakovki-miss-skinni-v-aziaskom-stile,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S145
+antre-dizajn-upakovki-miss-skinni-v-aziaskom-stile,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S145
+antre-dizajn-upakovki-morozhenogo-fruzhe,antre,excluded,brief_similarity,0,3,Ice cream/food.,S146
+antre-dizajn-upakovki-morozhenogo-fruzhe,antre,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S146
+antre-dizajn-upakovki-morozhenogo-fruzhe,antre,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S146
+antre-dizajn-upakovki-morozhenogo-fruzhe,antre,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S146
+antre-dizajn-upakovki-morozhenogo-fruzhe,antre,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S146
+antre-latte-beauty,antre,conditional,brief_similarity,0,1,Niche decorative cosmetics design concept; existing-brand status and date unresolved; retained adversely.,S147
+antre-latte-beauty,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S147
+antre-latte-beauty,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S147
+antre-latte-beauty,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S147
+antre-latte-beauty,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S147
+antre-glam-team,antre,conditional,brief_similarity,0,1,"Faberlic make-up subbrand; existing umbrella extension boundary/date uncertain, retained.",S148
+antre-glam-team,antre,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S148
+antre-glam-team,antre,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S148
+antre-glam-team,antre,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S148
+antre-glam-team,antre,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S148
+andva-pauvau,andva,conditional,brief_similarity,0,1,"Existing small bath-bomb brand at growth stage; packaging refresh stated, publication 2025-05-26 but implementation date unknown.",S149
+andva-pauvau,andva,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S149
+andva-pauvau,andva,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S149
+andva-pauvau,andva,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S149
+andva-pauvau,andva,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S149
+andva-uvita,andva,excluded,brief_similarity,0,3,"Primary case explicitly new brand, including naming and first packaging.",S150
+andva-uvita,andva,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S150
+andva-uvita,andva,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S150
+andva-uvita,andva,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S150
+andva-uvita,andva,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S150
+brandhub-velvety,depot-brandhub,conditional,brief_similarity,0,1,Skin-care creams/serums/masks; new versus existing brand status/date unresolved.,S151
+brandhub-velvety,depot-brandhub,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S151
+brandhub-velvety,depot-brandhub,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S151
+brandhub-velvety,depot-brandhub,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S151
+brandhub-velvety,depot-brandhub,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S151
+getbrand-pharmlevel,getbrand,conditional,brief_similarity,0,1,Existing skin-care manufacturer brand redesign; duplicate pharmaceutical-care page merged as same case.,S152
+getbrand-pharmlevel,getbrand,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S152;S153
+getbrand-pharmlevel,getbrand,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S152;S153
+getbrand-pharmlevel,getbrand,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S152;S153
+getbrand-pharmlevel,getbrand,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S152;S153
+getbrand-forx,getbrand,conditional,brief_similarity,0,1,Existing shaving cosmetic brand of AO Aromat; implementation date unknown.,S154
+getbrand-forx,getbrand,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S154
+getbrand-forx,getbrand,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S154
+getbrand-forx,getbrand,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S154
+getbrand-forx,getbrand,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S154
+getbrand-psorilom,getbrand,conditional,brief_similarity,0,2,"Existing Alkoy manufacturer line: only separately identified cosmetic shampoo/skin-care portion; medicines excluded, date unknown.",S155
+getbrand-psorilom,getbrand,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S155
+getbrand-psorilom,getbrand,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S155
+getbrand-psorilom,getbrand,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S155
+getbrand-psorilom,getbrand,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S155
+getbrand-kurnosiki,getbrand,conditional,brief_similarity,0,1,Children’s mixed assortment; cosmetic applicability is conditional and no hygiene/feeding products contribute scores.,S156
+getbrand-kurnosiki,getbrand,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S156
+getbrand-kurnosiki,getbrand,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S156
+getbrand-kurnosiki,getbrand,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S156
+getbrand-kurnosiki,getbrand,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S156
+clever-tonika,clever,conditional,brief_similarity,0,2,"Existing BIG manufacturer hair-toner redesign; date unknown, professional status not assumed.",S157
+clever-tonika,clever,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S157
+clever-tonika,clever,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S157
+clever-tonika,clever,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S157
+clever-tonika,clever,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S157
+clever-milk,clever,conditional,brief_similarity,0,2,Existing BIG manufacturer skin/hair brand refresh; linked authored publication March 2020 is not treated as implementation date.,S158
+clever-milk,clever,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S158
+clever-milk,clever,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S158
+clever-milk,clever,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S158
+clever-milk,clever,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S158
+clever-naturalistyka-spa,clever,conditional,brief_similarity,0,1,"Existing brand skin-care subline extension; retail ownership/date unresolved, retained.",S159
+clever-naturalistyka-spa,clever,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S159
+clever-naturalistyka-spa,clever,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S159
+clever-naturalistyka-spa,clever,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S159
+clever-naturalistyka-spa,clever,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S159
+clever-naturalistyka-men,clever,conditional,brief_similarity,0,1,Deodorant/skin-care extension of existing brand; date unresolved. Exact live case URL is recorded from the local source index.,S160
+clever-naturalistyka-men,clever,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S160
+clever-naturalistyka-men,clever,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S160
+clever-naturalistyka-men,clever,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S160
+clever-naturalistyka-men,clever,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S160
+soldis-swisslab,soldis,conditional,brief_similarity,1,1,Pharmacy 36.6 skin-care private label. New-versus-existing-brand boundary uncertain: retained adversely rather than dropped.,S161
+soldis-swisslab,soldis,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S161
+soldis-swisslab,soldis,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S161
+soldis-swisslab,soldis,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S161
+soldis-swisslab,soldis,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S161
+soldis-yvesrocher,soldis,conditional,brief_similarity,0,1,Gift sets mix supplements and mini cosmetics. Cosmetic packaging contribution and date uncertain; supplements never scored.,S162
+soldis-yvesrocher,soldis,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S162
+soldis-yvesrocher,soldis,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S162
+soldis-yvesrocher,soldis,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S162
+soldis-yvesrocher,soldis,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S162
+mm-peptides,mesnyankin-melenchuk,eligible,brief_similarity,1,1,2025 new face-care subline under existing pharmacy private label. Existing-brand extension retained. Original images show face cream; no haircare/styling.,S163
+mm-peptides,mesnyankin-melenchuk,eligible,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S163
+mm-peptides,mesnyankin-melenchuk,eligible,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S163
+mm-peptides,mesnyankin-melenchuk,eligible,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S163
+mm-peptides,mesnyankin-melenchuk,eligible,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S163
+otvet-lakri-2022,otvetdesign,eligible,brief_similarity,0,1,Existing Vertex child skin-care brand refresh with two functional care lines; agency case explicitly November 2022.,S164
+otvet-lakri-2022,otvetdesign,eligible,handover_rules,1,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S164
+otvet-lakri-2022,otvetdesign,eligible,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S164
+otvet-lakri-2022,otvetdesign,eligible,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S164
+otvet-lakri-2022,otvetdesign,eligible,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S164
+otvet-lakri-older,otvetdesign,conditional,brief_similarity,0,1,"Earlier existing skin-care packaging; date unknown, retained conditionally as separate case; no merging with 2022 score.",S165
+otvet-lakri-older,otvetdesign,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S165
+otvet-lakri-older,otvetdesign,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S165
+otvet-lakri-older,otvetdesign,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S165
+otvet-lakri-older,otvetdesign,conditional,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S165
+getbrand-oriko,getbrand,excluded,brief_similarity,0,3,New brand/name.,S166
+getbrand-oriko,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S166
+getbrand-oriko,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S166
+getbrand-oriko,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S166
+getbrand-oriko,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S166
+getbrand-gotye,getbrand,excluded,brief_similarity,0,3,Explicit creation from scratch and naming; new hair brand.,S167
+getbrand-gotye,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S167
+getbrand-gotye,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S167
+getbrand-gotye,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S167
+getbrand-gotye,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S167
+getbrand-savadji,getbrand,excluded,brief_similarity,0,3,"Explicit new hair-mask brand, new logo/first packaging.",S168
+getbrand-savadji,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S168
+getbrand-savadji,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S168
+getbrand-savadji,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S168
+getbrand-savadji,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S168
+getbrand-joydia,getbrand,excluded,brief_similarity,0,3,Explicit new feminine hygiene brand.,S169
+getbrand-joydia,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S169
+getbrand-joydia,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S169
+getbrand-joydia,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S169
+getbrand-joydia,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S169
+getbrand-aromacolada,getbrand,excluded,brief_similarity,0,3,"Home fragrance/household category, not cosmetic redesign.",S170
+getbrand-aromacolada,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S170
+getbrand-aromacolada,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S170
+getbrand-aromacolada,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S170
+getbrand-aromacolada,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S170
+getbrand-labery,getbrand,excluded,brief_similarity,0,3,Household cleaning.,S171
+getbrand-labery,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S171
+getbrand-labery,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S171
+getbrand-labery,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S171
+getbrand-labery,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S171
+getbrand-movi,getbrand,excluded,brief_similarity,0,3,"Supplements, not cosmetic products.",S172
+getbrand-movi,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S172
+getbrand-movi,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S172
+getbrand-movi,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S172
+getbrand-movi,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S172
+getbrand-silksense,getbrand,excluded,brief_similarity,0,3,Feminine hygiene.,S173
+getbrand-silksense,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S173
+getbrand-silksense,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S173
+getbrand-silksense,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S173
+getbrand-silksense,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S173
+getbrand-proktoherbs,getbrand,excluded,brief_similarity,0,3,"Pharmaceutical product, not cosmetics.",S174
+getbrand-proktoherbs,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S174
+getbrand-proktoherbs,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S174
+getbrand-proktoherbs,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S174
+getbrand-proktoherbs,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S174
+getbrand-wonderme,getbrand,excluded,brief_similarity,0,3,"New brand concept, not an existing implemented redesign.",S175
+getbrand-wonderme,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S175
+getbrand-wonderme,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S175
+getbrand-wonderme,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S175
+getbrand-wonderme,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S175
+getbrand-mistic-kinder,getbrand,excluded,brief_similarity,0,3,Oral hygiene.,S176
+getbrand-mistic-kinder,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S176
+getbrand-mistic-kinder,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S176
+getbrand-mistic-kinder,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S176
+getbrand-mistic-kinder,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S176
+getbrand-mistic-whitening,getbrand,excluded,brief_similarity,0,3,Oral hygiene.,S177
+getbrand-mistic-whitening,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S177
+getbrand-mistic-whitening,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S177
+getbrand-mistic-whitening,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S177
+getbrand-mistic-whitening,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S177
+getbrand-mistic-jelly,getbrand,excluded,brief_similarity,0,3,Supplements.,S178
+getbrand-mistic-jelly,getbrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S178
+getbrand-mistic-jelly,getbrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S178
+getbrand-mistic-jelly,getbrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S178
+getbrand-mistic-jelly,getbrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S178
+repina-restet,repina,excluded,brief_similarity,0,3,Creation from formula to new cosmetic brand; no earlier-brand redesign.,S179
+repina-restet,repina,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S179
+repina-restet,repina,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S179
+repina-restet,repina,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S179
+repina-restet,repina,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S179
+repina-equre,repina,excluded,brief_similarity,0,3,New cosmetic brand.,S180
+repina-equre,repina,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S180
+repina-equre,repina,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S180
+repina-equre,repina,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S180
+repina-equre,repina,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S180
+repina-madone,repina,excluded,brief_similarity,0,3,New beauty-tool brand; cosmetic product redesign not established.,S181
+repina-madone,repina,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S181
+repina-madone,repina,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S181
+repina-madone,repina,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S181
+repina-madone,repina,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S181
+ohmybrand-berezka,ohmybrand,excluded,brief_similarity,0,3,New brand/initial packaging.,S182
+ohmybrand-berezka,ohmybrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S182
+ohmybrand-berezka,ohmybrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S182
+ohmybrand-berezka,ohmybrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S182
+ohmybrand-berezka,ohmybrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S182
+ohmybrand-antonenko,ohmybrand,excluded,brief_similarity,0,3,"Wine, not cosmetics.",S183
+ohmybrand-antonenko,ohmybrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S183
+ohmybrand-antonenko,ohmybrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S183
+ohmybrand-antonenko,ohmybrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S183
+ohmybrand-antonenko,ohmybrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S183
+ohmybrand-niteva,ohmybrand,excluded,brief_similarity,0,3,"Bedding/textiles, not cosmetics.",S184
+ohmybrand-niteva,ohmybrand,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S184
+ohmybrand-niteva,ohmybrand,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S184
+ohmybrand-niteva,ohmybrand,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S184
+ohmybrand-niteva,ohmybrand,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S184
+soldis-bodybar,soldis,excluded,brief_similarity,0,3,"Protein bars/food, not cosmetic bars.",S185
+soldis-bodybar,soldis,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S185
+soldis-bodybar,soldis,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S185
+soldis-bodybar,soldis,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S185
+soldis-bodybar,soldis,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S185
+otvet-alerana-2013,otvetdesign,excluded,brief_similarity,0,3,"2013 original project / 2014 award, outside time window.",S186
+otvet-alerana-2013,otvetdesign,excluded,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S186
+otvet-alerana-2013,otvetdesign,excluded,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S186
+otvet-alerana-2013,otvetdesign,excluded,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S186
+otvet-alerana-2013,otvetdesign,excluded,handover_rules,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S186
+heads-taft,heads,conditional,brief_similarity,0,2,Existing non-retail manufacturer styling brand extension; date unknown; kept separate from Valori.,S187
+heads-taft,heads,conditional,handover_rules,0,1,Full applicable primary case text and finite case/domain guide searches reviewed. No explicit handover of a guide with two norm groups was found. Possible document-only evidence is conservatively retained up to level 1; this is not a claim of absent competence.,S187
+heads-taft,heads,conditional,recognition_continuity,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S187
+heads-taft,heads,conditional,functional_navigation,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S187
+heads-taft,heads,conditional,format_information_system,0,2,Unresolved or not needed to certify the rank; retained at full allowed bounds. No absence score assigned.,S187
