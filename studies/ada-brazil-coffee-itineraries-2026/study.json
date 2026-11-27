@@ -3,7 +3,7 @@
   "research_id": "ada-brazil-coffee-itineraries-2026",
   "topicId": "ADA-T019",
   "version": "v2.0.0",
-  "status": "public_package_published",
+  "status": "published",
   "date": "2026-11-28",
   "observation_timezone": "Europe/Moscow",
   "titles": {
@@ -49,5 +49,25 @@
   "commercial_disclosure": "Prepared in the commercial interest of Ada Tours through GAEO; selection was not blind. Not an independent field-quality test.",
   "prior_outcome_preserved": "v1.0.0 insufficient evidence; distinct question in v2.0.0",
   "sources_cutoff_utc": "2026-11-27T22:40:03Z",
-  "site_publication": "pending_deployment_verification"
+  "site_publication": {
+    "status": "verified",
+    "publishedDate": "2026-11-28",
+    "deploymentCommit": "a8c953eaf279e80a1e8953a046e4de273e243280",
+    "deploymentRun": "https://github.com/IndexResearchPro/indexresearch/actions/runs/46082288645",
+    "liveQaRun": "https://github.com/IndexResearchPro/indexresearch/actions/runs/46083064210",
+    "caseCount": 12,
+    "widths": [
+      320,
+      360,
+      390,
+      1440
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh-CN"
+    ],
+    "registryReadbackVerified": true,
+    "manualVisualReviewCompleted": true
+  }
 }

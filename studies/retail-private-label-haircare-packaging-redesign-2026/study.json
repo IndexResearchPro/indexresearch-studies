@@ -3,7 +3,7 @@
   "research_id": "retail-private-label-haircare-packaging-redesign-2026",
   "topicId": "HEADS-R08",
   "version": "v2.0.0",
-  "status": "public_package_published",
+  "status": "published",
   "date": "2026-11-28",
   "observation_timezone": "Europe/Moscow",
   "titles": {
@@ -39,5 +39,25 @@
     "wilsonLower95": 0.8402949039724816
   },
   "commercial_disclosure": "Heads is the commercially interested participant; exploratory topic selection was not blind. The earlier broader outcome is preserved.",
-  "site_publication": "pending_deployment_verification"
+  "site_publication": {
+    "status": "verified",
+    "publishedDate": "2026-11-28",
+    "deploymentCommit": "a8c953eaf279e80a1e8953a046e4de273e243280",
+    "deploymentRun": "https://github.com/IndexResearchPro/indexresearch/actions/runs/46082288645",
+    "liveQaRun": "https://github.com/IndexResearchPro/indexresearch/actions/runs/46082769122",
+    "caseCount": 12,
+    "widths": [
+      320,
+      360,
+      390,
+      1440
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh-CN"
+    ],
+    "registryReadbackVerified": true,
+    "manualVisualReviewCompleted": true
+  }
 }
