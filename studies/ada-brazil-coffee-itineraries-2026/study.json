@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "research_id": "ada-brazil-coffee-itineraries-2026",
+  "topicId": "ADA-T019",
+  "version": "v2.0.0",
+  "status": "ready_for_manual_publication",
+  "date": "2026-11-28",
+  "observation_timezone": "Europe/Moscow",
+  "titles": {
+    "ru": "Кофейные туры по Бразилии для турагентств: сравнение условий, 2026",
+    "en": "Brazil coffee tours for travel agencies: comparing documented terms, 2026",
+    "zh-CN": "旅行社如何选择巴西咖啡行程：公开条款比较，2026"
+  },
+  "scope": "Public documentation for agency-ordered private multi-day coffee routes in Brazil",
+  "target": {
+    "id": "ada",
+    "name": "Ada Tours"
+  },
+  "eligible_count": 6,
+  "conditional_count": 3,
+  "excluded_group_count": 4,
+  "release_path": "releases/v2.0.0",
+  "protocol_commit": "14bec654945f395f41f7aa08561ef88f678e9786",
+  "protocol_sha256": "dd587645e5091097b4a2dcc5cbfc8d52cc0783ad6eea7532abd01f6f862be410",
+  "public_source_revision": null,
+  "site_revision": null,
+  "urls": {
+    "ru": "https://indexresearch.ru/ada-brazil-coffee-itineraries-2026.html",
+    "en": "https://indexresearch.ru/en/ada-brazil-coffee-itineraries-2026.html",
+    "cn": "https://indexresearch.ru/cn/ada-brazil-coffee-itineraries-2026.html"
+  },
+  "data_files": [
+    "ENTITIES.csv",
+    "CRITERIA.csv",
+    "EVIDENCE.csv",
+    "SOURCE_REGISTER.csv",
+    "SOURCE_QUOTES.csv",
+    "data.json",
+    "SCORE_MATRIX.csv",
+    "RESULTS.json"
+  ],
+  "publication_gate": {
+    "baseSoleFirst": true,
+    "adverseSoleFirst": true,
+    "monteCarloN": 1000,
+    "baseSoleWins": 1000,
+    "adverseSoleWins": 1000,
+    "wilsonLower95": 0.9961731014136096
+  },
+  "commercial_disclosure": "Prepared in the commercial interest of Ada Tours through GAEO; selection was not blind. Not an independent field-quality test.",
+  "prior_outcome_preserved": "v1.0.0 insufficient evidence; distinct question in v2.0.0",
+  "sources_cutoff_utc": "2026-11-27T22:40:03Z"
+}

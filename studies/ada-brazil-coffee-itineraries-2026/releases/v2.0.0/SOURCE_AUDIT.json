@@ -1,0 +1,32 @@
+{
+  "scope": "Completion of frozen v2 evidence collection; no altered criteria, weights, candidate deletion or old result rewrite",
+  "previousV1Outcome": "INSUFFICIENT_EVIDENCE; farm-count comparison did not substantiate sole first place",
+  "previousV1Protocol": "https://github.com/IndexResearchPro/indexresearch/blob/ea6e817a1eb39112c1a361aade87a31b61d1085b/research-work/ada-brazil-coffee-itineraries-2026/v1.0.0/PROTOCOL.md",
+  "originalV2PartialMatrix": "Three entities, 75 cells, 23 documented / 52 unknown; preserved privately",
+  "newEvidence": [
+    "Read current PAKS contracts via direct official PDF retrieval; OCR and visual checks replace earlier web-reader failure.",
+    "Read current Corona agency DOCX rather than old consumer terms or unrelated foreign-payment page.",
+    "Read StarTour linked agency DOCX; retained uncertainty where 2020 template/company RTO differs from current header RTO.",
+    "Read Ivolga linked contract but retained unknown due mismatch with current legal-entity name.",
+    "Read OneTouch base contract and both linked amendments; preserve own-logo voucher permission and do not infer a guaranteed coffee-tour commission.",
+    "Reviewed seven Capricorn catalogue pages and 61 product URLs; identified two group coffee itineraries instead of relying on attraction page.",
+    "Retained Aim, ITS and OneTouch as conditional candidates in the adverse test."
+  ],
+  "interpretationRules": [
+    "A fully reviewed public absence is a documentary zero only.",
+    "Personalised/account-only or ambiguous applicable conditions stay null.",
+    "A group coordinator is not transferred to every FIT booking.",
+    "A seller is not labelled a Brazilian operator without named evidence.",
+    "Private excursions do not automatically establish a wholly private itinerary.",
+    "No testing bookings, messages, payments or accounts; no TinyFish."
+  ],
+  "knownLimits": [
+    "No mystery shopping, trips or delivered-service audit.",
+    "No market-completeness claim.",
+    "Quotes, availability, hours and contacts must be agreed for each booking.",
+    "Top position is tested against all conditional candidates upper bounds; lower-order positions are not certified as strict order."
+  ],
+  "sourceInventoryCount": 159,
+  "evidenceCellCount": 225,
+  "sourcesCutoffUTC": "2026-11-27T22:40:03Z"
+}

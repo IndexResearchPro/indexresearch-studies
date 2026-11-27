@@ -1,0 +1,232 @@
+{
+  "resultSource": "../releases/v2.0.0/RESULTS.json",
+  "inputDataSha256": "85523be29a7baeb6fe2a66158cc7dea87d2b6bd6f14317433ff2eed6c4ead88b",
+  "rows": [
+    {
+      "entityId": "ada",
+      "name": "Ada Tours / BrasilTours",
+      "baseRank": 1,
+      "baseScore": 100.0,
+      "upperScore": 100.0,
+      "criterionLower": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "low": 100.0,
+      "high": 100.0,
+      "conditional": false
+    },
+    {
+      "entityId": "corona",
+      "name": "Corona Travel",
+      "baseRank": 2,
+      "baseScore": 52.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        5,
+        2,
+        5,
+        1,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ],
+      "low": 52.0,
+      "high": 88.0,
+      "conditional": false
+    },
+    {
+      "entityId": "paks",
+      "name": "PAKS FIT",
+      "baseRank": 2,
+      "baseScore": 52.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        5,
+        2,
+        5,
+        1,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ],
+      "low": 52.0,
+      "high": 88.0,
+      "conditional": false
+    },
+    {
+      "entityId": "carioca",
+      "name": "Carioca Travel",
+      "baseRank": 4,
+      "baseScore": 36.0,
+      "upperScore": 36.0,
+      "criterionLower": [
+        4,
+        1,
+        1,
+        1,
+        2
+      ],
+      "criterionUpper": [
+        4,
+        1,
+        1,
+        1,
+        2
+      ],
+      "low": 36.0,
+      "high": 36.0,
+      "conditional": false
+    },
+    {
+      "entityId": "star",
+      "name": "StarTour",
+      "baseRank": 5,
+      "baseScore": 28.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        5,
+        1,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ],
+      "low": 28.0,
+      "high": 88.0,
+      "conditional": false
+    },
+    {
+      "entityId": "ivolga",
+      "name": "Иволга",
+      "baseRank": 5,
+      "baseScore": 28.0,
+      "upperScore": 84.0,
+      "criterionLower": [
+        4,
+        2,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        4,
+        5,
+        5,
+        3,
+        4
+      ],
+      "low": 28.0,
+      "high": 84.0,
+      "conditional": false
+    },
+    {
+      "entityId": "aim",
+      "name": "Aim Travel",
+      "lowerScore": 28.0,
+      "upperScore": 96.0,
+      "criterionLower": [
+        5,
+        1,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        5,
+        4
+      ],
+      "low": 28.0,
+      "high": 96.0,
+      "conditional": true
+    },
+    {
+      "entityId": "its",
+      "name": "ИТС-Тур",
+      "lowerScore": 28.0,
+      "upperScore": 96.0,
+      "criterionLower": [
+        5,
+        1,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        5,
+        4
+      ],
+      "low": 28.0,
+      "high": 96.0,
+      "conditional": true
+    },
+    {
+      "entityId": "onetouch",
+      "name": "OneTouch & Travel",
+      "lowerScore": 48.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        3,
+        2,
+        5,
+        2,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ],
+      "low": 48.0,
+      "high": 88.0,
+      "conditional": true
+    }
+  ],
+  "monteCarlo": {
+    "N": 1000,
+    "seed": 637558258,
+    "algorithm": "Python random.Random; independent Uniform(0.70,1.30), normalize to 100; fixed evidence matrix",
+    "baseSoleWins": 1000,
+    "adverseSoleWins": 1000,
+    "baseWilsonLower95": 0.9961731014136096,
+    "adverseWilsonLower95": 0.9961731014136096,
+    "smallestAdverseGapObserved": 2.717435064366967
+  },
+  "trialCount": 1000,
+  "allTrialsFile": "monte-carlo-margins.csv",
+  "note": "Figures show computed documentation bounds and weight sensitivity; no service-quality probabilities."
+}

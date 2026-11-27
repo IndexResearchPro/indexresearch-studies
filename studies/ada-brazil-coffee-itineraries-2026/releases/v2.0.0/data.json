@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "topicId": "ADA-T019",
+  "researchId": "ada-brazil-coffee-itineraries-2026",
+  "protocolVersion": "v2.0.0",
+  "observationDateMoscow": "2026-11-28",
+  "observedAtUTC": "2026-11-27T22:40:03Z",
+  "protocolCommit": "14bec654945f395f41f7aa08561ef88f678e9786",
+  "protocolSha256": "dd587645e5091097b4a2dcc5cbfc8d52cc0783ad6eea7532abd01f6f862be410",
+  "scope": "Public documentation in the frozen agency-buying scenario; not quality or market-wide superiority",
+  "targetId": "ada",
+  "criteria": [
+    {
+      "id": "coffee_product_specification",
+      "weight": 20
+    },
+    {
+      "id": "customization_before_booking",
+      "weight": 20
+    },
+    {
+      "id": "commercial_confirmation",
+      "weight": 20
+    },
+    {
+      "id": "agency_brand_and_client",
+      "weight": 20
+    },
+    {
+      "id": "local_coordination",
+      "weight": 20
+    }
+  ],
+  "entities": [
+    {
+      "id": "ada",
+      "name": "Ada Tours / BrasilTours",
+      "eligibility": "eligible",
+      "features": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "carioca",
+      "name": "Carioca Travel",
+      "eligibility": "eligible",
+      "features": [
+        [
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "paks",
+      "name": "PAKS FIT",
+      "eligibility": "eligible",
+      "features": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          null,
+          null,
+          1,
+          null
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          null,
+          0,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "id": "corona",
+      "name": "Corona Travel",
+      "eligibility": "eligible",
+      "features": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          null,
+          null,
+          1,
+          null
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          null,
+          0,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "id": "star",
+      "name": "StarTour",
+      "eligibility": "eligible",
+      "features": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          1,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          0,
+          null,
+          0,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ivolga",
+      "name": "Иволга",
+      "eligibility": "eligible",
+      "features": [
+        [
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          null,
+          null,
+          1,
+          null
+        ],
+        [
+          null,
+          1,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          0,
+          null,
+          0,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "id": "aim",
+      "name": "Aim Travel",
+      "eligibility": "conditional",
+      "features": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          null,
+          null,
+          null,
+          1,
+          null
+        ],
+        [
+          null,
+          1,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "id": "its",
+      "name": "ИТС-Тур",
+      "eligibility": "conditional",
+      "features": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          null,
+          null,
+          null,
+          1,
+          null
+        ],
+        [
+          null,
+          1,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "id": "onetouch",
+      "name": "OneTouch & Travel",
+      "eligibility": "conditional",
+      "features": [
+        [
+          null,
+          null,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          null,
+          null,
+          1,
+          null
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          null
+        ],
+        [
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "unknown": null,
+  "closedCorpus": "Exact offers, directly linked agency/contract/payment/help pages, company/contact pages, finite catalogue and targeted domain searches. Login-only/personalised specifics remain null; absence in completed public source classes is a documentary zero."
+}

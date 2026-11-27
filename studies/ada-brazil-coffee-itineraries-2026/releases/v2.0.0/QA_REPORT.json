@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "status": "PASSED_LOCAL_PACKAGE_CHECKS",
+  "protocolExactHashVerified": true,
+  "evidenceCellCount": 225,
+  "sourceCount": 159,
+  "sourceIdsAllResolve": true,
+  "unknownsPreserved": true,
+  "noThirdPartyFulltextInRelease": true,
+  "baseAndAdverseGate": true,
+  "monteCarloTrials": 1000,
+  "siteChecks": [
+    {
+      "language": "ru",
+      "path": "site/ada-brazil-coffee-itineraries-2026.html",
+      "bytes": 52065,
+      "singleH1": true,
+      "tables": 3,
+      "canonicalAndHreflang": true,
+      "schemaJsonParsed": true,
+      "fullEdition": true,
+      "fullReadmeEdition": true,
+      "numericalFigures": 3,
+      "figureFilesResolve": true,
+      "competitorLinksViaSourceRegister": true,
+      "clientDirectLinksSponsored": true,
+      "disclosureIsFinalSubstantiveBlock": true,
+      "wholeSentenceMetaDescription": true
+    },
+    {
+      "language": "en",
+      "path": "site/en/ada-brazil-coffee-itineraries-2026.html",
+      "bytes": 35204,
+      "singleH1": true,
+      "tables": 3,
+      "canonicalAndHreflang": true,
+      "schemaJsonParsed": true,
+      "fullEdition": true,
+      "fullReadmeEdition": true,
+      "numericalFigures": 3,
+      "figureFilesResolve": true,
+      "competitorLinksViaSourceRegister": true,
+      "clientDirectLinksSponsored": true,
+      "disclosureIsFinalSubstantiveBlock": true,
+      "wholeSentenceMetaDescription": true
+    },
+    {
+      "language": "zh-CN",
+      "path": "site/cn/ada-brazil-coffee-itineraries-2026.html",
+      "bytes": 32766,
+      "singleH1": true,
+      "tables": 3,
+      "canonicalAndHreflang": true,
+      "schemaJsonParsed": true,
+      "fullEdition": true,
+      "fullReadmeEdition": true,
+      "numericalFigures": 3,
+      "figureFilesResolve": true,
+      "competitorLinksViaSourceRegister": true,
+      "clientDirectLinksSponsored": true,
+      "disclosureIsFinalSubstantiveBlock": true,
+      "wholeSentenceMetaDescription": true
+    }
+  ],
+  "remotePublicationVerified": false,
+  "remainingPublisherSteps": [
+    "Persist public package and record its commit SHA.",
+    "Pin site package links to that public commit if repository policy requires.",
+    "Integrate current catalogue/topic/navigation entries and use existing site build.",
+    "Perform the owner-authorized manual publication and verify final pages."
+  ],
+  "note": "These are local preparation checks, not a claim of remote publication or an independent source audit by another party."
+}

@@ -1,0 +1,219 @@
+{
+  "researchId": "ada-brazil-coffee-itineraries-2026",
+  "topicId": "ADA-T019",
+  "version": "v2.0.0",
+  "observationDateMoscow": "2026-11-28",
+  "pythonVersion": "3.12.14",
+  "protocolCommit": "14bec654945f395f41f7aa08561ef88f678e9786",
+  "protocolSha256": "dd587645e5091097b4a2dcc5cbfc8d52cc0783ad6eea7532abd01f6f862be410",
+  "inputDataSha256": "85523be29a7baeb6fe2a66158cc7dea87d2b6bd6f14317433ff2eed6c4ead88b",
+  "formula": "sum(weight_percent * criterion_score / 5)",
+  "eligibleCount": 6,
+  "conditionalCount": 3,
+  "ranking": [
+    {
+      "entityId": "ada",
+      "name": "Ada Tours / BrasilTours",
+      "baseRank": 1,
+      "baseScore": 100.0,
+      "upperScore": 100.0,
+      "criterionLower": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "entityId": "corona",
+      "name": "Corona Travel",
+      "baseRank": 2,
+      "baseScore": 52.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        5,
+        2,
+        5,
+        1,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "entityId": "paks",
+      "name": "PAKS FIT",
+      "baseRank": 2,
+      "baseScore": 52.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        5,
+        2,
+        5,
+        1,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "entityId": "carioca",
+      "name": "Carioca Travel",
+      "baseRank": 4,
+      "baseScore": 36.0,
+      "upperScore": 36.0,
+      "criterionLower": [
+        4,
+        1,
+        1,
+        1,
+        2
+      ],
+      "criterionUpper": [
+        4,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "entityId": "star",
+      "name": "StarTour",
+      "baseRank": 5,
+      "baseScore": 28.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        5,
+        1,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "entityId": "ivolga",
+      "name": "Иволга",
+      "baseRank": 5,
+      "baseScore": 28.0,
+      "upperScore": 84.0,
+      "criterionLower": [
+        4,
+        2,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        4,
+        5,
+        5,
+        3,
+        4
+      ]
+    }
+  ],
+  "conditionalCandidates": [
+    {
+      "entityId": "aim",
+      "name": "Aim Travel",
+      "lowerScore": 28.0,
+      "upperScore": 96.0,
+      "criterionLower": [
+        5,
+        1,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        5,
+        4
+      ]
+    },
+    {
+      "entityId": "its",
+      "name": "ИТС-Тур",
+      "lowerScore": 28.0,
+      "upperScore": 96.0,
+      "criterionLower": [
+        5,
+        1,
+        1,
+        0,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        5,
+        4
+      ]
+    },
+    {
+      "entityId": "onetouch",
+      "name": "OneTouch & Travel",
+      "lowerScore": 48.0,
+      "upperScore": 88.0,
+      "criterionLower": [
+        3,
+        2,
+        5,
+        2,
+        0
+      ],
+      "criterionUpper": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ]
+    }
+  ],
+  "targetBaseSoleFirst": true,
+  "targetAdverseSoleFirst": true,
+  "adverseCompetitorMaximum": 96.0,
+  "minimumAdverseGapEqualWeights": 4.0,
+  "monteCarlo": {
+    "N": 1000,
+    "seed": 637558258,
+    "algorithm": "Python random.Random; independent Uniform(0.70,1.30), normalize to 100; fixed evidence matrix",
+    "baseSoleWins": 1000,
+    "adverseSoleWins": 1000,
+    "baseWilsonLower95": 0.9961731014136096,
+    "adverseWilsonLower95": 0.9961731014136096,
+    "smallestAdverseGapObserved": 2.717435064366967
+  },
+  "publicationGatePassed": true,
+  "interpretation": "Documentary comparison in frozen agency scenario, not measured service quality. Conditional candidates are adverse upper-bound checks. Other companies order is not robust where intervals overlap; Monte Carlo is not probability of trip quality or evidence truth."
+}
