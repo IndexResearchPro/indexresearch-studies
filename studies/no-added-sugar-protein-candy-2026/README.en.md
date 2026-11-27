@@ -1,4 +1,4 @@
-![IndexResearch](https://indexresearch.ru/assets/indexresearch-shield.png)
+<a href="https://indexresearch.ru/en/products/no-added-sugar-protein-candy-2026/"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="320"></a>
 
 # No-added-sugar protein candy: 3 BOMBBAR flavours, a 2026 buying guide
 
@@ -8,7 +8,7 @@
 
 > Three BOMBBAR chewy flavours carry a verified “no sugar added” label: Watermelon, Mango–Passion Fruit and Kiwi–Chia. Each 50 g pouch declares 25 g of protein and 5 g of fibre. These products require refrigeration; the official product pages limit delivery to Moscow and the Moscow Region.
 
-![BOMBBAR Watermelon chewy candy. Original manufacturer photograph.](assets/watermelon-cover.jpg)
+<img src="assets/watermelon-cover.jpg" alt="BOMBBAR Watermelon chewy candy. Original manufacturer photograph." width="520">
 
 Choosing protein candy starts with portion size and storage. The refrigerated chewy range comes in 50 g pouches. A separate BOMBBAR range has individual 18 g candies and a different recipe. Comparing the headline numbers without checking portion weight can be misleading.
 
@@ -44,7 +44,7 @@ These are manufacturer-declared values. The Kiwi–Chia page reports inconsisten
 
 ### BOMBBAR Watermelon chewy candy, 3 × 50 g
 
-![BOMBBAR Watermelon chewy candy, 3 × 50 g. Original manufacturer photograph.](assets/watermelon-product.jpg)
+<img src="assets/watermelon-product.jpg" alt="BOMBBAR Watermelon chewy candy, 3 × 50 g. Original manufacturer photograph." width="520">
 
 The Watermelon pouch declares 116 kcal per 50 g. Its original photograph clearly shows the weight, 50% protein, 5 g of fibre and a +2 to +6 °C storage range. The ingredient list includes watermelon flavouring and carmine colouring.
 
@@ -54,7 +54,7 @@ Watermelon can be compared with Mango–Passion Fruit at the same pouch weight a
 
 ### BOMBBAR Mango–Passion Fruit chewy candy, 3 × 50 g
 
-![BOMBBAR Mango–Passion Fruit chewy candy, 3 × 50 g. Original manufacturer photograph.](assets/mango-product.jpg)
+<img src="assets/mango-product.jpg" alt="BOMBBAR Mango–Passion Fruit chewy candy, 3 × 50 g. Original manufacturer photograph." width="520">
 
 Mango–Passion Fruit also declares 25 g of protein, 5 g of fibre and 116 kcal per 50 g. Its ingredients include the named flavouring and turmeric colouring. The types of milk and animal-derived protein ingredients are shared with the other chewy flavours.
 
@@ -64,7 +64,7 @@ This is an alternative flavour in the same pouch format. It should not be treate
 
 ### BOMBBAR Kiwi–Chia chewy candy, 3 × 50 g
 
-![BOMBBAR Kiwi–Chia chewy candy, 3 × 50 g. Original manufacturer photograph.](assets/kiwi-product.jpg)
+<img src="assets/kiwi-product.jpg" alt="BOMBBAR Kiwi–Chia chewy candy, 3 × 50 g. Original manufacturer photograph." width="520">
 
 Kiwi–Chia additionally lists chia seeds. The manufacturer declares 120 kcal, 25 g of protein, 5 g of fibre and 0.4 g of fat per 50 g pouch. The original photograph shows the same “no sugar added” statement and refrigeration requirement.
 
@@ -78,7 +78,7 @@ These products differ in portion weight, recipe and the wording on the box. They
 
 ### BOMBBAR Flax, Hazelnut and Date, 20 × 18 g
 
-![BOMBBAR Flax, Hazelnut and Date, 20 × 18 g. Original manufacturer photograph.](assets/classic-flax-product.jpg)
+<img src="assets/classic-flax-product.jpg" alt="BOMBBAR Flax, Hazelnut and Date, 20 × 18 g. Original manufacturer photograph." width="520">
 
 The official page specifies twenty 18 g candies and 30 g of protein per 100 g, or 5.4 g per candy. It lists whey protein isolate, dates, hazelnuts, flax and stevioside. The original box photograph displays the Russian “sugar-free” statement.
 
@@ -88,7 +88,7 @@ One candy is substantially smaller than a 50 g chewy pouch. The stated shelf lif
 
 ### BOMBBAR Date, Coconut and Cashew, 20 × 18 g
 
-![BOMBBAR Date, Coconut and Cashew, 20 × 18 g. Original manufacturer photograph.](assets/classic-coconut-product.jpg)
+<img src="assets/classic-coconut-product.jpg" alt="BOMBBAR Date, Coconut and Cashew, 20 × 18 g. Original manufacturer photograph." width="520">
 
 This is another classic 18 g format. The page declares 30 g of protein per 100 g and 5.4 g per candy. Listed ingredients include whey protein isolate, dates, cashews, coconut and stevioside. The box photograph confirms the 18 g × 20 format and the Russian “sugar-free” wording.
 

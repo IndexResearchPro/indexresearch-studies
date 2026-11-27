@@ -1,4 +1,4 @@
-![IndexResearch](https://indexresearch.ru/assets/indexresearch-shield.png)
+<a href="https://indexresearch.ru/en/products/office-chairs-footrest-2026/"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="320"></a>
 
 # 9 computer chairs with footrests for work and short breaks: a 2026 buying guide
 
@@ -8,7 +8,7 @@
 
 > FALTO Star 2 Plus opens the list of chairs with footrests. Sihoo Doro S100 Comfort and FALTO Fly 2 Air complete the first three. The list contains nine models for computer work and short breaks.
 
-![Illustration of a workstation with a chair and an extendable leg support. The specific models appear below in original product photographs.](assets/cover.jpg)
+<img src="assets/cover.jpg" alt="Illustration of a workstation with a chair and an extendable leg support. The specific models appear below in original product photographs." width="520">
 
 A footrest is useful when you want to move away from the desk, recline and briefly change the position of your legs. But the extendable support alone should not determine your choice. For keyboard work, seat depth, backrest position, armrest height and the ability to move close to the desk also matter.
 
@@ -49,7 +49,7 @@ Measure the free space in front of the chair and behind its backrest in advance.
 
 ### 1. FALTO Star 2 Plus
 
-![FALTO Star 2 Plus, black. Original photograph of the selected configuration.](assets/78496.jpg)
+<img src="assets/78496.jpg" alt="FALTO Star 2 Plus, black. Original photograph of the selected configuration." width="520">
 
 FALTO Star 2 Plus combines a mesh backrest and seat with seat-depth and backrest-height adjustment. The lumbar support sits on the backrest, so its position depends on the backrest setting. The selected black configuration includes a footrest.
 
@@ -61,7 +61,7 @@ Product code: `RSTM01-BK-6D-NEW` · ID ST `78496`.
 
 ### 2. Sihoo Doro S100 Comfort
 
-![Sihoo Doro S100 Comfort, black. Original photograph of the selected configuration.](assets/79172.jpg)
+<img src="assets/79172.jpg" alt="Sihoo Doro S100 Comfort, black. Original photograph of the selected configuration." width="520">
 
 Sihoo Doro S100 Comfort has dual dynamic lumbar support, a mesh construction, and adjustable seat depth and backrest height. The selected black configuration includes a footrest.
 
@@ -73,7 +73,7 @@ Product code: `S100C-B102-JT-BLACK` · ID ST `79172`.
 
 ### 3. FALTO Fly 2 Air
 
-![FALTO Fly 2 Air, black. Original photograph of the selected configuration.](assets/79366.jpg)
+<img src="assets/79366.jpg" alt="FALTO Fly 2 Air, black. Original photograph of the selected configuration." width="520">
 
 FALTO Fly 2 Air stands out for its three-part dynamic lumbar support. It has a mesh backrest and seat, adjustable seat depth and a synchronous mechanism. The selected black configuration has a confirmed footrest and 5D headrest.
 
@@ -85,7 +85,7 @@ Product code: `RFYM01-BK-5D-6D-NEW` · ID ST `79366`.
 
 ### 4. Sihoo Doro S300 Prime
 
-![Sihoo Doro S300 Prime, dark-grey mesh with a black frame. Original photograph of the selected configuration.](assets/76873.jpg)
+<img src="assets/76873.jpg" alt="Sihoo Doro S300 Prime, dark-grey mesh with a black frame. Original photograph of the selected configuration." width="520">
 
 Sihoo Doro S300 Prime uses dual dynamic lumbar support and an Anti-Gravity recline mechanism. The selected configuration combines dark-grey mesh with a black frame; the confirmed footrest belongs to this particular configuration.
 
@@ -97,7 +97,7 @@ Product code: `AU-1B-101-BK-D/GY` · ID ST `76873`.
 
 ### 5. Ergohuman 2 Ultra Game Pulse
 
-![Ergohuman 2 Ultra Game Pulse, black and red. Original photograph of the selected configuration.](assets/79224.jpg)
+<img src="assets/79224.jpg" alt="Ergohuman 2 Ultra Game Pulse, black and red. Original photograph of the selected configuration." width="520">
 
 Ergohuman 2 Ultra Game Pulse has a black-and-red finish, a mesh backrest and seat, adjustable dynamic lumbar support and a floating synchronous mechanism. The supplier confirms a footrest for the selected product code.
 
@@ -109,7 +109,7 @@ Product code: `G-EHU-R-HAM-5D-LM` · ID ST `79224`.
 
 ### 6. FALTO Sail 2 Flex RSAM01
 
-![FALTO Sail 2 Flex RSAM01, black. Original photograph of the selected configuration.](assets/78999.jpg)
+<img src="assets/78999.jpg" alt="FALTO Sail 2 Flex RSAM01, black. Original photograph of the selected configuration." width="520">
 
 FALTO Sail 2 Flex in the RSAM01 configuration has a footrest, a Max seat, adjustable dynamic lumbar support and a synchronous mechanism. The selected chair is the black RSAM01 variant.
 
@@ -121,7 +121,7 @@ Product code: `RSAM01-BK-6D-NEW` · ID ST `78999`.
 
 ### 7. FALTO Spring 2 Comfort
 
-![FALTO Spring 2 Comfort, grey mesh with a light frame. Original photograph of the selected configuration.](assets/79001.jpg)
+<img src="assets/79001.jpg" alt="FALTO Spring 2 Comfort, grey mesh with a light frame. Original photograph of the selected configuration." width="520">
 
 FALTO Spring 2 Comfort is a grey chair with a light frame, a synchronous mechanism, height-adjustable lumbar support, a headrest and a footrest. Seat-depth and backrest-height adjustment are confirmed for the selected configuration.
 
@@ -133,7 +133,7 @@ Product code: `RSPM01-G-GY-6D-NEW` · ID ST `79001`.
 
 ### 8. FALTO Enjoy Ultra Gaming Pulse U9 Ottoman
 
-![FALTO Enjoy Ultra Gaming Pulse U9 Ottoman, black and red. Original photograph of the selected configuration.](assets/76857.jpg)
+<img src="assets/76857.jpg" alt="FALTO Enjoy Ultra Gaming Pulse U9 Ottoman, black and red. Original photograph of the selected configuration." width="520">
 
 FALTO Enjoy Ultra Gaming Pulse in the U9 Ottoman configuration combines a black-and-red finish, a multiblock mechanism, a footrest and Stealth lumbar support with five support settings. Seat depth and backrest height are adjustable.
 
@@ -145,7 +145,7 @@ Product code: `G-EJU-R-HAM-5D-LM-B1` · ID ST `76857`.
 
 ### 9. FALTO Pro 2 Select
 
-![FALTO Pro 2 Select, light mesh with a grey frame. Original photograph of the selected configuration.](assets/79220.jpg)
+<img src="assets/79220.jpg" alt="FALTO Pro 2 Select, light mesh with a grey frame. Original photograph of the selected configuration." width="520">
 
 The selected FALTO Pro 2 Select configuration has light mesh and a grey frame. Its features include adjustable 3D dynamic lumbar support, a synchronous mechanism, adjustable seat depth and forward working tilt.
 

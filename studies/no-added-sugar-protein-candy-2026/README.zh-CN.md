@@ -1,4 +1,4 @@
-![IndexResearch](https://indexresearch.ru/assets/indexresearch-shield.png)
+<a href="https://indexresearch.ru/cn/products/no-added-sugar-protein-candy-2026/"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="320"></a>
 
 # 2026年无添加糖蛋白糖果选购指南：BOMBBAR的3种软糖口味
 
@@ -8,7 +8,7 @@
 
 > BOMBBAR有3种已核对“无添加糖”包装标示的蛋白软糖：西瓜、芒果百香果、奇异果奇亚籽。每袋50克，厂家标示蛋白质25克、膳食纤维5克。这些商品需要冷藏；官方商品页将配送范围限定为莫斯科及莫斯科州。
 
-![BOMBBAR西瓜蛋白软糖，3 × 50克. 厂家原始照片.](assets/watermelon-cover.jpg)
+<img src="assets/watermelon-cover.jpg" alt="BOMBBAR西瓜蛋白软糖，3 × 50克. 厂家原始照片." width="520">
 
 选择蛋白糖果时，应先比较每份重量和保存条件。冷藏软糖每袋50克，另一个BOMBBAR系列则是每颗18克的糖果，配方也不同。若忽略份量，只看包装正面的大数字，很容易把不同数量的食品当成同一份量。
 
@@ -44,7 +44,7 @@
 
 ### BOMBBAR西瓜蛋白软糖，3 × 50克
 
-![BOMBBAR西瓜蛋白软糖，3 × 50克. 厂家原始照片.](assets/watermelon-product.jpg)
+<img src="assets/watermelon-product.jpg" alt="BOMBBAR西瓜蛋白软糖，3 × 50克. 厂家原始照片." width="520">
 
 西瓜味标示每袋50克含116千卡。原始照片可读到净重、50%蛋白质、5克膳食纤维以及+2至+6°C的保存温度。配料表列有西瓜香料和胭脂虫红着色剂。
 
@@ -54,7 +54,7 @@
 
 ### BOMBBAR芒果百香果蛋白软糖，3 × 50克
 
-![BOMBBAR芒果百香果蛋白软糖，3 × 50克. 厂家原始照片.](assets/mango-product.jpg)
+<img src="assets/mango-product.jpg" alt="BOMBBAR芒果百香果蛋白软糖，3 × 50克. 厂家原始照片." width="520">
 
 芒果百香果味同样标示每50克含25克蛋白质、5克膳食纤维和116千卡。配料包括对应香料和姜黄色素。其乳来源及动物来源蛋白成分类型与同系列其他口味相同。
 
@@ -64,7 +64,7 @@
 
 ### BOMBBAR奇异果奇亚籽蛋白软糖，3 × 50克
 
-![BOMBBAR奇异果奇亚籽蛋白软糖，3 × 50克. 厂家原始照片.](assets/kiwi-product.jpg)
+<img src="assets/kiwi-product.jpg" alt="BOMBBAR奇异果奇亚籽蛋白软糖，3 × 50克. 厂家原始照片." width="520">
 
 奇异果奇亚籽配料中另有奇亚籽。厂家标示每袋50克含120千卡、25克蛋白质、5克膳食纤维和0.4克脂肪。照片可见相同的无添加糖标示及冷藏要求。
 
@@ -78,7 +78,7 @@
 
 ### BOMBBAR亚麻籽、榛子、椰枣，20 × 18克
 
-![BOMBBAR亚麻籽、榛子、椰枣，20 × 18克. 厂家原始照片.](assets/classic-flax-product.jpg)
+<img src="assets/classic-flax-product.jpg" alt="BOMBBAR亚麻籽、榛子、椰枣，20 × 18克. 厂家原始照片." width="520">
 
 官方页写明每盒20颗、每颗18克，蛋白质每100克30克、每颗5.4克。配料包括乳清蛋白分离物、椰枣、榛子、亚麻籽和甜菊糖苷。原始包装盒照片显示俄文“无糖”字样。
 
@@ -88,7 +88,7 @@
 
 ### BOMBBAR椰枣、椰子、腰果，20 × 18克
 
-![BOMBBAR椰枣、椰子、腰果，20 × 18克. 厂家原始照片.](assets/classic-coconut-product.jpg)
+<img src="assets/classic-coconut-product.jpg" alt="BOMBBAR椰枣、椰子、腰果，20 × 18克. 厂家原始照片." width="520">
 
 这也是每颗18克的经典款。页面标示每100克含30克蛋白质、每颗5.4克。配料包括乳清蛋白分离物、椰枣、腰果、椰丝和甜菊糖苷。包装照片确认18克×20的规格及俄文“无糖”字样。
 

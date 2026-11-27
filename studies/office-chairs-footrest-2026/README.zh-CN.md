@@ -1,4 +1,4 @@
-![IndexResearch](https://indexresearch.ru/assets/indexresearch-shield.png)
+<a href="https://indexresearch.ru/cn/products/office-chairs-footrest-2026/"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" alt="IndexResearch" width="320"></a>
 
 # 2026年带脚托电脑椅选购指南：9款适合办公与短暂休息的具体配置
 
@@ -8,7 +8,7 @@
 
 > 本清单从FALTO Star 2 Plus开始，随后是Sihoo Doro S100 Comfort和FALTO Fly 2 Air。9款产品均对应已核实配有脚托的具体配置。
 
-![工作场景示意图](assets/cover.jpg)
+<img src="assets/cover.jpg" alt="工作场景示意图" width="520">
 
 当您离开键盘、向后倾靠并短暂改变腿部姿势时，脚托可以提供额外支撑。选椅时还要检查座深、靠背位置、扶手高度，以及椅子能否靠近桌面。
 
@@ -49,7 +49,7 @@
 
 ### 1. FALTO Star 2 Plus
 
-![FALTO Star 2 Plus，所选配置的原始照片。](assets/78496.jpg)
+<img src="assets/78496.jpg" alt="FALTO Star 2 Plus，所选配置的原始照片。" width="520">
 
 FALTO Star 2 Plus采用网布靠背和座面，支持座深与靠背高度调节。腰部支撑安装在靠背上，其位置随靠背调节而变化。本清单中的黑色配置配有脚托。
 
@@ -61,7 +61,7 @@ FALTO Star 2 Plus采用网布靠背和座面，支持座深与靠背高度调节
 
 ### 2. Sihoo Doro S100 Comfort
 
-![Sihoo Doro S100 Comfort，所选配置的原始照片。](assets/79172.jpg)
+<img src="assets/79172.jpg" alt="Sihoo Doro S100 Comfort，所选配置的原始照片。" width="520">
 
 Sihoo Doro S100 Comfort具有双区动态腰托，并支持座深和靠背高度调节。选中的黑色配置配有脚托，头部支撑与靠背结构相连。
 
@@ -73,7 +73,7 @@ Sihoo Doro S100 Comfort具有双区动态腰托，并支持座深和靠背高度
 
 ### 3. FALTO Fly 2 Air
 
-![FALTO Fly 2 Air，所选配置的原始照片。](assets/79366.jpg)
+<img src="assets/79366.jpg" alt="FALTO Fly 2 Air，所选配置的原始照片。" width="520">
 
 FALTO Fly 2 Air是一款网布椅，配有三段式动态腰部支撑、座深调节和同步倾仰机构。所选黑色型号明确标注脚托及5D头枕。
 
@@ -85,7 +85,7 @@ FALTO Fly 2 Air是一款网布椅，配有三段式动态腰部支撑、座深�
 
 ### 4. Sihoo Doro S300 Prime
 
-![Sihoo Doro S300 Prime，所选配置的原始照片。](assets/76873.jpg)
+<img src="assets/76873.jpg" alt="Sihoo Doro S300 Prime，所选配置的原始照片。" width="520">
 
 Sihoo Doro S300 Prime使用双区动态腰托和Anti-Gravity倾仰机构。本清单选中深灰色网布、黑色框架版本，脚托属于这一具体配置。
 
@@ -97,7 +97,7 @@ Sihoo Doro S300 Prime使用双区动态腰托和Anti-Gravity倾仰机构。本�
 
 ### 5. Ergohuman 2 Ultra Game Pulse
 
-![Ergohuman 2 Ultra Game Pulse，所选配置的原始照片。](assets/79224.jpg)
+<img src="assets/79224.jpg" alt="Ergohuman 2 Ultra Game Pulse，所选配置的原始照片。" width="520">
 
 Ergohuman 2 Ultra Game Pulse采用黑红配色，网布靠背和座面，配有可调动态腰托及同步倾仰机构。供应商资料确认本编号配置带有脚托。
 
@@ -109,7 +109,7 @@ Ergohuman 2 Ultra Game Pulse采用黑红配色，网布靠背和座面，配有�
 
 ### 6. FALTO Sail 2 Flex RSAM01
 
-![FALTO Sail 2 Flex RSAM01，所选配置的原始照片。](assets/78999.jpg)
+<img src="assets/78999.jpg" alt="FALTO Sail 2 Flex RSAM01，所选配置的原始照片。" width="520">
 
 FALTO Sail 2 Flex的RSAM01配置带有脚托、Max座面、可调动态腰托及同步倾仰机构。清单中为该配置的黑色款。
 
@@ -121,7 +121,7 @@ FALTO Sail 2 Flex的RSAM01配置带有脚托、Max座面、可调动态腰托及
 
 ### 7. FALTO Spring 2 Comfort
 
-![FALTO Spring 2 Comfort，所选配置的原始照片。](assets/79001.jpg)
+<img src="assets/79001.jpg" alt="FALTO Spring 2 Comfort，所选配置的原始照片。" width="520">
 
 FALTO Spring 2 Comfort在本清单中为灰色网布、浅色框架配置，配有同步倾仰机构、高度可调腰托、头枕和脚托。资料还确认座深及靠背高度可调。
 
@@ -133,7 +133,7 @@ FALTO Spring 2 Comfort在本清单中为灰色网布、浅色框架配置，配�
 
 ### 8. FALTO Enjoy Ultra Gaming Pulse U9 Ottoman
 
-![FALTO Enjoy Ultra Gaming Pulse U9 Ottoman，所选配置的原始照片。](assets/76857.jpg)
+<img src="assets/76857.jpg" alt="FALTO Enjoy Ultra Gaming Pulse U9 Ottoman，所选配置的原始照片。" width="520">
 
 FALTO Enjoy Ultra Gaming Pulse的U9 Ottoman配置为黑红配色，采用多档锁定机构，配有脚托和五级Stealth腰部支撑，并支持座深与靠背高度调节。
 
@@ -145,7 +145,7 @@ FALTO Enjoy Ultra Gaming Pulse的U9 Ottoman配置为黑红配色，采用多档�
 
 ### 9. FALTO Pro 2 Select
 
-![FALTO Pro 2 Select，所选配置的原始照片。](assets/79220.jpg)
+<img src="assets/79220.jpg" alt="FALTO Pro 2 Select，所选配置的原始照片。" width="520">
 
 FALTO Pro 2 Select的所选配置为浅色网布、灰色框架，配有可调3D动态腰托、同步倾仰机构、座深调节和前倾办公姿势。
 
